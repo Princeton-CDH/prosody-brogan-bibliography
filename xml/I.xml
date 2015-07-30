@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+    <chapter title="THE POEM IN PERFORMANCE">
+
+        <item id="I1">
+            <bib> Ayer, James R. "Dylan Thomas in the Aural Dimension." Computer Studies in the
+                Humanities and Verbal Behavior 1 (1968): 6–9.</bib>
+            <notes> Ayer suggests that Thomas's style changed significantly after 1938, the year he
+                began his readings over the BBC. </notes>
+        </item>
+        <item id="I2">
+            <bib> Baker, George P. "Rhythm in Recent Dramatic Dialogue." Yale Review n.s. 19 (1929):
+                116–33.</bib>
+            <notes> Especially Yeats's. </notes>
+        </item>
+        <item id="I3">
+            <bib> Barnhill, Viron L. "Poetic Context in the Collected Poems (1909–1935) of T. S.
+                Eliot: A Linguistic Investigation of Poetic Context." DA 21 (1960): 2284A
+                (Michigan).</bib>
+            <notes> Uses the distribution-analysis methods of Charles C. Fries. Chapters on "The
+                Elements of Phonological Context," "The Role of the Suprasegmental Pho- nemes in
+                Phonological Context," "The Role of the Segmental Phonemes and Voice Qualifiers in
+                Phonological Context," and "The Special Effects of Unus- ual Syntax." Takes the
+                written form of the poem as secondary to the oral form, and insists that
+                interpretation must rest on the possibilities allowed by the phonological facts. The
+                emphasis throughout is on theory and methodology, not on Eliot. </notes>
+        </item>
+        <item id="I4">
+            <bib> Berleant, Arnold. "The Verbal Presence: An Aesthetic of Literary Performance."
+                JAAC 31 (1973): 339–46.</bib>
+            <notes> </notes>
+        </item>
+        <item id="I5">
+            <bib> Bessinger, J. B. "The Oral Text of Ezra Pound's 'The Seafarer.'" Quarterly Journal
+                of Speech 47 (1961): 173–77.</bib>
+            <notes> </notes>
+        </item>
+        <item id="I6">
+            <bib> Birkinshaw, P. C. "Speaking Shelley's Ode to the West Wind." English Studies in
+                Africa 2 (1959): 179–89.</bib>
+            <notes> The best performances are based on extensive preparations which examine, in
+                depth, speaker, medium, listener, situation, and subject, all of which are ex-
+                amined here for Shelley. Shelley, by the way, had a voice that Hogg said was
+                "excruciating"; it "excoriated the ears." </notes>
+        </item>
+        <item id="I7">
+            <bib> Boas, Guy. "The Speaking of Shakespeare's Verse." Essays and Studies n.s. 17
+                (1964): 78–87.</bib>
+            <notes> Begins on p. 82. </notes>
+        </item>
+        <item id="I8">
+            <bib> Breen, Robert S. "Symbolic Action in the Oral Interpretation of Robinson Jeffers'
+                'Roan Stallion.'" Diss., Northwestern University, 1951.</bib>
+            <notes> </notes>
+        </item>
+        <item id="I9">
+            <bib> Burklund, Carl E. "On the Oral Reading of Poetry." Quarterly Journal of Speech 31
+                (1945): 344–50.</bib>
+            <notes> Identifies two faults ("sing-song" and "matter-of-fact" voicing) and four neces-
+                sities (poetry should be read (1) qua poetry, (2) with honesty, (3) with aesthetic
+                distance, and (4) so as to give a unified impression) of performance. </notes>
+        </item>
+        <item id="I10">
+            <bib> Burniston, Christabel. "The Rendering of English Verse." In Poetic Technique.
+                Altrincham: John Sherratt &amp; Son, 1949; pp. 121–84.</bib>
+            <notes> Observations on oral performance based on the scansion-system of O. C. de C.
+                Ellis (E349). Noteworthy sections here on Rhythm, Sprung Rhythm, Use of Pause, and
+                Cadence. </notes>
+        </item>
+        <item id="I11">
+            <bib> Cannon, Garland. "Linguistics and the Performance of Poetry." College Composition
+                and Communication 16 (1965): 20–26.</bib>
+            <notes> A ranging review of the work of structural and transformational linguists
+                (Trager &amp; Smith, Chomsky, et al.) on poetry with reference to the implica- tions
+                for oral performance. Cannon, disappointed at the impact of the former school on
+                American criticism in general, notes three shortcomings of the Structural treatment
+                of poetry: (1) fragments rather than whole texts are taped and analyzed; (2)
+                intentional ambiguities in the poem-in-print must be re- solved in performance; and
+                (3) no one reading of a poem can supersede all the rest as authoritative or perfect.
+                Still, he encourages familiarity with transcrip- tion and a linguistic understanding
+                of poetic grammar. </notes>
+        </item>
+        <item id="I12">
+            <bib> Chatman, Seymour. "Linguistic Analysis: A Study of James Mason's Interpretation of
+                'The Bishop Orders His Tomb.'" The Oral Study of Literature. Ed. Thomas O. Sloan.
+                New York: Random House, 1966. pp. 94–133.</bib>
+            <notes> Simple elucidation of the semantics of intonation, followed by a line-by-line
+                commentary on the recording of the poem. </notes>
+        </item>
+        <item id="I13">
+            <bib> -----. "Linguistic Style, Literary Style, and Performance: Some Distinctions."
+                Monograph Series on Languages and Linguistics 13 (1962): 73–81.</bib>
+            <notes> As a companion to his comparative anatomy of metrical styles (E709), Chat- man
+                offers here a tentative schematization of the kinds of information con- veyed in
+                performance, using Beardsley's categories of General, Emotive, and Cognitive Import,
+                with application to The Waste Land. </notes>
+        </item>
+        <item id="I14">
+            <bib> Church, Richard. "The English Poets from Chaucer to Yeats." Review of English
+                Literature 6 (1965): 100–6.</bib>
+            <notes> Deploring the "diminishing contact" between poet and audience since the ad- vent
+                of the printing press, Church applauds a recent series of recordings of English
+                poetry on phonograph records, and he examines specially the records first released
+                (on the Romantics) and the quality of the performances. </notes>
+        </item>
+        <item id="I15">
+            <bib> Clinton-Baddeley, V. C. "The Written and the Spoken Word." Essays and Studies n.s.
+                18 (1965): 73–82.</bib>
+            <notes> A retrospective on the history of recorded poetry, with special emphasis on the
+                extensive editing and splicing by sound engineers in search of the perfect per-
+                formance. Sample observation: "All Yeats's poetry demands that the reader should
+                acknowledge the line endings." </notes>
+        </item>
+        <item id="I16">
+            <bib> Colson, Ted D. "An Analysis of Selected Poems of Gerard Manley Hopkins for Oral
+                Interpretation and a Study of His Poetic Theories." DAI 24 (1964): 5604A
+                (Oklahoma).</bib>
+            <notes> </notes>
+        </item>
+        <item id="I17">
+            <bib> Corman, Cid. "The Structure of Poetic Rhythms in relation to an oral poetry." In
+                his Word for Word: Essays on the Arts of Language. Santa Barbara: Black Sparrow
+                Press, 1977. Vol. 1, pp. 65–76.</bib>
+            <notes> The entire section of eight essays on "Oral Poetry" is important; Corman dis-
+                cusses the rhythms and meters of oral compositions, taking the "breath-unit" as the
+                crucial element, each breath-unit being composed of various feet. "It is ac- cent
+                that creates the basic rhythm and quantity (timing and sound-values) that creates
+                the melodic line; but both must cohere in a true poem. Accent is the dance; quantity
+                is the song." </notes>
+        </item>
+        <item id="I18">
+            <bib> Cunningham, Cornelius C. "The Rhythm of Robinson Jeffers' Poetry as Revealed by
+                Oral Reading." Quarterly Journal of Speech 32 (1946): 351-57.</bib>
+            <notes> On the premise that the rhythm (meter) can only be determined correctly by
+                marking the stresses heard in an oral interpretation, the author collected thirty
+                such transcriptions of three poems, concluding from them (in spite of himself) that
+                Jeffers' metric is not stress verse or free verse but "iambic-anapestic duple
+                meter." </notes>
+        </item>
+        <item id="I19">
+            <bib> Dickinson, Patric. "The Spoken Word." Encounter 34 (1970): 54–62.</bib>
+            <notes> </notes>
+        </item>
+        <item id="I20">
+            <bib> Finnegan, Ruth. Oral Poetry: Its Nature, Significance, and Social Context.
+                Cambridge: Cambridge University Press, 1977.</bib>
+            <notes> Finnegan is the single most valuable source available on the social manifesta-
+                tions of performed poetry. And though the scope of the book--its forte--is immense,
+                providing for the first time a genuinely global perspective on the subject,
+                nevertheless her judgment on each of the various specific problems in the theory is
+                remarkably well-informed. See section 4.2 on "Prosodic Sys- tems," pp. 90–102, for
+                examples of the wide variety of metrical and sonal pat- terns in the world's
+                poetries. Also section 4.3 on structural repetition, 4.4 on diction, and 4.5 on
+                performance. </notes>
+        </item>
+        <item id="I21">
+            <bib> Fleischmann, Wolfgang B. "Poetry Reading." Princeton (A18), pp. 967–70.</bib>
+            <notes> See also s.v. "Oral Poetry." </notes>
+        </item>
+        <item id="I22">
+            <bib> Fogerty, Elsie. The Speaking of English Verse. London and Toronto, J. M. Dent; New
+                York: E. P. Dutton, 1923; 4th ed. rev. and enlarged, 1937.</bib>
+            <notes> Based on a musical theory of meter. </notes>
+        </item>
+        <item id="I23">
+            <bib> Forrest, William C. "The Poem as a Summons to Performance." British Journal of
+                Aesthetics 9 (1969): 298–305.</bib>
+            <notes> Critical of the Ingarden-Wellek "objectivist" view of the poem as linguistic
+                object, as a mere "set of linguistic norms," Forrest counters with a defense of the
+                priority of performance both in poetic composition and in critical inter- pretation,
+                developing brilliantly a concept of "homorganic alliteration" and also an analogy of
+                fetal development in utero to the poem prior to performance. </notes>
+        </item>
+        <item id="I24">
+            <bib> Fulsom, Ralph E. "An Investigation of the Structural Aspects of Free Verse as They
+                Affect the Oral Reader." DA 17 (1957): 3120A (Northwestern).</bib>
+            <notes> </notes>
+        </item>
+        <item id="I25">
+            <bib> Goldstein, Bernard J. "The Comprehension of Poetry from Recordings." DA 12 (1952):
+                434 (Columbia).</bib>
+            <notes> An experiment to gauge the comprehension of oral against written modes of poems,
+                with skilled and unskilled oral interpreters. Conclusion: comprehen- sion was
+                greatest when subjects had a written text of the poem before them while it was being
+                read aloud at the same time. </notes>
+        </item>
+        <item id="I26">
+            <bib> Goring, Marius. "The Sound of Poetry." Essays by Divers Hands (Transactions of the
+                Royal Society of Literature) n.s. 39 (1977): 1–23.</bib>
+            <notes> A nostalgic lecture on the virtues of poetry heard in the ear: the many long
+                examples suggest that the speaker was conveying his message performatively rather
+                than discursively. </notes>
+        </item>
+        <item id="I27">
+            <bib> Haas, Charles E. "A Structural Analysis of Selected Sonnets of Gerard Manley
+                Hopkins." DA 25 (1965): 5443A (Denver).</bib>
+            <notes> Seven sonnets are analyzed for oral interpretation, recorded, then transcribed,
+                noting stress, pitch, and juncture via the Trager-Smith system. </notes>
+        </item>
+        <item id="I28">
+            <bib> Hein, Hilde. "Performance as an Aesthetic Category." JAAC 28 (1970): 381–86.</bib>
+            <notes> It is interesting to contemplate its denigration as a primary category through-
+                out the history of Western aesthetics, particularly since performance entails
+                interpretation in music, poetry, drama, and dance, and perhaps also in paint- ing,
+                scupture, and film. </notes>
+        </item>
+        <item id="I29">
+            <bib> Hillyer, Robert. "On Reading Verse Aloud." Atlantic Monthly 164 (1939):
+                91–95.</bib>
+            <notes> Hillyer finds the cardinal rule of verse to be that every line is divided into
+                "two equal time units." His performance-directive scansions mark syllabic length,
+                stresses, and pauses. </notes>
+        </item>
+        <item id="I30">
+            <bib> Holmes, Oliver Wendell. "Physiology of Versification and the Harmonies of Organic
+                and Animal Life." Boston Medical and Surgical Journal, 7 January 1875;</bib>
+            <notes> rpt in his Pages from an Old Volume of Life. Boston: Houghton Mifflin, 1883. pp.
+                315–21. An early study of what we would now term "breath-groups." The great rhythmic
+                activities of the body are the breath and the heartbeat, four of the latter for each
+                of the former. Reading octosyllabic verse, one takes about 20 breaths per minute to
+                read about 20 lines per minute, thus making, by equiva- lence of the breath and
+                line, such verse very easy to read. Iambic pentameter verse goes more slowly, since
+                longer, and is thereby more fatiguing, but cae- suras are available as
+                compensations. Ballad meters are hemistichic and easy; the duodecasyllabic line is
+                rarely used because it is too long for one breath but too short for two. Finally, as
+                line corresponds to breath, so accent may corre- spond to pulse--four pulses to the
+                breath equal four stresses to the octosyllable. Certainly it is true that in the
+                oral delivery of verse one must accomo- date the phrasal contours to one's breath;
+                the question is whether such biologi- cal rhythms were the primal origins of meter.
+            </notes>
+        </item>
+        <item id="I31">
+            <bib> Hopkins, Mary Francis. "Linguistic Analysis as a Tool for the Oral Interpreter."
+                Speech Teacher 18 (1969): 200–3.</bib>
+            <notes> Approves of the value of phonetic transcription for clarifying (1) meter, (2)
+                sound patterns, (3) lexical ambiguities, (4) structure, and (5) problems of se-
+                mantic interpretation. Sample analysis of Levertov's "One A.M." </notes>
+        </item>
+        <item id="I32">
+            <bib> Howarth, Herbert. "Metre and Emphasis: A Conservative Note." Essays on
+                Shakespeare. Ed. Gordon Ross Smith. University Park: Penn State University Press,
+                1965. pp. 211–27.</bib>
+            <notes> Actors will keep closer to Shakespeare's intent in his lines the closer they
+                keep to the metrical pattern in their delivery. </notes>
+        </item>
+        <item id="I33">
+            <bib> Hudson, Lee. "Poetics in Performance: The Beat Generation." Studies in
+                Interpretation Volume 2. Ed. Esther M. Doyle and V. H. Floyd. Amsterdam: Rodopi,
+                1977. pp. 59–76.</bib>
+            <notes> Includes a section on "Psychological Metrics" discussing Williams, Ginsberg,
+                Olson, and Pound. </notes>
+        </item>
+        <item id="I34">
+            <bib> Levertov, Denise. "An Approach to Public Poetry Listenings." Virginia Quarterly
+                Review 41 (1965): 422–33.</bib>
+            <notes> "The poetry . . . in which the sounds--the vowels and consonants, the tone
+                patterns, the currents of rhythm--are the chief carriers of content . . . [is the]
+                poetry which is most inaccessible to readers trained to bring, not the whole of
+                themselves, but their wits, to a reading." </notes>
+        </item>
+        <item id="I35">
+            <bib> Levin, Samuel R. "Suprasegmentals and the Performance of Poetry." Quarterly
+                Journal of Speech 48 (1962): 366–72</bib>
+            <notes>; rpt in The Practice of Modern Literary Scholarship. Ed. Sheldon P. Zitner.
+                Glenview, Illinois: Scott, Foresman, 1966. pp. 344–51. At the outset, Levin cites
+                Seymour Chatman from the 1956 Kenyon Review symposium (E712) as a examplar of the
+                new interest by structural linguists in metrics. These linguists, armed with the
+                Trager-Smith inventory of supraseg- mentals, believe that the meter was to be
+                discovered by reading the poem aloud, and Chatman himself insists that ambiguity
+                exists only on paper and is instantly resolved in oral performance. Levin's response
+                is to distinguish lexical ambiguity (which no performance will disambiguate) from
+                syntactic ambiguity (which is resolved in reading). Thereafter, he can only plead
+                that ambiguity is an intentional device of intensification in poetry, and that
+                insofar as oral per- formance reduces ambiguity, it performs "a real disservice to
+                the poem." Am- biguity is preserved in "visual performance . . . a silent reading."
+                The latter half of the essay demonstrates syntactic ambiguities in a Dylan Thomas
+                poem. Cf. Loesch (I39). </notes>
+        </item>
+        <item id="I36">
+            <bib> Lightfoot, Marjorie J. "Prosody and Performance." Quarterly Journal of Speech 53
+                (1967): 61–66.</bib>
+            <notes> This rather amorphous summary of the variety of conflicting prosodic opinions
+                about the meter of Old, Middle, and Modern English verse leads to no clear
+                commitments or conclusions about the authority of the text, performance, or
+                expectation for determining scansion save one: the reader must try to identify the
+                prosodic pattern intended by the author, since that is by implication the best one
+                the author could conceive. </notes>
+        </item>
+        <item id="I37">
+            <bib> Lipton, Lawrence. "Have You Heard Any Good Poems Lately? A Study of the Functions
+                of Sight and Sound in Modern Poetry." Arizona Quarterly 13 (1957): 133–43. </bib>
+            <notes> </notes>
+        </item>
+        <item id="I38">
+            <bib> Loesch, Katharine T. "Empirical Studies in Oral Interpretation: The Text." Western
+                Speech 38 (1969): 250–68.</bib>
+            <notes> Part of a symposium. Acutely aware of the difficult problem of poetic ontol- ogy
+                which underlies problems in both prosody and oral interpretation, Loesch charts some
+                eminently tough-minded and pragmatic courses toward a solution. The indispensable
+                core of such a solution is an adequate description of the poem both as text and as
+                performance. Such adequacy we do not have at present; hence Loesch sets about to
+                review all the important linguistic work done since Trager and Smith (D32) on
+                phonology and metrics, showing clearly the nature of what has been accomplished, and
+                also what has been ignored or slighted. Her grasp of the larger architecture of the
+                theory is synoptic and firm. Sample phonetic transcription (i.e. a complete text) of
+                "In My Craft or Sullen Art" at the end. </notes>
+        </item>
+        <item id="I39">
+            <bib> -----. "Literary Ambiguity and Oral Performance." Quarterly Journal of Speech 51
+                (1965): 258–67.</bib>
+            <notes> A very important counterargument to the structural metrists' claim (see I35)
+                that in the performance of poetry all semantic ambiguities created by alterna- tive
+                intonational patterns for a line must be resolved ("disambiguated") by the performer
+                (since he can only utter the line one way one time). Loesch shows that "it is
+                rarely, if ever, the case that only disambiguating intonations are avail- able. A
+                non-disambiguating intonation is always available as well." This seems plain sense:
+                unless we had heard ambiguous statements uttered, in the past, how would we know
+                they existed? </notes>
+        </item>
+        <item id="I40">
+            <bib> Long, Chester, C. "The Poem's Text as a Technique of Performance in Public Group
+                Readings of Poetry." Journal of Western Speech 31 (1967): 16–29.</bib>
+            <notes> In the midst of a discussion of group (but non-choral) performances of poems by
+                two to three interpreters appears a discussion, on a much higher level, of the
+                ontological situs of the poem, with Long differentiating text, performance, and form
+                of poetry. </notes>
+        </item>
+        <item id="I41">
+            <bib> Martin, Howard R., and Kenneth L. Pike. "Analysis of the Vocal Performance of a
+                Poem: A Classification of Intonational Features." Language and Style 7 (1974):
+                209–18.</bib>
+            <notes> Not very useful; generalizations and conclusions are not easily accessible, and
+                the essay seems excessively concerned with the distinction of analogic vs. digital.
+            </notes>
+        </item>
+        <item id="I42">
+            <bib> Nichols, Wallace B. The Speaking of Poetry. Boston: Expression Co., 1937. 110
+                pp.</bib>
+            <notes> A first chapter treats prosody in a surprisingly sure-handed manner; thereafter,
+                eight chapters explore the "speaking" of various genres of poetry. Altogether the
+                book is considerably more intelligently written than one expects, and it altogether
+                avoids the bombast, cant, and vacuity of most works on "oral inter- pretation."
+                Nichols shows sophistication in the principles of his craft. </notes>
+        </item>
+        <item id="I43">
+            <bib> Orr, Peter. "Poetry and the Human Voice." English 22 (1973): 18–23.</bib>
+            <notes> The aural manifestation of poetry is more central to its nature than the textual
+                manifestation. The poem is a sounding and therefore must be heard. </notes>
+        </item>
+        <item id="I44">
+            <bib> Payzant, Geoffrey. "Performance and the Existence of Art." Dalhousie Review 44
+                (1964): 83–95.</bib>
+            <notes> A philosophical treatment of the issues. </notes>
+        </item>
+        <item id="I45">
+            <bib> Pike, Kenneth L. "Implications of the Patterning of an Oral Reading of a Set of
+                Poems." Poetics 1 (1971): 38–45.</bib>
+            <notes> Exhortation that we learn to read, write (via simple contour markers), and
+                perform poetry with a heightened awareness of voice-quality and intonation. </notes>
+        </item>
+        <item id="I46">
+            <bib> Ready, William. "The Sound of Poetry." Bulletin of the American Library
+                Association 56 (1962): 153–54.</bib>
+            <notes> Praises the variety of recordings available, mainly from Caedmon. </notes>
+        </item>
+        <item id="I47">
+            <bib> Rickert, William E. "Structural Functions of Rhyme and the Performance of Poetry."
+                Quarterly Journal of Speech 62 (1976): 250–55.</bib>
+            <notes> Isolates four functions: Formality, Organization, Expectation, Closure. Per-
+                formers are to emphasize formal aspects. (Nothing new here.) </notes>
+        </item>
+        <item id="I48">
+            <bib> Robinson, Sybil C. F. "The Speaking of Shakespeare." DAI 32 (1971): 3471A
+                (Wisconsin).</bib>
+            <notes> </notes>
+        </item>
+        <item id="I49">
+            <bib> Salper, Donald R. "A Study of an Oral Approach to the Appreciation of Poetry." DA
+                27 (1967): 2218A (Minnesota, 1964).</bib>
+            <notes> Concerns the "transposition of sound into letter" and the reification of print.
+                Examines the validity and assumptions of oral interpretation. Much on sound in
+                poetry. </notes>
+        </item>
+        <item id="I50">
+            <bib> Storey, Barbara. "Phonetics and Its Relation to the Aesthetic Use of Speech."
+                Proceedings of the Second International Congress of Phonetic Sciences. Ed. Daniel
+                Jones and D. B. Fry. Cambridge: Cambridge University Press, 1936. pp. 99– 102.</bib>
+            <notes> </notes>
+        </item>
+        <item id="I51">
+            <bib> Winters, Ivor. "The Audible Reading of Poetry." Hudson Review 4 (1951): 433–47;
+                rpt in his The Function of Criticism. Denver: Alan Swallow, 1957. pp. 79–100; rpt in
+                Gross (A23), pp. 131–49.</bib>
+            <notes> Winters with his odd blunt way insists on the distinction between meter and
+                rhythm, arguing that therefore "adequate audible reading will be reading in which
+                the rhythm of the poem is rendered intact," formally, the reader inton- ing the
+                words in a style very close to chant. Illustrations of rhythmic varieties of the
+                iambic pentameter, analyses, and general animadversions follow. Win- ters recognizes
+                the Relative Stress Principle. </notes>
+        </item>
+        <item id="I52">
+            <bib> Yeats, W. B. "Literature and the Living Voice." The Contemporary Review 90 (1906):
+                472–82.</bib>
+            <notes> Esp. pp. 480–81. </notes>
+        </item>
+    </chapter>
+</bibliography>

@@ -1,0 +1,2368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+ <chapter title="">
+
+  <item id="E269">
+   <bib> Alden, Raymond Macdonald. "English Rhythm." The Nation 93 (1911): 442-43. </bib>
+   <notes> A response to Goodell's review essay (E36); Alden discusses the problems of metrical
+    pause (he accepts it) and lengthening of the syllable, and he emphasizes the necessity of the
+    abstract concept of the (disyllabic) metrical foot. </notes>
+  </item>
+
+
+  <item id="E270">
+   <bib> -----. An Introduction to Poetry for Students of English Literature. New York: Henry Holt
+    and Company, 1909; 2nd ed. 1937. </bib>
+   <notes> In contrast to Alden's earlier English Verse (A1), a collection of examples and extracts,
+    the Introduction sets forth his theoretical views on the nature of poetry; the salient chapters
+    are 4 and 5 (on metrics) and 6 (on rhyme and stanza forms). His central position is that "two
+    elements are equally necessary to the forming of rhythm: the equal time-intervals and the
+    stresses which mark them." Meter, then, simply fixes the number of syllables regularly repeated
+    in the rhythmic frame. Secondary accent on syllables is allowed, which may be either a stress or
+    a slack for metrical purposes, and whever metrical ictus conflicts with normal word-stress,
+    "hovering accent" will resolve the clash into compromise. And "in general, stress is relative
+    rather than positive." (All of Alden's stress-rules (p. 172) are ahead of his time.) Quantity,
+    though more variable, is relevant too: when the quantity of a syllable is too short for its
+    time-interval, either lengthening or a compensatory pause will fill the deficiency; "pauses may
+    also fill the place of wholly missing syllables, in order to complete the approximate equality
+    of the time-intervals between stresses." The function of meter and the apparent
+    interconvertibility of iambic and trochaic meters are explored in detail. Alden reviews several
+    scansion systems, evasively, finally settling on the old macron-and breve. Four meters are
+    considered basic, and metrical variation is discussed at length, one such device being
+    infrequent substitution of pyrrhics and spondees. Far from being a mere student's manual,
+    Alden's treatise tackles nearly every major issue in versification head-on, in a sensible yet
+    astute approach, with frequent long digressions to review the scholarship on a subject, as well
+    as summaries of his own developing arguments. </notes>
+  </item>
+
+
+  <item id="E271">
+   <bib> -----. "The Mental Side of Metrical Form." MLR 9 (1914): 298-308. </bib>
+   <notes> "To pronounce in one way and scan in another" is not at all unreasonable, because meter
+    is a pure abstraction, assumed by the knowledgeable reader, even though it may be "wholly
+    discarded or only partially represented in actual utterance." This axiom will account for
+    "metrical rests" and explain how stresses outside of ictus are demoted in utterance while slacks
+    under ictus may be promoted. Isochronism is only a subjective reality, even though the metrical
+    foot has both a temporal and syllabic character, Alden admits. He agrees with Omond that "rising
+    and falling rhythms" are essentially the same meter, and he deplores the whole conception of
+    acoustics research as a legitimate method in metrics. </notes>
+  </item>
+
+
+  <item id="E272">
+   <bib> -----. "The Time-Element in English Verse." MLN 14 (1899): cols. 478-94. </bib>
+   <notes> Reprinted as Part Three of his English Verse: Specimens (A1). Summary, cols. 491-92.
+    Criticizes J. M. Robertson (E320). Though Alden would "certainly not try to name feet or
+    describe lines on any basis other than that of accent," he takes up here the matter of time in
+    verse-- that is, rhythm--and examines specifically the Musical Analogy and Quantity. He argues
+    that Lanier carried the analogy too far and gives a detailed account of the contrasts between
+    verse and music. Variable quantities in English syllables are granted, even though they are not
+    metrically ordered, yet Alden argues (this is the crux) that just as speech-accents are adjusted
+    in the reading of verse under the pressure of the meter, so too the natural, various syllabic
+    quantities may often be adjusted (we know that stressed syllables are commonly prolonged, for
+    example), in order that the time-periods between accents will be held equal. Even if it were not
+    so cogently prepared for, that conclusion seems reasonable beyond much cavil. </notes>
+  </item>
+
+
+  <item id="E273">
+   <bib> Anderson, Johannes C. "Classification of Verse." Transations of the New Zealand Institute
+    42 (1909): 481-533. </bib>
+   <notes> In the exceedingly complex (and convoluted) metrical system presented here, Anderson
+    identifies and elaborates on nineteen different types of "stress units" (the term chosen to
+    supplant the traditional "foot"), the prototypical unit being a fixed period of time demarked by
+    stresses and containing from one to four syllables. The very term itself entails a broader
+    premise, which Anderson argues directly: English verse is metered with a basic unit of quadruple
+    members. Such a premise naturally forces some unusual scansions, as for example when feminine
+    endings are considered the first half of a stress-unit completed at the beginning of the
+    following line. Very much attention is given to metrical pauses, and the nineteen types of units
+    are eventually reduced to only seven for practical purposes. Section 1 of the treatise argues
+    that no real distinction can be drawn between "iambic" and "trochaic," and after the subsequent
+    section essays the same for anapest, dactyl, and amphibrach, Anderson concludes in the third
+    that "absolutely no line of demarcation can be made between duple and triple" meters. No other
+    metrists has ever been willing to go that far. </notes>
+  </item>
+
+
+  <item id="E274">
+   <bib> -----. "The Development of the Four-syllabled Metrical Unit in the Australian Modification
+    of the English Ballad." Transations of the New Zealand Institute 41 (1908): 418-21. </bib>
+   <notes> Anderson's metrical system admits only feet of either two or three syllables, with the
+    stress always falling on the last (iamb or anapest). But he considers that a unit of three
+    initial slacks is possible, though very rare, and here he cites examples from ballads. </notes>
+  </item>
+
+
+  <item id="E275">
+   <bib> -----. The Laws of Verse. Cambridge: Cambridge University Press, 1928. 227 pp. Rev: in TLS,
+    17 May 1928, p. 375; by Sonnenschein in the Oxford Magazine, 14 June 1928, p. 641; in English
+    Review 47 (1928): 371; by Tempest in Review of English Studies 6 (1930): 116-20. </bib>
+   <notes> Anderson, a New Zealander, was a correspondent with T. S. Omond both in letters and in
+    metrical theory. That theory distinguishes poetry from prose by a "temporal metre"--"a rhythm of
+    time underlies the words, and once this rhythm has been perceived, syllables can be omitted or
+    inserted, accents suppressed . . . without the perception of that rhythm being lost. It is this
+    rhythm of time that is metrical. . . . the words and accents float upon the metre." Critical of
+    the methods of Guest (E543), Bridges (E491), and Saintsbury (E636), Anderson identifies the
+    eight-crested "Romance verse" [i.e., Long Meter] as the stable lyric measure in English. The
+    foot is here termed a "stress-unit," and though it seems to him irrelevant whether a stress
+    begins or ends the unit, Anderson takes it to end, for the sake of convenience. His scansions
+    place a grave accent above the line for "syntactical accents" and a short vertical mark below
+    the line for "metrical wavecrests," the coincidence of two marks above and below a syllable
+    denoting, then, the "metrical stress." Three basic rhythms of verse are identified--those
+    consisting of disyllabic, trisyllabic, and quantrisyllabic units--yet strangely enough, Andersen
+    argues that the effects of the disyllabic [duple time] and trisyllabic [triple time] rhythms are
+    the same; indeed, he thinks that iambic rhythms can become trochaic almost insensibly, based on
+    "a variable sonant hover" on every stressed vowel not ending a word: the accented syllable is
+    shorted, he thinks, while the following syllable is lengthened (or another syllable inserted in
+    the same duration). The four-syllable rhythm is also discussed at length, it being a compound
+    form of the disyllabic rhythm. Line and stanza forms occupy the remainder of the book. </notes>
+  </item>
+
+
+  <item id="E276">
+   <bib> -----. "Metre." Transactions of the New Zealand Institute 40 (1907): 466-85. </bib>
+   <notes> Defining rhythm as "an uninterrupted succession of equal divisions of time, each more or
+    less filled with sound," Anderson devotes considerable attention to ballad meter, which he
+    persists in (mistakenly) analyzing by the apparatus for foot-verse (rather than stress-verse),
+    the foot. To analyze stress-verse in feet is a category mistake, of course, but what is more
+    surprising here is that Anderson makes very little of his Temporalist assumptions, instead
+    emphasizing that "all blank verse, all ballad verse . . . is essentially iambic" and arguing
+    that all the other meters are secondarily derived from the iambic, which itself is modelled on
+    our internal cardiac rhythms. </notes>
+  </item>
+
+
+  <item id="E277">
+   <bib> -----. "A Natural Classification of English Poetry." Transactions of the New Zealand
+    Institute 41 (1908): 410-18. </bib>
+   <notes> The scheme does seem natural enough; it has three categories--the eight- stressed
+    (sixteen syllables) Ballad line, which by variations of initial and final syllables can be
+    transformed as far as the six-stressed (twelve-syllabled) line; the five-stressed Heroic line,
+    including Couplet and Blank Verse forms; and Irregularly lined forms, e.g. Odes and
+    pattern-poems. Both the Ballad and Heroic verse may be found in continuous and Stanzaic
+    arrangement. Table of forms and subforms appears on p. 412; many examples with scansions follow.
+   </notes>
+  </item>
+
+
+  <item id="E278">
+   <bib> -----. "The Verse-Unit." Transactions of the New Zealand Institute 43 (1910): 606- 55. </bib>
+   <notes> Follows E273. The next higher level of metrical organization, above that of "stress
+    units," is the "verse unit," consisting (in the full form) of eight stresses and often printed
+    in two halves, each half more commonly known as a "line." The native British meter was of course
+    the Ballad verse (seven stresses), but it was joined after the Conquest by the Romance verse
+    (eight stresses), which had two offspring, the Nibelungen verse and the Alexandrine (each of six
+    stresses). Anderson works out all the rhythmical and typographic (i.e. stanzaic) variations of
+    these verses, but really, unless one wants examples, the whole genealogy is summarized (rather
+    technically) in the dense concluding section (pp. 642-55). </notes>
+  </item>
+
+
+  <item id="E279">
+   <bib> Anderson, Johannes C., and T. S. Omond. "The Limits of Verse-Length" and "The Reversed
+    Foot." Letters to The Academy 75 (1908): 284-85, 306; 76 (1909): 856-58, 903-6, 927. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E280">
+   <bib> Barham, Thomas Foster. "On Metrical Time, Or, the Rhythm of Verse, Ancient and Modern."
+    Transactions of the Philological Society, 1860-61, pp. 45-62. </bib>
+   <notes> Omond (A5) thought this "a remarkable paper," primarily I think on account of its scope.
+    Barham accepts that modern meter is based on "tone, or accent," though he ushers in the old
+    quantities as well by noting the "obvious" fact that "the syllable which contains most
+    articulate utterance will occupy the longest time in pronunciation." But he also defines "the
+    due observation of time in the recitation of metre" as Rhythm [this indeed is very exact], he
+    admits metrical rests, he recognizes isochrony, and he thinks scansion by dipodies simpler. Yet
+    the treatment of ancient meter in the last half of the essay surely colors heavily that of
+    modern in the first, and we can hear not far behind all this the schoolboy doctrines of a
+    classical prosody applied to English verse. Here is the best instance of the conflation and
+    confusion of Temporalist and quantitative theories. </notes>
+  </item>
+
+
+  <item id="E281">
+   <bib> Boomsliter, Paul C., and Warren Creel. "The Secret Springs: Housman's Outline on Metrical
+    Rhythm and Language." Language and Style 10 (1977): 296-323. </bib>
+   <notes> Ostensibly an attempt to explain the eight items in Housman's famous footnote (E297), the
+    article actually ranges very far afield from direct answers to Housman's questions to a more
+    general account of the processing of temporal events in human perception, which is the real
+    subject here. Several of Housman's questions remain effectively unanswered. But the account
+    given here of the precedence effect is simply fascinating. </notes>
+  </item>
+
+
+  <item id="E282">
+   <bib> Boomsliter, Paul C., Warren Creel, and George S. Hastings, Jr. "Perception and English
+    Poetic Meter." PMLA 88 (1973): 200-8. Reply by Elias Schwartz, pp. 1193; rejoinder by the
+    authors, pp. 1194-95. </bib>
+   <notes> Opposed to all objective theories or measurements of verse, the authors hold that
+    metrical pattern inheres "in the perception not in the signal," wherein the mind engages in an
+    active perceptual patterning, a pattern of expectation (of stressing recurring at equal
+    intervals) projected. As support for this temporal theory of meter the authors record
+    schematically some "unled choral reading" of verse by a group [consider the socio-dynamics and
+    assumptions behind this method]. The verse is "Pease Porridge Hot," Dickenson, Tennyson, all of
+    it close to if not actually stress-verse, so we are not surprised when they "discover" the
+    metrical pause. </notes>
+  </item>
+
+
+  <item id="E283">
+   <bib> Bracher, Frederick. "The Silent Foot in Pentameter Verse." PMLA 62 (1947): 1100-7. </bib>
+   <notes> An attempt to answer three of Housman's provocative questions (E297), and with due notice
+    of Prall (E318) and Schramm (E428), Bracher argues that every pentameter line is followed by a
+    test of one foot (he will not allow metrical rests shorter than a full foot); indeed, all lines
+    having an odd number of feet are followed by such a rest, though even-footed ones are not, on
+    the grounds that humans naturally tend to compound simple rhythmic impulses, but odd-numbered
+    rhythms cannot be resolved into simple groups. Thus blank verse is six-footed in actuality. As
+    for the paradox of line-combinations: lines having the same number of feet should combine easily
+    whether entirely filled with sound or ending in a rest; verses of different feet will combine
+    well if both end in rests but not otherwise. Thus tetrameters and trimeters, and pentameters and
+    trimeters, but not tetrameters and pentameters. Finally, tetramemeter verse, being entirely
+    filled with sound, requires a rhyme to mark the line-end for the ear. Beguiling sense or
+    nonsense? </notes>
+  </item>
+
+
+  <item id="E284">
+   <bib> Cobb, Charles W. "A Further Study of the Heroic Tetramemeter." MP 14 (1917): 559-67. </bib>
+   <notes> An unsatisfying argument that there exists a type of line we may call the "heroic
+    tetrameter," consisting of ten syllables but having only four equal time- measures (and hence
+    only four strong stresses, the medial syllables in the line all being weak). Cf. E1122. </notes>
+  </item>
+
+
+  <item id="E285">
+   <bib> -----. "A Scientific Basis for Metrics." MLN 28 (1913): 142-45. </bib>
+   <notes> Demonstrates weaknesses in definition of metrical terms in Saintsbury (E636), Bright and
+    Miller (E500), and Lanier (E364), in order to stipulate some definitions himself (scansions by
+    equal time). Proposes a theorem: "Some readers read heroic [iambic pentameter] lines tetrameter
+    (i.e., four major stresses marking time-periods instead of five). Then reports results of
+    "objective " time-analysis of a passage read aloud by several subjects, supporting Cobb's
+    argument that decasyllabic lines often have four parts not five. </notes>
+  </item>
+
+
+  <item id="E286">
+   <bib> Creel, Warren. "How to Hear Time Values in Verse." English Journal 22 (1933): 810-16. </bib>
+   <notes> Presents charts divided into blocks into which lines of verse are set so that the reader
+    can learn to tap out beats, hear rests, syncopation, and so on. Conveniently, most of the verse
+    chosen is dipodic (which as stress-verse, is meant to be heard aloud), and so the snake bites
+    its tail. Creel can still have a go of it forty years later; see E281. </notes>
+  </item>
+
+
+  <item id="E287">
+   <bib> -----. Rhythm and Meaning. Albany, N. Y.: Mimeographed by the author, 1957. 120 pp. </bib>
+   <notes> Rev: in Quarterly Journal of Speech 44 (1958): 203. </notes>
+  </item>
+
+
+  <item id="E288">
+   <bib> Dallas, E. S. "Verse." Poetics: an Essay on Poetry. London: Smith, Elder, 1852. pp. 158-88. </bib>
+   <notes> Rev: by Masson (rpt in his Essays on English Poets, 1856); see also the leading article
+    on Dallas in TLS, 18 January 1936, pp. 41-2. "A verse depends on the order and nature of its
+    accents. There is no good ground for withstanding the common doctrine, that accent depends on
+    the relative sharpness of tones. Their sharpness depends upon time; upon the number of their
+    vibrations in a given time. . . . Such, then, is metre in its simplest form--time heard." To the
+    units of meter Dallas applies the term "bars," and he associates the three principal types of
+    poetry--Dramatic, Epic, and Lyric--with three modes of metrical organization--(respectively) the
+    foot, the bar, and the stanza. </notes>
+  </item>
+
+
+  <item id="E289">
+   <bib> Edwards, Richard. Treatise on English Prosody. London, 1813. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E290">
+   <bib> -----. Specimens of English Accentuated Verse, wherein the Intensity of Pronunciation only
+    is measured and the Length of the Syllables is unnoticed. London, 1813. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E291">
+   <bib> -----. Specimens of English Non-Accentuated Verse, or Verse measured with a Regard solely
+    to the Length of Time required in the Pronunciation of Syllables, the Accent and Emphasis being
+    entirely unnoticed. London, 1813. </bib>
+   <notes> Omond believed that these must have been small tracts and that none of them was extant,
+    but John Prudhoe reported in TLS, 7 April 1950, p. 215, that the first and third had been found.
+    Edwin Guest (see E543; 1838 edition, vol. 1, p. 111) simply repeated that Edwards measured verse
+    "with a regard solely to the length of time required in the pronunciation of syllables, the
+    accent and emphasis being entirely unnoticed." Edwards also held the preposterous view that
+    since correct verse required rules, and since no one before himself had written the rules
+    correctly, that therefore he himself was the first English poet. </notes>
+  </item>
+
+
+  <item id="E292">
+   <bib> Eyres, Grace E. "Principles and Technique of the Modern English Dipodic Line." M. A.
+    Thesis, University of Texas, 1938. </bib>
+   <notes> Follows Stewart (E333); includes an analysis of Christabel. Directed by Whitehall.
+   </notes>
+  </item>
+
+
+  <item id="E293">
+   <bib> Gurney, Edmund. "The Sound-Element in Verse." The Power of Sound. London: Smith, Elder,
+    1880. pp. 423-50. </bib>
+   <notes> Saintsbury (History of English Criticism, p. 512) approved of Gurney's work because it
+    recognized that the "music" of poetry is quite different from music itself, that metrical rhythm
+    is imposed upon, not latent in, speech," and that the sound-stratum of a poem can augment its
+    meaning--"the setting includes a new substance." His book is a study of musical form and the
+    psychology of acoustical perception, and in chapter 19 he sets forth a theory of meter based on
+    his studies in music. Stresses occur at equal intervals of time, feet may contain from one to
+    five syllables, and rests may fill up deficient measures. But the distinction (which Saintsbury
+    noted) that Gurney draws between verse- music and tonal-music proper is sharply made: the ictus
+    in music normally falls first in the bar, whereas in verse it often falls last; "there is no
+    significance in this difference, which in no way affects the common feature of regular accents."
+    If iambic verse were set to music, the accented syllables would fall first in the musical bars
+    but still last in the meter. "The difference. . .is a mere matter of the eye. See also the essay
+    on </notes>
+  </item>
+
+
+
+  <item id="E294">
+   <bib> Gurney, Edmund. "The Appreciation of Poetry" in his Tertium Quid. 2 vols. London: Kegan,
+    Paul, Trench, &amp; Co., 1887. Vol. 2, pp. 191-250; the subject in general is "the position of
+    [a reader's] native language in respect of his appreciation of verse." On the "musicality" and
+    meter of verse, see pp. 203-16. </bib>
+   <notes> For critical discussion, see: </notes>
+  </item>
+
+
+
+  <item id="E295">
+   <bib> Myers, Rollo. "Edmund Gurney's The Power of Sound. Music &amp; Letters 53 (1972): 36-43. </bib>
+
+   <notes/>
+  </item>
+
+
+
+
+  <item id="E296">
+   <bib> MacKerness, E. D. "Edmund Gurney's The Power of Sound." Music &amp; Letters 37 (1956):
+    356-67. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E297">
+   <bib> Housman, A. E. The Name and Nature of Poetry. Cambridge University Press, 1933. 51 pp. Rpt
+    1961. Rpt in The Name and Nature of Poetry and Other Selected Prose. Ed. John Carter. New York:
+    New Amsterdam, 1989. </bib>
+   <notes> The reputation of the famous footnote (p. 8) to Housman's 1933 Leslie Stephen lecture at
+    Cambridge is justly deserved; even Pound in his glowering review in The Criterion was forced to
+    admit its value. There Housman enumerates eight particular metrical phenomena which still remain
+    unaccounted for by theorists, the "latent base, comprising natural laws by which all
+    versification is conditioned, and the secret springs of the pleasure which good versification
+    can give. . . ." See Boomsliter and Creel (E281), and note E956 and E991. </notes>
+  </item>
+
+
+  <item id="E298">
+   <bib> Hunt, (James Henry) Leigh. An Answer to the Question "What is Poetry?" including Remarks on
+    Versification. Ed. Albert S. Cook. Boston, 1893; rpt New York: G. E. Stechert, 1926. 98 pp. </bib>
+   <notes> The essay is the opening one of Hunt's Imagination and Fancy of 1844. Much of the piece
+    upholds the distinction between Imagination and Fancy, but versification is discussed on pp.
+    37-63: verse is held essential to poetry as "that finishing, and rounding, and 'tuneful
+    planeting' of the poet's creations, which is produced of necessity by the smooth tendencies of
+    their energy or inward working, and the harmonous dance into which they are attracted round the
+    orb of the beautiful." Its virtues are "strength, sweetness, straightforwardness,
+    unsuperfluousness, variety, and oneness." "Strength is the muscle of verse, and shows itself in
+    the number and force of the marked syllables. . . . Unexpected locations of the accent double
+    this force, and render it characteristic of passion and abruptness. . . . Weakness of
+    versification is want of accent and emphasis." Hunt detests inverted syntax but praises
+    Coleridge for "dividing [verses] by time, instead of syllables. </notes>
+  </item>
+
+
+  <item id="E299">
+   <bib> Jenkin, Fleeming. "Dr. Guest on Rhythm" and two other essays in Saturday Review 55
+    (February-March 1883): 248-49, 270-71; </bib>
+   <notes> rpt in condensed form as "On Rhythm in English Verse" in Papers Literary, Scientific,
+    &amp; by the late Fleeming Jenkin. Ed. Sidney Colvin and J. A. Ewing. 2 vols. London: Longmans,
+    Green, 1887. pp. 149-70. Jenkin's judgment of Guest: "under a new name we meet with the old
+    false law, classifying verse by the mere number of accents; and in place of scansion we are
+    offered new and far more complex rules which, notwithstanding their great laxity, are
+    inapplicable to much good verse. We conclude that the new theory is of small value." Jenkin
+    himself is a Timer, though he speaks most often of stress, yet he also wishes to preserve the
+    old terms of long and short [it is not clear if he means these as simply ictic and non-ictic],
+    allowing "a pause followed by a weak syllable" to count as a long. But he will allow spondees
+    and pyrrhics to be stronger and weaker varieties of the iamb, and he shows an astute recognition
+    that two systems operate simultaneously in the metrical line- -"grouping by section"
+    (syntactic-semantic units) and "grouping by feet" (meter). Within his catch-all theory that
+    recognition (see pp. 159-60) is an island of surprising clarity and cogency. </notes>
+  </item>
+
+
+  <item id="E300">
+   <bib> Kent, Charles W. Introductory Notes to the Study of Poetry. Charlottesville: Anderson
+    Bros., 1895. 86 pp. </bib>
+   <notes> A primer of sonal, metrical, and stanzaic forms. Meter is said to rest on bars of equal
+    times, and Kent calls iambic and trochaic meters 3-time rhythm, but he does not go so far as to
+    scan with notes, and he admits that English verse, unlike music, is essentially iambic. </notes>
+  </item>
+
+
+  <item id="E301">
+   <bib> Lecky, James. "On the Phonetic Theory of English Prosody." Transactions of the Philological
+    Society, 1885-87, Monthly Abstract of Proceeedings, pp. ii-vi (December 19, 1884). </bib>
+   <notes> A scansion system is proposed: the foot will begin on the stressed syllable (following
+    Ellis), and five degrees of stress as well as three degrees of length will be marked. "Thus
+    metre, rhythm, and verse [are] all dependent on proportions of quantity or time, marked off by
+    pauses or by variations of stress." Lecky speaks frequently of quantity, which he eventually
+    defines as temporal. See Sumera (E401). </notes>
+  </item>
+
+
+  <item id="E302">
+   <bib> MacDonagh, Thomas. Thomas Campion and the Art of English Poetry. Dublin: Hodges, Figgis,
+    1913; rpt New York: Russell &amp; Russell, 1973. His thesis at University College, Dublin, in
+    1911. </bib>
+   <notes> Rev: by Rudmose-Brown in the Irish Review 3 (1913): 52-54. The book represents a theory
+    of meter which was derived from M's original study of Campion's Observations but subsequently
+    assumed larger proportions, so that the final result is bivalent in character but essentially
+    theoretical. M. draws heavily on Omond, but surpasses him in drawing, as the axiom of his whole
+    approach, an explicit distinction between Song-Verse and Speech-Verse. Both are comprised of
+    accent and quantity, in isochronous periods, but in speech-verse the units are additionally
+    regulated by "weight" (undefined). Song-verse originated in music, whereas speech-verse arose
+    from discourse even though it may become oratorical. The present volume treats only song- verse.
+    Also discussed: music and meter; quantitative and accentual verse. MacDonagh, a well-known Irish
+    poet, was executed by court-martial for activities in the Sinn Fein revolution before the
+    subsequent volume could be written. </notes>
+  </item>
+
+
+  <item id="E303">
+   <bib> Morton, William C. The Harmony of Verse. Toronto: University of Toronto Press, 1967. 232
+    pp. </bib>
+   <notes> An idiosyncratic notation system and nomenclature is introduced here for a worn and
+    familiar theory of meter: equal timing between stresses. We have astericks or "basic syllables"
+    (stressed syllables) preceded or followed by dots ("sub-basic syllables," i.e. unstressed), to
+    wit: .*., compounded by colons as bar lines, double colons, heavy dots, dashes, and such like,
+    all to denote Basic, Major, and Minor Metre in this homespun account of the "physio-
+    psychological basis of verse." This work has been tactfully ignored by metrists since its
+    publication. </notes>
+  </item>
+
+
+  <item id="E304">
+   <bib> Northcroft, George J. H. How to Write Verse: being Studies in the Principles and Practice
+    of the Art of English Verse-structure. London: Smith's Publishing Co., 1904; 3rd ed. 1915; 4th
+    ed. revised and enlarged, 1929. 158 pp. </bib>
+   <notes> "It is not syllables that recur, nor accents, but the time-spaces or periods occupied
+    partly by syllables, partly by pause. . . . [these] periods I hold to be the basis of English
+    verse-structure." </notes>
+  </item>
+
+
+  <item id="E305">
+   <bib> Omond, T. S. "'Dactylic' Verse in English." The Spectator 129 (1922): 635. </bib>
+   <notes> Cites examples of dactylic and anapestic lines, arguing that between them there is no
+    essential difference whatsoever. </notes>
+  </item>
+
+
+  <item id="E306">
+   <bib> -----. English Verse-Structure (A Prefatory Study). Edinburgh: David Douglas, 1897; rpt
+    Folcroft, Pa.: Folcroft Library Editions, 1969, 1974. 59 pp. </bib>
+   <notes> In his first monograph Omond posits his axiom that the "period" not the "foot" is the
+    unit of English meter. Our verse exhibits quantity (metrical quantity is not to be confused with
+    natural linguistic quantity), accent (too fickle to serve as a basis for meter), and pause [here
+    Omond fails to distinguish stress-verse from syllable-counting verse], but its crucial feature
+    is time not accent. There is no real distinction between iambic and trochaic, or anapestic and
+    dactylic, meters; the only true meters in English are "common time" and "triple time." But in
+    any event all that the prosodist can hope to elucidate are the Principles of verse, not any
+    fixed Rules. Omond surveys briefly the theories of Symonds, Bridges, Guest, Poe, Jenkin,
+    Sylvester, Steele, and Ellis. Note his rather over-emphatic denial (on p. 54) of any character
+    that he is confusing meter with rhythm; that tone of defensiveness is indeed justified. </notes>
+  </item>
+
+
+  <item id="E307">
+   <bib> -----. "A Hint on the Reading of Verse." Journal of Education, June 1908. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E308">
+   <bib> -----. Metrical Rhythm. Tunbridge Wells: R. Pelton, 1905; rpt Folcroft, Pa.: Folcroft
+    Library Editions, 1973; rpt Norwood, Pa.: Norwood Editions, 1976. 27 pp. </bib>
+   <notes> The first half of this essay reviews Thomson's The Basis of English Rhythm (E405), which
+    presents a system of temporal metrics even more extensive than Lanier's (E364) or Steele's
+    (E394). Omond himself accepts Time as the key to verse-structure but rejects the Musical
+    analogy, so he allows himself the latter half of this essay to succinctly propound his own
+    theory of meter. </notes>
+  </item>
+
+
+  <item id="E309">
+   <bib> -----. Some Thoughts About Verse. English Association Pamphlet no. 55. Oxford: Oxford
+    University Press, 1923. 20 pp. </bib>
+   <notes> In an elegant and engaging prose style, stripped of tendentiousness and technicalities,
+    Omond proffers, succinctly, his views in favor of "time-structure as the basis of metre,"
+    isochrony, "Common" and "Triple Time," pyrrhic feet, line-length [he believes the tetrameter to
+    be our most native form], free verse [opposes], terminology [awkward], "metrical pause,"
+    alliteration, and "inversion." </notes>
+  </item>
+
+
+  <item id="E310">
+   <bib> -----. A Study of Metre. London: Grant Richards, 1903; rpt London: Alexander Moring, 1920;
+    rpt New York: Lemma Publications, 1972. </bib>
+   <notes> Rev: by J. W. Bright in MLN 37 (1922): 59-62, with reply by Omond, pp. 181-83; in The New
+    Republic 31 (1922): 224-25; by E. P. Morton (appreciatively) in The Dial 40-41 (1906): 381; in
+    The Nation 77 (1903): 118- 20; in The Academy 64 (1903): 363-64 (see also the letters by Verrier
+    and Omond on "Metre," pp. 517-18, 542). The Temporalist theory of verse-structure, deriving from
+    Sir Joshua Steele in 1775 (E393), has been most forcefully promoted in our own century by Omond,
+    who is very likely also the most articulate spokesman in the entire tradition, This monograph is
+    the formal statement of his theory, as opposed to his other works of a
+    historical/bibliographical nature. "All meter is essentially rhythmical. That is to say, it
+    consists of equal units ["periods"], uniform as regards duration. . . . If periods constitute
+    rhythm, they must do so by uniform succession. Syllables do not supply this absolute recurrence;
+    their order of succession is changeful, capricious. They need to be contrasted with underlying
+    uniformity. That substratum seems afforded by time. Isochronous periods form the units of metre"
+    (italics original). The axiom of the theory, then, is that the verse-line is a temporal
+    phenomenon constituted of equidurational segments. Accents are mainly "signaling elements" used
+    simply to mark or signal periodicities. Accent cannot be the constituent or base of meter, Omond
+    argues, because stress rules in English are too fickle to regulate verse: word-accent is too
+    easily disfigured by sentence-accent (but see p. 24). Omond cautiously accepts Blake's theory of
+    monopressures (E484) to explain the physiology of accent. Quantity is acknowledged a fact of our
+    language and our verse, though ornamental rather than constitutive; poets who write verse "based
+    solely on quantity may be said to sin against the genius of their language." Metrical pause is a
+    crucial component of meter as well, this to be distinguished from the various pauses for effect
+    in performance. Of metrical types Omond allows four: two measures, duple and triple, in two
+    modes, rising and falling. (Blake's theory allows a maximum of three syllables per
+    monopressure.) Readers with keen noses may detect here the bouquet of old wine in new bottles.
+    Short Appendix on "Pseudo-Classical Measures." </notes>
+  </item>
+
+
+  <item id="E311">
+   <bib> Omond, T. S., et al. "'Inverted Feet' in Verse." The Academy 75 (1908): 329-30, 351-52,
+    401, 429, 451-52, 475-76, 498-99, 524, 548-49, 571. </bib>
+   <notes> A vigorous demonstration that at least two common fallacies in metrics--first, that
+    inverted feet are not to be explained as inversions but as trisyllabic + monosyllabic feet, and
+    second, that only speech-accents are required for scansion--may be entirely dissipated by
+    clearly distinguishing between speech stress and metrical ictus. Inversions are to be explained
+    by (1) ignoring the natural accent in favor of the meter, or (2) actual substitution in the
+    meter. Excellently useful examples. </notes>
+  </item>
+
+
+  <item id="E312">
+   <bib> Omond, T. S., et al. Letters to TLS, 23 September–23 December, 1920, pp. 619, 702, 858,
+    877; 6 January–30 June 1921, pp. 11, 28, 76, 126, 179, 259, 276, 308, 355-56, 388, 404, 420. </bib>
+   <notes> There is little exchange; Omond takes the occasion to promote theories of his own on the
+    necessity of measured language to express emotion, the temporal basis of meter, isochrony,
+    metrical disregard of speech accents, the difference of prose and verse ("purely a matter of our
+    mental relation to the words"), the mischief of using classical terminology, and the irrelevance
+    of quantitative verse in English ("piquant . . . scholars' toys"). </notes>
+  </item>
+
+
+  <item id="E313">
+   <bib> Parsons, Rev. James C. English Versification for the Use of Students. Boston: Leach,
+    Shewell &amp; Sanborn, 1891; rpt Boston and New York: 1891, 1920. 155 pp. Rev: by Tolman in MLN
+    8 (1893): 219-22. </bib>
+   <notes> A student's handbook with chapters covering all the conventional subjects, but marred by
+    confusion of terms: what most prosodists would call the domain of meter is here termed rhythm,
+    which is defined as the recurrence of accents at regular intervals of time, the accented
+    syllable being either followed or preceded by as many as two unaccented ones. Meter then becomes
+    merely the building-up of lines from such "rhythmic" "feet." He allows nine such "feet," finding
+    the pyrrhic "very frequent." Worse still, it seems to matter little whether the accent is marked
+    at the end of the foor or at the beginning. Parsons reinterates his concern for equal-timing but
+    in practice only marks stresses. Such ambivalences are the seeds and sprouts of anarchy.
+   </notes>
+  </item>
+
+
+  <item id="E314">
+   <bib> Perry, John O. "The Temporal Analysis of Poems." British Journal of Aesthetics 5 (1965):
+    227-45. </bib>
+   <notes> This is unquestionably the best available discussion of the general nature of temporality
+    in the form of the poem, with its implications for our understanding of the ontological status
+    of "the poem," and hence the modes of respose which are available for criticism. Critics as a
+    rule have been more than reluctant to even admit that a poem might have a temporal dimension,
+    formally (some metrists have argued quite the reverse, of course), even though they recognize
+    obvious temporal structuring in narration or plotting. But such a reluctance constitutes a
+    confession of ignorance, and the perpetuation of it an appeal to ignorance. Some recent
+    codifications in metrical theory offer hope of a solution, and the key to the whole problem
+    might well be "abstract metre apprehended as a temporal construct." But in fact there are a
+    number of "clocks" simultaneously regulating the timing of poetry (though note: the notion of
+    isochonous lines in verse is false). Too, timing effects may arise from lexical and semantic
+    levels as well as formal, if not all of these together. A proper temporal analytic should be
+    operable at both the macro- and the micro-levels of the art-work. An extraordinarily dense yet
+    cogent essay. </notes>
+  </item>
+
+
+  <item id="E315">
+   <bib> Poe, Edgar Allan. "The Rationale of Verse." The Southern Literary Messenger 14
+    (October-November 1848): 577-85, 673-82; </bib>
+   <notes> rpt in The Complete Works of Edgar Allan Poe. Ed. James A. Harrison. 17 vols. New York:
+    Thomas Y. Crowell, 1902; rpt New York: AMS Press, 1965. Vol. 14, pp. 209-65. Rpt in The
+    Rationale of Verse: A Preliminary Edition, Incorporating Cognate Documents by Goold Brown,
+    William Cullen Bryant, and James Davenport Whelpley. Ed. J. Arthur Greenwood. Princeton, N. J.:
+    Wolfhart Book Co., 1968. This last edition is reviewed in a very perceptive article by Richard
+    B. Eaton, </notes>
+  </item>
+
+
+
+  <item id="E316">
+   <bib> Eaton, Richard B. "Poet's Prosody in Perspective." Poe Studies 5 (1972): 61-62. </bib>
+   <notes> Eaton takes issue with Greenwood's opinion of Poe's prosody by showing in detail the
+    difficulty--and necessity--of an accurate historical understanding of prosodic thought in Poe's
+    time, or any time. Poe "marked stresses, he confused them with quantities, and he counted
+    syllables." Thus the temporalist theory of one age overlaps the stress theory of another age,
+    and both are only partly or vaguely understood by poets as well as grammarians of the time. Is
+    it any wonder prosody is so hard to read aright? The "Rationale" essay is an amplification of an
+    earlier study, "Notes on English Verse," published in The Pioneer for March 1843. With his
+    accustomed vigor of tendentious rhetorical argumentation, Poe takes up the standard of the old
+    longs and shorts, insisting on the quantitative terminology for English as well as Latin. Accent
+    determines length, but Poe's system of prosody really rests on time. Admitting that quantity is
+    infinite in gradation yet clutching the dogma of one-long-equals-two-shorts, Poe is driven, by
+    the fact of extrametrical syllables in lines, to devise a cumbersome--nearly ludicrous-- system
+    of halves, thirds, and sixths, indicating syllabic duration in scansion with numbers and
+    fractions, and allowing, besides the only feet he recognizes-- iamb, trochee, anapest, dactyl,
+    spondee, and "caesura" (a single long syllable)-- a host of other misbegotten siblings: "bastard
+    iamb," bastard dactyl," etc., and the "quick trochee." His refusal to admit pyrrhics into the
+    system is transparently casuistical. And Poe differentiates rhythm from meter only in that the
+    former identifies the feet while the latter denotes the number of feet per line, which is
+    scarcely any cutting distinction. Altogether, the conservatism and the confusion in Poe's
+    thinking produce an extravagently indefensible system. Yet against this one must say that the
+    "Rationale" essay has been fertile ground for subsequent work: we find here the notion that a
+    poetic line must "read itself" (be incapable of misarticulation), and concept of the "variable
+    foot," and the abstract principle of "equality" (also termed "proportionality" and "equivalence"
+    developed so importantly a century later by a distinguished Slavist and linguist. The
+    "Philosophy of Composition" and "Poetic Principle" essays contain some remarks on versification
+    that are too familiar to require notice. The "Marginalia" (vol. 16, pp. 111-12 in the Complete
+    Works) reiterate Poe's fascination with strict laws of mathematics, and he reminds us that laws
+    deduced from observable effects are by no means identical to those controlling composition. The
+    salutary effect of rhyme is said to depend on recurrence at "unanticipated intervals." Finally,
+    Poe's 1843 review of The Poets and Poetry of America contains a short synopsis of his views of
+    versification (vol. 11 of the Works, pp. 225-36). </notes>
+  </item>
+
+
+  <item id="E317">
+   <bib> Prall, D. W. "Rhythm as Temporal Structure." In his Aesthetic Judgment. New York: Thomas Y.
+    Crowell, 1929; rpt 1967. pp. 138-77. </bib>
+   <notes> Section 6 is on verse. The ideas presented here are developed more amply and closely in
+    Prall's later work (next entry). Suzanne Langer's analysis is heavily indebted to Prall.
+   </notes>
+  </item>
+
+
+  <item id="E318">
+   <bib> -----. "Temporal Patterns: Verse Rhythm." Aesthetic Analysis. New York: Thomas Y. Crowell,
+    1936; rpt. 1967. pp. 93-134. </bib>
+   <notes> A discursive yet meticulous analysis of temporal ordering by an eminent but now-neglected
+    American philosopher. We give form to time by measure. Nothing can be gained for scansion by
+    "misapplied classical terms or loose musical analogies"; verse is ordered by measures and
+    "counts" (beats). Iambic pentameter is nothing of the sort, but rather "three measures to the
+    line, each measure divided into halves, and each half further divided into three counts.
+   </notes>
+  </item>
+
+
+  <item id="E319">
+   <bib> Robertson, John M. Essays Towards a Critical Method. London: T. F. Unwin, 1889. </bib>
+   <notes> Expanded as: </notes>
+  </item>
+
+
+  <item id="E320">
+   <bib> Robertson, John M. New Essays Toward a Critical Method. London and New York: J. Lane, 1897. </bib>
+   <notes> 378 pp. In this latter see "Appendix: Accent, Quantity, and Feet." Omond (A5) observed
+    drily that Robertson simply "perpetuated Poe's confusion of Quantity and Accent in The Rationale
+    of Verse." </notes>
+  </item>
+
+
+  <item id="E321">
+   <bib> Roe, Richard. The Elements of English Metre, both in prose and verse, illustrated under a
+    variety of examples. . . . London: The Author, 1801, 94 pp. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E322">
+   <bib> -----. The Principles of Rhythm both in Speech and Music, especially as exhibited in the
+    mechanism of English verse. Dublin, 1823. </bib>
+   <notes> "Metre consists of a succession of parts, in subordinated proportions . . . which parts,
+    abstractly considered, are those solely of time or duration. Hence metre . . . is the same
+    wherever found; and all that is adventitious, or extrinsic, is to be sought for in the nature of
+    its vehicle." "A foot . . . takes up about two-thirds of a second, and may therefore contain as
+    many syllables as can conveniently be uttered in that time." All feet are equal in time, no
+    matter how comprised; notation consists of a linear graph under the verse, marked off with short
+    vertical lines, so as to denote the greater or lesser duration of the words in the feet by
+    greater or lesser extension along the line. Finally, to confound clarity altogether, "feet are
+    distinguished by accent and quantity. But, as feet distinguished by accent and quantity do not
+    constitute different species of metre, but only give by their mixture an agreeable variety to
+    the cadence; and as accent is the more general mark of distinction, and also commonly
+    accompanies quantity; so, for the greater ease of expression, I shall mostly speak of the former
+    indiscriminately for both." </notes>
+  </item>
+
+
+  <item id="E323">
+   <bib> Routh, James. "English Iambic Meter." PMLA 40 (1925): 921-32; </bib>
+   <notes> rpt in B187. Expanding on Scripture's work in phonetics, Routh distinguishes "word
+    stress," "verse stress," and "sense stress"; he accepts isochrony (subject to pauses) and
+    concludes that "English iambic verse is rhythmically nothing but English prose so readjusted
+    that, on an average, four ordinary prose accents, with the addition of a fifth accent made for
+    the occasion by the heightening of an ordinarily less-heavily stressed syllable, supply the
+    singing accents." Statistics. </notes>
+  </item>
+
+
+  <item id="E324">
+   <bib> Rudmose-Brown, Thomas B. Étude comparée de la versification francaise et de la
+    versification anglaise: L'alexandrin et le blank verse. Grenoble: Allier Brothers, 1905. 216 pp. </bib>
+   <notes> His dissertation at Grenoble. Holding that "there is no essential difference between the
+    Latin and Greek system and the modern system" of verse, the author proffers his thesis that both
+    English and French meters are founded on a single common principle, "the measure of isochronous
+    intervals of time." Along the way he gives considerable attention to most of the major English
+    and French metrical theorists. </notes>
+  </item>
+
+
+  <item id="E325">
+   <bib> -----. "The Principles of English Versification." Dublin Magazine 5 (1930): 5-18. </bib>
+   <notes> Initially a hostile review of Katherine Wilson (E411) and acoustic/musical metrics in
+    general, but the article soon expands to a wide compass of foreign meters and metrists in order
+    to substantiate the author's thesis that syllabic verse and stress verse are two distinct
+    species of animal, producing a very curious hybrid type when crossed (as in English). </notes>
+  </item>
+
+
+  <item id="E326">
+   <bib> Schwartz, Elias. "Rhythm and Meaning in English Verse." Criticism 6 (1964): 246- 55. </bib>
+   <notes> Reply by </notes>
+  </item>
+
+
+  <item id="E327">
+   <bib> John Oliver Perry, "The Relationship Between Rhythm and Meaning." Criticism 7 (1965):
+    373-78; rejoinder by Schwartz, pp. 379-81. </bib>
+   <notes> Schwartz's essay is revised and expanded as chapter 5 ("Rhythm and Meaning") of his The
+    Forms of Feeling. Port Washington, N. Y.: Kennikat Press, 1972. pp. 59-71. Imitative and
+    expressive effects acheived by stress-patterns in lines of verse are not rhythmical because both
+    rhythm and meter are "essentially temporal structures." Schwartz gives an Aristotelian account
+    of rhythm: whereas the drama can only reproduce the external signs of inner emotion in others,
+    rhythm "corresponds in its movement with the movement of the soul" directly. For Schwartz,
+    whatever is abstracted is meter; the rhythm is inseparable from performance. Meters he thinks
+    may correspond to "general classes of feelings." All this is wooly, which Perry has little
+    trouble showing in his reply. Imitative and expressive metrical effects are not to be denied,
+    and Schwartz's whole account of the treatment of emotions in poetry is superficial, as is his
+    conception of the semantic structure of verse. </notes>
+  </item>
+
+
+  <item id="E328">
+   <bib> Schwartz, Elias K., W. K. Wimsatt, Jr., and Monroe C. Beardsley. "Rhythm and 'Exercises in
+    Abstraction.'" PMLA 77 (1962): 668-74. </bib>
+   <notes> Schwartz's side of the exchange (pp. 668-69, 671-74) is expanded as "Rhythm and Meter,"
+    chapter 4 of his The Forms of Feeling. Port Washington, N. Y.: Kennikat Press, 1972. pp. 43-58.
+    Schwartz's reply to Wimsatt and Beardsley (E700) perceives clearly that unless they "recognize
+    the psychological status of rhythm, they cannot be made to see its temporal basis." W &amp; B
+    amplify Leonard Meyer's distinction between pulse, rhythm, and meter, then clarify their own
+    position: "meter. . . is what we actually hear in the poem when it is read aloud; rhythm is
+    something which is aroused in the mind by means of the poem's meter, something which is felt by
+    the listener and which in turn stirs his further feelings." (Thus, for them meter is objective,
+    rhythm subjective, while for Schwartz meter is subjective and rhythm objective.) S. responds
+    with his counterassertion "that meter is real, that it is distinct from rhythm, and that both
+    meter and rhythm are temporally measured." Being perfectly abstract, meter is never actually
+    heard, but rather is inferred: It "exists in the mind of the reader" as a "normative pattern" of
+    expectation. What we actually perceive are the strong stresses and the temporal intervals
+    between them, intervals roughly but not precisely equivalent. It is neither necessary nor
+    possible to show that syllabic durations are physically equal. "Meter is an ideal temporal
+    norm." The meter and rhythm are correlated by the reader simultanously, via "double audition."
+    Schwartz argues that inverted feet are preceded by pauses, so that "trochaic substitutions" are
+    actually a pause + a monosyllable + an anapest. W &amp; B's final response expresses skepticism
+    as to this last and reasserts their belief that Schwartz actually proves their own case.
+   </notes>
+  </item>
+
+
+  <item id="E329">
+   <bib> Schweinitz, George W., de. "Dipodism in English Verse in the Nineteenth and Twentieth
+    Centuries: A Study in the Relations Between Thematics and Metrics." University of Iowa Abstracts
+    of Dissertations 9 (1949-52): 394-96. </bib>
+   <notes> Chapters 1-3 trace the development of dipodic meter from Burns to Auden (its use seems
+    mainly confined to the oral tradition); chapter 4 surveys its treatment by prosodists (Patmore,
+    Lanier); chapter 5 attempts to correlate some genres and themes with the use of this meter.
+    Indebted to Stewart (E333) for scansion symbols. </notes>
+  </item>
+
+
+  <item id="E330">
+   <bib> Smith, Egerton. The Principles of English Metre. London: Oxford University Press, 1923; rpt
+    Westport, Conn.: Greenwood Press, 1970. 326 pp. </bib>
+   <notes> Rev: in London Mercury 8 (1923): 441; in The New Statesman 21 (1923): 650- 52; in TLS, 20
+    March 1924. p. 171 (also correspondence on May 22 and 29); in English Studies 8 (1926): 56-58.
+    The most authoritative statement of the Temporal theory of metrics: Smith's scholarly and
+    synoptic work should be consulted in precedence to Omond (E310), Lanier (E3654), or Patmore
+    (E384). Here one will find full chapters on metrical pause, metrical equivalence (trisyllabic,
+    monosyllabic, and combined substitutions), nature of the ictus (weight and accent), quantity,
+    hypercatalectic verse, metrical variation, syllabic theories of verse, song-verse, English
+    meters, imitations of Classical meters, rime, stanza, free verse, blank verse, sonnets, and
+    fixed forms. Long Glossary of terms. Smith himself offers little that is new to the theory, but
+    his treatise easily outdistances all its peers in tone, treatment, and scholarship: the
+    explanation of the theory is remarkably balanced and thorough, leaving nothing slighted or
+    ignored on any side, pursuing the argument with civility, and offering frequent, minute
+    digressions on definitions of terms, Classical antecedents or etymologies, and treatment of
+    various problems by other metrists. </notes>
+  </item>
+
+
+  <item id="E331">
+   <bib> Stewart, George R., Jr. "The Iambic-Trochaic Theory in Relation to Musical Notation." JEGP
+    24 (1925): 61-71. </bib>
+   <notes> Musical metrists have a problem with the metrical terms "iambic/trochaic" and
+    "rising/falling," since these distinctions do not exist in music. One or the other--analogy or
+    terminology--must go. Stewart, assuming that trochaic meter equals falling rhythm, counts the
+    number of falling, rising, and neutral stress-patterns in the phrases of several "trochaic" and
+    "iambic" poems, discovering thereby that the proportions of all three are in each case quite
+    mixed, with many neutrals, and that the falling phrases are only slightly more frequent in
+    "trochaic" verse than in "iambic," and not at all predominant even within the "trochaic." All
+    that one can say is that the mixes are pretty thorough and that we discriminate some extremely
+    subtle shifts quite markedly. But the distinctions "iambic/trochaic" and "rising/falling"
+    Stewart finds unwarranted. Cf. Newton (E799), Hascall (E783), Creek (E18), Crapsey (E516), and
+    Atkins (E467). </notes>
+  </item>
+
+
+  <item id="E332">
+   <bib> -----. "A Method Toward the Study of Dipodic Verse." PMLA 39 (1924): 979-89. </bib>
+   <notes> Extending his earlier work on the ballad meters, Stewart shows that the pattern x - | x -
+    | x - | x - | x - | x - | x - is a septenary in Pope but a dipodic line in Kipling, based on the
+    proportional frequency of occurrence of each of the parts of speech in each position. But a more
+    simplified analysis a Dipodic Index can be derived for a given poem, and Stewart finds that
+    dipodism begins to be clearly perceived at about index 35. But the most intriguing question of
+    all is that of the tendency toward dipodic structure in the stress system of the language
+    itself. </notes>
+  </item>
+
+
+  <item id="E333">
+   <bib> -----. The Technique of English Verse. New York: Holt, Rinehart, &amp; Winston, 1930; rpt
+    Port Washington, N. Y.: Kennikat Press, 1966. 235 pp. </bib>
+   <notes> One of the most substantial studies published in the first half of this century; Stewart
+    is perhaps the least temporal (certainly the least dognatically so) of Timers, and his book can
+    make that theory more attractive to confirmed Stressers than any of the rest. His approach
+    offers two distinctive and significant features: Phrasing, and Dipodism. For scansion the
+    following siglia are employed: S O o p l P = = = = = = stressed syllable heavy unstress
+    unstressed syllable pause for an unstress light stress pause for a stress; these Stewart deploys
+    in groups in scansions so as to indicate not only the stress- pattern of the line (note he has
+    four levels available rather than two) but also the syntactic structure, the phrasal boundaries.
+    The system is simple, efficient, and doubly informative. Notice that Stewart's simple and
+    compound phrasing corresponds precisely to constituent analysis in structural linguistics, and
+    that by including phrase-structure he is able to account for "rising" and "falling" rhythms more
+    adequately than anyone else. On the temporal aspect he is modest but firm: the "time-structures"
+    of verse are "practically identical," and so Stewart begins the first foot of the line with the
+    first stress. Unfortunately this forces him to call a 5-foot line a 4-foot line with "a little
+    left over at beginning and end" which is neither elegant nor efficient, and Stewart wisely
+    chooses not to pursue this course. He allows four feet--the monosyllabic, iambic, trochaic, and
+    amphibrachic--and of course he makes much of the metrical pause. When he comes to quadruple
+    meters, i.e. Dipodic verse, his analysis again merits praise for charting new terrain. His
+    scansion notation allows much further progress than Patmore (E384) was able to make. But notice:
+    nearly all his examples are ballads, and the import of his analysis is to rewrite stress-verse
+    as a highly regular meter bordering on foot-verse by the liberal insertion of metrical pauses;
+    the ultimate result of this tack will be to eliminate entirely the concept of stress-verse,
+    where the slack syllables are unconstrained. Much food for thought here. See Stewart's article
+    at K379 and his earlier monograph at E892, and see also Stevenson (E400). Note E292. </notes>
+  </item>
+
+
+  <item id="E334">
+   <bib> Taig, Thomas. Rhythm and Metre. Cardiff: University of Wales Press, 1929. 140 pp. Rev: in
+    TLS, 20 June 1929, p. 491; in Review of English Studies 6 (1930): 116- 20. </bib>
+   <notes> Not strictly a "timer," Taig is cognizant of the complexity of these matters, and also of
+    the natural limitations of assertion: the result is a refreshingly restrained, yet sophisticated
+    discourse. He considers both "timers" and "stressers" to be mistaken in believing that any
+    single dimension of speech- rhythm is supreme for metrical purposes or solely worthy of
+    notation; as an alternative, he employs (with conscious dissatisfaction) two systems, a wave-
+    graph and musical notation, to indicate both duration and intensity. Three basic metrical
+    patterns or systems are identified: Variable, Doubtful, and Fixed. In the Variable pattern
+    (example: Old English alliterative), the constraints are relatively weak. In the Doubtful
+    pattern, the numbering of syllables is rigidly controlled but their timing is generally
+    uncontrolled, causing metrists to be "doubtful" of the nature of the prosodic base. But as the
+    constraints increase, the timing too is Fixed, creating that sort of stress-verse where the
+    reader can scarcely miss the intended timing of the line. A long fifth chapter takes up the
+    "Spoken Line," a subject, current opinion notwithstanding, which is indispensable to metrics.
+    Taig's analysis of the double-stranded rope of performance--the metrical expectation perceived
+    simultaneously with the rhythmic/syntactic ordering--raises the tantalizing prospect that "the
+    forms employed in the utterance can be reduced to a few well-defined types, that the
+    speech-variations of blank verse can be classified at least as easily as those of the
+    alliterative line in Old English." This analogy is pursued through a short analysis, and three
+    Groups of line-patterns are also identified which seem to operate in the metrical orchestration
+    of long passages of verse (5 waves, 4, and 3). A short final chapter traces the parallel
+    historical development of rhythmical counterpoint in music and in verse. Replacing Taig's term
+    "wave" by the more familiar "bar" or "foot," one might claim that this book is merely old
+    familiar tea in an unfamiliar package, yet the seeming glibness of the term belies the broad
+    learning and deep thinking consistently evidenced here. Any reader who believes that deep
+    thinking can come to a trivial and conventional conclusion does not understand deep thinking.
+    This is a difficult book, in both the negative and positive sense of the word. See also: B122,
+    E845, N53, N60. </notes>
+  </item>
+
+
+  <item id="E335">
+   <bib> Andrews, C[larence] E[dward]. The Writing and Reading of Verse. New York: D. Appleton,
+    1918. 327 pp. </bib>
+   <notes> An introductory handbook of versification; Part 1 sets forth the Principles and Part 2
+    the metrical and stanzaic forms. The metrical theory followed is Lanier's Musical approach
+    (E364). Nothing bears notice except this definition of terms: "Stress is metrical emphasis;
+    Accent is sense emphasis. When these do not coincide throughout a line we have: Light Stress,
+    emphasis required by the meter but not by sense, or Extra Accent, emphasis required by sense but
+    not by meter." </notes>
+  </item>
+
+
+  <item id="E336">
+   <bib> Bayfield, M. A. The Measures of the Poets: A New System of English Prosody. Cambridge:
+    Cambridge University Press, 1919; rpt Folcroft, Pa.: Folcroft Library Editions, 1970; rpt
+    Norwood, Pa,: Norwood Editions, 1975. 107 pp. </bib>
+   <notes> Rev: by Hulbert in MP 17 (1920): 727-29; in MLN 35 (1920): 122-26. See also Stockley
+    (E88). Bayfield pushes the musical analogy to verse to its ultimate logical end, that is, into
+    absurdity: since the stress begins the bar in music, therefore all English verse has always been
+    written in a trochaic meter; indeed, by definition, the iambic foot cannot exist. Stress is
+    acknowledged central to English verse, but stressed syllables are said to last twice as long as
+    unstressed in utterance, and recur at equal intervals, i.e. in "triple-time." Bayfield seems to
+    have read none of his contemporaries. Now, Omond's view of this whole business was that the
+    whole uproar raised by the appearance of Bayfield's books was pointless and unnecessary, the
+    argument itself being tautology and calling for no response. In other words, if everyone is
+    agreed on the stressing of a line, it makes no difference where the bar-marks for foot-division
+    are drawn: it makes no difference whether we call the line iambic or trochaic. Possibly this
+    logic is too radically simple to strike me as correct, but I cannot believe that (1) there is no
+    syntactic or metrical difference between what are commonly called "rising rhythms" and "falling
+    rhythms," or that (2) the long history of what poets thought they were doing, in writing in the
+    iambic pentameter tradition, counts for nothing at all. Cf. his E1093 and E1094. </notes>
+  </item>
+
+
+  <item id="E337">
+   <bib> Beardsley, Monroe C. "Verse and Music." Wimsatt (A20), pp. 238-52. </bib>
+   <notes> Essential reading--as much for what is not said as what is. Beardsley turns directly to
+    the most important available (and widely ignored) source currently on rhythm in music, Cooper
+    and Meyer (N30), summarizing its premises: "in music, meter is pulse plus accent, rhythm is
+    accent plus grouping," and "a 'rhythmic pattern' in music is what prosodists are wont to call a
+    'metrical pattern' in verse." (Note the implication that rhythm is a higher-order concept than
+    meter.) He does not, however, adequately explain their hierarchical scansions, as he does not
+    adequately explain his own--his second subject. Proposed is a scansion-system I have not seen
+    elsewhere, which appears to account for both metrical pattern and syntactic (i.e. rhythmical)
+    grouping, and can explain the complex, unified, double sense of movement in lines of verse that
+    we are commonly aware of. Beardsley then reviews, disinterestedly, the arguments for and against
+    a musical scansion of verse, as well as the problems in setting verse to music. </notes>
+  </item>
+
+
+  <item id="E338">
+   <bib> Brown, Calvin, S. "Can Musical Notation Help English Scansion?" JAAC 23 (1965): 329-34. </bib>
+   <notes> Literally or systematically, no. It "indicates a regularity that [we] do not hear,
+    creates more problems than it solves, and is in general more of a nuisance than a help." No one
+    learns musical notation in order to apply it to verse, and any systematic application of the
+    analogy becomes strained at once. Isochronous time-periods also seem unnatural contrivances, the
+    span between stresses often varying widely. "Individual syllables have no simple relations in
+    objective fact." Hence musical scansion is legitimized neither theoretically, practically, nor
+    objectively. </notes>
+  </item>
+
+
+  <item id="E339">
+   <bib> Browne, William Hand. "Certain Considerations Touching the Structure of English Verse." MLN
+    4 (1889): 193-202. </bib>
+   <notes> Approves of the methods of Lanier and T. R. Price; believes that the poetic line is
+    composed of "staves" (originally, hemistichs), which "may be of any length, from a single
+    syllable carrying one accent, to a whole line less one such syllable." Objects to all borrowed
+    Greek terminology for prosody. A curio. Had he been reading Guest (E543)? </notes>
+  </item>
+
+
+  <item id="E340">
+   <bib> Chandler, Albert R. "Rhythms of Speech." Beauty and Human Nature. New York: D.
+    Appleton-Century Company, 1934. pp. 238-76. </bib>
+   <notes> See also the following chapter. Chandler reviews in detail the approaches of Scripture,
+    Wallin, Patterson, and Griffith, finally settling on a musical scansion of the verse-line as his
+    own preference. </notes>
+  </item>
+
+
+  <item id="E341">
+   <bib> Chapman, James. The Music, or Melody and Rhythmus of Language. Edinburgh: Michael Anderson,
+    1818; rpt Hildesheim, Germany, and New York: Georg Olms, 1972. </bib>
+   <notes> Followed by a second volume soon after: </notes>
+  </item>
+
+
+  <item id="E342">
+   <bib> -----. The Original Rhythmical Grammar of the English Language. Edinburgh: James Robertson,
+    1821. </bib>
+   <notes> The two volumes may be treated together, since despite some variance of terminology and
+    scansion notation between them they both seem to be virtual reprints of the system in Steele's
+    Prosodia Rationalis (E394). One might naturally expect that the diligent student would wish to
+    see his master's teachings carried on a generation or two after him, but such a characterization
+    would be insufficient here: whole sections of Steele are reproduced verbatim by Chapman. Of the
+    whole second work, the last section of chapter 13, "Errors of Prosodians," bears the most
+    interest to us now: Chapman criticizes Pemberton, Mitford, Walker, Murray, and Carey. </notes>
+  </item>
+
+
+  <item id="E343">
+   <bib> Croll, Morris W. "Music and Metrics: A Reconsideration." SP 20 (1923): 388-94; </bib>
+   <notes> rpt in Style, Rhetoric, and Rhythm: Essays by Morris W. Croll. Ed. J. Max Patrick and
+    Robert O. Evans. Princeton: Princeton University Press, 1966. pp. 430- 36. Lamenting the lapses
+    of contemporary metrical theory from Lanier's system of musical scansion (E364), Croll reasserts
+    that "the musical interpretation of our verse form is the correct statement of its rhythmical
+    law." Syllable-counting, the concepts of iambic, trochaic, etc., and the notions of rising and
+    falling rhythms "are real facts, of course, but they are not facts of rhythm"; they are "merely
+    optional modes of procedure, customs that may be observed or not at pleasure." </notes>
+  </item>
+
+
+  <item id="E344">
+   <bib> -----. "The Rhythm of English Verse." In Style, Rhetoric, and Rhythm: Essays by Morris W.
+    Croll. Ed. J. Max Patrick and Robert O. Evans. Princeton: Princeton University Press, 1966. pp.
+    365-429. </bib>
+   <notes> Introduction to the essay and its historical context by Evans, pp. 361-64. The essay was
+    first printed in mimeograph by the English Dept. of Princeton in 1929, though it may have
+    existed as early as 1923-24. See s.v. Croll in NUC. Rev: in Anglia 85 (1967): 184-85; in
+    Seventeenth Century News 25 (1967): 45- 46; in Modern Language Journal 51 (1967): 112-13; in
+    Thought 42 (1967): 295- 97. This short monograph outlines Croll's system of musical metrics,
+    which is derived from Lanier (E364) and closely parallel to Thomson (E404), whose work Croll
+    apparently did not see until its publication in 1923, the date of the first version of his own
+    essay. For scansion notation Croll employs a system of superlinear horizontal bar-lines with
+    flags to denote time-values. He considers iambic/trochaic verse to be in triple time,
+    anapestic/dactylic in duple, so stressed syllables are tacitly granted double the duration of
+    unstressed. Following illustration of these two, a long section treats the "double or compound
+    measure," i.e. dipodic meter. Here Croll treats the ballad meters, though his attempt to scan
+    every ballad as if it were dipodic is very obviously unreasonable. A final section postulates
+    the existence of yet one higher level, the "double-compound" (double-dipodic) measure, in effect
+    in double- quadruple time, one measure would therefore contain four degrees of stress, i.e.
+    This, too, seems an improbable complication, and examples are scarce. </notes>
+  </item>
+
+
+  <item id="E345">
+   <bib> Dabney, Julia Parker. The Musical Basis of Verse: A Scientific Study of the Principles of
+    Poetic Composition. London: Longmans, Green, 1901; rpt New York: AMS Press, 1970; </bib>
+   <notes>rpt Westport, Conn.: Greenwood Press, 1968. 269 pp. See also her subsequent article in
+    E345a The Athenaeum, 18 April 1903, pp. 506-7, on "The Musical Basis of Verse," and a very late
+    précis, E346 "The Relations Between Music and Poetry." Music Quarterly 13 (1927): 377- 83.
+   </notes>
+  </item>
+
+
+  <item id="E347">
+   <bib> Douady, Jules. La Prosodie Anglaise. Paris, Didier, 1928. 322 pp. </bib>
+   <notes> Rev: in Revue Belge de Philologie et d'Histoire 9 (1930): 606-7. An introduction to the
+    forms: his scansions are Musical. Chaucer is said to be the founder of our poetry, and many of
+    the quotations are taken from rather obscure poets. </notes>
+  </item>
+
+
+  <item id="E348">
+   <bib> Eliot, T. S. The Music of Poetry. Glasgow: Jackson and Sons, 1942; rpt in Partisan Review 9
+    (1942): 450-65. </bib>
+   <notes> Rpt in his On Poetry and Poets. London: Faber &amp; Faber, and New York: Farrar, Straus,
+    &amp; Giroux, 1957; rpt Noonday Press, 1961, pp. 17-33. There is too much ore here to mine in
+    one extract: Eliot reminds us that the study of metrics is a useful and necessary occupation but
+    only at an early stage, for "a study of anatomy will not teach you how to make a hen lay eggs":
+    assimilation and imitation create good poetry, not scansion or analysis. English verse has
+    received influence from many foreign verse-forms, and Eliot suggests that there may be two
+    systems operant at once in our meter even as accent and quantity both were attended to in late
+    Latin verse. But he insists that meter cannot be studied apart from meaning. There is no such
+    thing as appreciating the melody of verse without understanding its sense. "Melody" is not mere
+    mellifluousness, and the mimetic or semantic range of pure sound is quite limited. Altogether,
+    poetry is close kin to conversation, and cannot afford to stray far or long from the common
+    speech. Blank verse and free verse are discussed. </notes>
+  </item>
+
+
+  <item id="E349">
+   <bib> Ellis, Oliver C. de C. "Stream and Structure in English Poetry." In Poetic Technique.
+    Altrincham: John Sherratt &amp; Son, 1949. pp. 11-64. </bib>
+   <notes> The three gentlemen who jointly wrote and published this book comprise the Poetry Lover's
+    Fellowship; that may be taken as some indication of its quality. Mr. Ellis believes that
+    "English Prosody, then, is a science of music." In his system every foot begins with a stress.
+    He opines that the decasyllabic line is the progeny of two of the older octosyllables, so that
+    the normal pentameter is to be thought of as followed by six metrical rests. An original
+    scansion-system is included. (The following essay by Geoffrey Johnson, however, on composing
+    verse, contains some very sensible suggestions.) Cf. I10. </notes>
+  </item>
+
+
+  <item id="E350">
+   <bib> -----. "Suggestions for a System of Scansion of English." In the Manchester Quarterly and
+    Poetry Review for Nov. 1923; rpt in his Poetry and Science. Manchester: Sharratt &amp; Hughes,
+    1924. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E351">
+   <bib> Frye, Northrop. "Music in Poetry." University of Toronto Quarterly 11 (1942): 167- 79. </bib>
+   <notes> Subsequent alternative versions of this essay appear as: </notes>
+  </item>
+
+
+  <item id="E352">
+   <bib> -----. "The Rhythm of Recurrence: Epos." In his Anatomy of Criticism. Princeton: Princeton
+    University Press, 1957; rpt New York: Atheneum, 1965. pp. 251-62. Rpt in Gross (A23), pp.
+    168-80. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E353">
+   <bib> -----. "Lexis and Melos." Introduction to Frye (A15), pp. ix-xxvii. </bib>
+   <notes> Interested in "what affinities to music may be discerned in the features that poetry
+    shares with music--sound and rhythm," Frye elucidates some of the manifold "confusion between
+    the musical and the euphonious" in poetry. "Music" of course is not "beauty of sound" but
+    "organization of sound." Hence, "when we find a careful balancing of vowels and consonants and a
+    dreamy sensuous flow of sound, we are probably dealing with an unmusical poet. Pope, Keats, and
+    Tennyson are all unmusical. . . . When we find sharp barking accents, crabbed and obscure
+    language, mouthfuls of consonants, and long, lumbering polysyllables, we are probably dealing
+    with melos, or poetry which shows an analogy to music, if not an actual influence from it."
+    Metrically, "when in poetry we have a predominating stress accent and a variable number of
+    syllables between two stresses . . . we have musical poetry, that is, poetry which resembles in
+    its structure the music contemporary with it." Frye believes that behind the iambic pentameter
+    lies a four-stress line which "seems to be inherent in the structure of the English language,"
+    adducing as proof some musical scansions of lines from Lydgate and Skelton. (This I think is a
+    confusion of meter for rhythm.) Imitative effects are also discussed. In sum, Frye posits that
+    the two varieties of poetic melos arise "the one from the external influence of music, the
+    other, internal, from the language itself." </notes>
+  </item>
+
+
+  <item id="E354">
+   <bib> Gardiner, William. The Music of Nature. . . . London: Longman, Brown, Green and Longmans,
+    1832; 2nd ed. 1843. </bib>
+   <notes> See chapters 50 and 51 on "Rhythm in Language" and "Quantity" (pp. 476- 98). Gardiner
+    scans verse by musical scoring, the stress after the bar, iambic lines usually being set as
+    Common (duple) Time. </notes>
+  </item>
+
+
+  <item id="E355">
+   <bib> Hallock-Greenewalt, Mary. "Pulse in Verbal Rhythm." Poet-Lore 16 (1905): 79-85. </bib>
+   <notes> Wherever the pied piper Lanier should lead. . . . Her only new verse to the song is to
+    propose anew the old cardiac systole-and diastole as the basis of double meters. </notes>
+  </item>
+
+
+  <item id="E356">
+   <bib> Hendren, Joseph W. Time and Stress in English Verse with Special Reference to Lanier's
+    Theory of Rhythm. Rice Institute Pamphlets, vol. 46, no. 2. Houston, Texas: The Rice Institute,
+    1959. 72 pp. </bib>
+   <notes> Intended as an apologia for and simplified exposition of Lanier's system of temporal
+    metrics (E364). Hendren considers the verse measure "the exact counterpart of that used in
+    music," he considers the binary meters to be in triple rhythm, and he scans alternately with
+    musical notation and with numerals indicating syllabic duration (he believes that the auditor
+    can discriminate syllable-lengths of 3⁄4, 1, 11⁄2, and 2). And though Hendren recognizes four
+    degrees of stress, his scansions strongly suggest a belief that stressed syllables are doubled
+    in length--a ghost we had thought long since buried. Hendren has no evidence for that claim
+    other than an appeal to authority, and he recognizes rightly that objective studies of rhythm
+    are less relevant than subjective (perceptual) ones. But any thorough study of Lanier will find
+    some salient observations and sensible adjustments of his theory herein. See Hendren's earlier
+    monograph at E871. </notes>
+  </item>
+
+
+  <item id="E357">
+   <bib> Hendren, Joseph W., W. K. Wimsatt, Jr., and Monroe C. Beardsley. "A Word for Rhythm and a
+    Word for Meter." PMLA 76 (1961): 300-8. </bib>
+   <notes> [Hendren has the first six pages, W &amp; B the last three.] Hendren begins his reply to
+    Wimsatt and Beardsley by collapsing several crucial distinctions ("to reject measured time as an
+    integral character of metrical structure is to deny the existence of verse rhythm"; "we cannot.
+    . . separate meter from the performance"; and tapping out the beats of a blank- verse line "will
+    show its triple rhythm and its plain arrangement of long and short syllables"), then argues that
+    the isochronism which may be demonstrated in tapping out lines is not mathematically precise;
+    the durations are but "sensibly equal." He recites the obligatory temporalist litany of
+    Poetry-and- Music, approves the work of Snell, Schramm, and Thomson, then returns finally to a
+    methodical countering of the points raised by Wimsatt and Beardsley, especially the picket-fence
+    analogy. Wimsatt and Beardsley in their reply expand their scope to Hendren's monograph (E356),
+    attacking his assumptions ("measures when recited will often differ enormously") as well as the
+    experimental evidence for isochrony. They respond to Hendren's crucial query "If the stresses
+    are not measuring time in the recitation of the verse, what are we to suppose they are measuring
+    instead?" with a trenchant answer, "Syllables, number of syllables, are measured--syllables
+    grouped according to stress and slack, so many slacks between each stress." And they summarize
+    their traditional position concisely: "Syllabic quantitative meters are not possible in English
+    because syllabic quantity is not an objective feature of English. Isochronism (of intervals
+    between primary stresses, as urged by the linguists) is not a principle of English meter,
+    because if it is an actual feature of the language, it is a constant feature and is hence not
+    susceptible of the manipulation by which the poet distinguishes metrical from non-metrical."
+    They even go so far as to disparage Hendren for "the irrelevance of his theory to actual
+    problems of English meter." </notes>
+  </item>
+
+
+  <item id="E358">
+   <bib> Hollander, John. "The Music of Poetry." JAAC 15 (1956): 232-44. </bib>
+   <notes> With a supple grasp of the whole warp of western melos and with some deft analytical
+    fingering, Hollander ravels out the knotted-up skeins of music's relation to verse, vis |`a vis
+    meter, from classical Greece to Sidney Lanier. That is, he traces out the divergence of verse
+    meter from its origin in music, the later forced conflations of dissimilar metrical systems in
+    verse (Latin with Greek, Romance with Old English), and the resultant confounding of prosodic
+    terminology. Finally, his remarks on the convenient imprecisions and the category mistakes of
+    musical theories of meter are trenchant, and his insistence on a recognition of the distinction
+    between performative and descriptive systems of scansion amounts to something like a sine qua
+    non for all future theories of English meter. </notes>
+  </item>
+
+
+  <item id="E359">
+   <bib> Jacob, Cary F. "On Tonality in English Verse." Sewanee Review 17 (1909): 448-57. </bib>
+   <notes> A surprisingly detailed immersion in the fundamentals of acoustic phonetics yields a
+    surprising conclusion: strictly speaking, none of the three musical terms key, pitch, or harmony
+    may be properly used to describe verse-structure-- verse has only tone-color (the difference
+    between two instruments playing the same note). Musical terminology really ought not be used at
+    all for verse. </notes>
+  </item>
+
+
+  <item id="E360">
+   <bib> Jones, Llewellyn. "The Mechanics of Poetry." Bookman 56 (1922): 503-5. </bib>
+   <notes> Reviewing a primer of versification, Jones rebukes its authors for basing their metrical
+    theory on accent alone, rather than on time, which he himself supports. </notes>
+  </item>
+
+
+  <item id="E361">
+   <bib> -----. "A Principle of Prosody." The Freeman 5 (1922): 162. Reply by C. E. Russell, p. 402;
+    rejoinder by Jones, p. 593. </bib>
+   <notes> Jones disagrees with Lanier (E364) in claiming that lines are filled with both syllables
+    and pauses, so that the timing is duple (2/4) not triple (3/8), each bar consisting of two
+    quarter-notes rather than an eighth-note and a quarter-note. Russell defends Lanier. </notes>
+  </item>
+
+
+  <item id="E362">
+   <bib> Kafalenos, Emma M. "Possibililties of Isochrony: A Study of Rhythm in Modern Poetry." DAI
+    35 (1974): 2273A (Washington). </bib>
+   <notes> Approves of musical notation of the temporal dimension of poetry but notes that Hopkins
+    wrote isochronous feet without resorting to musical notation and that William Carlos Williams
+    wrote what amounts to short isochronous lines. </notes>
+  </item>
+
+
+  <item id="E363">
+   <bib> Kroeger, A. E. "Rhythm." Southern Magazine 11 (1872): 220-24. </bib>
+   <notes> We are told that "reasoning has nothing whatever to do with the matter of rhythm," a
+    statement this article indeed bears out. Kroeger scans by length, one long equalling two shorts,
+    but marks meter (calling it rhythm) with musical notation, a procedure which results in the
+    incredible blunder of calling iambic-trochaic patterns triple time and dactylic-anapestic
+    patterns duple (common) time. Even so, he complains that the macron-breve notation of poetry
+    cannot indicate more subtle variations of tempo, and he admits that quantities in speech vary
+    enormously. </notes>
+  </item>
+
+
+  <item id="E364">
+   <bib> Lanier, Sidney. The Science of English Verse. New York: Charles Scribner's Sons, 1880, rpt
+    1898, 1901, 1927. </bib>
+   <notes> "Imprint dates on copies vary." Rpt in The Centennial Edition of the Works of Sidney
+    Lanier. Vol. II. The Science of English Verse and Essays on Music. Ed. P. F. Baum. Baltimore:
+    Johns Hopkins University Press, 1945. (Baum's Introduction should not be overlooked). A seminal
+    text in metrical theory, less interesting in itself perhaps than for the sake of the enormous
+    influence it exerted on critical conceptions of poetic form for more than forty years after its
+    publication. The axiom of all of Lanier's thought is that human speech (and, by extension,
+    spoken verse-- poetry) is a sound-phenomenon, produced by a reed instrument (the vocal
+    apparatus), and organized in duration , pitch, and intensity (principally the first), making it
+    theoretically indistinguishable from music. That is, he conceives of verse and music not merely
+    as analogous phenomena but as coincident in origin and correpondent in ordering-principles--"the
+    two species of the genus art of sound." From this one axiom of the identity of all patterning of
+    Sound, three propositions may be derived which apply equally to music and verse and produce
+    differing effects merely due to the qualitative differences in "musical sounds" and "spoken
+    words": these propositions express the co-ordinations of the ear in terms of duration, pitch,
+    and quality as (respectively) Rhythm, Tune, and Tone-Color. Rhythm, the subject which occupies
+    Part I of the treatise, may be classed as primary or secondary and occurs in 3-rhythm and
+    4-rhythm modes, as we learn in music. Lanier thinks "no circumstance in the history of
+    aesthetics so curious as the overpowering passion of the English [poetic] ear for 3-rhythm as
+    opposed to 4-rhythm." For scansion, of course, the line of verse is denoted by a time-signature
+    and musical notes expressing the durations of the syllables. Metrical (musical) rests are
+    therefore permissible and valuable features of verse-structure. Part II, entirely ignored by
+    subsequent scholars, treats Tune; Part III, rhyme (at length), alliteration (short notes), and
+    Sylvester's "phonetic syzygy" (E402). Metrical analysis of Shakespeare's verse receives
+    considerable attention; see pp. 185-224. Lanier's achievement in the history of metrical theory
+    was to systematize the verse-music analogy and to popularize the musical scansion-sigla
+    suggested by Sir Joshua Steele (E394) a century earlier. A century later he is not followed at
+    all, his musical scansions actually being thought unduly precise and therefore denoting features
+    of performance rather than paradigms. And there is the added twist that Lanier's scansions
+    depart from all established musical convention in not placing the accented note first in the
+    bar--this seems a flagrant inconsistency in the sort of theory where consistency is only less
+    crucial a criterion than clarity. Omond (A5) appreciated the book (see pp. 195-202) but
+    Saintsbury rattled his armor (A8, vol. 3, pp. 493-97). See also J214. For two modern
+    applications of Lanier's theory to Old and Middle English verse, see Pope (J241, J242) and
+    Schiller (K329). See also Hendren (E356) and Niessner (E382). </notes>
+  </item>
+
+
+  <item id="E365">
+   <bib> Lightfoot, Marjorie J. "Accent and Time in Descriptive Prosody." Word 26 (1970): 47-64. </bib>
+   <notes> Discussion of linguistic research on and conceptions of syllable, word-stress,
+    sentence-stress, and isochronism. </notes>
+  </item>
+
+
+  <item id="E366">
+   <bib> -----. "Description and Transcription of Temporal Patterns of Rhythm in English Verse."
+    Language and Style 7 (1974): 192-204. </bib>
+   <notes> Adducing all the familiar authorities, the author inquires as to which type of musical
+    notation would be most accurate for English verse--the divisive (regular measure), the additive
+    (changes in time-signature between measures), or the free temporal (no fixed time-signatures at
+    all). She concludes that the first of these notations, the one we have known all along, is the
+    best. Cf Mussulman (E380). </notes>
+  </item>
+
+
+  <item id="E367">
+   <bib> -----. "Numerical, Sequential, and Temporal Patterns in English Verse." Quarterly Journal
+    of Speech 57 (1971): 193-203. </bib>
+   <notes> Observes, simply, that numbering (e.g. of syllables and/or of stresses), sequence (e.g.
+    alternation of stress and slack), and timing (isochronous intervals between stresses) are three
+    principles that conjointly organize verbal sequences into verse. She considers all three to be
+    constitutive of meter. Both musical and acoustic approaches are embraced: scansions are in
+    musical notation, and iambic verse is said to be in Triple time based on Snell's conclusion
+    (E452) that stressed syllables are twice as long as unstressed. Meter we can only identify
+    through Performance. Verse-types: syllabic, accentual-syllabic, measured accentual, and
+    unmeasured accentual (free). </notes>
+  </item>
+
+
+  <item id="E368">
+   <bib> -----. "Temporal Prosody: Verse Feet, Measures, Time, Syllabic Distribution, and
+    Isochronous Accent." Language and Style 7 (1974): 245-60. </bib>
+   <notes> An effort at clarifying some of the key terms in temporal metrics. "Verse feet" specify
+    the numerical and sequential constraints on the verse, whereas "measures" reveal the durations
+    of syllables and pauses "in verse rhythm." Lightfoot does not explicitly differentiate meter
+    from rhythm, though she does hold that "verse feet and measures identify different phenomena,
+    both of which are valuable to descriptive prosody." The same meter may have various
+    time-signatures (though iambic verse is usually in triple time, stressed syllables being double
+    the length of unstressed), though transpositions occur in performance. "Rhetorical accents" are
+    preserved as "isochronous accents" in the line even when they do not match the ideal pattern of
+    "metrical stresses." The formulations here are new, but the concepts underneath them are not.
+    Occam's Razor is wanted badly. </notes>
+  </item>
+
+
+  <item id="E369">
+   <bib> MacColl, D. S. "Metre." Saturday Review 141 (1926): 153-54, 186-87; rpt in his Confessions
+    of a Keeper, and Other Papers. London: Alexander Macklehose, 1931. pp. 313-22. </bib>
+   <notes> A critique of E. A. Sonnenschein (E236), particularly his rejection of isochronism;
+    MacColl believes the stress-intervals to be perceptually equal if not absolutely so, and he
+    argues for the metrical pause. Sonnenschein replies amicably (in Saturday Review) on pp. 293-94;
+    final exchange of letters, p. 336 (MacColl) and pp. 367-68 (Sonnenschein). </notes>
+  </item>
+
+
+  <item id="E370">
+   <bib> -----. "Patmore and Hopkins: Sense and Nonsense in English Prosody." London Mercury 38
+    (1938): 217-24. </bib>
+   <notes> Sometime after delivering his English Association lecture (E371), MacColl discovered
+    Patmore's essay on the musical theory of meter (E384) which he here Elevates, with all due
+    pieties, at the same time Excommunicating Hopkins for his "mistaken views on prosody," pausing
+    only to enumerate the latter's metrical Sins. He believes that Hopkins recanted late in his life
+    in favor of Patmore's views, and that no one has noticed this fact. </notes>
+  </item>
+
+
+  <item id="E371">
+   <bib> -----. "Rhythm in English Verse, Prose, and Speech." Essays and Studies 5 (1914): 7-50. </bib>
+   <notes> "My contentions will be (1) that the distinction between 'quantitative' and 'accentual'
+    verse is a false one; that the current theory of English prosody [Saintsbury's] is
+    unintelligible save by reference to the classical, and that the classical itself is a musical
+    theory; (2) that the musical law of rhythm alone can explain the structure of English verse
+    [Lanier]; (3) that it also underlies the structure not only of 'numerous' prose, but of all
+    prose and speech." The essay is a long critique of Saintsbury's position from the perspective of
+    Lanier and Thomson. </notes>
+  </item>
+
+
+  <item id="E372">
+   <bib> Malden, Henry. "On Greek and English Versification." Proceedings of the Philological
+    Society [retitled Transactions after 1854] 3 (1847): 95-110. </bib>
+   <notes> A very good example of the confusions fostered in British studies of versification in the
+    middle of the last century by undue allegiance to classical philology. Malden, distinguishing
+    between syllabic duration, pitch, and stress, reaffirms the commonplaces that quantity in
+    English is simply more variable than in Classical Greek, and that while Greek accent was by
+    pitch English is by stress, but he considers the guiding principle of versification in both
+    languages to be Time, i.e. Music. "Indeed it is the peculiar characteristic of verse in all
+    languages . . . that it is speech arranged in musical time." "Time, as essential to music, must
+    be essential to verse." In English versification the feet are isochronous measures of time
+    "beginning or ending" with a stress, preferably the former, Malden thinks, exactly as in music.
+    The influence of Steele's disciples is still strong ca. 1850. </notes>
+  </item>
+
+
+  <item id="E373">
+   <bib> Manwaring, Edward. Of Harmony in Numbers in Latin and English Prose and in English Poetry.
+    London: M. Cooper, 1744; rpt New York: Garland, 1970. 53 pp. </bib>
+   <notes> A treatise on rhythm--the clausulae of rhythmical prose and the regularized metrical feet
+    of poetry. The whole discourse must have seemed pedantic even in the eighteenth century; it is
+    saturated with classical prosodic and musical terminology and is therefore quite convoluted.
+    "Numbers" seems to mean "feet" (pp. 10-11), these being the aggregates of "Rhythms" (12-14),
+    both irregular and regular. Of verse (Chapter 4), Manwaring holds that English Versification is
+    "made according to the diatonic scale," i.e., the "half and whole Times" of the iambic or
+    trochaic feet are analogous to the half and whole steps or Tones in music. Iambic verse on this
+    account would be in triple time, and in fact it is barred so that the "first syllable in every
+    full foot" is "acuted" (accent is based on pitch here). English verse, we are told near the end,
+    must attend to accent, quantity, and "Concord" (caesure-placement); the pentameter "is a seventh
+    in music." Fussell's remarks on this work (E34) show only that he failed to read it closely, or
+    altogether. Cf. M130. </notes>
+  </item>
+
+
+  <item id="E374">
+   <bib> Monroe, Harriet. Poets &amp; Their Art. New York: Macmillan, 1926. </bib>
+   <notes> The concluding Section on "Poetic Rhythms" reprints four essays, three from Poetry--"A
+    Word About Prosody" (E377), "Rhythms of English Verse" (E376), "Dr. Patterson's Researches"
+    (E242)--and one from the English Journal, "The Free Verse Movement," (E1511). </notes>
+  </item>
+
+
+  <item id="E375">
+   <bib> -----. "Prosody." Poetry 20 (1922): 148-52. </bib>
+   <notes> Vigorous applause for the recent "scientific" approach to metrics, with particular
+    approval of the musical notation-system for exactitude. </notes>
+  </item>
+
+
+  <item id="E376">
+   <bib> -----. "Rhythms of English Verse." Poetry 3 (1913-14): 61-68, 100-11; </bib>
+   <notes>rpt in slightly revised form in her Poets &amp; Their Art (E374), pp. 268-84. Praises
+    Lanier as the sole Authority under the heavens, and triumphantly exclaims that "English verse is
+    as quantitative as Greek verse." Musical scansions. </notes>
+  </item>
+
+
+  <item id="E377">
+   <bib> -----. "A Word about Prosody." Poetry 27 (1925): 149-53; </bib>
+   <notes> rpt in her Poets &amp; Their Art (E374), pp. 263-67. The essay is--in her words--"a
+    repetition of the obvious." </notes>
+  </item>
+
+
+  <item id="E378">
+   <bib> More, Paul Elmer. "Rhythm and the Science of Poetry." Sewanee Review 10 (1902): 406-17; </bib>
+   <notes> rpt as "The Science of English Verse." in his Shelburne Essays, First Series. 2 vols.
+    Boston: Houghton Mifflin, 1904. Vol. 1, pp. 103-21. A review of Liddell (E424), whom More
+    redresses for an offensive messianic tone. Along the way, More himself postulates Three Laws of
+    Rhythm ("Rhythm . . . is a branch of acoustics, is a measurement of time marked off by the
+    regular recurrence of similar events, in verse is . . . much less absolute and regular than
+    rhythm in music. . . ."). He argues that quantity is inseparable from stress (and also pitch) in
+    both the Classical languages and Modern English, but that the laws of quantity in Modern English
+    are not the same as those for the classical languages; he notes a "rhythmizing instinct" in our
+    reading aloud of nursery rhymes, as opposed to our "normal unrhythmical enunciation" of speech.
+    Approves of Lanier, Goodell, and Schipper. E379 Readers interested in More's reputation may
+    consult R. Shafer's Paul Elmer More and American Criticism (1935). </notes>
+  </item>
+
+
+  <item id="E380">
+   <bib> Mussulman, Joseph A. "A Descriptive System of Musical Prosody." Centennial Review of Arts
+    and Sciences 9 (1965): 332-47. </bib>
+   <notes> No writer who has wanted to describe verse rhythm with musical notation has displayed
+    greater depth of comprehension about musical structure than this one. The concepts of divisive,
+    additive, free, and numerical meter in music provide a more sophisticated and flexible prosodic
+    instrument, each type of meter having relative advantages and defects for describing various
+    situations in verse-lines. Do not neglect the final footnote on pitch. See also Lightfoot
+    (E366). </notes>
+  </item>
+
+
+  <item id="E381">
+   <bib> Newman, Ernest. "The Rationale of English Verse-Rhythm." The Weekly Critical Review
+    (Paris), 3, 10, 17, 24 September 1903. </bib>
+   <notes> Not seen; very obscure. Discussed in Omond (A5), p. 245, however. </notes>
+  </item>
+
+
+  <item id="E382">
+   <bib> Neissner, Gertrude. Sidney Lanier als Lyriker und seine metrischen Theorien. Diss., Vienna,
+    1939. 112 pp. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E383">
+   <bib> Odell, J. An Essay on the Elements, Accents, and Prosody of the English Language. London:
+    Lackington, Allen, 1806; rpt Hildescheim, Germany, and New York: Georg Olms, 1969. </bib>
+   <notes> Quantity is as distinct from accent in classical Greek as it is in modern English; our
+    verse is based on "emphasis," the term "accent" being used for pitch or musical tone, as in
+    classical speech. Thereafter, Odell follows Steele (E394) on "cadence": "Rhythmus is a general
+    term, comprising two distinct modes, which are called common time and triple time, or common and
+    triple metre. . . . rhythmus has its essence in arsis and thesis, but metre in syllables and in
+    their difference." Syllable length by position is rejected, and since emphasis is said to have
+    controlled quantity even in Greek, "metre is always subordinate to rhythmus." The metrical
+    cadence is "equivalent to a musical bar," and so begins an emphatic syllable; it may contain a
+    metrical rest, so that all the cadences will have equal duration. </notes>
+  </item>
+
+
+  <item id="E384">
+   <bib> Patmore, Coventry. "English Metrical Critics." North British Review 27 (1857): 127-61. </bib>
+   <notes> Revised and reprinted as "Prefatory Study on English Metrical Law" in his Amelia,
+    Tamerton Church-Tower, Etc., London: G. Bell and Sons, 1878; this text changed its title but
+    otherwise remained virtually unchanged through many subsequent reprintings. There is an
+    excellent twentieth-century edition: </notes>
+  </item>
+
+
+  <item id="E385">
+   <bib> Roth, Sister Mary Augustine. Coventry Patmore's "Essay on English Metrical Law": A Critical
+    Edition with a Commentary. Washington, D. C.: Catholic University of America Press, 1961. </bib>
+   <notes> (Her dissertation.) Roth takes her text of the Essay from the 5th Collective Edition of
+    Patmore's Poems, 1894. Her bibliography contains 281 entries. The "critics" Patmore has in mind
+    are mainly Guest (E543) and O'Brian (M151). Though most of Patmore's ideas were not new at the
+    time, still his essay has been very influential, and it stands as one of the three or four major
+    documents in the evolution of the Temporal theory of verse. In the essay he pursues vigorously
+    the case for verse being divided into "isochronous intervals," though he holds these to be
+    perceptually (mentally) equal rather than physically. These intervals are to be demarcated by
+    "an 'ictus' or 'beat,' actual or mental. . . . it has no material and external existence at
+    all." (One notes the conflation or confusion of metrical ictus and speech stress here.) Mitford
+    (E600) and Steele (E394) are praised, and Hegel's Aesthetics provides some further foundation.
+    But Patmore's most important and original contribution is his argument that English verse is all
+    dipodic: "the elementary measure, or integer, of English verse is double the measure of ordinary
+    prose,--that is to say, it is the space which is bounded by alternate accents; that every verse
+    proper contains two, three, or four of these 'metres,' or as with a little allowance they may be
+    called, 'dipodes.'" He also argues the importance of medial and final metrical pauses. O'Brian's
+    work prompts an argument that alliteration in Anglo-Saxon was no mere ornament but a metrical
+    device needed to mark the accents; by extension, the, rhyme in modern verse serves a metrical
+    function also. See also Stobie (E944) chapter 4 of Holloway (E914), and Patmore (E937). For
+    further information on Patmore, see </notes>
+  </item>
+
+
+
+  <item id="E386">
+   <bib> Baum, P. F. "Coventry Patmore's Literary Criticism" in University of California Chronicle
+    25 (1923): 244-60. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E387">
+   <bib> [Ramsay Allan, Jr.] An Enquiry into the principles of English versification, with some
+    analogical remarks upon the versification of the Ancients. Manuscript in the British Library. </bib>
+   <notes> n.p., n.d. Omond owned the MS before bequeathing it; see his discussion in A5, pp. 95-
+    97. Ramsay generally follows Steele (E394). </notes>
+  </item>
+
+
+  <item id="E388">
+   <bib> Riley, Alice C. D. The Elements of English Verse Correlated to Music: A Manual for
+    Teachers. Chicago: C. F. Summy Co., 1906. 148 pp. </bib>
+   <notes> Intended for the teaching of rhythm--in verse as in music, and vice versa--to children in
+    the elementary grades. </notes>
+  </item>
+
+
+  <item id="E389">
+   <bib> Ruskin, John. Elements of English Prosody for Use in St. George's Schools. Orpington
+    (Kent): George Allen, 1880. 62 pp. </bib>
+   <notes> A pamphlet tract for students. Saintsbury (A8) noted the "eccentricities of
+    nomenclature," and concluded that "Mr. Ruskin was himself very imperfectly trained in these
+    matters" (vol.3, p. 450). If Ruskin in fact was trained, this would be fair, but he seems mainly
+    interested in setting verse lines to music, and he hardly troubles himself about precision of
+    either thought or terms (he believes that "the stress-accent on English words will be found
+    always to involve delay as well as energy or loudness of pronunciation, and that, at all events
+    in verse, it may be considered as identical with quantity"; if the examples he gives prove
+    false, we are told to substitute other correct ones), so I suspect that he taught himself such
+    as he knows. </notes>
+  </item>
+
+
+  <item id="E390">
+   <bib> Sapir, Edward. "The Musical Foundations of Verse." JEGP 20 (1921): 213-28. </bib>
+   <notes> Perhaps a misleading title: Sapir approves of Amy Lowell's idea that the lineation of
+    free verse corresponds to demarcations of time, yet though free verse is timed, S. admits that
+    standard English verse is stressed verse, and that in fact the feature used to mark the
+    "sectioning" or "periodic structure" of verse can be any of a number of things. He also thinks
+    "the same rhythmic contour" will be verse or prose depending on how deeply it strikes our
+    attention--it is not an objective phenomenon. </notes>
+  </item>
+
+
+  <item id="E391">
+   <bib> Scholl, Evelyn H. "English Metre Once More." PMLA 63 (1948): 293-326. </bib>
+   <notes> An effort to show that the meter of the songs written by the school of English lutenists
+    (1597-1632) is in fact the meter of all modern English verse--that is, a temporal meter, barred
+    in measures beginning with a stress, in duple and triple time, with metrical rests. The chief
+    feature of the lute-songs is that the musical rhythm is completely subordinate to the words; in
+    fact, they are "like speech with a definite pitch." In general Scholl rejects the notion that
+    syllable- counting is one axiom of English meter. She also discusses, in the course of her
+    exposition, the views of virtually all the major modern metrists. </notes>
+  </item>
+
+
+  <item id="E392">
+   <bib> Sibbald, James, ed. Chronicle of Scottish Poetry; from the thirteenth century to the union
+    of the crowns. 4 vols. Edinburgh; C. Stewart, 1802. </bib>
+   <notes> See the preface to vol. 4, esp. pp. xlvi-lxiii: "in many of the antient Scottish, as well
+    as English poems. . . . the measure seems rather to be regulated by the division of the time
+    required for recitation of the line, into portions like musical phrases; not necessarily equal
+    in the number of syllables, but requiring an equal period of time for their pronunciation. . . .
+    which in music is called common time." "The mechanism and scheme of Anglo-Saxon versification
+    seem to depend entirely upon quantity . . . without any other regard to the number of syllables
+    than that the longest line shall not contain more than twice the number of the shortest
+    corresponding line." Musical scoring is used for scansion of examples. </notes>
+  </item>
+
+
+  <item id="E393">
+   <bib> Steele, Sir Joshua. An Essay Towards Establishing the Melody and Measure of Speech, to be
+    Expressed and Perpetrated by Peculiar Symbols. London: J. Almon, 1775; </bib>
+   <notes> facsimile rpt: English Linguistics 1500-1880, no. 172. Menston, Yorkshire: Scolar Press,
+    1969; rpt Ann Arbor: University Microfilms, 1953. Expanded in the second edition as: </notes>
+  </item>
+
+
+  <item id="E394">
+   <bib> -----. Prosodia Rationalis: or an Essay Towards Establishing [etc.]. London: T. Payne &amp;
+    Son, 1779. </bib>
+   <notes> Bysshe's influence on the eighteenth century is greater (simply by precedence), but
+    Steele is among the two or three most influential figures in the entire history of English
+    versification, as well as a major figure in the history of phonetics. He is responsible for
+    charting an entirely new course in verse- theory, despite the fact that his magnum opus,
+    Prosodia Rationalis, is a treatise on suprasegmental phonology, not metrics. Steele's theory of
+    verse influenced Thelwall, Odell, Chapman, and Roe, and after them Coventry Patmore, A. J.
+    Ellis, Sidney Lanier, T. S. Omond, and John C. Pope. He devoted his career to devising a set of
+    orthographic symbols to transcribe the inflectional features of English speech (stress, pitch,
+    and duration) and, by extension, the structure of English verse; these were quasi-musical. Hence
+    Steele transfers the structure of music, vis |`a vis verse, from the level of analogy to the
+    level of identity. In adapting music to describe verse he was preceded by Gildon (E164), but
+    Gildon never applied the idea beyond a mere example. Steele deserves the credit for elaborating
+    the system formally; he shrugs off the half-hearted efforts of the earlier prosodists and
+    reaches out to grasp the wider theoretical implications of the ideas he is pursuing. Prosodia
+    Rationalis, however, is more a book to be read about than read. It began as a reply to Lord
+    Monboddo and his doctrine that "the music of our language. . . [is] nothing better than the
+    music of a drum, in which we perceive no difference except that of louder or softer." But as
+    each section of Steele's argument was completed, he sent it off for Lord Monboddo's comments,
+    which were then incorporated along with Steele's replies in subsequent sections of the book:
+    "consequently, Prosodia Rationalis is, in effect, an extended dialogue between the two men, to
+    which is appended, in the second edition, an additional series of questions from other hands,
+    together with the author's replies." (Omond). Steele obviously went far out of his way to
+    present his system as even-handedly as possible. His system distinguishes five features: •
+    accent: by which Steele means pitch, or tone, and which he is perceptive enough to recognize
+    changes in even slides, not in discrete or abrupt shifts; • quantity: meaning relative duration
+    of syllables or pauses. Steele uses quasi- musical symbols to denote "accent" and quantity
+    simultaneously, the heads denoting the direction of pitch-change, the tails (tails above heads
+    in his system), duration: • emphasis: a term Steele uses ambivalently and confusedly to denote
+    both the absolute duration between stresses (cadence, bar), and also the stresses themselves,
+    based on the analogy of the systolic circulatory system of the human body, the heartbeat of
+    which is both regular and intensified. Hence Steele considers syllables either "heavy" or
+    "light" (poise is the general term for this phenomenon), and he distinguishes three degrees,
+    heavy, light, and lightest; "the rhythmus or measure of speech is the number of cadences in a
+    line or stanza"; • pause: in four durations: semibreve, minim, crotchet, and quaver; and •
+    force: or loudness, also in four gradations: louder, loud, soft, softer. In versification, time
+    not syllables is to be the basis of meter; the concept of the metrical pause originates with
+    Steele. But he recognizes also that even if the structure of verse is actually that of music the
+    pentameter line cannot be scanned with bar-lines before the stresses, i.e. with a final
+    monosyllabic foot and an initial anacrusis; instead, Steele scans it with a stressed rest
+    beginning the line and an unstressed rest at the end: (/p) I do not think that you will ever
+    know (p). The five-foot line thus becomes a six- or even as much as an eight- in some cases;
+    Steele does not seem to mind the extremities of this position. Mixing of common and triple time
+    is therefore no problem at all, nor is trisyllabic substitution, since everything depends soley
+    on time. Altogether, one may say that Steele's ideas were, with some slight qualifications,
+    essentially sound. The notion of emphasis is the chief weakness of his analysis. Some of his
+    transcriptions are unreliable, but since he had no technology to support him, no recorders or
+    oscilloscopes for playback, he had to rely on his ear alone for the one and only hearing of the
+    line. In the history of phonetics he position is very firm. In the history of versification he
+    represents the first, perhaps the foremost, proponent of a view that has not been widely
+    accepted as the correct account of meter but which has been widely recognized as legitimate,
+    even indispensable, as an account of rhythm. After Lanier even several of the prominent Temporal
+    metrists shied away from the concept of music as anything more than analogy to verse, yet these
+    judgments could be comfortably made from the distance of a century and a half from Steele's
+    pioneering work. Reference: Omond (A5), pp. 87-95, Fussell (E34), pp. 139-43. See also the
+    following very informative essays: </notes>
+  </item>
+
+
+
+
+  <item id="E395">
+   <bib> Abercrombie, David. "Steele, Mondboddo, and Garrick." In his Studies in Phonetics and
+    Linguistics. London: Oxford University Press, 1965. pp. 35-44. </bib>
+   <notes> </notes>
+  </item>
+
+
+
+
+  <item id="E396">
+   <bib> Alkon, Paul K. "Joshua Steele and the Melody of Speech." Language and Speech 2 (1959):
+    154-74. </bib>
+   <notes> </notes>
+  </item>
+
+
+
+
+  <item id="E397">
+   <bib> Barker, Marie L. "Joshua Steele on Speech-Melody (1779)." MLR 19 (1924): 169-74. </bib>
+   <notes> </notes>
+  </item>
+
+
+
+
+  <item id="E398">
+   <bib> Neuman, John B. "The Phonetic Aspect of Joshua Steele's System of Prosody." Speech
+    Monographs 18 (1951): 279-87. </bib>
+   <notes> See also D. Crystal, Prosodic Systems and Intonation in English (1969), 22-25. </notes>
+  </item>
+
+
+  <item id="E399">
+   <bib> Stetson, R. H., and T. E. Tuthill. "Measurement of Rhythmic Unit-Groups at Different
+    Tempos." Studies From the Psychological Laboratory of Oberlin College. In Psychological
+    Monographs, vol. 32, no. 3 (1923), pp. 41-51. </bib>
+   <notes> This happens to be a study of whether or not the actual performances of rhythmic groups
+    in music (e.g. "iambs," sixteenth-notes followed by accented dotted-eights) correspond to the
+    theoretical values (they do not, the authors conclude), but it has relevance for Temporalist
+    metrics, since its conclusion is that "the sense of rhythm cannot be explained in terms of
+    judgment of time intervals." </notes>
+  </item>
+
+
+  <item id="E400">
+   <bib> Stevenson, Charles L. "The Rhythm of English Verse." JAAC 28 (1970): 327-44. </bib>
+   <notes> Drawing upon concepts from the earlier work of Steele (E394), Andrews (E335), and Stewart
+    (E333), Stevenson deploys a full-fledged theory of English meter that rests on both stressing
+    and timing, distinguishes metrical ictus from speech stress, adopts some of the features of the
+    analogy of verse to music while recognizing sensibly and explicitly the weaknesses and
+    limitations of that analogy, and derives a "foot-free prosody" based on the whole line. With a
+    very striking illustration, Stevenson demonstrates the difference between "metrical stress"
+    (ictus) and "accent" (speech stress) and the functions of the former: as conspicuously regular
+    markers of the metrical paradigm, metrical stresses "have a partitioning effect: they help us to
+    see the pattern as composed of sub-patterns. . . . [they] provide consecutive 'frames' that
+    divide the total 'picture' into smaller 'pictures.' The frames, moreover, are similar frames. So
+    they invite us to compare the pictures within them, noticing when they are alike and when they
+    are different. . . . The frames help us to make the visual comparisons on which our sense of
+    organization depends." The two features which establish ictus are approximately equal timing and
+    limited variability of syllables (i.e. the number of syllables must be relatively small and
+    relatively uniform). Stevenson sees that timing is only "a part of the explanation."
+    Alliteration, stanza-pattern, and pitch can also occasionally help mark ictus. "Metrical
+    stresses are as if ornamental frames, of aesthetic interest in their own right." Music is indeed
+    analogous to verse in that the stresses in verse begin "stress-intervals" equivalent to musical
+    bars (Stevenson claims that "to call a stress-interval by the name foot" is "entirely
+    misleading," but what's in a name? The concept of sub-linear metrical unit is retained.), and
+    metrical pauses are admissible, as is syncopation. Yet pauses in verse may be ambivalent, though
+    not so in music, and verse-pauses cannot be "held" over several beats as in music, even besides
+    the obviously greater syllabic variation possible in music, so the analogy has decided
+    limitations and is "always a little misleading" anyway. But syllabic length and syntactic
+    phrase-structure, though both quite variable in English verse, are susceptible to marking in
+    scansion and should be noticed. Finally, in a long and important penultimate section, Stevenson
+    argues that the stubborn retention of the "foot" by prosodists has been a result of a
+    fundamental misconception: they have been sidetracked by undue emphasis on the beginning of the
+    line and have believed that the metering of the rest of the line must operate on a principle of
+    the "best echo" of the onset. But the phrase-structure usually belies any clear echoes, and the
+    "foot" therefore appears very artificial. This misconception may have arisen from the general
+    nature of poetic composition, which Stevenson hypothosizes operates mainly on the principle of
+    limited syllabic variability between ictus, extended also to the line-beginning. Such a general
+    principle produces "facts" capable of varying interpretation. Stevenson's interpretation, on the
+    whole, is provocative and extensive; his approach is remarkably sensible. </notes>
+  </item>
+
+
+  <item id="E401">
+   <bib> Sumera, Magdalena. "The Temporal Tradition in the Study of Verse Structure." Linguistics,
+    no. 62 (1970), pp. 44-65. </bib>
+   <notes> A useful, if partisan, capsule history of the Temporal theory of meter, written by a
+    resolute rhythmist and active admirer of Thomson. The essay synopsizes the theories of Sir
+    Joshua Steele, Walter Young, James Chapman, Coventry Patmore, James Lecky, William Thomson, and
+    Morris Croll. </notes>
+  </item>
+
+
+  <item id="E402">
+   <bib> Sylvester, J[ames] J[oseph]. The Laws of Verse or Principles of Versification Exemplified
+    in Metrical Translations. . . . London: Longmans, Green, 1870. 152 pp. </bib>
+   <notes> Rev: by Ingleby in The Fortnightly Review 14 (1870): 488. Sylvester was a professional
+    mathematician, and the bulk of this book prints his verse translations and an inaugural address
+    in mathematics. But the Preface and pp. 64-71 discuss metrics. Sylvester agrees completely with
+    the theory of Poe (E315), adding only Musical notation for scansion. Rhythm, we are told,
+    consists of Metric, Chromatick, and Synectic, meter itself comprising Accent, Quantity, and
+    Suspensions. The Synectic, again, consists of Anastomosis, Symptosis, and Phonetic Syzygy; it is
+    this last that especially interests him. He may have found this idea in Mason (E584-86) though
+    the sense is not the same and the transmission seems tenuous. </notes>
+  </item>
+
+
+  <item id="E403">
+   <bib> Thelwall, John. Selections for the Illustration of a Course of Instructions on the Rhythmus
+    and Utterance of the English Language. . . . London: J. McGreery, 1812. </bib>
+   <notes> The section on "Principles of Metrical Proportion, and of Rhythmus," pp. xliv-lviii, is
+    the one of interest to us in this elocution and rhetoric manual; Thelwall adopts Steele's (E394)
+    principles and notation entirely. For reasons I cannot fathom, Omond (A5) devotes three pages to
+    this work. </notes>
+  </item>
+
+
+  <item id="E404">
+   <bib> Thomson, William. The Rhythm of Speech. Glasgow: Maclehose, Jackson, 1923. 559 pp. </bib>
+   <notes> Many adherents of musical metrics consider Thomson the authoritative treatment of the
+    subject in this century; at the very least it can be said that the massive volume was ahead of
+    its time. The last third of the book concerns Greek and Latin verse. Chapters 1-5 treat the
+    general nature of temporal grouping or Rhythm ("a series of blows" is the crux of the
+    definition). Chapter 6 gives the formal statement of his 24 Laws of Speech Rhythm, followed by
+    exemplary analyses in Chapter 7. Chapter 8 redresses Lanier and Goodell for accepting only
+    quantity (Thomson is commonly very contentious without naming names at all), chapters 11 and 12,
+    Mayor, Latham, and Bridges for accepting only accent. Chapter 9 discusses "unsuspected meters"
+    and chapter 10 provides analyses. See the longer discussion of Thomson in Sumera (E401).
+    Thomson's magnum opus was based on the following earlier publications: </notes>
+  </item>
+
+
+  <item id="E405">
+   <bib> -----. The Basis of English Rhythm. Glasgow: W. &amp; R. Holmes, 1904; 2nd ed. 1906. 63 pp. </bib>
+   <notes> The pamphlet promulgates Lanier's (E364) system of musical scansion. </notes>
+  </item>
+
+
+  <item id="E406">
+   <bib> -----. Laws of Speech-Rhythm. Glasgow: James Maclehose and Sons, 1916. 16 pp. + chart. </bib>
+   <notes> The 24 Laws which constitute chapter 6 of his later, principle work (E404). </notes>
+  </item>
+
+
+  <item id="E407">
+   <bib> -----. Notes to accompany a paper on 'The Role of Numbers in the Rhythm of Ancient and
+    Modern Languages.' Edinburgh, 1907. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E408">
+   <bib> -----. Rhythm and Scansion. Edinburgh: H. &amp; J. Pillans &amp; Wilson, [1911]. 28 pp. </bib>
+   <notes> A small tract; reprinted from The Secondary School Journal. </notes>
+  </item>
+
+
+  <item id="E409">
+   <bib> Tolman, Albert H. "Lanier's Science of English Verse." In The 46th Birthday of Sidney
+    Lanier. Baltimore: Johns Hopkins University Press, 1888. pp. 37-45; </bib>
+   <notes> rpt in his The Views about Hamlet and Other Essays. Boston: Houghton Mifflin, 1904; pp.
+    105-13. A highly appreciative, non-technical review. Prosodic work before Lanier is said to have
+    been "a scientific ignorance." </notes>
+  </item>
+
+
+  <item id="E410">
+   <bib> Webb, Richard, and E. R. Coulson. Sidney Lanier: Poet and Prosodist. Athens: University of
+    Georga Press, 1941. 108 pp. </bib>
+   <notes> Rev: in MLN 57 (1942): 214-15. Two dissapointingly elementary and unhelpful essays by men
+    who scarcely accepted Lanier's views. The Science of English Verse is taken up on pp. 39-53 and
+    its reviews (generally hostile) are reprinted on pp. 82-97. But one may be amused to read that
+    "the trouble began early in life in an inability to choose between music and poetry." Amused or
+    not, one should not trouble to look up this puerile book. </notes>
+  </item>
+
+
+  <item id="E411">
+   <bib> Wilson, Katherine M. The Real Rhythm in English Poetry. Aberdeen: Aberdeen University
+    Press, 1929; </bib>
+   <notes> rpt Folcroft, Pa.: Folcroft Library Editions, 1972; rpt Norwood, Pa.: Norwood Editions,
+    1975, 1977; rpt Philadelphia: R. West, 1978. 171 pp. Rev: in TLS, 5 December 1929, p. 1024.
+    Following an opening review (and rejection) of the Pychological approach to poetic rhythm
+    (Attention Span and Kinesthesis theories), the author comes to her point and method. "We are
+    going to collate the prosody of poetry with that of music." This thesis she will pursue even
+    beyond the shortcomings of Lanier and others. "We may define [the foot] in accents, in
+    quantities, as an isochronous interval, a monopressure, a centroid. . . . We disagree in almost
+    every conceivable way about the composition of the foot, delimiting and refining, but here let
+    us take our motto--Prosody, beware of exclusion. There is not one thing, metrical form." This is
+    fair, but worse follows: "Consequently we shall not narrow the meaning of foot, but follow
+    Saintsbury's lead in shirking a farther definition." But her scansions show not only notes and
+    bars but also "feet" which seem to be basically syntactic and word boundaries. She accepts a
+    system from Prout's Musical Form providing "Fore Phrase" and "After Phrase," each of these
+    having an A and B section, each section having a and b "feet" (exemplified in the hemistichic
+    octosyllabic couplet). This system allows her to describe (for fifty pages) complex phrasing
+    patterns in verse. See also her essay </notes>
+  </item>
+
+
+  <item id="E412">
+   <bib> Wilson, Katherine M. "Meaning in Poetry and Music." Music &amp; Letters 9 (1928): 211-25. </bib>
+   <notes>See also N136. </notes>
+  </item>
+
+
+  <item id="E413">
+   <bib> Young, Walter. "An Essay on Rhythmical Measures." Transactions of the Royal Society of
+    Edinburgh 2, part 2 (1786): 55-110. </bib>
+   <notes> Remarks on rhythm both in music and in poetry, the latter beginning on p. 72; Young's
+    view of poetic measure is derived entirely from his larger conception of rhythm in music, so
+    that for example iambic feet in verse are simply trochaic feet with anacrusis. Part 2 of the
+    essay considers the pleasing forms of variation on "regular and perfect rhythm." See also: C40,
+    C48, E164-65, E167, E419-20, E871, E994, E1009, E1474, E1499, E1511, I22, I36, N34. </notes>
+  </item>
+
+
+  <item id="E414">
+   <bib> Brown, Warner. "Temporal and Accentual Rhythm." Psychological Review 18 (1911): 336-48. </bib>
+   <notes> Concludes that the temporal rather than the accentual aspect of rhythm is fundamental.
+    Experiments in finger-tapping and the reading of both iambic pentameters and nursery-rhyme
+    verses show greater irregularities in force than in timing. </notes>
+  </item>
+
+
+  <item id="E415">
+   <bib> -----. Time in English Verse Rhythm: An Empirical Study of Typical Verses by the Graphic
+    Method. Archives of Psychology, no. 10; Columbia Contributions to Psychology, 17, no. 2. New
+    York: The Science Press, 1908. 77 pp. </bib>
+   <notes> An important study, unjustly neglected, which draws some radical conclusions from
+    kymograph recordings of speech (Brown makes some trenchant criticisms of the assumptions behind
+    all finger-tapping and motor-response methodologies) and applies them to theories of meter and
+    rhythm. "There is nothing in the temporal regularity of simpler rhythmic processes which
+    contradicts the assumption of a non-temporal theory of rhythm. And the lack of temporal
+    regularity in verse makes such an assumption inoperative." There is no equality of durations in
+    verse-rhythm. "Is it not natural, then, to conclude that time equality is an inference derived
+    from the apparent equality of two impressions or expressions and confirmed by actual equalities
+    in many rhythms, but not really a constitutive factor in the rhythm at all? . . . In the end it
+    will be much simpler to talk of a rhythm which is actually present . . . the beats of which are
+    not fixed in time, while its effect upon us is that of a series of equal time intervals." And
+    none of the six theories of meter hitherto advanced (quantitative, accentual, musical,
+    stress-verse, centroid, temporal- syllabic) can account for the facts by itself. An adequate
+    theory of meter will have to account for everything--duration, intensity, pitch, etc. "The
+    empirical facts leave no room for a theory of verse rhythm based merely on time." Cf.
+    Boomsliter, Creel, and Hastings (E282). </notes>
+  </item>
+
+
+  <item id="E416">
+   <bib> Dillon, George L. "Clause, Pause, and Punctuation in Poetry." Linguistics, no. 169 (1976),
+    pp. 5-20. </bib>
+   <notes> Repeats some of Snell's (E452) experiments, confirming her conclusion that line-end does
+    not itself desiderate a pause unless the syntax at line-end does, and adding the discovery that
+    readers tend to place pauses either by clause boundaries or by punctuation, with about one pause
+    per line. Discusses (skeptically) the "silent stress" or "metrical pause" pp. 10-11. </notes>
+  </item>
+
+
+  <item id="E417">
+   <bib> Hedges, James S. "Towards a Case for Isochronous Verse." 1975 Mid-America Linguistics
+    Conference Papers. Ed. Francis Inglemann. Lawrence: University of Kansas Department of
+    Linguistics, 1976. pp. 202-11. </bib>
+   <notes> Criticizes the Shen-Peterson study of isochronism (D171) for mistaken methods based on
+    misconstrued sources. "The boundaries of the isochronous units are not primary stresses, but are
+    junctures instead." Oscilloscope analysis of recordings of Hopkin's "Pied Beauty" shows
+    isochrony between junctures in the lines. </notes>
+  </item>
+
+
+  <item id="E418">
+   <bib> Hurst, Albert. S., and John McKay. "Experiments in Time Relations of Poetic Metres."
+    University of Toronto Studies, Psychological Series 1 (1900): 155-75. </bib>
+   <notes> From experiments in which subjects read verse lines aloud with attention to the rhythm
+    and simultanously tapped their fingers on a recording device, the authors conclude that
+    isochrony does exist in poetic meter. Yet while agreeing that feet are temporally equal, they
+    deny that the syllables of the feet have any simple and fixed ratios, such as two to one.
+    Dactylic feet are shorter than anapests, trochees shorter than iambs. But a real difference can
+    be found between dactylic and anapestic feet, and to a lesser extent between trochaic and
+    iambic, in terms of the temporal durations of the constituents of the foot: where a is the
+    shortest syllable and c the longest, the dactylic pattern in bac, the anapestic abc. </notes>
+  </item>
+
+
+  <item id="E419">
+   <bib> Jacob, Cary F. "Concerning Scansion." Sewanee Review 19 (1911): 352-62. </bib>
+   <notes> Defends the musical conception of verse with an appeal to scientific authority
+    (acoustics) and a capsule history of ancient music. But Jacob thinks Lanier made three
+    significant errors in method: (1) he believed all English verse to be in triple time (much of it
+    is commonly double); (2) he believed the meters (e.g. iambic and trochaic) to be rhythmically
+    distinct from each other (Jacob denies it); (3) he believed meter a crucial element of verse
+    ("the one essential of verse is rhythm. . . . the phrase and not the line is the thing to be
+    considered"). </notes>
+  </item>
+
+
+  <item id="E420">
+   <bib> -----. The Foundations and Nature of Verse. New York: Columbia University Press, 1918. </bib>
+   <notes>Based on his dissertation at Columbia. Rev: in MP 17 (1920): 727-29; in JEGP 19 (1920):
+    430-33. A temporal theory of verse-structure based on the work in Acoustics by Scripture (E431)
+    (Jacob accepts his "centroids") and in Psychology by Wood- row (D199), Wallin, (D198), and
+    others. Thus, although Jacob advocates Musical notation for scansion, the experiments here
+    recorded durations for words, silences, and phrases. Cf. Snell (E452). Jacob believes, by the
+    way, the differences between iambic and trochaic meters to be a subjective impression-- a
+    perceptual grouping of phenomena which may occur either way without any objective difference.
+   </notes>
+  </item>
+
+
+  <item id="E421">
+   <bib> -----. "Rhythm in Prose and Poetry." Quarterly Journal of Speech Education 13 (1927):
+    357-75. </bib>
+   <notes> A maundering essay upholding distinct rhythm as the differentia of poetry. Of interest as
+    curiosities are the very elaborate scansions of prose (North, Malory, Conrad) compared to poetry
+    (Shakespeare, Tennyson, Pound); these mark syntactic groups, time, stress, and quantity. Such
+    gardens need weeding. </notes>
+  </item>
+
+
+  <item id="E422">
+   <bib> Kaplan, Robert B. "An Analysis of Contemporary Poetic Structure, 1930-1955." DA 24 (1963):
+    3749A (Southern California). </bib>
+   <notes> English and American poets writing between these dates are classified as "New Puritans"
+    or "New Pagans." Oscilloscope analysis of oral interpretations of poems, providing subtler
+    gradations of stress, pause, and duration, reveals that both traditional metrics and linguistic
+    metrics have deficiencies in terminology. Of metrics: "the field is choked by a great clutter of
+    unscientific thinking, prejudice, and ignorance." At 315 pages, a very ambitious thesis both
+    thematically and methodologically. </notes>
+  </item>
+
+
+  <item id="E423">
+   <bib> Liddell, Mark H. A Brief Abstract of a New English Prosody Based Upon the Laws of English
+    Rhythm. Lafayette, Ind.: Murphey-Bivens, 1914. 47 pp. </bib>
+   <notes> The bulk of this little book gives rules for assigning degrees of stress to the various
+    parts of speech, though late chapters indicate how "verse-stress" may modify the
+    speech-stresses. His unit of verse is the "rhythm-wave," which "corresponds to the 'foot' in
+    metrical prosody, to the 'bar' in music." A stress metric, no matter what he calls it. Six
+    degrees of stress are distinguished. </notes>
+  </item>
+
+
+  <item id="E424">
+   <bib> -----. An Introduction to the Scientific Study of English Poetry: Being Prolegomena to a
+    Science of English Prosody. New York: Doubleday, Page, 1902. 312 pp. </bib>
+   <notes> Resolute for a scientific prosody, Liddell eschews all talk of "feet" or any suggestion
+    that English verse follows quantity; he resolutely upholds Stress as the key, but unfortunately
+    then confounds this clarity with talk of "thought- moments" and graphs of "rhythm-waves." The
+    book may be said to begin on p. 166; the most accessible synopsis is chapter 16, but there is a
+    pr|'ecis on p. 251. See Morris (next entry), and see More's criticisms in E378. </notes>
+  </item>
+
+
+  <item id="E425">
+   <bib> Morris, Amos R. "Liddell's Law of English Rhythm." Papers of the Michigan Academy of
+    Sciences, Arts, and Letters 22 (1936): 485-91. </bib>
+   <notes> Calling for a review of the methodological utility and perceptual validity of Liddell's
+    six-level stress system and his 86 laws of speech rhythm, Morris formulates three questions as
+    criteria for evaluation: "the question of how accurate is his notation of the relative stress. .
+    . . the question of the relation of stress to the other four component physical factors, pitch,
+    time, tempo, and tone color. . . . and a third question of the relation of normal word-stress to
+    sense-stress." Criticizing Liddell's treatment of the third problem and setting aside the
+    second, Morris examines the first: four men read then scanned passages of verse; phonetic
+    analyses of the readings, along with the scansions, were then compared with Liddell's own
+    scansions. All three were very similar, and so the six-level notation is tentatively confirmed
+    as perceptually valid. Table of Results. </notes>
+  </item>
+
+
+  <item id="E426">
+   <bib> -----. The Orchestration of the Metrical Line: An Analytical Study of Rhythmic Form.
+    Boston: Richard G. Badger/Bruce Humphries, 1925. 162 pp. </bib>
+   <notes>2nd ed. 1936. 155 pp. Based on his dissertation at Michigan in 1923. Readings of twelve
+    short passages of blank verse, lyrics, prose, and free verse are phonetically analyzed on
+    instruments to produce graphs and tables of duration, pitch, and stress. Time seems to be given
+    the first position, but the interaction (conflicts and correspondences) shown between the three
+    features is the more complex, more interesting matter. Morris finds seven temporal patterns in
+    the ballad but only three in blank verse; also, "pitch, stress, and quantity coincide less
+    exactly as we get further away from the song lyric and the scanned reading of verse."
+    Conclusions on pp. 159-62. N. B.: the prose is terribly elliptical. </notes>
+  </item>
+
+
+  <item id="E427">
+   <bib> Patterson, William Morrison. "New Verse and New Prose." North American Review 207 (1918):
+    257-67. </bib>
+   <notes> See D248. Restatement of Patterson's theory of rhythm (accents mark perceptually
+    isochronous intervals) and verse-typology ("unitary verse," "metrical verse," "spaced prose,"
+    "normal prose," "mosaics," and "blends"). </notes>
+  </item>
+
+
+  <item id="E428">
+   <bib> Schramm, Wilber Lang. Approaches to a Science of English Verse. University of Iowa Studies,
+    Series on Aims and Progress of Research, no. 46. Iowa City: The University, 1935. 82 pp. </bib>
+   <notes> Along with Snell (E452), Schramm is the principle researcher in Acoustical metrics using
+    the kymograph for "objective" measurement of verse. He pays his respects to Lanier and
+    Scripture; he notes that accent normally comprises intensity, duration, and pitch increases
+    together; he constrasts "speech melody" to musical melody. Chapters on Rime, Rhythm, and the
+    Metrical Foot. Though this methodology has not been much admired or followed by later
+    prosodists, nevertheless the calm reasonableness of tone here is refreshing and admirable. Short
+    annotated bibliography at the end. </notes>
+  </item>
+
+
+  <item id="E429">
+   <bib> -----. "Time and Intensity in English Tetrameter Verse." PQ 13 (1934): 65-71. </bib>
+   <notes> Stress marks the meter in English verse, stress which comprises pitch, duration, and
+    intensity. Which of these is the most important? Experiments show pitch to be largely
+    irrelevant, while duration correlates 50% more often with metrical ictus than intensity does.
+    And on the average, stressed syllables are exactly twice as long as unstressed. </notes>
+  </item>
+
+
+  <item id="E430">
+   <bib> Scripture, E[dward] W[heeler]. Grundzüge der englischen Verswissenschaft. Marburg: N. G.
+    Elwert, 1919. 98 pp. </bib>
+   <notes> Rev: in MLR 25 (1930): 358-59; in Archiv 164 (1933): 75-77; in Anglia Beiblatt 41 (1930):
+    357-62; in LGRP 51 (1930): 195-97. See also Chatman (E713), pp. 82-86. E. W. Scripture was one
+    of the world's leading phoneticians in his day, a pioneer in the recording of speech on a
+    mechanical apparatus, the kymograph, for analysis. His magnum opus in acoustic phonetics, and a
+    sort of capstone to his career at the University of Vienna, is: </notes>
+  </item>
+
+
+  <item id="E431">
+   <bib> -----. The Elements of Experimental Phonetics. London: Edward Arnold, and New York: Charles
+    Scribner's Sons, 1902. 627 pp. + graphs. </bib>
+   <notes> In his later years, however, Scripture turned from phonetics to versification, studying a
+    variety of verseforms in both English and German and publishing a considerable number of
+    articles on meter and "the melody of speech" (pitch) in verse as he codified and applied his
+    theory of versification, which is summarized in the last major work of his life, the
+    Grundz|"uge. All of the articles on verse that Scripture published both before and after that
+    book are based on its theory, so I cite them below with little commentary. The core of that
+    theory is the postulate that the poetic line, based on observed recordings of speech, is a
+    continuous soundstream, not segmented into any discrete units called "feet," but rather
+    organized by major internal peaks of "energy" (convergences of intensity, loudness, pitch,
+    articulation) which group their proclitic and enclitic syllables around themselves to form
+    wave-like forms in the soundstream. Scripture refused to admit that syllable- boundaries could
+    be identified (though inconsistently he admitted the existence of syllabicity), so no
+    segmentation was possible. The result was that he was forced to search for line-types, given his
+    view of the line as unit, and though a great many were identified, they could never be reduced
+    to a satisfyingly small number of basic types, as in Sievers. But Scripture's work was a
+    stimulus to Schramm (E428), whose method seems much more sensible. Other studies by Scripture:
+   </notes>
+  </item>
+
+
+  <item id="E432">
+   <bib> -----. "Analyses of Verse from Herrick, Scott, and Hood." Archives néerlandaises de
+    phonetique expérimentale 5 (1930): 64-76. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E433">
+   <bib> -----. "Besondere Betonungen im englischen Vers." Anglia 53 (1929): 219-22. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E434">
+   <bib> -----. "Die Betonung im englischen Satz." Archiv 142 (1921): 203-8. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E435">
+   <bib> -----. "The Biology of Verse." Nature 114 (1924): 825-26. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E436">
+   <bib> -----. "The Choriambus in English Verse." PMLA 43 (1928): 316-22. </bib>
+   <notes> Abandoning in part his earlier rejection of the "foot," Scripture finds many choriambi
+    (denoted :..: where : represents a strong vowel and . a weak one; alternatively, / x x / ) in
+    English verse. But he does so only by terming the running sequence : . . : . . : . . : . . :
+    choriambic as well, which seems dubious; traditionally such a sequence would be called dactylic
+    or anapestic. </notes>
+  </item>
+
+
+  <item id="E437">
+   <bib> -----. "English Speech Molecules and Analogues in Greek Metrics." Archives néerlandaises de
+    phonetique expérimentale 6 (1931): 46-60. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E438">
+   <bib> -----. "Experimentalphonetische Studien über die englische Verszeile." Archiv für die
+    gesamte Psychologie 65 (1928): 61-90. </bib>
+   <notes> Graphic analyses of Milton and Kipling; responses to a questionnaire on meter and rhythm;
+    general characterization of English metrical types, with examples, according to his system.
+   </notes>
+  </item>
+
+
+  <item id="E439">
+   <bib> -----. "Experiments in the Phonetics of Shakespeare's Verse." TLS, 29 March 1923, p. 216.
+    Responses: April 5, p. 232 (Sturge-Moore and Sonnenschein); April 12, p. 247 (Abercrombie);
+    April 19, p. 269 (Rudmose-Brown); </bib>
+   <notes> rejoinders by Scripture on April 19, p. 269, and April 26, p. 287. </notes>
+  </item>
+
+
+  <item id="E440">
+   <bib> -----. "Investigations on the Nature of Verse." Vox 32 (1922): 4-14. </bib>
+   <notes> Recordings of "Who Killed Cock Robin." </notes>
+  </item>
+
+
+  <item id="E441">
+   <bib> -----. "Der Lears-Vers oder der englische Dochimus." Anglia 51 (1927): 136-38. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E442">
+   <bib> -----. "Die Metrik in Masefield's 'Sea Fever.'" Die Neueren Sprachen 37 (1929): 145-47. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E443">
+   <bib> -----. "The Nature of Verse." British Journal of Psychology 11 (1921): 225-35. </bib>
+   <notes> Translated into German in Neusprachliche Studien: Festgabe Karl Luick. (Die Neuren
+    Sprachen, Supplement no. 6.) Marburg, 1925. pp. 82-89. </notes>
+  </item>
+
+
+  <item id="E444">
+   <bib> -----. "The Physical Nature of Verse." Nature 114 (1924): 534-35. Discussion, pp. 682-83,
+    825-26; 115 (1925): 15. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E445">
+   <bib> -----. "Studies in the Melody of Speech." Vox 32 (1922): 26-32. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E446">
+   <bib> -----. "The Study of English Speech by New Methods of Phonetic Investigation." Proceedings
+    of the British Academy 11 (1921-23): 270-99. </bib>
+   <notes> Published as an offprint by Oxford University Press in 1923. Studies in pitch-patterns
+    ("the melody of speech") in speech and verse. Section 5 returns to "Cock Robin" and Mother
+    Goose. </notes>
+  </item>
+
+
+  <item id="E447">
+   <bib> -----. "Die Versformen in Mother Goose." Anglia 54 (1930): 199-208. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E448">
+   <bib> -----. "Die Versformen und Betonungspringzipien bei Hardy und Kipling." Die Neueren
+    Sprachen 38 (1930): 122-26. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E449">
+   <bib> -----. "Whence Does the Poet Get the Form of his Verse?" Modern Languages 5 (1923-24):
+    163-72. </bib>
+   <notes> Responses to a questionnaire sent to a number of lesser-known poets on the subject of
+    where they derive and how they handle verse-forms. See also J273-74, K343, L326, L442, L591-97,
+    M187. </notes>
+  </item>
+
+
+  <item id="E450">
+   <bib> Snell, Ada, L. F. "An Objective Study of Syllabic Quantity in English Verse: Blank Verse."
+    PMLA 33 (1918): 396-408. </bib>
+   <notes> Kymograph experiments on twenty five lines of Paradise Lost show that 84% of the stressed
+    syllables are longer than the unstressed, by an average of .2 sec. </notes>
+  </item>
+
+
+  <item id="E451">
+   <bib> -----. "An Objective Study of Syllabic Quantity in English Verse: Lyric Verse." PMLA 34
+    (1919): 416-35. </bib>
+   <notes> In iambic, trochaic, anapestic, and dactylic meters 90% of the syllables under ictus were
+    longer than the unstressed syllables outside of ictus in the same foot. Conclusion: "it is
+    evident that Saintsbury's theory that the rhythm of English verse may be interpreted in terms of
+    quantity, and that the foot is the unit, has justification in fact. That stress marks off the
+    time-unit, or the foot, and produces length, is undoubtedly true." </notes>
+  </item>
+
+
+  <item id="E452">
+   <bib> -----. Pause: A Study of Its Nature and Its Rhythmical Function in Verse, Especially in
+    Blank Verse. Contributions to Rhetorical Theory, no. 8. Ann Arbor: The Ann Arbor Press, 1918;
+    rpt Norwood, Pa.: Norwood Editions, 1975. 85 pp. </bib>
+   <notes> Based on her dissertation at Michigan in 1916. Acoustic-phonetics analysis, via kymograph
+    measurement, of the position and length of pauses (N. B.: rhetorical, syntactic, and logical,
+    not metrical pauses) in the reading of Paradise Lost by eleven subjects, as compared to their
+    readings of lyric verse. Then, measurement of the phrasal units or syntactic groups demarcated
+    by the pauses (these average 6.3 syllables and 1.9 sec. in length). Chapter 4 treats the
+    questions of "metrical rests" and equal-timed feet, concluding that "when it is possible for a
+    foot in a given poem to be five times as long as another in the same poem, and when one foot may
+    frequently be twice as long as another, it is obvious that the theory of equality of time cannot
+    be maintained, and that the omission of light syllables is not compensated for by pauses."
+    Summary of Results at the end. Readers by and large agree on the placement of pauses, of which a
+    third more appear within the line than at its end. Interestingly, the word preceding a pause is
+    significantly lengthened. </notes>
+  </item>
+
+
+  <item id="E453">
+   <bib> Triplette, Norman, and E. C. Sanford. "Studies of Rhythm and Meter." American Journal of
+    Psychology 12 (1901): 361-87. </bib>
+   <notes> A study of the meter and stanza forms of Stress Verse--specifically, nursery rhymes,
+    collegiate cheers, and military tunes and chants. Fingertapping and timing experiments on both
+    adults and children show roughly isochronous intervals between beats, with some variations.
+   </notes>
+  </item>
+
+
+  <item id="E454">
+   <bib> Verrier, Paul. Essai sur les principes de la métrique anglaise. 3 vols. Paris: Libraire
+    Universitaire, 1909-10. His dissertation at the University of Paris. </bib>
+   <notes> Rev: by Rudmose-Brown in MLR 6 (1911): 230-40; Verrier replies, indignant at "gross
+    misrepresentation," in 7 (1912): 522-35, to which Rudmose-Brown responds in "English and French
+    Metric," 8 (1913): 104-8; Verrier concludes the exchange in 9 (1914): 385-88. Volume 1 presents
+    the theory of Acoustic Metrics, volume 2 the more general theory of rhythm (in prose, song, and
+    verse) including a valuable chapter (5) on comparative versification, and volume 3 the kymograph
+    experiments on Isochrony. Verrier is the most substantial study of English metrics ever
+    undertaken which attempts to apply the assumptions and methods of acoustic phonetics. (It is
+    not, however, necessarily the most authoritative; Verrier has been criticized sharply for using
+    too few subjects in his tests to guarantee valid results.) He also uses musical notation as
+    well, though not systematically. Meter is considered a species of rhythm, and metrical feet,
+    which begin with the stressed vowel, are perceptually equal if not objectively so. (In practice
+    Verrier takes as equal feet that are unequal by as much as 40%.) In fact, though the whole third
+    volume concerns the acoustic experiments, Verrier is finally not committed to objective
+    versification; the psychological theories discussed in volume 2 are much closer to his central
+    conception of the subjectivity of the perpection of rhythm. Synopsis: "le rythme n'y est
+    constitué que par la coincidence de l'accent avec le temps marqué. . . . il est constitué, comme
+    celui de la musique, par le retour de temps marqué à intervalles sensiblement égaux." Verrier's
+    researches generated the following studies, though see also L988-96. </notes>
+  </item>
+
+
+  <item id="E455">
+   <bib> -----. Notions simplifées de versification anglaise. Paris: Libraire Charles Delagrave,
+    1891. 38 pp. </bib>
+   <notes> A small manual setting forth the metrical types. Rising and falling rhythms are
+    emphasized. Short appendices on Accentuation, Terminology, and an interesting table of Lagaoedic
+    Meters. </notes>
+  </item>
+
+
+  <item id="E456">
+   <bib> -----. Questions de métrique anglaise. Paris, 1912. </bib>
+   <notes>Cited in the New Cambridge Bibliography of English Literature, col. 42, but not listed in
+    either NUC or BMC. R. M. Alden saw it sometime between 1912 and 1914 and described it as a
+    useful synopsis of the argument of the Essai in pamphlet form. </notes>
+  </item>
+
+
+  <item id="E457">
+   <bib> -----. "Une variation métrique ('Inversion of Accent')." Revue de phon|'etique 2 (1912):
+    133-38. </bib>
+   <notes> Argues that the so-called trisyllabic substitution in the first foot of the iambic
+    pentameter is actually a catalexis followed by a trisyllabic foot; the scansion of the line
+    should not be | / x | x / | x / | x / | x / | but rather | (x) /| x x / | x / | x / | x / |. See
+    also C178, D242, D248, D323, E236, L1072. </notes>
+  </item>
+ </chapter>
+</bibliography>

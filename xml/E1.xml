@@ -1,0 +1,3151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+ <chapter title="">
+  <item id="E1">
+   <bib> Abercrombie, Lascelles. "The Function of Poetry in the Drama." Poetry Review 1 (1912):
+    107-18 </bib>
+   <notes>; rpt in English Critical Essays: Twentieth Century. Ed. Phyllis M. Jones. London: Oxford
+    University Press, 1933; rpt 1947. pp. 252-72. "It is here that . . . metre gives to the poet's
+    words a form which is itself a direct expression of the emotion which the words enclose."
+   </notes>
+  </item>
+
+
+  <item id="E2">
+   <bib> Adams, Hazard, ed. Critical Theory Since Plato. New York: Harcourt, Brace, Jovanovitch,
+    1971. </bib>
+   <notes>For discussion of meter in the iconic texts of criticism, primarily English, s.v. "Meter"
+    in the Index. Also s.v."Rhyme." </notes>
+  </item>
+
+
+  <item id="E3">
+   <bib> Aiken, Conrad. "The Function of Rhythm." The Dial 65 (1918): 417-18. </bib>
+   <notes>A review which digresses largely to Wordsworth's views on meter in poetry. </notes>
+  </item>
+
+
+  <item id="E4">
+   <bib> Ammons, A. R. "A Note on Prosody." Poetry 102 (1963): 202-3. </bib>
+   <notes>A suggestion that both ends of a verse line, being "weighted," tend to be counterbalanced
+    by a medial caesura and other devices, so that the weight may shift from one end to the other,
+    creating an effectual "pull" or motion down- ward--i.e., down the page. </notes>
+  </item>
+
+
+  <item id="E5">
+   <bib> Barkas, Pallister. A Critique of Modern English Prosody (1880-1930). Studien zur englischen
+    Philologie, vol. 82. Halle: Max Niemeyer, 1934; rpt Walluf, Germany: Sandig, 1973. 100 pp. </bib>
+   <notes>Rev: in TLS, 13 September 1934, p. 622; in JEGP 34 (1935): 461; in Anglia Beiblatt 46
+    (1935): 263-65; in English Studies 18 (1936): 95-96. A correlate study to Fussell (E34), less
+    urbane but more orderly and us- able and absolutely impartial. Barkas gives a history of what
+    was surely the most contentious and confusing--and probably the most important--period in the
+    history of versification by explicating separately the theory advanced by every major worker in
+    the field from 1880-1930--i.e., Mayor, Bridges, Young, Aber- crombie, Hamer, Lanier, Alden,
+    Omond, Saintsbury, Smith, Andersen, Stew- art, Sonnenschein, Bayfield, Thomson, Wilson, and
+    Scott. Each short review, generally three to four pages, is succinct yet informative. Throughout
+    the book, Barkas distinguishes carefully between Prosody [i.e. Meter] and Rhythmic [Rhythm],
+    though the remainder of his terminology is still much too elaborate, imprecise, and cumbrous
+    even after his best efforts to codify (see pp. 12-17). The same can be said for the more
+    important typology of metrical theories sketched on pp. 7-11 and extended in the last chapter
+    (pp. 86-100); it wants Occam's razor. Barkas distinguishes six types of theory, two of the them
+    having subtypes (the non-Temporal, three, and the Temporal, five). He also distin- guishes,
+    elaborately (see p. 90) between metrical pattern and actualization, which he calls respectively
+    Rule Verse and Base Verse: "In Rule Verse what- ever the Metrical Rule prescribes is objectively
+    present in the verse-pattern, but in Base Verse the elementary unit of the base need not always
+    be objectively present." In sum, though his classifications multiply distinctions needlessly,
+    Barkas's synopses of the theories of the eighteen metrists are full, fair, and use- ful.
+   </notes>
+  </item>
+
+
+  <item id="E6">
+   <bib> Bernard, Jules Eugene, Jr. The Prosody of the Tudor Interlude. Yale Studies in English,
+    vol. 90. New Haven: Yale University Press, 1939; rpt Hamden, Conn.: Archon Books, 1969. 225 pp. </bib>
+   <notes>Rev: in TLS, 24 June 1939, p. 378; in MLN 55 (1940): 455-62; in Review of English Studies
+    16 (1940): 207-8. Not a synthetic study but nonetheless a highly useful reference work which
+    analyzes separately 72 of the folk-drama interludes written between 1497 and 1593 (up to Nashe).
+    Each analysis includes tabular information on meter and rhymes and two to three pages of
+    discussion. Conclusions (pp. 193-211 and Preface): the various meters of the interludes were
+    indigenous, not Continen- tally derived, not "doggerel" but in fact quite complex at times, and
+    could dis- play variation for purposes of characterization and structure. Appendices of metrical
+    information. Sound scholarship. Note that Bernard uses the terms "heavy" for iambic rhythm and
+    "light" for anapestic. Cf. E73 and K307. </notes>
+  </item>
+
+
+  <item id="E7">
+   <bib> Blackmur, R. P. "Lord Tennyson's Scissors: 1912-1950." Kenyon Review 14 (1952): 1-20; rpt
+    in his Form &amp; Value in Modern Poetry. New York: Doubleday, 1957. pp. 369-88. </bib>
+   <notes>The scissors symbolize the instrumentality of versification, which Blackmur ex- amines in
+    the work of some twentieth-century poets, especially Eliot, Yeats, and Pound. Note also p. 211
+    ff on prosaic syntax in poetry. </notes>
+  </item>
+
+
+  <item id="E8">
+   <bib> Bradley, A. C. "Monosyllabic Lines and Words." In his A Miscellany. London: Macmillan,
+    1929. pp. 245-67; rpt in Literary English Since Shakespeare. Ed. George Watson. London: Oxford
+    University Press, 1970. pp. 50-64. </bib>
+   <notes>Statistical tallies of lines containing only monosyllables in non-dramatic verse, the
+    Shakespearean canon, and dramatic verse; percentages of monosyllabic words in selected prose
+    passages also studied. Note that only five-stressed lines were tallied. </notes>
+  </item>
+
+
+  <item id="E9">
+   <bib> Breen, A. T. "A Survey of the Development of Poetry Written in Trisyllic Metres to 1830,
+    Approximately." Diss., National University of Ireland, 1965. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E10">
+   <bib> Brown, Calvin S. "Monosyllables in English Verse." Studies in English Literature 1500-1900
+    3 (1963): 473-91. </bib>
+   <notes>Confutes the received opinion in English metrics that the great bane of English verse is
+    its surfeit of monosyllables by showing (1) that English poets--even Pope--have successfully
+    used sequences of monosyllables often, and (2) that the objections historically given to using
+    monosyllables have no weight. In fact, the number of monosyllables in the language has not
+    appreciably changed since Middle English, while the rise of science has added a great many
+    polysyllabic words to the lexicon. </notes>
+  </item>
+
+
+  <item id="E11">
+   <bib> Brown, Stephen J. "Versification: The Music of Speech." The Realm of Poetry: An
+    Introduction. London: Harrap, 1921. pp. 26-45. </bib>
+   <notes>Nontechnical and nonessential. </notes>
+  </item>
+
+
+  <item id="E12">
+   <bib> Buchanan, Victor. "Versification." English Journal 22 (1933): 460-65. </bib>
+   <notes>Should be useful in elementary schools. </notes>
+  </item>
+
+
+  <item id="E13">
+   <bib> Coleridge, Samuel Taylor. Biographia Literaria. 2 vols. London, 1817. Rpt London: J. M.
+    Dent (Everyman Editions) and New York: E. P Dutton, 1906; ed. George Watson, 1965, 1971. </bib>
+   <notes>Coleridge's reply to Wordsworth's Preface (E100) begins at chapter 14, discussing the
+    "superadded charm of metre" passim; chapter 18 is the crucial discussion, however. I hazard
+    lengthy quotation, given the importance and breadth of the subjects Coleridge raises. Since "a
+    poem contains the same elements as a prose composition, the difference therefore must consist in
+    a different combination of them, in conse- quence of a different object proposed. . . . it is
+    possible that the object may be merely to facilitate the recollection of any given facts or
+    observations by artifi- cial arrangement, and the composition will be a poem, merely because it
+    is dis- tinguished by metre, or by rhyme, or by both conjointly." But these constitute mere
+    "superficial form," and of course many works achieve their objects of truth or pleasure which
+    are not in meter, e.g. novels. "Would then the mere superaddition of metre, with or without
+    rhyme, entitle these to the name of poems? The answer is that nothing can permanently please
+    which does not contain in itself the reason why it is so, and not otherwise. If metre be super-
+    added, all other parts must be made consonant with it. They must be such as to justify the
+    perpetual and distinct attention to each part which an exact corre- spondent recurrence of
+    accent and sound are calculated to excite." This is the familiar argument of "organic form." Yet
+    Coleridge allows that "poetry of the highest kind can exist without metre" (the argument runs on
+    a distinction be- tween verse and poetry that is operative without being consciously
+    articulated). Denying absolutely that "between the language of prose and that of metrical
+    composition there neither is, nor can be any essential difference," Coleridge ar- gues that
+    things not controvertible are not identical. "The true question must be whether there are not
+    modes of expression, a construction and an order of sentences, which are in their fit and
+    natural place in a serious prose composition but would be disproportionate and heterogeneous in
+    metrical poetry; and vice versa, whether in the language of a serious poem there may not be an
+    arrange- ment both of words and of sentences and a use and selection of. . . figures of speech .
+    . . which would be vicious and alien in correct and manly prose. I contend that in both cases
+    the unfitness of each for the place of the other fre- quently will and ought to exist." Five
+    arguments for this position are adduced. First, the psychological ba- sis of meter lies in "the
+    balance in the mind effected by that spontaneous effort which strives to hold in check the
+    workings of passion." That is, "the elements of metre owe their existence to a state of
+    increased excitement," but these ele- ments are also "formed into metre artificially, by a
+    voluntary act, with the de- sign and for the purpose of blending a delight with emotion, so the
+    traces of present volition should throughout the metrical language be proportionally dis-
+    cernible." The result is "an interpenetration of passion and of will." These emotions will
+    naturally dictate forms not otherwise procurable. Second, the effect of meter is "to increase
+    the vivacity and susceptibility both of the general feelings and of the attention. This effect
+    it produces by the continued excitement of surprise, and by the quick reciprocations of
+    curiosity still gratified and still re-excited." This is the same effect "as a medicated atmos-
+    phere, or as wine during animated conversation," or, better yet, "as that of yeast, worthless or
+    disagreeable by itself but giving vivacity and spirit to the liq- uor with which it is
+    proportionately conbined." "Metre in itself is simply a stimulant to the attention, and
+    therefore excites the question: Why is the atten- tion thus to be stimulated? . . . . Neither
+    can I conceive any other answer that can be rationally given, short of this: I write in metre
+    because I am about to use a language different from that of prose." Both these arguments amount
+    to the same thing: meter is indicative, or adumbrative, of a special use of language in poetry,
+    both lexically and syntactically (it is this latter especially which seems to be in the center
+    of Coleridge's attention). Third, meter functions also as a catalyst or fixative. Meter having
+    been associated, time out of mind, with poetry as its proper form, without which poetry will
+    commonly be considered deficient, any other material which might be combined with meter "must,
+    though it be not itself essentially poetic, have nevertheless some property in common with
+    poetry as an intermedium of af- finity, a sort . . . of mordaunt between it and the superadded
+    metre" (mordaunt being a chemical applied to fabrics to fix their color during dyeing). Fourth
+    (obscure), there is a human instinct for "unity by harmonious adjustment." And fifth, the
+    practice of all the best poets confirms: the excite- ment and passions aroused by poetry "demand
+    a correspondent difference of language." It will be seen through all this that the problem is
+    the insufficiently clari- fied term language. Later in the chapter Coleridge rejects the idea
+    that rules could be given for analysis or differentiation of, say, the languages of rage and
+    jealousy; necessarily it must all be a matter of intuition. (By this point his reac- tion to
+    Wordsworth's claim that meter is the sole differentia of prose and poetry has reached the level
+    of near-ferocity.) It is evident that in his remarks on me- ter he is concerned as much or more
+    with syntax as with meter strictly speak- ing, but his position is important historically for
+    its clear psychological basis (one thinks at once of I. A. Richards in the twentieth century):
+    for Coleridge, meter both arouses and regulates passionate response. The reader may also wish to
+    consult and E75, E262. </notes>
+  </item>
+
+
+
+
+  <item id="E14">
+   <bib> C. M. Wallace. "Teaching the Preface-Biographia Dispute" in Wordsworth Circle 9 (1978):
+    378-79 </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E15">
+   <bib> D. H. Bialostosky's "Coleridge's Interpretation of Wordsworth's Preface to Lyrical Ballads"
+    in PMLA 93 (1978): 912-24. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E16">
+   <bib> Collins, Mortimer. "The Art and Accomplishment of Verse." London Society 20 (1871): 445-52. </bib>
+   <notes>Exhorts gentlemen with leisure to cultivate versification "for pleasure and profit" but to
+    eschew "trite meters." Critical of Sylvester (E402). </notes>
+  </item>
+
+
+  <item id="E17">
+   <bib> Comfort. A. "It Goes Like This." Life and Letters To-day 31 (1941): 36-40. </bib>
+   <notes>In praise of metered verse, in search of a compelling narrative poem. </notes>
+  </item>
+
+
+  <item id="E18">
+   <bib> Creek, Herbert L. "Rising and Falling Rhythms in English Verse." PMLA 35 (1920): 76-90. </bib>
+   <notes>Regardless of what we may choose to call the meter of a line, whether we view it as in
+    either "rising" or "falling" rhythm seems to depend on seven factors: the reader's expectations,
+    syllable-structure at the beginning of the line, and at the end, and around the caesura, weak
+    endings, phrasal structure, and vocabulary. Creek is groping toward a recognition that the
+    "rhythm" of a line is a function of its syntactic and, more importantly, morphological
+    structure. Useful statistics here on the proportion of "imabic" to "trochaic" disyllables in
+    iambic verse. Cf. Crapsey (E516), Stewart (E331), Atkins (E467), Hascall (E783), and Newton
+    (E799). </notes>
+  </item>
+
+
+  <item id="E19">
+   <bib> Croll, Morris W., et al. "Report of the Committee on Metrical Notation appointed at
+    Philadelphia 1922." PMLA 39 (1924): lxxxvii-xciv. </bib>
+   <notes>The Committee here furnishes the two schools of metrists--those favoring a "syllabic
+    scansion" (meter based on accent) and those favoring "musical scan- sion" (rhythm based on
+    time)--with a uniform set of symbols, the first denot- ing, in syllabic scansion, stress, and in
+    musical scansion, quarter-note, the second denoting, in syllabic scansion, unstress, and in
+    musical scansion, eighth-note, and so on. These symbols expedite printing and may eventually
+    result in theoretical rapprochement, the Committee hopes. </notes>
+  </item>
+
+
+  <item id="E20">
+   <bib> Crystal, David. "Intonation and Metrical Theory." Transactions of the Philological Society,
+    1971, pp. 1-33. </bib>
+   <notes> In this very salient reappraisal and prospectus Crystal shows how metrical the- ory over
+    the past century moved from confusion (quantity or stress?) to doc- trine (stress) without
+    inquiring much further. But "on what grounds, other than Tradition, has stress been singled out
+    from the other phonological features of verse [i.e. intonation] and been identified with the
+    metre? What experimental evidence is there to justify the priority of stress in this way? None
+    has been provided." Yet the arguments supporting stress in meter apply equally well to
+    intonation. The recent literature shows that many Continental metrists have already accepted an
+    intonational metrics, while Anglo-American metrists seem content with stress metrics. Their
+    contentedness is partially a reaction to the older confusions and skirmishes, which lasted far
+    too long, but it is also a trib- ute to the enormous influence of the Trager-Smith phonology. An
+    intonational metrics will have to reject this analysis, yet it would still retain the virtue of
+    se- lectivity (not all intonational features are equally important), and it should give greater
+    explanatory adequacy, as in describing free verse. In Crystal's view the "fundamental criterion"
+    of such a metric is the line, "the identifying experience [of which] is non-segmental, a
+    prosodic contour" [original italics]. Two experi- ments comparing a text set as verse and as
+    prose showed that the line is coter- minous with the "tone-unit," that the prominences are
+    contrastive by pitch not by loudness, and that more degrees of gradation are required in poetry
+    than in prose. The synchronic view of English metrical theory ca. 1971 given here is valuable,
+    but more valuable still is the glimpse provided of the course of the theory over the next
+    several decades. Cf. D322, D337, E608, L1323, and L1341. </notes>
+  </item>
+
+
+  <item id="E21">
+   <bib> Cunningham, J. V. "How Shall the Poem be Written?" University of Denver Quarterly 2 (1967):
+    45-62. Rpt in the Collected Essays of J. V. Cunningham. Chicago: Swallow Press, 1976. pp.
+    256-71. </bib>
+   <notes>Answer: in meter. Cunningham examines the available "metrical languages" in English: free
+    verse ("grammatical meter" or "parsing meter"), accentual verse, syllabic, quantitative, and
+    "traditional and . . . parasitic meter." The tone is iconoclastic (e.g., "the basic English
+    measure is the iambic octosyllable"), vig- orous, and pragmatic. </notes>
+  </item>
+
+
+  <item id="E22">
+   <bib> -----. "The Problem of Form." In The Collected Essays of J. V. Cunningham. Chicago: Swallow
+    Press, 1976. pp. 247-50. </bib>
+   <notes>Form is "that which remains the same when everything else has changed. . . . form is
+    discoverable by the act of substitution. It is what has alternative realiza- tions. And the
+    generality or particularity of a form lies in the range or restric- tion of alternatives. It
+    follows, also, that the form precedes its realization. . . ." It is "not that a literary work
+    has form, but that it is a convergence of forms, and forms of disparate orders. It is
+    coincidence of forms that locks in the poem. . . . For this is the poet's Poetics: prose is
+    written in sentences; poetry in sen- tences and lines. It is encoded not only in grammar, but
+    also simultaneously in meter, for meter is the principle or set of principles, whatever they may
+    be, that determines the line. And as we perceive of each sentence that it is grammatical or not,
+    so the repetitive perception that this line is metrical or that it is not, that it exemplifies
+    the rules or that it does not, is the metrical experience. It is the ground bass of all poetry."
+   </notes>
+  </item>
+
+
+  <item id="E23">
+   <bib> De La Mare, Walter. "Metrical Technique I, II." The National and English Review 146 (1956):
+    89-97, 156-67. </bib>
+   <notes>The first installment may be ignored altogether. The second represents an elaborate appeal
+    to ignorance ("no precision of analysis, I think, is attainable"), though there is a long
+    passage on sonal mimesis and a good point on "verbal melody." Emblematic: "units of English
+    metre were better called boots than feet, since it is what they contain that is of any real
+    importance, not them- selves." </notes>
+  </item>
+
+
+  <item id="E24">
+   <bib> Eaton, Horace, A. "Irregularities in Verse." English Journal 1 (1912): 601-10. </bib>
+   <notes>For its time, a very astute recognition of the implications of the dictum that "perfect
+    regularity means monotony, and monotony destroys attention." Not only are the five theoretically
+    equal feel unequal in timing or pacing, the stresses are unequal, as are the unstressed
+    syllables, and the greater and lesser pauses. Variation is everything in verbal--as all
+    other--art. </notes>
+  </item>
+
+
+  <item id="E25">
+   <bib> Eaton, Richard B. Jr. "A History of American Prosody from Its Beginnings to 1880." DA 28
+    (1968): 3669A (North Carolina). </bib>
+   <notes>Traces the history of American prosodic theorizing from 1785 to 1880, dis- cerning therein
+    two major modes: "auralism" and "visualism." </notes>
+  </item>
+
+
+  <item id="E26">
+   <bib> Elze, Karl. "Metrik." Grundiss der englischen Philologie. Halle: Max Niemeyer, 1887; 2nd
+    ed., 1889. pp. 361-86. </bib>
+   <notes>A general bibliographical review essay. </notes>
+  </item>
+
+
+  <item id="E27">
+   <bib> Emerson, Ralph Waldo. "The Poet." In Essays: Second Series. Vol. 3 of The Complete Works of
+    Ralph Waldo Emerson. 12 vols. Boston: Houghton Mifflin, 1903-4. pp. 9-10. </bib>
+   <notes>"For it is not metres, but a metre-making argument that makes a poem,--a thought so
+    passionate and alive that like the spirit of a plant or an animal it has an architecture of its
+    own, and adorns nature with a new thing. The thought and the form are equal in the order of
+    time, but in the order of genesis the thought is prior to the form." Two other dicta: "Art is
+    the path of the creator to his work" and, better, "Language is fossil poetry." </notes>
+  </item>
+
+
+  <item id="E28">
+   <bib> Erskine, John. "A Note on Whitman's Prosody," SP 20 (1923): 336-44. </bib>
+   <notes>Insofar as this essay is about Whitman it is nothing other than utterly ludicrous. But in
+    fact it is not about Whitman, it is about the nature of the line-end in verse. The line-end is
+    the "one fixed mark" which enables the reader to distin- guish between verse and prose in
+    audition. It can be denoted either by a rhyme-chime or by a pause. Lines having an odd number of
+    stresses have an invariable pause, but lines with an even number have none and so naturally tend
+    to be enjambed. Larger issue looming in the distance: poetry's two modes, visual and aural.
+   </notes>
+  </item>
+
+
+  <item id="E29">
+   <bib> Fairchild, Arthur H. R. "The Making of Poetry: Versifying." The Making of Poetry: A
+    Critical Study of Its Nature and Value. New York: G. P. Ptunam's Sons, 1912. pp. 105-51. </bib>
+   <notes>A curious but interesting fifth chapter eschews the process of verse-making for its
+    (undeniably more interesting) effects: to mold language into a a kind of in- evitable, measured
+    rhythm . . . is to bind the language more closely together, for these are really forms of
+    word-association by sound. And to bind the lan- guage more closely together is to help knit
+    together the images which that lan- guage represents." </notes>
+  </item>
+
+
+  <item id="E30">
+   <bib> Fucks, William. "Possibilities of Exact Style Analysis." Patterns of Literary Style. Ed.
+    Joseph Strelka. University Park, Pa.: Penn State University Press, 1971. pp. 51- 76. </bib>
+   <notes>That is to say, quantitative analysis: charts and statistics of such features as
+    word-length and sentence-length. See "Establishing the Strength and Effective Range of Metric
+    Connection," pp. 65-68. </notes>
+  </item>
+
+
+  <item id="E31">
+   <bib> Fussell, Edwin. Lucifer in Harness: American Meter, Metaphor, and Diction. Princeton:
+    Princeton University Press, 1973. </bib>
+   <notes>Chapter 1, "The Meter-Making Argument," is reprinted from Aspects of Ameri- can Poetry
+    (Ed. Richard M. Ludwig. Columbus: Ohio State University Press, 1962. pp. 3-31); it is an arid
+    region, full of airy remarks on the ambivalences and tensions of American poetry and its forms.
+    "The history of American po- etry is the history of recurrent explosions, metrically centered,
+    caused by the frustrations of the American poet, who is and is not an English poet, who has free
+    verse but doesn't always want it, alternating with longer periods of con- ciliation and
+    consolidation." Chapter 3, "What the Thunder Said," takes up diction. </notes>
+  </item>
+
+
+  <item id="E32">
+   <bib> Fussell, Paul, Jr. "English [Versification]: I. Historical." Wimsatt (A20), pp. 191-203. </bib>
+   <notes>Actually "typological and historical": the article surveys the four principal met- rical
+    systems (accentual, syllabic, combined, quantitative) and traces the devel- opment (or at least
+    change) of English metrics through six periods (OE to 20th c.) of extensive historical changes
+    in the language and oscillations between con- vention and experimentation in poetic technique.
+    The essay merely revises the material the author had used earlier in his handbook (E537) and in
+    his Princeton Encyclopedia articles (</notes>
+  </item>
+
+
+  <item id="E33">
+   <bib/>
+   <notes> and E535). </notes>
+  </item>
+
+
+  <item id="E33">
+   <bib> -----. "English Prosody." Princeton (A18), pp. 238-40. </bib>
+   <notes>A valuable review, organized chronologically, reaching from Old English to the present.
+    Fussell believes that no one metrical system can account for the entire gamut of English poetry,
+    but that three things may at least be said: English verse is accentually based; it seems to flow
+    "most pleasantly and naturally" in rising rhythm; and its natural line-length is one of "4 or 5
+    isochronous units." The essay then proceeds by showing the drifts toward either pure
+    Accentualism or Syllabism that have taken place at various times in the history of English
+    verse, drifts from the central norm of a regulated number of both syllables and stresses. (The
+    only faltering in this regard is the statement that Lanier's Musical prosody has a theoretical
+    position emphasizing accentualism; obviously, it emphasized timing.) "Prosody" in the title is a
+    solecism for "Metrics." </notes>
+  </item>
+
+
+  <item id="E34">
+   <bib> -----. Theory of Prosody in Eighteenth-Century England. New London, Conn.: Con- necticut
+    College Monographs, 1954; rpt Hamden, Conn.: Archon Books, 1966. 170 pp. </bib>
+   <notes>Fussell's approach to the history writing is (a) thematic and (b) partitive. From the
+    various prosodic issues and trends of the century he selects three for exami- nation: views on
+    the metrical structure of the line; theory of elision (i.e. sylla- bism perserved thereby); and
+    the increasing legitimacy of trisyllabic substitution (i.e. anti-syllabism, or the rise of
+    accentualism as the dominant metrical princi- ple). He therefore ignores: the crucial question
+    of the definitions and employ- ments of accent vs. quantity; rhyme; the complex relations of
+    poetry and music, so important in the age; and the sundering of metrical theory between Timers
+    and Stressers early in the century. In short compass, the history of versification in the period
+    1660-1800 is as follows: heavy French influence on English letters after the Restoration
+    resulted in the complete establishment of Syllabism (sylla- ble-counting) as the chief principle
+    of meter; Bysshe is the central figure here (1702 etc.). At the same time, by a process that
+    (pace Fussell) is still not well understood either theoretically or historically,
+    counting-of-syllables led inevita- bly to regularity (regular alternation) of stresses. These
+    principles dominate the- ory until about 1740 and remain visible up to about 1770; thereafter,
+    the story is one of Accentualist insurgency, leading to (the French Revolution and) Ro-
+    manticism. Over the century there is also a concomitant diremption in the view of prosodists as
+    to whether Quantity, Time, or Accent is the basis of verse. This area is far more complex than
+    Fussell allows. Altogether his study makes a series of compromises between a full history of
+    versification theory in the century and a full account of the positions of the major theorists,
+    who sometimes receive short shrift when their views are fragmented among Fussell's thematic
+    divisions. Omond's method (A5) is less artful but more cogent: there we find a fuller assessment
+    of the contribution of each theorist to the develop- ing understanding of the century. See also
+    the criticisms in Kumbier (E1009). </notes>
+  </item>
+
+
+  <item id="E35">
+   <bib> Gillis, Everett A. "American Prosody in the Eighteen-Nineties with Special Reference to
+    Magazine Verse." Diss., University of Texas, 1948. </bib>
+   <notes>Still a useful source of information, mainly on account of its scope. Gillis ex- amines
+    the (a) prosodic theories or comments and (b) prosodic practices in the verse printed in the
+    prominent American literary journals of the Nineties, placing both of these within the wider
+    perspectives of both prosodic theory and practice in America, and also in England, in the
+    nineteenth century. Out of the enormous mass of verse he examined (as cited), he scrutinizes
+    more closely the work of eight prominent young poets (none of which ever rose into the first
+    rank); nearly all of it is metrically very conventional. In the area of theory, the decade was
+    still spinning out the ideas of Poe, Lanier, and perhaps Whitman; essays by the would-be
+    literari were legion, of course, though Alden and others were pursuing the quiet ends of
+    scholarship, while Bolton, for the scientists, looked into the mechanics of rhythm. Perhaps the
+    principle issue of the day was the legitimacy of off-rhyme. Whoever writes the successor to
+    Allen's American Prosody will find source-material here. </notes>
+  </item>
+
+
+  <item id="E36">
+   <bib> Goodell, Thomas. "On English Versification." The Nation 93 (1911): 334-36. </bib>
+   <notes>A review of Matthews (E588), Saintsbury (E636), and Kaluza (A4). See also R. M. Alden's
+    following letter on "English Rhythm" (E269). </notes>
+  </item>
+
+
+  <item id="E37">
+   <bib> Graves, Robert. "Harp, Anvil, Oar." In The Crowning Privilege. New York: Doubleday, 1955.
+    Rpt in Gross (A23), pp. 52-71. </bib>
+   <notes>Wonderful speculations on the origin of verse (harp), the nature of syllable- counting
+    verse (anvil), and stress-verse (oar), followed by observations on the necessity of variations
+    against the norm in meter, and on craftsmanship of verse in general; throughout, Graves
+    emphasizes the seminal role of the Irish poets and verseforms on the development of the English
+    meters. </notes>
+  </item>
+
+
+  <item id="E38">
+   <bib> Gross Harvey. Sound and Form in Modern Poetry: A Study of Prosody from Thomas Hardy to
+    Robert Lowell. Ann Arbor: University of Michigan Press, 1964 </bib>
+   <notes>; rpt 1968. An abridgement of chapter 7, "T.S. Eliot and the Music of Poetry," appears in
+    Gross (A23), pp. 202-17. Rev: by Wimsatt in Michigan Quarterly Review (see E699); by G. W. Allen
+    in American Literature 37 (1965): 350-52; by Hemphill in Kenyon Review 27 (1965): 777-79; in
+    English Language Notes 3 (1966): 237-38. Excellent Prologue (on the four "beast of confusion" in
+    the study of versifica- tion) followed by chapters on "Prosody as Rhythmic Cognition" (see B85)
+    and "The Scansion of the English Meters" and separate studies of Pound, Crane and Stevens, and
+    Eliot. Shorter sections treat Hardy, Yeats, Bridges, Robinson and Frost, Muir, Ransom, Browning,
+    Whitman, Hopkins, the Imagists, Moore, Williams, Cummings, visual prosody, Auden, Spender and
+    MacNeice, Thomas, Empson and Watkins and Reed, and Kunitz and Roethke and Lowell. An Epilogue
+    reflects on the possibility of a "modern style." </notes>
+  </item>
+
+
+  <item id="E39">
+   <bib> Haas, Robert. "One Body: Some Notes on Form." Antaeus 30/31 (1978): 329-42. </bib>
+   <notes>"The pure iamb in fact can't be rendered; it only exists as a felt principle of or- der,
+    beneath all possible embodiments, in the mind of the listener. It exists in silence, is
+    invisible, unspeakable." "I don't think we are in a position yet to understand the reaction
+    against metri- cal poetry that began in the middle of the nineteenth century. It's an astonish-
+    ing psychological fact, as if a huge underpinning in the order of things had given way, and
+    where men had heard the power of incantatory repetition be- fore, they now heard its monotony.
+    Or worse." </notes>
+  </item>
+
+
+  <item id="E40">
+   <bib> Hafner, Charles, Y. "Foundations of English Poetics: 1570-1575." DA 28 (1968): 3143A
+    (Stanford). </bib>
+   <notes>A study of Ascham (E109), Gascoigne (E538), John Rainolds' Oratorio in laudem artis
+    poetica (1572), and Richard Wills' De re poetica disputatio (1573). </notes>
+  </item>
+
+
+  <item id="E41">
+   <bib> Hamm, Victor M. "Meter and Meaning." PMLA 69 (1954): 695-710. </bib>
+   <notes>In the relation of these two dimensions two factors may be discerned: "a prin- ciple of
+    phonetic autonomy and a principle of semantic cooperation." Of the former, the level of
+    background texture, Ransom is simply wrong to thing the meter a mere correlative or superadded
+    external form; the meter is "part of the meaning," a kind of "emotional semantic," a statement
+    of ambienceor, at the very least, order. Of the latter: meter can (1) serve as expository
+    function, rein- forcing lexical sense; (2) "modulate and define emotion" in its emotive func-
+    tion; or (3) reassure or else surprise the reader, in its affective function. </notes>
+  </item>
+
+
+  <item id="E42">
+   <bib> Hamp, Eric P. "Phonetic and Semantic Metrics." Meaning: A Common Ground of Linguistics and
+    Literature. Ed. Don L. F. Nilsen. Cedar Falls, Iowa: University of Northern Iowa, 1973. pp.
+    146-52. </bib>
+   <notes>"Some poetry is manifested heavily through phonetic recurrence in patterned
+    configurations; other poetry is characterized by patterned configurations in rather abstract
+    semantic features; and there is some poetry, a great deal in fact, that relies on a skillful
+    blend of these two configurational mechanisms." More simply: a poem may be "metered" or
+    organized not only by stresses or syntactic structures but by underlying semantic units also.
+   </notes>
+  </item>
+
+
+  <item id="E43">
+   <bib> Hannauer, Leo. "Das einsilbige Wort im engishchen Vers." Die Neueren Sprachen 33 (1925):
+    348-51. </bib>
+   <notes>Actually he gives statistics for monosyllables in French, German, and English prose
+    fiction and poetry. </notes>
+  </item>
+
+
+  <item id="E44">
+   <bib> Hart, James M. "The College Course in English Literature, How It May Be Improved." PMLA 1
+    (1884-85): 84-95. </bib>
+   <notes>A fascinating note on pp. 92-95 deplores the absence of any convenient metri- cal
+    handbook, followed by a divagation on the history of blank verse. Was it this tiny crack which
+    started the flood? </notes>
+  </item>
+
+
+  <item id="E45">
+   <bib> Hemphill, George. "Jonson's 'Fit of Rime Against Rime.'" Explicator 12 (1954): Item 50. </bib>
+   <notes>Suggests defining rime as "modern conventions of verse." Cf. E74. </notes>
+  </item>
+
+
+  <item id="E46">
+   <bib> Hollander, John. "The Metrical Emblem." Kenyon Review 21 (1959): 279-96. Abstracted in
+    Sebeok (A19), pp. 191-92 </bib>
+   <notes>; rpt in full in Chatman and Levin (A21), pp. 115-26; revised and expanded into chapter 7,
+    "The Metrical Frame," of his Vision and Resonance (A13), pp. 135-64. Peregrine. Topics covered:
+    linguistic treatments of metrics; the rhythmic structure of the mimetic lines in Pope's Essay on
+    Criticism; alliteration, asso- nance, onomatopoeia, and echoic patterns in general; and
+    musical-metrical modality. </notes>
+  </item>
+
+
+  <item id="E47">
+   <bib> Ing, Catherine. Elizabethan Lyrics: A study of the development of English metrics and their
+    relation to poetic effect. London: Chatto &amp; Windus, 1951. 252 pp. </bib>
+   <notes>Based on her dissertation, "Metrical Theory and Practice in the Elizabethan Lyric," at
+    Oxford in 1949. Rev: in TSL, 9 May 1952, p. 314; in Etudes Anglaises 5 (1952): 155-56; in
+    Shakespeare Quarterly 4 (1953): 79-83; in Shakespeare Jahrbuch 89 (1953): 239-40. Though now
+    supplemented by more recent, specialized studies, Ing's book re- mains a classic still to be
+    consulted. The general plan is to anatomize Elizabe- than theories of meter and then compare
+    these to the actual productions in verse--the lyrics--which were nearly always meant to be sung
+    as madrigals and airs. Chapter 2 provides an extremely convenient synopsis of the theorists re-
+    printed in Smith's Elizabethan Critical Essays (A26). Chapter 3 gives a similarly valuable
+    Glossary of prosodic terms; the usage of such terms in the Renaissance was often ambiguous,
+    inconsistent, and indiosyncratic, yet discriminations are crucial, and the terms are delicately
+    unravelled. (Cf. these two chapters to E57 and E228.) Chapter 4 examines the "visual thing" of
+    pattern poems and also the theories about quantitative verse (cf. Attridge, E112); chapter 5
+    confronts the central metrical phenomonon of the age, verse set to music. Chapter 7 explores the
+    role of the three prosodic aspects of speech-- pitch, stress, and duration--in Elizabethan
+    lyrics in considerable detail; p. 200 ff discusses the role of stress in meter. Remaining
+    chapters focus on the lyrics of Campion, Spenser, Shakespeare, and Donne. The book must be set
+    alongside Thompson's (E91), since the latter stops with Sidney, while Ing, beginning with
+    Tottel, surveys 1557-1633. More elegantly informed in its style and more synoptic in its
+    erudition than Fussell (E34), Ing's work may be our best period study. </notes>
+  </item>
+
+
+  <item id="E48">
+   <bib> Jacob, Cary F. "Some Phases of Recent Study in English Versification." Sewanee Review 19
+    (1911): 498-503. </bib>
+   <notes>A review of Schipper (All), Verrier (E454), and Matthews (E588), praising Verrier while
+    denigratig the other two works. </notes>
+  </item>
+
+
+  <item id="E49">
+   <bib> Justice, Donald. "Meters and Memory." Antaeus 30/31 (1978): 314-20. </bib>
+   <notes>The question of "the mnemonic value of meters," intriguing in itself, yet leads to the
+    even-deeper question of the effects of meter: Justice points to "the various combining and
+    intersecting functions" of metering, remembering, control, and understanding in the poetic
+    craft. In contrast to some others, his own view is that "the meters move along in their own
+    domain, scarcely intersecting the domain of meaning, except in some illusory fashion or by
+    virtue of conventions nearly private. The responsibility they bear to the sense, comic writing
+    aside, is mostly not to interfere." That is, in themselves they are little, as Coleridge said,
+    but their effect superimposedon powerful sense is more powerful still. "The twin illusions of
+    control and understanding seem more valuable to me than this illu- sion of the real or the
+    natural [i.e. mimetic meters]. Yet he can admit that "the meters seem always faintly
+    teleological by im- plication. . . . they seem to propose that an emotion, however
+    uncontrollable it may have appeared originally, was not, in fact, unmanageable." (Cf. Malof,
+    E582.) And "the meters serve as a neutral and impersonal check on self-indul- gence and whimsy;
+    a subjective event gets made over into something more like an object." Even memory is an "act
+    not without craft," we know, and the me- tering of our verbalizing of our experience we want to
+    know much more about. </notes>
+  </item>
+
+
+  <item id="E50">
+   <bib> Kelley, Frank B. "The Rise and Development of English Metrification, with Special Reference
+    to the Question of Quantity versus Accent as the Underlying Principle." Diss., New York
+    University, 1894. 36 pp. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E51">
+   <bib> Ker, W. P. The Art of Poetry: Seven Lectures 1920-1922. Oxford: Clarendon Press, 1923; rpt
+    Freeport, N. Y.: Books for Libraries Press, 1967. </bib>
+   <notes>Rev: in TLS, 9 August 1923, p. 1; in South Atlantic Quarterly 23 (1924): 286- 87; in MLR
+    19 (1924): 361-62. Remarks in the first lecture on the foreign and early influences on our
+    versifi- cation. </notes>
+  </item>
+
+
+  <item id="E52">
+   <bib> Koch, Walter A. Recurrence and a Three-Modal Approach to Poetry. The Hague: Mouton, 1966.
+    55 pp. </bib>
+   <notes>A general theory of poetic structure (expressed in very concise form) based on the key
+    feature of recurrence; the three modes of analysis identified are Topical, Metrical, and
+    Stylistic. In Metrics, recurrence may be either Phonetic, Syntac- tic, or Semantic (English
+    verse has heavily exploited the first of these, but who has demonstrated a metering of
+    "sememes"?) or a combination of them (i.e. phonetic + syntactic rather than phonetic +
+    phonetic). Koch then examines the relationships of metrical constituents ("immediate
+    juxtaposition, recurrent in- terval, non-recurrent interval"), patterns of such relationships
+    ("contiguous overlapping, congruent, engrafted"), and the principles of metrical "piling,"
+    "imposition," and "saturation." Altogether the merit of this brief monograph is to demonstrate
+    afresh the possibiities for complexity in meter and (even further) in poetry. See also: Hans
+    Gumbrecht's "Poetizitätsdefinition zwischen Funktion and Struktur: Ein Diskussions vorschlag an
+    Walter A. Koch." Poetica 10 (1978): 342-61. E53 </notes>
+  </item>
+
+
+  <item id="E54">
+   <bib> Körting, Gustav. Encyklopaedie und Methodologie der englischen Philologie. Heilbronn:
+    Henninger, 1888. </bib>
+   <notes>An early philological handbook. Chapter 8, "Die Rhythmik des Englischen," pp. 368-90,
+    gives a summary of the research to that date on Old through Mod- ern English meter. K. accepts
+    the vierhebungstheoriefor OE and ME. Bibliogra- phy. </notes>
+  </item>
+
+
+  <item id="E55">
+   <bib> Koziol, Herbert. Zahlen in englischen Versdichtungen. Sitzungsberichte der Österreichische
+    Akademie der Wissenschaften, philosophisch-historishe Klasse, vol. 291, no. 5. Vienna, 1973. 47
+    pp. </bib>
+   <notes>In part Koziol is interested in how the names of numbers are used by poets to fill slots
+    in the stress pattern of the verse-line. </notes>
+  </item>
+
+
+  <item id="E56">
+   <bib> Kremer, Charles F. "Studies in Verse-Form in Non-Dramatic English Poetry from Wyatt to
+    Sidney." Diss., Northwestern University, 1942. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E57">
+   <bib> Kuhn, Ursula. "Prosody." English Literary Terms in Poetological Texts of the Sixteenth
+    Century. 3 vols. Elizabethan &amp; Renaissance Studies, nos. 32, 33, 34. Salzburg: Salzburg
+    Institut for englische Sprache and Literatur, 1974. Vol. 2. pp. 453-70. </bib>
+   <notes>An extremely convenient and useful resource which cites brief extracts from the major
+    Renaissance prosodists--Gascoigne, Puttenham, Sidney, Spenser, Harvey, Stanyhurst, and Webbe--on
+    thirty-nine topics in prosody--e.g. rhyme, rhythm, meter, accent, quantitative verse. Prefixed
+    by short topical Index. (Unfortunately the overprinted typescript is painful to read.) </notes>
+  </item>
+
+
+  <item id="E58">
+   <bib> La Drière, J. Craig. "Prosody." Princeton (A20), pp. 669-77. </bib>
+   <notes>A remarkable general survey, sustained at a level very near the purely theoreti- cal.
+    Prosody is defined as the study of "the elements and structures involved in the rhythmic or
+    dynamic aspect of speech . . . as they occur in speech and lan- guage generally (linguistic
+    prosody) or in the compositions of the literary arts (lit- erary prosody)" (italics original).
+    This latter area has been more often termed ver- sification. Descriptive prosody may be either
+    theoretical or historical, while evalua- tive work lies in the domain of criticism. The rhythm
+    of verse is one manifesta- tion of rhythmic activity in general, and as a species is more
+    closely related to the rhythms of dance--bodily movement--than to those of music, since the
+    speech-mechanism itself is a motor behavior. Yet, "it is the sound as heard, the perceptual
+    'phone' or 'allophone' rather than the phoneme as such, that is rele- vant for literary, as
+    distinct from linguistic, structure of sound." All verse- rhythm is a patterning of the
+    qualitative and quantitative features of sound, chiefly intensity or duration: La Dri|`ere gives
+    a very extensive theoretical ac- count of the systematic possibilities of such patterning.
+    Worthy of special note: "the datum of a prosodic analysis is ideally an oral performance (actual
+    or con- ceived) rather than a written text." </notes>
+  </item>
+
+
+  <item id="E59">
+   <bib> Legouis, Émile. A Short Parallel Between French and English Versification. Publications of
+    the Modern Humanities Research Association, no. 9. Cambridge: Bowes &amp; Bowes, 1925. 18 pp. </bib>
+   <notes> His Presidental Address to the Association published as a pamphlet. "The modern
+    versification of England is the result of compromise, the trium- phant but painfully laborious
+    ordering of chaos. It was only attained after years of groping efforts to fuse and reconcile
+    antagonistic elements. . . . In fact, it took centuries to accomodate the language to the
+    versification or the versifica- tion to the language. The verse which prevailed in the end was
+    not primarily made for the language upon which it was imposed." The result? "English has emerged
+    with two distinct kinds of verse, now no longer confusedly blended but kept separate for
+    different uses and different effects." Nowhere is the whole history of our metric more
+    succinctly or accurately expressed. </notes>
+  </item>
+
+
+  <item id="E60">
+   <bib> Malof, Joseph. "The Artifice of Scansion." English Journal 54 (1965): 857-60, 71. </bib>
+   <notes>The modern sensibility is so glaringly inept at recognizing and discussing poetic meter
+    primarily because no adequate system of scansion is currently taught or understood. Scansion is
+    not a theoretical construct but simply a "practical lan- guage of description," and the best
+    notation is the one which provides the most accurate, concise, yet flexible description of the
+    interplay between rhythm and meter. To deride scansion as "artificial" is to misunderstand its
+    very nature. There is no one right scansion, all others being wrong; there are only better and
+    worse scansions. </notes>
+  </item>
+
+
+  <item id="E61">
+   <bib> Maxim, Hudson. The Science of Poetry and the Philosophy of Language. New York and London:
+    Funk and Wagnalls, 1910. </bib>
+   <notes>A true curiousity, this. The most dogged of prosodic historians will find rele- vant
+    remarks following p. 152; all others will be intrigued by the illustrations more than anything
+    else. </notes>
+  </item>
+
+
+  <item id="E62">
+   <bib> "Metrical Technique." TLS, 6 April 1956, p. 207. </bib>
+   <notes>Encourages the teaching of metrical form, not so much in the spirit of rigid rules and
+    devices, but in such a way that the student can attend to the supple nuances of sullables.
+   </notes>
+  </item>
+
+
+  <item id="E63">
+   <bib> Moore, T. Sturge, D. S. MacColl, et all. "English Numbers." Correspondence in TLS, 9
+    January-27 March 1919, pp. 20-21, 33, 45, 56-57, 69, 83-84, 97, 112, 125, 137, 151-52; 164-65. </bib>
+   <notes>Interminable debate, each correspondent propounding his own theory of met- rics--Moore,
+    the intuitivist; MacColl, the temporalist; Bayfield, the trochaic-- and the whole dreary
+    exchange degenerating into bickering between Moore and MacColl. However, T. B. Rudmose-Brown's
+    acknowledgment of signifi- cant shifts in his thinking (at p. 83) must not go unnoticed.
+   </notes>
+  </item>
+
+
+  <item id="E64">
+   <bib> Morse, Lewis K., ed. Melodies of English Verse. Boston: Houghton Mifflin, 1910. </bib>
+   <notes>An anthology arranged by meters for training students to recognize and memo- rize metrical
+    verse. Divided merely into Iambic, Trochaic, Anapestic, and Dactylic, but notice the Index of
+    Metres. Cited in NUC, vol. 396, p. 362. </notes>
+  </item>
+
+
+  <item id="E65">
+   <bib> Morton, Edward P. "Chronology and Metrical Tests." PMLA 25 (1910):xxxix (Proceedings).
+    Abstract. </bib>
+   <notes>Metrical evidence generally corroborates the accepted chronologies for Milton, Keats,
+    Browning, and Tennyson. </notes>
+  </item>
+
+
+  <item id="E66">
+   <bib> Murray, Gilbert. "Metre." The Classical Tradition in Poetry. Cambridge, Mass.: Harvard
+    University Press, 1927. pp. 80-121. </bib>
+   <notes>An urbane, informed, detailed, non-technical explanation of the differences between
+    Classical Greek and Modern English versification, with Hebrew and Chinese also discussed for
+    contrast. Should be just the thing for undergraduates. </notes>
+  </item>
+
+
+  <item id="E67">
+   <bib> Nakao, Toshio. [Poetic License and Three Models of Prosody.] Eigo Seinen (The Rising
+    Generation) 118 (1972): 158-59. </bib>
+   <notes> (In Japanese) Compares the Traditional, Trager-Smith, and Halle-Keyser systems. </notes>
+  </item>
+
+
+  <item id="E68">
+   <bib> Newbolt, Henry. "A New Study of English Poetry, II: Poetry and Rhythm." The English Review
+    10 (1911-12): 657-72; rpt in his A New Study of English Poetry. New York: E. P. Dutton, 1919.
+    pp. 26-51. </bib>
+   <notes>"Poetic rhythm is, in short, neither strict mechanical rhythm nor free speech- rhythm: it
+    is speech limited by metric law, or Prosody. . . . A prosody, then, or metric law, there must
+    be, to save the gesture from becoming invertebrate." Reviewing the course of meters over
+    European history, the author makes an articulate plea for "the recognition of two principles":
+    "That poetic rhythm is not an applied ornament" and that "the natural tendency of poetic rhythm
+    will be toward perpetual change." Part I appears on pp. 285-300 of the same vol. 10. </notes>
+  </item>
+
+
+  <item id="E69">
+   <bib> Ogden, C. K. "Sound, Sense, and Intelligibility." Psyche 15 (1935): 19-76. </bib>
+   <notes>See the sections on "Verse Rhythm" (pp. 50-59) and "Prose Rhythm" (pp. 59- 74). Despite
+    all the pedagogical platatudes about iambic meters, Ogden insists, the English language is
+    deeply, irrefrangibly trochaic, and so therefore is its verse. Longfellow and the Hiawatha-meter
+    merit a long digression in the "Verse" section, and indulgence which then widens to include the
+    whole of the following section, a peregrination on the subjects of the relations of verse and
+    prose, isochronism, prose rhythm, and stress. Surprisingly well informed. </notes>
+  </item>
+
+
+  <item id="E70">
+   <bib> Owen, W. J. B. "The Theory of Metre." Wordsworth as Critic. Toronto: University of Toronto
+    Press, 1969. pp. 27-36. See also pp. 125-27. </bib>
+   <notes>Since one of the linchpins of Wordsworth's poetics in the 1800 and 1802 ver- sions of the
+    Preface is his view of poetry as "the natural language of men," his simultaneous insistence on
+    the preservation of meter in poetry would seem in- consistent. WW's defense rests on three
+    conceptions of the function of meter: pleasure, regularity, and contrast. Meter per se gives
+    pleasure as an ornament to language already efficacious. The regularity of meter tempers and
+    restrains the excitement raised by the poetic fiction, as well as reminding the reader, implic-
+    itly, that he is experiencing literature not life. And meter balances or contrasts the real
+    language of men. Owen notes the evident discrepancy in WW's theo- ries and his practice, also
+    admitting that "the prose parts of Wordsworth's blank verse, especially, appear to gain no
+    advantage from being in metre." </notes>
+  </item>
+
+
+  <item id="E71">
+   <bib> Parrish, Stephen M. Wordsworth and Coleridge on Meter." JEGP 59 (1960): 41-49. </bib>
+   <notes>By close explication of the statements and arguments made by Wordsworth (in the Preface)
+    and Coleridge (in BL) on meter, Parrish controverts the received critical opinion that
+    Wordsworth denigrated meter as adventitious while Coleridge defended it as indispensable to the
+    organic whole, the poem. That is the view Coleridge would have us believe. But in fact, though
+    Wordsworth did argue that meter has no necessary connection with language,he held it to be
+    essential for effecting the tranquility that is poetic pleasure, while for Coleridge meter was a
+    stimulant and a matter of "superficial form," separable from the language that was central.
+    Indeed to Coleridge meter was a symbol of a special- ized poetic language--precisely the view
+    Wordsworth attacks in the "Preface." Wordsworth, focusing on the function of art, treats the
+    role of meter in aesthetic response; Coleridge, focusing on the sources of art, treats the role
+    of meter in the creative process. </notes>
+  </item>
+
+
+  <item id="E72">
+   <bib> R, D. L. "On Versification." The Inspector, Literary Magazine and Review 2 (1826): 19-22. </bib>
+   <notes>Short exposition of the metrical forms of blank verse, couplet, octosyllabic verse,
+    quatrains, Spenserians, and the sonnet. Most interesting are the remarks on the structure of
+    blank verse and citations of several obscure remarks on that form by Dr. Johnson; the rest is
+    trite. </notes>
+  </item>
+
+
+  <item id="E73">
+   <bib> Ramsay, Robert L. "Changes in Verse-Technic in the Sixteenth-Century English Drama."
+    American Journal of Philology 31 (1910): 175-202. </bib>
+   <notes>From 1480 to 1590 the verseform of English drama developed from the rhyme- royal and
+    tail-rhyme stanzas (in four-stress lines) through the "septenary" cou- plet (the Fourteener) to
+    the decasyllable (rhymed and blank) and prose. But "the attempt to find pentameters,
+    alexandrines, or septenaries, even of an im- perfect kind, in [the dramas of the first half of
+    the sixteenth century] reduces their versification to chaos." The old order was completely upset
+    by "the most important innovation in versification of the century," the introduction of regu-
+    lar meters (regular in syllable-count), the earliest example of which in the drama is Jasper
+    Heywood's Senecan Troas of 1559. Blank verse, of course, first appeared in Gorboduc, 1562. See
+    esp. p. 188 here, and see also K307. The final paragraph summarizes succinctly "the residuum of
+    a hundred years of experimentation" in dramatic verseform, specifically the four metrical styles
+    employed by the dramatists of the day to differentiate the Virtue and Vice characters and high
+    social stations from low. Highly informative, Ramsay's essay is still authoritative, and its
+    lucid map- ping of a bewildering terrain is augmented by frequent, detailed metrical analyses of
+    plays. </notes>
+  </item>
+
+
+  <item id="E74">
+   <bib> Rankin, J. W. "Rime and Reason." PMLA 44 (1929): 997-1004. </bib>
+   <notes>Proposes an etymology for the idiom based on medieval Latin grammar: rhyth- mus denoted
+    accentually based verse, while ratio meant quantitative, syllable- counting meter. (This was
+    also the distinction between rhythmus and metrum.) The Renaissance classicists, then, used rime
+    in the older sense of rythmus, to in- dicate meter based on stress. See also </notes>
+  </item>
+
+
+  <item id="E45">
+   <bib/>
+   <notes> and C273. </notes>
+  </item>
+
+
+  <item id="E75">
+   <bib> Renz, Merl F. "A Coleridge Unpublished Letter and Some Remarks Concerning the Poet's
+    Interest in the Sound of Words." Notes &amp; Queries 198 (1953): 163- 65. </bib>
+   <notes>Coleridge gives English accentual equivalents of the Greek quantitative feet in the first
+    letter and exemplifies them in a Pindaric ode. In the second letter he muses on a stray couplet
+    which he couldn't get out of his head on account of the intonation of the second line, "The
+    pretty, pleasing playful, proley-prowley Pricket." </notes>
+  </item>
+
+
+  <item id="E76">
+   <bib> Reyher, Paul. Essai sur le Doggerel. Diss., University of Paris. Bordeaux, 1909. 114 pp. </bib>
+   <notes>Defining "doggerel" as "un mechant poeme depourvu d'originalite et sans pro- portions,
+    mais il semble avoir surtout trait a sa versification d'une regularite ex- cessive," Reyher
+    examines incompetently wooden and parodically incompe- tently wooden verses from Layamon to
+    Swift, with heavier emphasis on the Middle English period. </notes>
+  </item>
+
+
+  <item id="E77">
+   <bib> Richards, I. A. "Rhythm and Metre." Principles of Literary Criticism. New York: Harcourt,
+    Brace, and World, 1925; rpt 1948. pp. 134-46. Rpt in Gross (A23), pp. 42-51. </bib>
+   <notes>Richards takes what might be called a Gestalt (i.e., perceptional-field) approach to
+    literature. Sound in poetry depends for its meaning entirely on context: its effect cannot be
+    separated from the effects of other contextual elements; sound in itself has no meaning. The
+    sound of a word cannot be considered apart from its meaning. The interaction of succession and
+    simultaneity comprises rhythm. Meter, as "a specialized form of rhythm," is not a patterned
+    stimulus but a pat- tered response, as well as being a "framing device" (cf. Hollander, E46).
+   </notes>
+  </item>
+
+
+  <item id="E78">
+   <bib> Richardson, Leon J. "Repetition and Rhythm in Vergil and Shakespeare." University of
+    California Chronicle 32 (1930): 177-82. </bib>
+   <notes>A model of import and economy. The question raised is how repeated words in verse are
+    fitted into the metrical pattern (or grid), or in other words, the ef- fect of repetition on
+    word-meter alignment and, hence, the rhythm of the line. Given any word repeated (as a then b),
+    there are four possibilities: (1) a and b have identical placements in the meter--such diaeresis
+    tends to make the meter glare, and Richardson calls it "unmusical" in contrast to the other
+    three types; (2) a and b may vary slightly in word-form (lover, loved, etc.) but be identically
+    metrically treated; (3) a and b fall in different metrical positions (now arsis, now thesis)
+    though identical in word-form; and (4) a and b differ both in metrical and in lexical
+    treatment--the most "musical" type of all four. Convincing ex- amples from both poets (no
+    influence is claimed). </notes>
+  </item>
+
+
+  <item id="E79">
+   <bib> Sasaki, Tatsu. "Apocope in Modern English Verse." Studies in English Literature (Tokyo) 13
+    (1933): 585-603. </bib>
+   <notes>On words used in poetry which have dropped the final syllable: the most common are divided
+    into seven catagories and discussed, with etymologies and very copious examples, Renaissance to
+    Modern. </notes>
+  </item>
+
+
+  <item id="E80">
+   <bib> Selden, R. "Roughness in Satire from Horace to Dryden." MLR 66 (1971): 264-72. </bib>
+   <notes>The Elizabethan theory of the "roughness" of true sature understood the Ro- man view
+    correctly in terms of roughness of tone (invective, vituperation), but not in terms of roughness
+    of versification, since Horace believed that the num- bers should be polished even in the most
+    virulent of lines. Jonson and Dryden, however, were the chief exponents of a return to the
+    orthodox classical view demanding smoothness of metier despite sharpness of matter. A dense,
+    discrimi- nation, yet extensive essay. </notes>
+  </item>
+
+
+  <item id="E81">
+   <bib> Shapiro, Karl. "English Prosody and Modern Poetry." ELH 14 (1947): 77-92; published at
+    Baltimore: Johns Hopkins University Press, 1947; rpt Folcroft, Pa.: Folcroft Library Editions,
+    1975. 16 pp. </bib>
+   <notes>Rev. in Poetry 72 (1948): 332-35. Shapiro finds two historical trends to lament: one is
+    that prosody, as an ostensible science, has seen little progressive development until the late
+    nineteenth century; the other is that after the turn of the century and "one of the few great
+    upheavals" in English poetry--free verse--prosody was thrown again into anarchy, from which it
+    has not yet recovered. Shapiro then sketches in cameo the theoretical positions of the two chief
+    schools of prosody, the Accentualists (Saintsbury and Bridges) and Temporalists (Lanier), with
+    Omond in a medial position. These correspond roughly to the two broadest traditions in English
+    verse, the stress-verse (Beowulf to Skelton to Hopkins) and the stress-verse (Chaucer to
+    Housman). But the nineteenth-century prosodic synthesis was unable to cope with the new prosaic
+    structures and rhythms in verse. </notes>
+  </item>
+
+
+
+  <item id="E82">
+   <bib> -----. Essay on Rime. New York: Reyal &amp; Hitchcock, 1945. </bib>
+   <notes>Rev: by Delmore Schwartz in The Nation 160 (1945): 498; reply by Shapiro, p. 690,
+    rejoinder by Schwartz, pp. 691-92. In the first major section, "The Confusion of Prosody,"
+    Shapiro attempts to map out the theorists and practitioners of his time in a prosaic verse, as
+    if the Essay on Criticism were rewritten as The Prelude Of the theorists, Bridges on Milton,
+    Lanier on verse, and Saintsbury on prose-rhythm are discussed; of the cloistered makers, Joyce
+    and Eliot are assayed the great masters of our time (both indebted to Pound), as against the
+    more ephemeral, weaker metrics of Donne, Browning, Hopkins, Whitman, Cummings, Lawrence,
+    Williams, and the Imagist, Visual, and Objectivist prosodies. Strong stressing is hammering down
+    the old "rising rhythm," and Shapiro ventures his hypothesis that "rhythm/Flows but in one
+    direction, and that from Prose/To rime. The oppo- site is upstream, against/The grain of
+    language and the course of change./ The measure of prosody is the current speech,/The cadences
+    inherent in the voice/Of one particular generation." See also: </notes>
+  </item>
+
+
+
+  <item id="E83">
+   <bib> Williams, William C. "Shapiro is All Right." Kenyon Review 8 (1946): 123-26. </bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="E84">
+   <bib> O'Conner, William Van. "Shapiro On Rime." Kenyon Review 8 (1946): 113- 22. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E85">
+   <bib> Sharp, Robert L. "Some Light on Metaphysical Obscurity and Roughness." SP 31 (1934):
+    497-518. </bib>
+   <notes>(Begin at p. 510.) This is a clear statement of the older view that Donne and the
+    metaphysicals deliberately wrote their meters rough, so as to suit the verse- form to the sense
+    and mood of satire. This "harshness" lay not in syllable-count (here they are all relatively
+    regular) but in preserving regularity of stresses. Roughness was also associated with
+    "masculinity." The virtuosity of the meta- physicals in stanza-forms is also adduced as proof of
+    the intentionality of their writing rough. </notes>
+  </item>
+
+
+  <item id="E86">
+   <bib> Stanford, Donald E. "The Experimentalist Poet." In his In the Classic Mode: The Achievement
+    of Robert Bridges. Newark: University of Delaware Press, 1978. pp. 80-125. </bib>
+   <notes>Presently the authoritative survey of Bridges' theories and experiments in stress- ,
+    quantitative-, and syllabic-verse. But cf. Gu|'erard (B86). </notes>
+  </item>
+
+
+  <item id="E87">
+   <bib> -----. "Robert Bridges and the Free Verse Rebellion." Journal of Modern Literature 2
+    (1971): 19-32. </bib>
+   <notes>Summarizes Bridges' metrical experiments in non-conventional meters, i.e. ac- centual
+    verse (cf. Milton's Prosody), quantitative verse (Now In Wintry Delights, etc.), "Neo-Miltonic
+    syllabics" (The Tapestry), and "loose Alexandrines" (The Testament of Beauty). </notes>
+  </item>
+
+
+  <item id="E88">
+   <bib> Stockley, W. F. P. "Uncertainty in English Prosody." Poet-Lore 41 (1930): 204-22. </bib>
+   <notes>The author requires nineteen pages to tell us that metrists are confused about whether
+    English verse is metered by time, accent, or syllables. Criticism of Bayfield (E336). </notes>
+  </item>
+
+
+  <item id="E89">
+   <bib> Thiesmeyer, John E. "Problems in the Application of Linguistic System to the Study of
+    Versification." Venture (University of Karachi) 6 (1970): 24-33. </bib>
+   <notes>A critique of both Structuralist and Generative Metrists. Thiesmeyer notes that though the
+    history of metrics has been muddled, the new linguistic efforts have been no improvement because
+    they, like all the rest, have failed to be utterly explicit about defining terms. </notes>
+  </item>
+
+
+  <item id="E90">
+   <bib> -----. "Prosodic Theory: A Critique and Some Proposals." DAI 35 (1974): 1064A (Cornell). </bib>
+   <notes>Reviews and criticizes traditional, structural, and generative metrics. Metrical theory
+    itself is said to be unsuccessful because it has not yet answered the fun- damental question of
+    poetic ontology--what kind of object the poet is--and critical epistomology--how prosodic data
+    is to be defined, gathered, and veri- fied. Thiesmeyer proposes a solution to the impasse in
+    theory by redefining the subject of metrics as the poetic experience rather than the
+    poem-object. </notes>
+  </item>
+
+
+  <item id="E91">
+   <bib> Thompson, John. The Founding of English Metre. London: Routledge and Kegan Paul, 1961; 2nd
+    ed. 1989, with Preface by John Hollander. </bib>
+   <notes>Rev: in Sewanee Review 70 (1062): 688-91; in Criticism 5 (1963): 80-82; in Ar- chiv 200
+    (1963): 219-21. See also Hawkes and Bateson (E719). Based on his dissertation, "The Iambic Line
+    from Wyatt to Sidney," DA 18 (1958): 1040A (Columbia). Should become the locus classicus on
+    Renaissance metrics and, indeed, on the more general subject of the nature of English
+    accentual-syllabic meter in its sta- ple form, the iambic pentameter line. Beginning with a
+    rigorous distinction between the natural (rhythmic) stresses of the language and the abstract
+    metrical pattern, and adopting the two axioms entailed by this distinction--that verse can be
+    read one way and scanned another, and that the effect of counterpoising rhythm against meter is
+    to create tension [this is the hallmark of the structural approach]--Thompson traces out
+    carefully the development of the pentameter line in early Renaissance verse, from the domination
+    of natural speech rhythms in Wyatt through the other extreme of excessive metrical regularity in
+    Surrey to the synthesis of both of these styles in the supple, finely modulated metrical
+    instrument of Sidney, the meter which will be the standard of English poetry for three centuries
+    thereafter. But equally remarkable is Thompson's argument that "the iambic metrical pattern has
+    dominated English verse because it pro- vides the best symbolic model of our language"--that is,
+    through meter "what poetry imitates is the structure of the language itself." Meter crystallizes
+    (by se- lection, reduction, and abstraction) the deep structure of the language. Chapters: on
+    Wyatt, Tottel, and Surrey; The Mirror for Magistrates; Googe, Turberville, and Gascoigne; The
+    Shepheardes Calender; classical meters; and on Sidney. Two Appendices, Bibliography. Synopsis of
+    the book will be found at E687. </notes>
+  </item>
+
+
+  <item id="E92">
+   <bib> Tsur, Reuven. "Articulateness and Requiredness in Iambic Verse." Style 6 (1972): 123-48. </bib>
+   <notes>The relationship of grammatical to prosodic features ("strings") in verse may be either
+    convergent or divergent, states which differ markedly in "perceptual quality" or texture;
+    divergence produces either soft focus (Milton, Shelley) where the two kinds of features
+    gradually fade into each other, or split focus (Pope), where they are polarized. Articulateness
+    and requiredness, antinomies, two sides of the same coin, are the two aspects of "breaking up a
+    whole into segments." Ar- ticulateness implies segmentation of a whole into parts both
+    "distinct" and "jointed" in order to simplify its perception. Requiredness implies the integrity
+    of the whole through its parts: no part is superfluous. In general the more highly articulated a
+    structure is, the more highly required are its parts, though not always. Split Focus: Clearly
+    one of if not the chief function of verse-structure is to heighten the "visibility" of the
+    segmentation, i.e. of the small-scale units. When grammatical and metrical units are not
+    convergent, they "compete" with each other for our attention. The first of the two versions of
+    the couplet below seems wittier to us--sharper in bite, stronger in pull--because "awake" (first
+    version) is more highly required by the positioning of the syntactic break late in the line: Now
+    Lapdogs give themselves the rowzing Shake, And sleepless Lovers, just at Twelve, awake. Now
+    Lapdogs give themselves the rowzing Shake, And, just at Twelve, the sleepless Lovers awake. From
+    this example and others we can see however that position is by no means the only factor in
+    establishing tension--meter, narratorial voice, and many other factors pertain. Among the major
+    English poets, Browning is by far the most vigorous at sustaining split focus; his verse has a
+    very evident sharpness and a "conclusive" tone. Soft Focus: More extreme pressures and more
+    complex structures pro- duce a melding of polarity into continuity and a "suspensive" tone, as
+    in Wordsworth, Shelley, and Milton. A high frequency of syntactic breaks near the ends of the
+    line normally produces split focus, but after sufficient reiteration will slide over into the
+    blurred, multi-layered texture so common in Milton. Similarly the strong requiredness generated
+    by enjambment produced fluidity by weakening the line-end. Stress-shifts and complex syntax may
+    achieve the same effects. An important new approach to the description of verse-structure; see
+    also Tsur's monography (E810), of which this article is anything but a mere redaction. </notes>
+  </item>
+
+
+  <item id="E93">
+   <bib> "The Value of Meter in Verse." Current Literature (Later Current Opinion) 34 (10 Jan.
+    1903): 10-11. </bib>
+   <notes>Meter is as indispensable to poetry as the laws of perspective and color are to painting
+    or the laws of scale and harmony are to music. </notes>
+  </item>
+
+
+  <item id="E94">
+   <bib> Versification: A Monthly Magazine of Measure and Metre. Ed. Alfred Nutting. June 1891-June
+    1892. London. </bib>
+   <notes>Continued as Poetry and Prose until suspended in 1895; completely irrelevant to our
+    concerns. </notes>
+  </item>
+
+
+  <item id="E95">
+   <bib> Welch, Constance. "Some Experimental Work in Speech Rhythm." Quarterly Journal of Speech 11
+    (1925): 247-52. </bib>
+   <notes>The author believes that certain emotions are expressed in certain characteristic rhythms,
+    and so her little experiments find what they were designed to find. She divides passages of
+    prose into lines and feet of verse, mainly on the basis of logical breaks, then hunts for
+    meters, producing such results as "Joy fell into two feet anapestic lines. The rhythm of love
+    was very complex." </notes>
+  </item>
+
+
+  <item id="E96">
+   <bib> Wells, Henry. W. "The Heritage of Form." In his New Poets From Old: A Study in Literary
+    Genetics. New York: Columbia University Press, 1940; rpt London, 1964. pp. 129-71. </bib>
+   <notes>A very broad yet informed survey of Poetic Influence, particularly metrical. The most
+    interesting claim is that modern poetry is metrically more indebted to Medieval, Elizabethan,
+    and Cavalier verse than to the Augustans, Romantics, and Victorians. Many examples. </notes>
+  </item>
+
+
+  <item id="E97">
+   <bib> Williams, Miller. "The Line in Poetry." Antaeus 30/31 (1978): 309-13. </bib>
+   <notes>Generalizations and observations on what is probably the most crucial area in all of
+    poetics--the reader's perception of the line as a unit in the poem; why wasn't this essay
+    written twenty years ago? </notes>
+  </item>
+
+
+  <item id="E98">
+   <bib> Williams, Ellis, Mrs. Annabel. "Uses and Abuses of Metre." An Anatomy of Poetry. Oxford:
+    Basil Blackwell, 1922. pp. 68-81. </bib>
+   <notes>Peregrine thoughts. </notes>
+  </item>
+
+
+  <item id="E99">
+   <bib> Woods, Suzanne. "Aesthetic and Mimetic Rhythms in the Versification of Gascoigne, Sidney,
+    and Spenser." Studies in the Literary Imaginination 11 (1978): 31-44. </bib>
+   <notes>Woods tries to distinguish mimetic rhythms (metrical figures which imitate "the speaking
+    voice the poem seeks to present or the statement the poem is mak- ing") from aesthetic ones ("in
+    themselves somehow pleasurable"), but the first definition fails to explain how the actual
+    presentation differs from a simulacrum of it, and the second amounts to nothing more than
+    "non-mimetic," since no corollary class of "displeasurable" rhythms is identified. This
+    distinction she claims did not obtain before the sixteenth century and cuts across the
+    traditional separation of plain and aureate styles in Renaissance verse. </notes>
+  </item>
+
+
+  <item id="E100">
+   <bib> Wordsworth, William. "Preface." Lyrical Ballads, With Pastorals and Other Poems. 3rd. ed.
+    London: Thomas Longman, 1802; rpt in Literary Criticism of William Wordsworth. Ed. Paul M. Zall.
+    Lincoln: University of Nebraska Press, 1966. pp. 38-62. </bib>
+   <notes>In the fifth paragraph Wordsworth commences upon the creation of his proper audience by
+    warning his readers against any expectation of (what later came to be called) the "metrical
+    contract"--reader presuppositions about the style and themes of poems set in a certain meter.
+    His larger problem is to explain his paradoxical view that the "language" of poetry is identical
+    to the language of prose, the "real language of men." Part of his strategy for a solution is to
+    map out a rough theory of meter, defending meter as a source of "charm" and "pleasure" which may
+    be beneficially superadded to the effects of prose, sense and order. The pleasure inhering in
+    the regularity of meter will function as a mild narcotic, soothing the reader whenever the sheer
+    excitement of good po- etry tends to overwhelm his emotions, and reminding him subliminally that
+    what he is experiencing is art not reality. Thus the meter, emblem of "simili- tude in
+    dissimilitude," produces "a complex feeling of delight." And what Wordsworth terms "the tendency
+    of meter to divest language in a certain de- gree of its reality" will later be called
+    "aesthetic distance." See Coleridge's reply at E13, and see E70 and E71. </notes>
+  </item>
+
+
+  <item id="E101">
+   <bib> Yeats, William Butler. "A General Introduction for My Work" [1937]. In Essays and
+    Introductions. New York: Macmillan, 1961, 1968. pp. 509-30. </bib>
+   <notes>Especially section 3; Yeats's phrases speaking of the language and meters of po- etry,
+    have come to be scarcely less memorable than Wordsworth's: "I discov- ered some twenty years ago
+    that I must seek, not as Wordsworth thought, words in common use, but a powerful and passionate
+    syntax, and a complete coincidence between period and stanza. Because I need a passionate syntax
+    for passionate subject-matter I compel myself to accept those traditional meters that have
+    developed with the language. . . . If I wrote of personal love or sor- row in free verse, or in
+    any rhythm that left it unchanged, amid all its acci- dence, I would be full of self-contempt
+    because of my egotism and indiscre- tion. . . . all that is personal soon rots; it must be
+    packed in ice or salt. . . . I must choose a traditional stanza, even what I alter must seem
+    traditional." See also section 5 of "The Symbolism of Poetry" [1900] in the same vol- ume. See
+    also B36, B42, B85, B156, B158-59, B176, B193, B214, C58, D323, D332, E756-57, E764, E794,
+    E1215, G15, G111, H17, H22, L42, L57, L100, L155, M181, N77. </notes>
+  </item>
+
+
+  <item id="E102">
+   <bib> Abercrombie, David. "A Phonetician's View of Verse Structure." Linguistics, no. 6 (1964),
+    pp. 5-13; rpt in his Studies in Phonetics and Linguistics. Language and Language Learning
+    Series, no. 10. London: Oxford University Press, 1965. pp. 16-25 </bib>
+   <notes>; rpt also in Phonetics in Linguistics: A Book of Readings. Ed. W. E. Jones and J. Laver.
+    London: Longman Group, 1973. pp. 6-13. The study of verse-structure is a proper domain of
+    phonetics "because verse is verse as a result of the way certain aspects of sound, or rather
+    perhaps the sound-producing movements, of speech have been exploited or organized." The
+    air-stream produced in speech is not continuous but pulsatory in two di- mensions: the regular
+    muscular contractions creating pressure peaks, here termed chest-pulses (each of which
+    corresponds to one syllable), and also the "less frequent, more powerful contractions of the
+    breathing muscles which every now and then coincide with, and reinforce, a chest-pulse
+    stress-pulses." Languages which organize the latter are stress-timed, those organizing the for-
+    mer, syllable-timed. English verse, not different in kind from English speech, is stress-timed
+    (stress-pulses may occur even in the absence of a sounded syllable), divided into isochronous
+    stress-initiating units called feet, and "must be there- fore in some sense quantitative."
+    Silent stresses are unexpectedly common, English verse has many more types of feet than Greek,
+    and line-end is usually signaled by a silent stress, monosyllabic foot, or the rhyme. Notice the
+    sample scansions, whch seem especially forced and unnatural. </notes>
+  </item>
+
+
+  <item id="E103">
+   <bib> -----. "Syllable Quantity and Enclitics in English." In Honour of Daniel Jones. Ed. David
+    Abercrombie et al. London: Longman's 1964. pp. 216-22 </bib>
+   <notes>; rpt in his Studies in Phonetics and Linguistics. Language and Language Learning Series,
+    no. 10. London: Oxford University Press, 1965. pp. 26-34. Appropriating the concepts (while
+    oddly eschewing the terms) of classical ver- sification to the description of the rhythm of the
+    English language (and verse), A. argues that there are consistent relations of quantity to be
+    found between English syllables. Quantity in English syllables is relative to that in adjacent
+    syl- lables and varies with context, in contrast to Greek, where syllabic quantity was absolute
+    and constant. N.B.: syllable-quantity does not equal vowel quantity. A. postulates that English
+    utterances are divided into isochronous stress-timed feet, such that "we cannot therefore sway
+    anything about the quantity of a sylla- ble until we know its place in the foot." Three
+    disyllabic feet are identi- fied(short-long, equal-equal, and long-short), all in triple time.
+   </notes>
+  </item>
+
+
+  <item id="E104">
+   <bib> Adams, Stephen J. "Pound's Quantities and 'Absolute Rhythm.'" Essays in Literature [Western
+    Illinois University] 4 (1977): 95-109. </bib>
+   <notes>Explicates those two principles in Pound's poetry. By the latter, he meant "melopoeia," or
+    the absolute association of emotions with word-sounds--a complex but precise system of
+    correspondences Pound held to be different for each language. Hence, Adams shows, he often
+    subordinated lexical and seman- tic accuracy in his translations to melopoeic accuracy. By the
+    former, Pound meant a rigorous system of verse-composition based on quantity, but lacking any
+    consistency of principle: "Pound's syllable may be long either by nature, or by position, or by
+    stress, but sometimes a stressed syllable is insisted on as short and counterpointed. Pound's
+    principles are thus arbitrary and contradictory. . . . This is not to say that Pound's sapphics
+    are failures, but that they are an illu- sion--a skillfully designed illusion." </notes>
+  </item>
+
+
+  <item id="E105">
+   <bib> Allen, [Charles] Grant [Blairfindie]. "On the Galliambic Metre." The Attis of Caius
+    Valerius Catullus Translated into English Verse, with Dissertations. . . . London: David Nutt,
+    1892. pp. 126-54. </bib>
+   <notes>Argues Catullus's meter to be highly regular (contrary to opinion) and of the form Ë Ë Ì Ë
+    Ì Ë Ì Ì Ë Ë Ì Ë Ë Ë Ë Ì , the half-lines being derived from Greek iambic tetrameters. Tennyson's
+    translation uses trochaic meter, George Meridith's iambic-anapestic. Tennyson's choice, Allen
+    believes, arose from a mistaken accentual scansion of the classical verse. </notes>
+  </item>
+
+
+  <item id="E106">
+   <bib> Applegate, James. "Sidney's Classical Meters." MLN 70 (1955): 254-55. </bib>
+   <notes>Corrects a mistake by Theodore Spencer in ELH 12 (1945): 251-78. Sidney's fine little poem
+    "When to my deadlie pleasure" is written in the Aristophanic not the Anacreonic meter. Wider
+    discussion of Sidney's classical-imitative ex- periments follows. </notes>
+  </item>
+
+
+  <item id="E107">
+   <bib> Arnold, Matthew. Three Lectures on Translating Homer. London: Longman's 1861. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E108">
+   <bib> -----. Last Words on Translating Homer. London: Longman's, 1896. </bib>
+   <notes>There is a noteworthy Introduction in the 1905 edition edited by W. H. D. Rouse, but the
+    best modern text (with excellent notes) is On the Classical Tra- dition. Vol. 1 of The Complete
+    Prose Works of Matthew Arnold. Ed. R. H. Super. Ann Arbor: University of Michigan Press, 1960.
+    See also Omond (E214), Spedding (E238), Munro (M140), Newman (E210), and Lord Redesdale (E220).
+    On the criticial question of audience, Arnold considers the best reader and judge of a Homeric
+    translation to be the scholar, both fluent in the original Greek and possessed of genuine taste
+    in poetry. And though the lectures treat mainly of style and movement, the third of the original
+    three turns to the ques- tion of meter, Arnold rejecting couplets (Chapman's and Pope's), blank
+    verse (Cowper's Miltonic convolutions) and ballad meter (Francis W. Newman's), preferring
+    instead the hexameter (Hawtrey's are approved, Clough's and Long- fellow's rejected) as being
+    the closest to the original Homeric "movement" (a crucial term). The stiffness of the dactyls in
+    the English hexameter may be avoided by frequent spondees; the only other requirement (also
+    crucial) is that the lines must "read themselves"--i.e. the natural accent should not be
+    wrenched unnaturally to fit the metrical pattern. The lines must read naturally to the Eng- lish
+    ear, though at the same time the quantities must not be "utterly discarded." In the Last Words
+    lecture (delivered November 30, 1861), Arnold makes a sincere effort to mollify Newman (whose
+    Reply to Arnold's earlier criticisms in the second lecture showed him eager to avenge an
+    inflated sense of injury) while at the same time defending his original judgments, then examines
+    the views of Spedding (English hexameters should be quantitative) and Munro (quantity should be
+    entirely ignored) with surprising energy, generally siding with Munro in favor of the accentual
+    imitation as something "necessary and in- evitable" to the English ear. "We must work with the
+    tools we have." The lecture concludes with the memorable soft eulogy for Clough. See also the
+    untitled review by Noel Annan in The New Statesman n.s. 27 (1944): 191. </notes>
+  </item>
+
+
+  <item id="E109">
+   <bib> Ascham, Roger. The Scholemaster [1563-69]. London: John Daye, 1570 </bib>
+   <notes>; 2nd ed. 1571. Ed. Edward Arber. English Reprints series, no. 23. London, 1870, 1888. In
+    Smith (A26), vol. 1, pp. 1-45. In the English Experience series, no. 15. New York: Da Capo
+    Press, 1968. In facsimile, Menston, Yorkshire: Scolar Press, 1967. Ed. Lawrence W. Ryan. Ithaca:
+    Cornell University Press, 1967. Ed. R. J. Schoeck. Ontario: J. M. Dent and Sons, 1966. Near the
+    end of Book II, Ascham criticises his contemporary verse-writers, those "rash, ignorant heads,
+    which now can easily reckon up fourteen syllables, and easily stumble on every rhyme" but are
+    too idle and ignorant to labor for complete perfection of verse, "true quantity in every foot
+    and syllable." Rhyme too earns his scorn: "our rude beggarly rhyming [was] brought first into
+    Italy by Goths and Huns, when all good verses and all good learning too were de- stroyed by
+    them. . . . to follow rather the Goths in rhyming, than the Greeks in true versifying, is even
+    to eat acorns with swine, when we may freely eat wheat bread among men." Surrey and Periz are
+    noticed as laudable poets who avoid rhyme and "observe just number and even feet" but their feet
+    are unfortunately "feet without joints, that is to say not distinct by true quantities of
+    syllables." Thus, the first important English commentator on verse-structure mis- understands
+    the native accentual meter entirely, and so damns it for being too formless and easy, requiring
+    neither labor nor learning. See also E40. As for the earliest English verse written in
+    quantitative meters, there are some specimens in Ascham's Toxophilus (a popular treatise on
+    archery) of 1545, and in Book I of The Scholemaster Ascham quotes verses by Thomas Watson
+    (Bishop of Lincoln) from his unpublished translation of the Odyssey (ca. 1545). The interest in
+    England in setting modern verse to classical meters seems to have been transmitted through
+    Jacques de la Taille in France from Claudio Tolemei in Italy (1539). For further discussion of
+    Ascham see: </notes>
+  </item>
+
+  <item id="E110">
+   <bib> Strozier, Robert M. "Theory and Structure in Roger Ascham's The Scholemaster."
+    Neuphilologische Mitteilungen 74 (1973): 144-62. </bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="E111">
+   <bib> Ryan, Lawrence V. "The Scholemaster." In his Roger Ascham. Stanford: Stanford University
+    Press, 1963. </bib>
+   <notes> Especially pp. 272-76: a very sanguine perspective. </notes>
+  </item>
+
+
+  <item id="E112">
+   <bib> Attridge, Derek. Well-Weighed Syllables: Elizabethan Verse in Classical Meters. London:
+    Cambridge University Press, 1974; rpt 1979. 258 pp. </bib>
+   <notes> Based on his dissertation, "The Elizabethan Experiments in English Quantitative Verse,"
+    at Cambridge University in 1971. Rev.: in MP 76 (1978): 69-73; in English 24 (1975): 91-92.
+    Attridge is now the standard reference on the subject of quantitative experi- ments in the
+    Renaissance. The book contains three parts: parts 2 and 3 review the theorizing and the verses
+    of poets, first synthetically (in 2), exam-ining the Renaissance attitudes toward both
+    vernacular verse and classical imitators, the origin and extent of the vogue for quantitative
+    verse, and the nature of the verse itself, then analytically by author (in 3), with separate
+    examinations of each of the major theorists and poets. But more important is the more abstract-
+    -but more crucial--analysis in part 1, not hitherto researched fully or directly, of the
+    exceedingly complex question, "What is quantity?" This question resolves itself at once into
+    three others, scarcely easier--"What is the modern under- standing of Latin verse?" "How did the
+    Renaissance understand Latin verse?" and "How did the Romans understand Latin verse?" Everyone
+    speaks glibly of longs and shorts, but as Attridge convincingly shows, the phonetic evidence is
+    far too complex and ambiguous for the simplistic, text-book definition of quantity to be
+    correct. It would seem, judging from Renais-sance primers for schoolboys, that the Renaissance
+    approach, at least, was not to stress (in pro- nunciation of Latin verses) the ictuses (i.e. the
+    "long" syllables" but rather the syllables which would be stressed according to normal English
+    rules of accen- tuation. Such a "prosaic" stressing, rather than an ictic stressing, would
+    effectu- ally polarize the normal accentual system from the more abstract and artificial
+    "quantities," which were determined by a complex system of rules (not really very intelligible,
+    even to them, but accepted on authority), among which was one which allowed determination of
+    quantity by orthography (i.e. by varying the spelling of a word one could produce a desired
+    quantity). Thus we can see how abstract and visual rather than aural was the whole Renaissance
+    understanding of Latin verses, and also how sophisticated and antithetical it seemed in the face
+    of vernacular poetry. It is this demonstration of the crucial role of phrase-stressing and
+    orthography (taught to the Elizabethan schoolboy as he scanned his Latin verses) that Attridge
+    is able to achieve an altogether remarkable synthesis of some very confusing evidence into that
+    most difficult of all historicial results, a coherent, convincing, and "natural" account of what
+    the problem looked like through the eyes of the men of the time. E113 Related: Percy Simpson,
+    "The Elizabethan Pronunciation of Accented Greek Words." MLR 45 (1950): 509-10. </notes>
+  </item>
+
+
+  <item id="E114">
+   <bib> Auden, W. H. Preface to Selected Songs of Thomas Campion. Boston: David Godine, 1973. pp.
+    9-14. </bib>
+   <notes>The poet setting verse to music must take vowel length into account, and surely Greek
+    meters were originally derived from music. Scansions. Cf. E177. </notes>
+  </item>
+
+
+  <item id="E115">
+   <bib> Aylward, Kevin J. "Milton's Latin Versification: The Hexameter." DA 27 (1966): 1331A
+    (Columbia). </bib>
+   <notes>How closely did Milton approximate the classical model? Aylward emphasizes the
+    considerable inadequacies of the models-- contemporary grammars, school training, scholarship
+    and informed opinion, and treatises on poetics--as partial justification for Milton's
+    achievement, which he characterizes in various poems as "peculiar," "uncertain,"
+    "indiscreet,""insensitive," "inept," and "arbitrary," the last of these being particularly apt.
+   </notes>
+  </item>
+
+
+  <item id="E116">
+   <bib> Baker, Sheridan. "English Meter Is Quantitative." College English 21 (1960): 309-15. </bib>
+   <notes>A thesis Baker can uphold because he believes that stress "is the only cause of" quantity,
+    or that quantity "more or less rides along with stress" nearly always. [This has yet to be
+    proven.] "In Latin, syllables are long by intrinsic nature or position, and they stay in
+    position. In English, stress alone makes quantity, and what one minute you think is stressed may
+    not be the next time you look." [This is question-begging.]Baker identifies two types of short
+    syllables in Eng- lish (time-values 1/4 and 1/2) and three types of longs (1, 3/4, and 1- 1/4).
+   </notes>
+  </item>
+
+
+  <item id="E117">
+   <bib> Barnard, Mary. "A Communication on Greek Metric, Ezra Pound, and Sappho." Agenda 16, 3-4
+    (1978-79): 62-68. </bib>
+   <notes>Pound suggested a reference for study of Greek meters to this poet; she eventu- ally
+    developed a short "balanced" line for translating the Sapphic fragments. </notes>
+  </item>
+
+
+  <item id="E118">
+   <bib> Bayly, Anselm. An Introduction to Languages, Literary and Philosophical. London: John
+    Rivington, 1758; rpt Ann Arbor: University Microfilms, 1953. See p. 173 ff. </bib>
+   <notes>A comparative grammar. Bayly complains of the absence of fixed quantities for English
+    words, then later remarks that "Accent is in English the same as Quan- tity, making that
+    syllable long, on which it is laid, and the other syllable short." Accent (acute, grave, or
+    circumflex) is taken as the rising or falling of the voice; "quantity then may be considered as
+    the time, and accent, the tune [of lan- guage]." </notes>
+  </item>
+
+
+  <item id="E119">
+   <bib> -----. "Poetry." The Alliance of Musick, Poetry, and Oratory. London: John Stockdale, 1789.
+    pp. 79-122; rpt Ann Arbor: University Microfilms, 1953. </bib>
+   <notes>The scope of Prosody encompasses Accent, Quantity, Feet, and Rhythm. Ac- cent, the
+    elevation or depression of the voice, "answers to tones in musick." Musical notes are
+    occasionally used in scansions, and though Bayly traces accent back to Greek versification,
+    still he thinks that "certain syllables of a certain quantity constitute feet" in English verse.
+   </notes>
+  </item>
+
+
+  <item id="E120">
+   <bib> [Bayne, Thomas?] "English Hexameters and Elegaics." Macmillan's Magazine 86 (1901): 430-37. </bib>
+   <notes> Cf. Thomas Bayne's note on "English Hexameters and </notes>
+  </item>
+
+  <item id="E121">
+   <bib> Elegaics" in Notes and Queries, 9th series, vol. 7 (1901): 321-22. </bib>
+   <notes>Correcting an ill-informed critic, the author mentions the hexameters of Coleridge,
+    Clough, Longfellow, and Kingsley, discusses Harvey and Spenser at greater length, then notes the
+    elegiac verses of Arthur Munby and Sir Lewis Morris, discussing Browning's "Ixion" at length.
+   </notes>
+  </item>
+
+
+  <item id="E122">
+   <bib> Benson, Carl. "Short Chapters on Novel and Exotic Metres." American Review: A Whig Journal
+    4 (1846): 482-85; 5 (1847): 72-73, 174-75, 502-4. </bib>
+   <notes>On the possibilities for English versions of the classical Hexameters, Pentame- ters,
+    Iambic Trimeters (our Alexandrines), Sapphics, Alcaics, Hendecasyllabics, and irregular meters.
+    Mentions the poverty of English spondees. </notes>
+  </item>
+
+
+  <item id="E123">
+   <bib> [Benson, William.] Letters concerning Poetrical Translations, and Virgil's and Milton's
+    Arts of Verse &amp;. London: J.Roberts, 1739; rpt New York: Garland, 1970. 83 pp. </bib>
+   <notes>A rather detailed comparison of the versification of Virgil and Milton in eleven features
+    of their verse; Benson scans by duration (Letter 8). Milton is taken up in letter 5. </notes>
+  </item>
+
+
+  <item id="E124">
+   <bib> Blackie, J. S. "Homer and His Translators." Macmillan's Magazine 4 (1861): 268-80. </bib>
+   <notes>Professor Blackie takes a more philosophical view of the question than most of the
+    reviewers did; he also gives a lengthy defense of rhyme, concluding there- from that the
+    ballad-meters (long- line couplets of Common Measure, that is) would be best. Penultimate
+    paragraphs takes up (and promptly flings down) the hexameter. </notes>
+  </item>
+
+
+  <item id="E125">
+   <bib> -----. "Remarks on English Hexameters." In his Horae Hellenicae. London: Macmillan, 1874.
+    pp. 278-96. </bib>
+   <notes>"The beau ideal of a translation as a work of art unquestionably is, that it shall be . .
+    . a FACIMILE, as far as may be. . . . a translator is bound to transfer every measure of his
+    original into that measure of his own language, which in its style, character, associations, and
+    effects, corresponds to his model." The prin- ciple to be followed, then, is not literal
+    reproduction but correspondence of effect, whatever the means. Blackie favors the old
+    fourteeners of Chapman and the fifteen- syllabled trochaic lines of Locksley Hall to any other
+    measure in English--quantitative or accentual hexameter, couplet, or blank verse--for ren-
+    dering Homer. </notes>
+  </item>
+
+
+  <item id="E126">
+   <bib> [Blundell, James, tr.] Hexametrical Experiments, or A Version of four of Virgils Pastorals
+    . . . done in a structure of verse similar to that of the original Latin, with hints to explain
+    the method of reading and a slight essay on the laws of the metre. London: William Pickering,
+    1838. </bib>
+   <notes>The two "slight" introductory essays on the hexameter (pp. 1-25) take up a fourth of the
+    book. Though the "longs" and "shorts" of Blundell's metric thwart accent only rarely, he bases
+    his system of quantitative hexameters on time: "in relation to the time which their utterance
+    requires, the syllables of our language may be divided into four kinds, the long, the short, the
+    double short, and the common." </notes>
+  </item>
+
+
+  <item id="E127">
+   <bib> Bridges, Robert. "Epistle to a Socialist in London." The Monthly Review 12 (1903): 150-64. </bib>
+   <notes>Hexameter verse, with a "Summary of Stone's Prosody," pp. 165-67. Said to be the second of
+    two Epistles, the first being Now in Wintry Delights. See also "A Peace Ode" (alcaics?) in the
+    same periodical, 11 (June 1903): 141-43. </notes>
+  </item>
+
+
+  <item id="E128">
+   <bib> -----. The Feast of Bacchus. Oxford: Privately printed by H. Daniel, 1889. </bib>
+   <notes>Brief note at the end, dated 1885. The meter of his version of Terence, Bridges says, is a
+    six-stress line, with certain additional provisions for "distribution" of stress among several
+    short syllables, and any other similarity to the iambic tri- meter of Latin comedy is
+    accidental. </notes>
+  </item>
+
+
+  <item id="E129">
+   <bib> -----. Ibant Obscuri: An Experiment in the Classical Hexamater. Oxford: Clarendon Press,
+    1916. </bib>
+   <notes>The Introduction, "Virgil's Rhythms," pp. 1-18, originally appeared in the New Quarterly
+    for January 1909. "A Note on Stone's Prosody," at the end, pp. 154- 58, reprints Bridges' 1903
+    "Summary of Stone's Prosody" (E130) with new 1916 "Observations" in parallel columns. Throughout
+    the Introduction Bridges reiterates that a poet can achieve great effects only in those forms
+    that are coge- nial to the language, so that any attempts to reproduce a form successful in an-
+    other language but graceless in one's own, simply for the sake ofcopying, is ut- ter folly.
+    Bridges' own "undertaking was not to copy the Latin imitation of the Greek but to make an
+    analogous attempt in [his] own language." </notes>
+  </item>
+
+
+  <item id="E130">
+   <bib> -----. Now in Wintry Delights. Oxford: Daniel Press, 1903. </bib>
+   <notes>See the six-page note at the end, where Bridges confirms that this verse is written in a
+    classical-imitative meter based on the system of Stone. (E251), which Bridges sketches briefly
+    for readers unfamiliar with it, adding remarks and observations. </notes>
+  </item>
+
+
+  <item id="E131">
+   <bib> [Brightland, John?] "The Art of Poetry." A Grammar of the English Tongue, With Notes,
+    Giving the Grounds and Reason of Grammar in General </bib>
+   <notes>, To which are now added, The Arts of Poetry, Rhetoric, Logic, &amp;c. . . . London, 1711;
+    2nd rev. ed. 1712. pp. 131- 68. The Prosodia affixed to the grammar mainly treats the principal
+    genres of po- etry, but chapter 1 gives a quantitative account of meter. I have seen only the
+    second edition, but Culler reported that the first edition titled its section on verse "New
+    Prosodia; or the Art of English Numbers." Three degrees of quan- tity are stipulated (long,
+    short, and variable) as well as three of accent; "Accent is the raising and falling of the
+    Voice, above or under its usual Tone, but an Art of which we have little Use, and know less, in
+    the English Tongue." Bysshe is criticized in a note for the "erroneous use of Accent for
+    Quantity." </notes>
+  </item>
+
+
+  <item id="E132">
+   <bib> Calverley, C. S. "On Metrical Translation" </bib>
+   <notes> and the two following essays in Literary Remains of Charles Stuart Calverley. London:
+    George Bell, 1885. pp. 172-85. (The first originally appeared in the London Student for October
+    1868.) Calverley intends to correct a modern misconception by insisting that the an- cients read
+    (pronounced) their verse one way but scanned it another, i.e. "by an accent which was so far
+    arbitrary that it was wholly independent of the scan- sion, and was intended partially to
+    conceal the scansion," in contrast to modern imitations of classical meters. In these latter he
+    finds their monotony and ca- cophony most offensive. </notes>
+  </item>
+
+
+  <item id="E133">
+   <bib> Campbell, T. M. "Longfellow and the Hexameter." MLN 23 (1908): 96. </bib>
+   <notes>Addendum by Charles Eliot Norton, p. 231. Longfellow's early dislike of the accentual
+    hexameter (1841) was apparently re- versed by an approving review in a German periodical,
+    resulting in his use of the meter in 1845. </notes>
+  </item>
+
+
+  <item id="E134">
+   <bib> Campion, Thomas. Observations in the Art of English Poesie. London: Richard Field for
+    Andrew Wise, 1602; rpt in the Works of Thomas Campion. Ed. Walter R. Davis. London: Faber &amp;
+    Faber, 1969; in Smith (A26), vol. 2, pp. 327-55; in facsimile: Menston, Yorkshire: Scolar Press,
+    1969. </bib>
+   <notes>Written perhaps as early as 1591, by its publication date Campion's treatise had become
+    simply an index of what concessions the faltering theory of classical- imitative verse in
+    English was driven to in order to have any credence at all. In the First Book of Ayres in 1601
+    Campion had declined the use of quantitative meters in favor of "ear-pleasing rimes," and when
+    he came to a full-scale de- fense of the classical forms the following year, his position was
+    mixed at best: he bases quantity directly on accent ("above all the accent of our words is
+    dilli- gently to be observed, for chiefly by the accent in any language the true value of the
+    syllables is to be measured"), though "accent," being described as rising, falling, grave, or
+    flat, seems to be not only stress but pitch. Yet at the same time he allows length by position,
+    which does in fact wrench accent. Fortunately, though, he scans by ear (phonetically) rather
+    than by eye, allowing no clumsy machinery of orthography. The bulk of the Observations presents
+    the eight measures (iambic, dimeter, trochaic, elegaic, three types of lyric, and ana- creonic)
+    which English could improve itself by adoption. But the most interest- ing matter is that
+    Campion's close training in music leads him to treat verse- structure (quantity) in terms of
+    Time. Anyone who can "time a song" can see that Latin and English pentameters "are in nature all
+    of the same length of sound . . . for either of them being timed with the hand, quinque
+    perficiunt tem- pora, they fill up the quantity (as it were) of five semibreves." Metrical rests
+    are allowed in verse as in music, and the failing of pyrrhic substitutions in iambic lines lies
+    in their "curtailing their verse." Number in poetry, too, refers not only to the number of
+    syllables but also to "the length or shortness of their sound" as is the case when verse is set
+    to music. Omond (A5) misses this crucial matter entirely, as well as one other: in his chapter 4
+    Campion reveals what is demon- strably a clear understanding of trochaic and trisyllabic
+    substitutions. But none of these keen perceptions did any good: the whole quantitative
+    controversy had been moribund for a decade when the Observations was published, and Daniel's
+    reply (E521) was irrefragable. And Campion's defense, by revealing the severe weaknesses of his
+    position, served only to advance the case of the Accentualists. See N75. </notes>
+  </item>
+
+
+  <item id="E135">
+   <bib> Carne-Ross, D. S. "New Metres for Old: A Note on Pound's Metric." Arion 6 (1967): 216-32. </bib>
+   <notes>Lucid technical analysis of The Cantos and some Greek verse to show that Pound's metric is
+    based on a "rhythmic constant"(recurring phrases equal in syllable count) and, indeed, quantity
+    (taking quantity in English verse as pitch is in Greek, i.e. variable not central). The
+    impressively marshalled evidence in- cludes a little book which Pound read, Duhamel and
+    Vildrac's 1912 Notes sur la technique poétique. </notes>
+  </item>
+
+
+  <item id="E136">
+   <bib> Carpenter, Edward. "On English Hexameter Verse." Cambridge Review, 22 February and 1 March
+    1900, pp. 219-21, 235-36. </bib>
+   <notes>Very skeptical of the practicability or range of the quantitative hexameter in our
+    stress-marked language. Discusses Clough (E140), Arnold (E108), and Stone (E251). </notes>
+  </item>
+
+
+  <item id="E137">
+   <bib> Cayley, C[harles] B[agot]. The "Prometheus Bound" of Aeschylus, translated in the original
+    metres. London: John Camden Hotten, 1867. </bib>
+   <notes>Seven page Preface: "I have endeavoured to realize the metres of my original by the
+    strictest consideration of the quantities of the words I have employed," and further, "I have
+    taken pains to combine the accents of my lines in modes partially regular and familiar to the
+    English ear." </notes>
+  </item>
+
+
+  <item id="E138">
+   <bib> -----. "Remarks and Experiments on English Hexameters." Transactions of the Philological
+    Society, 1862-63. pp. 67- 85. Later published separately at Berlin, 1863. 21 pp. </bib>
+   <notes>A series of divagations ending in an outright evasion, but one gathers that, for Cayley,
+    paying attention to the accentual structure of classical verse is of even greater importance
+    than attending to the quantities of English syllables. But he denies that accent lengthens
+    syllables in English and that "accent in the modern languages is the same thing as quantity in
+    the ancient"; indeed, an accentual hexameter is "diametrically opposed to classical usage and
+    principle." Yet mod- ern translators of classical verse can never succeed until "they can become
+    in posse, if not in esse, exact imitators of both the accentual and quantitative com- binations
+    of the ancients." Time and pauses in English verse also mentioned (first page). </notes>
+  </item>
+
+
+  <item id="E139">
+   <bib> Chasles, Philarète, et al. Letters to The Athenaum, April-June 1849, pp. 411, 487, 517,
+    597-98, 644-45. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E140">
+   <bib> Clough, Arthur Hugh. The Bothie of Toper-na-Fuosich. London, 1848; </bib>
+   <notes> rpt as The Bothie of Tober-na-Vuolich in The Poems and Prose Remains. Ed. Blanche Clough.
+    2 vols. London: Macmillan, 1869. Vol. 2, pp. 201-87. Also rpt in the Oxford Standard Authors
+    edition of A. L. P. Norrington (Oxford University Press, 1951, 1967) with a valuable
+    Introduction (section IV of which discusses the quantitative verse). Accentual hexameters
+    written in imitation of the classical quantitative meter. Also in accentual hexameters are
+    Amours de Voyage and the six "Essays in Classi- cal Metres" (two passages from the Iliad, two
+    Elegiacs, on Alcaic, and "Ac- taeon"). Add to these an essay, "Illustrations of Latin Lyrical
+    Meters," and the "Letters of Parepidemius, Number Two: On Translating Homer" which may be
+    located conveniently in the Selected Prose Works edited by Buckner B. Trawick (University of
+    Alabama Press, 1964, pp. 66-84,180-86). The latter es- say first appeared in the 1888 edition of
+    the Prose Remains. Clough's view is that both accent and quantity are important to both
+    classical and modern verse; in classical verse, however, the metrical accent was based on pitch,
+    and independent of the ordinary accentuations based on stress-- i.e., "The accent of speech was
+    lost in the accent of song." Thus, "with the an- cients the accent of words in metre was . . .
+    independent of their colloquial ac- cent: while with us the two are kept simply identical. The
+    accent of words with us is fixed, with them was in metre arbitrary. So on the other hand, with
+    them, the quantity was fixed and carefully observed;with us it is variable, and greatly
+    neglected. Still there can be no question but that discrimination of quantity enters largely
+    into the modern art of versifying." To modernize a clas- sical meter, then, two rules are
+    necessary: "the Metrical Accent must remain the same" and "Quantity should be preserved." Clough
+    cleaves strictly to the first but not the second. In short, he uses the modern English
+    stress-accent as ana- logue of the classical Greek pitch-accent to mark the metrical ictus. The
+    British reader has no patience, he observes (second letter of Parepidemius), for so so-
+    phisticated a treatment as one which might counterpoint or oppose the stress and the ictus.
+   </notes>
+  </item>
+
+
+  <item id="E141">
+   <bib> Coleridge, Samuel Taylor. "Hexameters," "Translation of a Passage in Ottfried," "Catullian
+    Hendecasyllables," "Homeric Hexameters," "The Ovidian Elegaic Metre," "Hexameters (Paraphrase of
+    Psalm XLVI)," "Hymn to the Earth," "Mahomet," and "Ad Vilnum Axiologum." In Poetical Works. Ed.
+    Ernest Hartley Coleridge. London: Oxford University Press, 1912, 1967. pp. 304-8, 326-30,
+    391-92. </bib>
+   <notes>Accentual hexameters, mainly, written about 1799 in most cases. The Elegaic Metre" couplet
+    is the only that has become well-known, but the note to "Hymn to the Earth" proffers some
+    instruction for "intelligent female readers of poetry": "in the attempt to adapt the Greek
+    metres to the English language, we must begin by substituting quality of sound for
+    quantity--that is, accentuated or comparatively emphasized syllables, for what in the Greek and
+    Latin verse, are named long. . . ." </notes>
+  </item>
+
+
+  <item id="E142">
+   <bib> Crowe, William. A Treatise on English Versification. London: John Murray, 1827. 334 pp. </bib>
+   <notes>The book had been earlier serialized under the title "On English Versification" in the
+    London Magazine 7 (1823): 29-37, 173- 80, 273-82, 429-36, 661-68; 10 (1824): 29-35. Public
+    Orator of long standing at Oxford, Crowe's theoretical position dates from the 1760's: he
+    accepts quantity as the basis of verse almost as if it were axiomatic. More curious still, "the
+    simplest elements of verse are letters-- of letters are formed syllables--of syllables feet--of
+    feet a verse." Yet having been faithful to the letter, he turns to the spirit--sounds. The
+    Introduction gives an interesting historical review of the prosodists--Webbe, Gascoigne, Putten-
+    ham, Campion, Daniel, Cowley, Woodford, Poole, Bysshe, Pemberton, Fos- ter, Mitford, and several
+    other lesser mortals. Of the several "experiments" in metric undertaken in English poetry
+    (alliterative, classical-imitative, and four- teener, e.g.), only that of "ten syllables, free
+    from rhyme" has succeeded. From this we can see that Crowe takes decasyllabism as an absolute.
+    In its time, his book was the voice of things past. </notes>
+  </item>
+
+
+  <item id="E143">
+   <bib> Cuddy, Lois S. "The Influence of Latin Poetics on Emily Dickenson's Style." Comparative
+    Literature Studies 13 (1976): 214-29. </bib>
+   <notes>Proposes a new explanation for Dickinson's verseform: the meter is meant to be
+    quantitative. What E. D. learned in the Stoddard and Andrews Latin grammar text she read at the
+    Amherst Academy she later tried to replicate in her own work, using dashes to denote caesurae
+    and foot boundaries and using capitali- zation and italics to insure that certain words within
+    the lines would receive unusual stress and hence lengthening of syllables. </notes>
+  </item>
+
+
+  <item id="E144">
+   <bib> Cummings, Prentiss. Hexameter Verse and its requirements in order that it may "read
+    itself." Cambridge, Mass.: Riverside Press, 1900. 68 pp. </bib>
+   <notes>The requirements for meeting Arnold's dictum about the smoothness of English hexameters
+    are that "accent should not be sacrificed for the sake of quantity" and that "every ictus
+    syllable should be an accented syllable." Cummings distin- guishes ictus, accent, and emphasis,
+    and constructs a schema of nine line-types, based on the number and position of "emphasized
+    feet"; "emphasis may be ef- fected by stress or by lengthening the vowel." But after the
+    Introduction of the English forms, the book turns exclusively to Greek and Latin examples.
+   </notes>
+  </item>
+
+
+  <item id="E145">
+   <bib> Davis, Walter R. "A Note on Accent and Quantity in A Booke of Ayres." MLQ 22 (1961): 32-36. </bib>
+   <notes>Campion repeats vowel sounds to insure identical quantity and thereby en- riches the
+    traditional accentual meters with superimposed quantitative effects in "Come let us
+    sound,""Turne backe you wanton flyer," and "Harke al you la- dies." </notes>
+  </item>
+
+
+  <item id="E146">
+   <bib> Duckworth, George E. "Milton's Hexameter Patterns--Vergillian or Ovidian?" American Journal
+    of Philology 93 (1972): 52-60. </bib>
+   <notes>In the hexameter poem, Milton's metrical style is mixed, resembling the Ver- gilian
+    Eclogues rather more than the Aeneid or Ovid; in the elegies, he resembles Ovid more closely
+    than the classical Roman poets did themselves. Extensive statistical analysis. </notes>
+  </item>
+
+
+  <item id="E147">
+   <bib> Dunn, Catherine M. "A Survey of the Experiments in Quantitative Verse in the English
+    Renaissance." DA 28 (1967): 193A (U.C.L.A.) </bib>
+   <notes>A broad study of the movement through its vicissitudes in England, touching also on its
+    Italian origin and French transmission. Poets examined: Ascham, Spenser, Harvey, Sidney, Abraham
+    Fraunce, John Dickinson, "Anomos," Richard Barnfield, Stanyhurst, Webbe, Abraham Fleming, Robert
+    Greene, Francis Sabie, and author of Henry VII, Campion, and Daniel. </notes>
+  </item>
+
+
+  <item id="E148">
+   <bib> Ellis, Robinson. The Poem and Fragments of Catallus Translated in the Metres of the
+    Original. London: John Murray, 1871. </bib>
+   <notes>The fourteen page Preface praises Tennyson's work and sets forth explicitly the "rules"
+    for quantitative verse on "the true positional principle": (1) "accented syllables, as a general
+    rule, are long, though some syllables which count as long need not be accented"; (2) the laws of
+    position are to be observed according to the general rules of classical prosody. Problems of
+    application are discussed di- rectly. General principle: "Quantity," in English revivals of
+    ancient metre, de- pends not only on position, but on accent." (The ambiguity is evident; see
+    Munro (E203).) </notes>
+  </item>
+
+
+  <item id="E149">
+   <bib> Elze, Karl. Der englische Hexameter. Einladung zu den öffentlichen Prüfungen im
+    Herzoglichen Gymnasium zu Dessau . . . 8-9 April 1867. Dessau: H. Neubürger, 1867. </bib>
+   <notes>Formerly the best available source on English quantitative verse, Elze has not been
+    entirely superseded by Attridge (E112); his treatment of second- and third-rate writers is more
+    detailed, and he covers both the Renaissance and the nineteenth century and also the classical
+    imitations in general and the transla- tions of Homer in particular. </notes>
+  </item>
+
+
+  <item id="E150">
+   <bib> English Hexameters Translations, from Schiller, Göthe, Homer, Callinus, and Meleager.
+    London: John Murray, 1847. </bib>
+   <notes>Contributions by Hare, Hawtrey, Herschel, Lockhart, and Whewell; "all the pieces are
+    executed with the intention that the lines, being read according to the natural and ordinary
+    pronunciation, shall run into accentual hexameters or pentameters." Fifty pieces in a small
+    oblong volume, bound in beautiful Ori- ental boards. </notes>
+  </item>
+
+
+  <item id="E151">
+   <bib> "The English Translators of Homer." National Review (London) 11 (1860): 283-314. </bib>
+   <notes>An historical survey of the various English translators, arising from a review of Newman's
+    and Wright's efforts; the reviewer approves ballad-meter as most ap- propriate. </notes>
+  </item>
+
+
+  <item id="E152">
+   <bib> Ernle, George. The Wrath of Achilleus, translated from the Iliad into quantitative
+    hexameters. London: Oxford University Press, 1922. 135 pp. </bib>
+   <notes>Preface, pp. 1-17. </notes>
+  </item>
+
+
+  <item id="E153">
+   <bib> Evans, Robert O. "Spenser's Role in the Controversy over Quantitative Verse."
+    Neuphilologische Mitteilungen 57 (1956): 246-56. </bib>
+   <notes>Evans believes that (1) the whole controversy has been "exaggerated," that (2) Spenser's
+    skill at writing q. verse has been underrated, that (3) the Harvey cor- respondence should not
+    be taken seriously, and that (4) though "there is no reason to assume that quantitative verse
+    cannot be written with some success in English," the whole phenomenon is simply a sophisticated
+    literary game. </notes>
+  </item>
+
+
+  <item id="E154">
+   <bib> Fairclough, H. R. "The Influence of Virgil upon the Forms of English Verse." Classical
+    Journal 26 (1930): 74-94. </bib>
+   <notes>Taking Bridges' Ibant Obscuri for a point of departure, Fairclough surveys the English
+    attempts at hexameters from Stanyhurst through Tennyson, especially the flurry in the nineteenth
+    century, finding that none "has ever been really successful." The review then turns to the
+    metiers of couplet and blank verse-- the couplet in Douglas, Dryden and Pope, blank verse in
+    Chaucer, Shake- speare, Dryden, many lesser poets, and most importantly, Milton. </notes>
+  </item>
+
+
+  <item id="E155">
+   <bib> Fenyo, Jane K. "Grammar and Music in Thomas Campion's Observations in the Art of English
+    Poesie." Studies in the Renaissance 17 (1970): 46-72. </bib>
+   <notes>Commentators on Campion have always been unable to reconcile his evident skill and
+    subtlety at versecraft with the seeming obtuseness of many statements in the Observations. But
+    in fact, Campion's prosodic treatise simply follows the order of Lyly's grammar (the standard
+    Renaissance authority) rather closely. Fenyo gives a section-by-section comparison, then argues
+    that Campion in ef- fect saw, heard, and spoke English verses quantitatively. </notes>
+  </item>
+
+
+  <item id="E156">
+   <bib> The First Booke of the Preservation of King Henry the VII. London: 1599. </bib>
+   <notes>Written in quantitative hexameters and containing a noteworthy short preface. </notes>
+  </item>
+
+
+  <item id="E157">
+   <bib> Fraunce, Abraham. The Lamentations of Amyntas for the death of Phillis, paraphrastically
+    translated out of Latine into English Hexameters. London: 1587, 1588, 1589, 1596. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E158">
+   <bib> -----. The Countesse of Pembroke's Yvychurch. London: 1591. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E159">
+   <bib> -----. The Countess of Pembroke's Emanuell. London: 1591. </bib>
+   <notes> Also ed. by Grosart for the Miscellanies of the fuller Worthies' Library, 1871. Next to
+    Stanyhurst's Aeneis the most substantial body of quantitative hexame- ters written in the
+    Renaissance. The title of the first section of Emanuell de- clares the verse to be in "ryming
+    hexameters." </notes>
+  </item>
+
+
+  <item id="E160">
+   <bib> Fuller, Roy. "Boos of Different Durations." Southern Review 11 (1975): 825-37. </bib>
+   <notes>Leisurely speculations, acute and intelligent observations, and errant reasoning on
+    duration of syllables (Quantity) in poetry. From a reading of Sonnenschein and Scripture's work
+    on acoustic metrics, Fuller derives "the 'myth' of stress" as the basis for English verse.
+    Duration is the thing. Noteworthy digression: "diffi- culties or irregularities of scansion may
+    be minimized or explained if the ques- tionable passage is read for sense." </notes>
+  </item>
+
+
+  <item id="E161">
+   <bib> Fulton, Edward. "Sidney, Spenser, and the Areopagus." MLN 31 (1916): 372-74. </bib>
+   <notes>Though there is no evidence definitely establishing the existence of the Are- opagus as a
+    club, it is indisputable that Spenser and Sidney were intimate friends and that Spenser was
+    seriously concerned to obtain agreement among the poets practicing quantitative verse on the
+    rules they were to follow. </notes>
+  </item>
+
+
+  <item id="E162">
+   <bib> Garnett, Richard. "On Translating Homer." Universal Review, 1889; rpt in his Essays of an
+    Ex-Librarian. New York: Dodd, Mead, 1901. pp. 3-27. </bib>
+   <notes>Approves of the couplet as the superior meter to blank verse, the ballad Alex- andrine,
+    and the English hexameter for purposes of translation. </notes>
+  </item>
+
+
+  <item id="E163">
+   <bib> "German Epics and English Hexameters." Dublin University Magazine 44 (1854): 55- 72. </bib>
+   <notes>Reviews translations by James Cochrane of German poems by Voss and others into English
+    accentual hexameters; the reviewer complains that though accent is principle in English,
+    quantity should be attended to also. Technical notes on meter in translation, pp. 63-64, 66-68.
+    Omond was disappointed by this. </notes>
+  </item>
+
+
+  <item id="E164">
+   <bib> Gildon, Charles. The Complete Art of Poetry. 2 vols. London: Charles Rivington, 1718. Vol.
+    1, pp. 293-303. </bib>
+   <notes>Gildon, arch-enemy of Bysshe (E505), represents the reactionary forces in
+    eighteenth-century English metrics still attempting to apply the Classical system to English
+    verse. In this fictitious dialogue, Laudon defends the quantities of classical Greek as being
+    the basis of English versification, accent being a matter pertaining only to performance, not to
+    meter. The classical "feet," in fact, are represented by notes on a musical staff, since the
+    "quantities" were thought to be derived originally from actual time-values. Dryden's
+    "Alexander's Feast" is so scanned as example. </notes>
+  </item>
+
+
+  <item id="E165">
+   <bib> -----. The Laws of Poetry As laid down by the Duke of Buckinghamshire in his Essay on
+    Poetry, By the Earl of Roscommon in his Essay on Translated Verse, and by the Lord Lansdowne on
+    Unnatural Flights in Poetry, Explain'd and Illustrated. London: 1721. See pp. 62-72, 315-16. </bib>
+   <notes>Gildon defends blank verse against "rhyme" and discusses the nature of "accent" in
+    classical verse as well as modern. </notes>
+  </item>
+
+
+  <item id="E166">
+   <bib> [Goldsmith, Oliver?] "Versification." The British Magazine, 1763 </bib>
+   <notes>; rpt as no 18. in The Complete Works of Oliver Goldsmith. London: Charles Griffen, 1862.
+    See also essays 14 ("Origin of Poetry") and 15 (Poetry Distinguished from Other Writing"). The
+    attribution has recently been questioned (see PMLA 39 (1924): 310 ff). The author of the essay,
+    rather ill-informed, seems to have been reading the Renaissance theorists. He claims that number
+    in modern verse pertains only to syllables rather than to feet as in the classical, and that
+    quantitative verse could be written in English if only a little effort were bestowed, since "it
+    is impossible that the same measure, composed of the same times, should have a good effect upon
+    the ear in one language, and a bad effect in another." This is thoughtless. </notes>
+  </item>
+
+
+  <item id="E167">
+   <bib> Goodell, Thomas D. "Quantity in English Verse." Transactions of the American Philological
+    Association 16 (1885-87): 78-103. </bib>
+   <notes>Though recognizing the differing prosodic bases of classical and modern verse, Goodell
+    agrees with Lanier that time-values are the basis of English verse, which is therefore somewhat
+    like Greek. The similarities between the two prosodies are thereafter emphasized throughout,
+    musical notation is correlated to the classical scansion marks, and two modes are indentified:
+    "feet of three times and feet of four times." Rules are given on pp. 100-2. The essay explicitly
+    conjoins the Tempo- ralist scansion with the classical Greek system. Notice M77. </notes>
+  </item>
+
+
+  <item id="E168">
+   <bib> Hampton, Barnabas. Prosodia Construed, and the meaning of the most difficult words therein
+    contained plainly illustrated;Being an addition to the construction of Lilie's Rules, and of
+    like necessary use. London, 1639; rpt 1704. 29 pp. </bib>
+   <notes>A pocket-sized standard handbook of the time giving metrical rules based on quantity. The
+    text is in Latin and English, alternating after every term or phrase. </notes>
+  </item>
+
+
+  <item id="E169">
+   <bib> Hanssen, Selby. "An Analysis of Sir Philip Sidney's Metrical Experiments in 'The Arcadia.'"
+    Diss., Yale University, 1942. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E170">
+   <bib> Hardy, Douglas. "Influence of Finnish Kalevala in the Composition of the Longfellow's 'Song
+    of Hiawatha.'" Brigham Young University Studies 4 (1962): 140-47. </bib>
+   <notes>Accentual hexameters. Cf. Moyne and Mustanoja (E205), Larrabee (E193), Kunze (E189), and
+    Holman (E180). </notes>
+  </item>
+
+
+  <item id="E171">
+   <bib> Harrison, Frederic. "The Old Books in War-Time." English Review 19 (1915): 389- 404; 20
+    (1916): 13-24. </bib>
+   <notes>The only possible verseform for translating the classics (Homer, Virgil) into English is
+    blank verse. </notes>
+  </item>
+
+
+  <item id="E172">
+   <bib> Harvey, Gabriel, and Edmund Spenser. Three Proper and wittie familiar Letters: lately
+    passed betweene two Vniuersitie men: touching the Earthquake in Aprill last, and our English
+    refourmed versifying. London: H. Bynneman, 1580. </bib>
+   <notes> And later in the same year, by the same printer: </notes>
+  </item>
+
+
+  <item id="E173">
+   <bib> Harvey, Gabriel, and Edmund Spenser. Two other very commendable Letters of the same mens
+    writing: both touching the foresaid Artificiall Versifying, and certain other Particulars More
+    lately deliuered unto the Printer. </bib>
+   <notes>The second letter of the Three concerns the earthquake and may be ignored; the other four
+    are reprinted in Smith (A26), vol. 1, pp. 87-122, and see also pp. 123-24 (note that Smith
+    prints the later two letters first, followed by the earlier two, deleting the one on the
+    earthquake). Harvey's other Foure Letters and his Letter-Book are available in A. B.Grosart's
+    edition of the Works of Harvey (Lon- don, 1884-85), and there is also an extract from the Foure
+    Letters in Smith, vol. 2, pp. 229- 38. On the Letter-Book as a first draft of a literary hoax,
+    see </notes>
+  </item>
+
+
+
+  <item id="E174">
+   <bib> J. W. Bennett, "Spenser and Harvey's Letter-Book." MP 29 (1931): 163-86. </bib>
+   <notes>The double exchange between "Immerito" (Spenser) and Harvey is perhaps the central
+    surviving text of the whole quantitative movement, since it is our source for the differing
+    opinions of Drant, Spenser, and especially Harvey, who seems to have been the prime mover behind
+    it all. Spencer was himself mainly unmoved. It used to be thought that these three writers
+    formed a literary coterie, the Areopagus (see p. 89 in Smith and accompanying Notes), but the
+    evidence is tenuous and the opinion is not much promoted anymore. I follow Smith's ordering of
+    the letters below. In the first letter, Spenser acknowledges that Sidney and Dyer have
+    "prescribed certaine Laws and rules of Quantities of English sillables for English verse" and
+    "drawen mee to their faction"; indeed, "I am, of late, more in loue wyth my Englishe Versifying
+    than with Ryming." He chides Harvey for "a breache in Maister Drant's Rules" and provides a
+    sample of quantitative lines, the "Iambicum Trimetrum," which Harvey then chides in return, in
+    the second letter, with wit and energy turning serious, as not being precisely perfect (though
+    he admits knowing nothing of Drant's rules). Spenser in the short third letter asks for a copy
+    of Harvey's rules and offers to send Drant's as annotated by both Sidney and himself; he also
+    opines that the English Hexameter "will easily and fairly yeelde it selfe to oure Mother tongue.
+    For the onely or chiefest hard- nesse, whych seemeth, is in the Accente; whych sometime gapeth,
+    and as it were yawneth illfauouredly, comming shorte of that it should, and sometime exceeding
+    the measure of the Number, as in Carpenter the middle sillable, be- ing vsed shorte in speache,
+    when it shall be read long in Verse, seemeth like a lame Gosling that draweth one legge after
+    hir. . . ." His following question is significant for implying a sharp distinction between
+    (accentual) reading and (quantitative) scansion of the orthographic line: "for why, a Gods name,
+    may not we, as else the Greekes, haue the kingdome of oure owne Language, and measure our
+    Accentes by the sounde, reseruing the Quantitie to the Verse?" It is in the fourth letter then
+    that Harvey comes to give examples of his own practice and to quarrel about theory. His view in
+    a nutshell: "the Latine is no rule for us. . . .Position neither maketh shorte nor long in oure
+    Tongue."English orthograpyy is far too fickle to serve as the basis of a visual versification:
+    only pronunciation will serve: "it is not either Position, or Diph- thong, or Diastole, or anye
+    like Grammer Schoole Deuice that doeth or can indeede either makelong or short, or encrease, or
+    diminish the number of Silla- bles, but onely the common allowed or receiued PROSODYE. . . . you
+    shall neuer haue my subscription or consent (though you should charge me wyth the authoritie of
+    fiue hundreth Maister DRANTS) to make your Carpenter, our Carpenter, an inch longer or bigger
+    than God and his Englishe people haue made him." All this may amount to no more than saying that
+    the quantity of an English syllable does not entail an accent, or vice versa; if so, Drant and
+    Sidney thought precisely the same. Harvey does not dispel Spenser's confusion on this point. And
+    his purpose throughout is to secure the right basis for determining quantity, not to substitute
+    accent for it. Webbe observed that Harvey's whole approach was not entirely serious, and clearly
+    the statements near the end of the fourth letter are more rhetoric than anything else: they
+    certainly are not a clear or careful synopsis of his views. In practice, Harvey scans by
+    quantities, and he even admits length by position except for doubled consonants, which he rec-
+    ognizes are not sounded so. His verses are more or less passable by accent, but Hendrickson
+    attributes this to the arbitrary monosyllabic structure of the lan- guage not to any conscious
+    choice. See also E224, E227, and E268. </notes>
+  </item>
+
+
+  <item id="E175">
+   <bib> Hendrickson, G. L. "Elizabethan Quantitative Hexameters." PQ 28 (1949): 237-60. </bib>
+   <notes>The criticism of Elizabethan classical-imitative verse commonly raised by prosodists--that
+    its pronunciation is aberrant beyond redemption--is a simple catagory mistake: the quantivists
+    never intended to write accentual-analogue hexameters, where the natural word-stresses
+    correspond to the quantities and the ictuses. When they read their (English quantitative)
+    verses, they read fol- lowing the accents, even as Latin verses themselves were read during the
+    Ren- aissance. When they scanned their verses, however, they scanned the metrical quantities
+    without regard to accent. This is not a case of "double audition" but rather of two separate
+    activities altogether. It is true that the quantities and the accents do correspond perfectly in
+    some lines, but this is due not to design but to the structure of the language itself; all such
+    lines will be found to be entirely monosyllabic. Critics have also misunderstood Harvey. His
+    theoretical statements are confused, and he does recognize the impossibility of length by
+    doubled conso- nants in English, but his verses show that like the others he accepted length by
+    position. Like them too he scans by quantity but pronounces by accent. Stany- hurst even went a
+    little further toward Latin polysyllabicity in his verses, but he too conforms. See E240.
+   </notes>
+  </item>
+
+
+  <item id="E176">
+   <bib> "Hexameters in English." TLS, 8 March 1917, p. 114. Correspondence follows on 22 March-31
+    May 1917, pp. 141, 153, 165, 177, 189- 90, 261-62. </bib>
+   <notes>The initial article reviewing Ibant Obscuri is sympathetic and appreciative, tak- ing the
+    trouble to explain very carefully both the general phonetic aspects of English hexameters
+    (accent must be entirely disregarded) and also Bridges' modifications of his Latin prosodic
+    models. The correspondents are of mixed opinions, several of them thinking "the metre is really
+    hopeless in English," but the last two adduce modern parallels in Indian and Arabic, where the
+    quantita- tive meter is successfully preserved apart from any accentual articulation. </notes>
+  </item>
+
+
+  <item id="E177">
+   <bib> Hollander, John. Introduction to Selected Songs of Thomas Campion. Boston: David R. Godine,
+    1973. pp. 15-27; revised and expanded into chapter 4 of his Vision and Resonance (A13), pp.
+    71-90. Cf. E114. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E178">
+   <bib> -----. "Observations in the Art of English Quantity." In his Vision and Resonance (A13),
+    pp. 59-70. </bib>
+   <notes>A lucid short account of the nature of quantitative verse in classical Greek and Latin and
+    "the two different ways that 'quantity' could be used, both metaphori- cally, in English verse,"
+    i.e. in a stress-analogue meter (the stress pattern identi- cal to what the quantitative pattern
+    would have been in Latin, the quantities being ignored in the English) and in the Renaissance
+    experiments, a kind of "written code" meter (where the quantities of the English syllables are
+    deter- mined by applying the Latin rules to the English orthography, the sounds and stressing of
+    the line being ignored altogether). Hollander thinks Tennyson's re- mark about "scissors" a joke
+    and some of his verses a "burlesque" revealing his "contempt" for the whole business. </notes>
+  </item>
+
+
+  <item id="E179">
+   <bib> Holowell, B. M. "The Elizabethan Hexametrists." PQ 3 (1924): 51- 57. </bib>
+   <notes>We do tend to forget how very easy it is to demonstrate (as H.does here) the
+    contemporanious legitimacy, respectablity, and rationality of the Elizabethan quantitative
+    experiments. The paltry vernacular poetry looked trivial in com- parison with the great
+    monuments of the classics, and since the metrical schemes of the two verse-systems were so
+    obviously different, perhaps that was the problem! The schoolmen took the Latin system,
+    "transplanted it bodily to English verse and proceeded to cultivate it." How else find out?
+   </notes>
+  </item>
+
+
+  <item id="E180">
+   <bib> Holman, C. Hugh. "The 'Hiawatha' Meter in The Yenassee.” MLN 67 (1952): 418- 19. </bib>
+   <notes>The lyrics in Simms's novel are in Longfellow's hexameters. Cf. Larrabee (E193), Hardy
+    (E170), Moyne and Mustanoja (E205), and Kunze (E189). </notes>
+  </item>
+
+
+  <item id="E181">
+   <bib> "Homeric Translators and Critics." Saturday Review 12 (1861): 95-96. </bib>
+   <notes>A review of the dispute between Arnold and Francis Newman, partial to the latter. </notes>
+  </item>
+
+
+  <item id="E182">
+   <bib> Humphries, Rolfe. "Latin and English Verse--Some Practical Considerations." On Translation.
+    Ed. Reuben Brower. Cambridge: Harvard University Press, 1959. pp. 57-66. </bib>
+   <notes>"The difficulty of converting quantitative to accentual meters. . . . is greatly ex-
+    aggerated." The Latin shows accentual effects, and quantitative effects cannot be avoided in
+    English (examples). The real problems in translation are the great variety of feet in classical
+    meters, the dissimilarity of conventional line-lengths, the immense resources of word-order
+    denied to English, and the preservation of some modicum of the sound-structure of Latin.
+   </notes>
+  </item>
+
+
+  <item id="E183">
+   <bib> Inge, W. R. "Classical Metres in English Poetry." Essays by Divers Hands (Transactions of
+    the Royal Society of Literature) n.s. 2 (1922): 131-51. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E184">
+   <bib> An Introduction of the ancient Greek and Latin measures into British poetry. London: T.
+    Cooper, 1737. </bib>
+   <notes>The Preface, pp. xiii-xvii, gives rules for quantitative verse. </notes>
+  </item>
+
+
+  <item id="E185">
+   <bib> Jury, Charles R. Well-Measur'd Song: Quantitative and Quasi-quantitative Verse in English.
+    Ed. Barbara Wall and D. C.Muecke. Melbourne: F. W. Cheshire, 1968. 67 pp. </bib>
+   <notes>The posthumous treatise of an Australian poet on the possibilities for metering syllabic
+    duration in English poetry. Jury observes, sensibly, that stress is the dominant characteristic
+    of our language, but that quantity exists as well, and that major English poets (e.g. Pope in
+    the Essay on Criticism) have sometimes employed syllable-length very successfully in English
+    verse. The poet who wishes to imitate classical verse in English may do so in one of five ways:
+    (1) substitution of stress in the (quantitative) metrical patterns, ignoring quantity altogether
+    (Clough, Longfellow); (2) occasional foregrounding of quantity in accentual verse for sharp
+    effects (Pope); (3) a serious attempt to order quantities in the English syllables on the
+    classical model, which yet is willing to yield to the native stress-patterns wherever the verse
+    becomes strained (Swinburne)-- Jury terms this verse quasi-quantitative; (4) rigorous
+    quantitative meter regardless of stress (Bridges); and (5) both a correct quantitative pattern
+    and a natural, correct, and corresponding stress pattern (Tennyson). Rules are given for the
+    quantity of English syllables. </notes>
+  </item>
+
+
+  <item id="E186">
+   <bib> Kenner, Hugh. "The Muse in Tatters." Agenda 6 (1968): 43-61. </bib>
+   <notes>On Pound's translations--and transformations--of the Sapphic fragments. </notes>
+  </item>
+
+
+  <item id="E187">
+   <bib> Khanna, Ravindra. "Sri Aurobindo's Contribution to English Prosody" Cultural Forum (New
+    Delhi) 14, 3-4 (1972): 88-92. </bib>
+   <notes>This Indian poet has written English poems in both stress verse and quantitative verse.
+    Rules for the latter, summarized here, are said to be taken from Auro- bindo's long essay on the
+    subject in vol. 30 of the Complete Works. </notes>
+  </item>
+
+
+  <item id="E188">
+   <bib> Koschat, Erna. Versuche in antiken Metren bei R. S. Bridges. Diss., Vienna, 1929. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="E189">
+   <bib> Kunze, Erich. "Zur Metrik des 'Kalevala-Verses' bei Freiligrath und Longfellow."
+    Wissenschaftliche Zeitschrift der Ernst Mortiz Arndt-Universität Griefswald 11 (1962): 249-53. </bib>
+   <notes>Cf. Hardy (E170), Larrabee (E193), Moyne and Mustanoja (E205), and Hol- man (E180).
+   </notes>
+  </item>
+
+
+  <item id="E190">
+   <bib> Lancaster, H. Carrington. "Classical Versification in English Poetry of the Sixteenth
+    Century." Sewannee Review 11 (1903): 467- 73. </bib>
+   <notes>"Had there been an English Ennuis to express the theories of Harvey and other pedants of
+    his kind in some great poem, the verse of the Elizabethan Age, if not of succeeding periods,
+    would be very different from what it really is." Short views of the major metrists and their
+    opinions on the subject. </notes>
+  </item>
+
+
+  <item id="E191">
+   <bib> Landor, Walter Savage. "English Hexameters" and "German Hexameters." The Last Fruit off an
+    Old Tree. London, 1853; </bib>
+   <notes>the first of these is rpt in The Poems of Walter Savage Landor. Ed. Geoffrey Grigson.
+    London: Centaur Press, 1964. pp. 178-79. See also "On English Hexameters" on pp. 308-9 there,
+    rpt from the 1863 Heroic Idylls. </notes>
+  </item>
+
+
+  <item id="E192">
+   <bib> Larminie, William. "The Development of English Metres."Contemporary Review 66 (1894):
+    717-36. </bib>
+   <notes> May also have been reprinted separately. English meter, Larmine opines, is based on not
+    two but four quantities, though stress "greatly helps out the quantitative deficiencies." Rhyme
+    is and "unneces- sary burden" to be got rid of (in English; L. admits in a long digression its
+    im- portance in the other languages). Assonance, however, can be valuable support to English
+    verse. Swinburne is praised for the wide use of feet of three or more syllables, and the rhythms
+    of the Authorized Version are upheld as exemplary. </notes>
+  </item>
+
+
+  <item id="E193">
+   <bib> Larrabee, Stephen A. "Brougham, Longfellow, and Kalevala." Neuphilologische Mitteilungen 56
+    (1955): 258-59. </bib>
+   <notes>The original charge of plagiarism (of meter) was levelled by W.C. Porter in the
+    Mercersbury Review for November 1855. Cf. Moyne and Mustanoja (E205) and Hardy (E170), Kunze
+    (E189), also Holman (E180). </notes>
+  </item>
+
+
+  <item id="E194">
+   <bib> Lefevere, André. Translating Poetry: Seven Strategies and a Blueprint. Assen, The
+    Netherlands: Van Gorcum, 1975. See section 1.2.3, "Metrical Translation," pp. 57-76. </bib>
+   <notes> The book discusses English translations of the 64th poem in Catullus from 1870-1970.
+   </notes>
+  </item>
+
+
+  <item id="E195">
+   <bib> Lindsay, Alexander William Crawford, Lord. Earl of Crawford and Balcarres. On the Theory of
+    the English Hexameter, and its applicability to the Translation of Homer. A Letter to William
+    John Hamilton. London: John Murray, 1862. 31 pp. </bib>
+   <notes>A tract. His explanation of the deliquescence of the hexameter line in English poetry is
+    that modern poets have ignored the rules, while adopting the metrical form, of classical Greek
+    versification. Thereafter follow Rules (they are accen- tually based), long exemplary
+    translations from Homer and Schiller, and notes. </notes>
+  </item>
+
+
+  <item id="E196">
+   <bib> Loane, George G. "The Fourteener in Translation." Notes and Queries 188 (1945): 200-2. </bib>
+   <notes>The critics have generally panned this meter as a medium for translation of classical
+    hexameter; the translators themselves have been more receptive. Sam- ples. </notes>
+  </item>
+
+
+  <item id="E197">
+   <bib> Longfellow, Henry Wadsworth. Evangeline [1847]. In The Writings of Henry Wadsworth
+    Longfellow. 11 vols. Cambridge, Mass.: Riverside Press, 1886. Vol. 4, pp. 19-106. </bib>
+   <notes>Written in accentual (dactylic) hexameters, though the rhythm is much more supple than
+    many people think. Longfellow had tried this meter earlier in his "The Children of the Lord's
+    Supper" and "To a Driving Cloud," but it was the discovery of a translation of Homer of
+    Blackwood's Magazine that fixed him upon it. The poem is also famous for inspiring Clough to
+    write his Bothie (E140). See Sieper (K350) for more details. See also p. 240 of the review in
+    North American Review 66 (1848). See also E235 and E242. </notes>
+  </item>
+
+
+  <item id="E198">
+   <bib> Mackay, H. W. Boyd. "English Hexameter." Poet-Lore 23 (1912): 139- 44. </bib>
+   <notes>Eschewing accentual hexameters, Mackay sets forth the metrical form for the hexameter line
+    in any language, the rules for quantity in English (the ear must be the absolute judge; no
+    length by rule or position is to be allowed), and the special difficulties of writing the true
+    quantitative line in our language. </notes>
+  </item>
+
+
+  <item id="E199">
+   <bib> McKerrow, R. B. "The Use of So-Called Classical Metres in Elizabethan Verse." MLQ 4 (1901):
+    172-80;5 (1902): 5-13,148-49. </bib>
+   <notes>Cogently, McKerrow classes "practically all verse that has ever been called clas- sical"
+    as (1) verse called quantitative but in fact accentual and nothing else; (2) verse adopting the
+    abstract pattern of classical verse but substituting accent for quantity; (3) "quantitative"
+    verse in which the quantities are determined by natural English pronunciation; or (4)
+    "quantitative verse which adopts, at least in part, the true classical rules, such as length by
+    position. In general the devel- opment was from the fourth type to the second. McKerrow observes
+    quite correctly that, as for judgments on the whole enterprise, "to accuse such men of simple
+    folly were surely a still more simple presumption in ourselves." Given the authoritative status
+    of the classics and the wretchedness of vernacular poetry at the time, it would be surprising if
+    no classical-imitative verses had been at- tempted. As for quantity, the determination of the
+    length of the syllable had- nothing to do with (1) whether or not the length of the vowel was
+    noted, (2) pronunciation, or (3) actual duration of time.It was entirely conventional; scansion
+    was divorced from pronunciation. Nothing else explains the theorists' concern with orthography.
+    McKerrow assays separately the contribution of each of the known figures of the movement--Drant,
+    Dyer, Sidney, Harvey (the disparity between his theory and practice is noted), Stanyhurst,
+    Webbe, Fraunce, Puttenham, Sabie, Dickinson, the anonymous author of The First Booke of the
+    Preservation of King Henry VII, Campion, and Sandford [in the sup- plementary note;
+    chronologically he comes first]. A wellspring essay: McKer- row's immense bibiographical
+    knowledge enabled him to make many sugges- tions here that had never been made previously and
+    even now have not been pursued. See also: </notes>
+  </item>
+
+
+  <item id="E200">
+   <bib> Dibelius, Wilhelm. "Über die Verwendung klassischer Versmassee in der englishen
+    Renaissance." Shakespeare Jahrbuch 39 (1903): 325-26. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E201">
+   <bib> Maynadier, Howard. "The Areopagus of Sidney and Spenser."MLR 4 (1909): 289- 301 </bib>
+   <notes>Discusses, inter alia, the Harvey-Spenser correspondence (E172-3). The first known
+    reference to the Areopagus per se is in the late nineteenth century, hardly early enough to be
+    reliable evidence. </notes>
+  </item>
+
+
+  <item id="E202">
+   <bib> Milham, Mary-Ella. "Arcady on the Atlantic." Humanities Association Bulletin 19 (1968):
+    42-51. </bib>
+   <notes>Close analysis of quantitative poetry by Longfellow, Bliss Carman, and C. G. D. Roberts,
+    with some wider remarks on the Victorian penchant for classical meters in English verse.Carman's
+    translations of Sappho evidence particular metrical variety. </notes>
+  </item>
+
+
+  <item id="E203">
+   <bib> Monro, C[harles] J[ames]. "Latin Metres in English, After Sidney, Tennyson, and Mr. Ellis."
+    Journal of Philology 4 (1872): 223-30. </bib>
+   <notes>A skeptical assessment of Ellis's (E148) two rules for quantitative verse in Eng- lish,
+    namely, that (1) syllables otherwise short may count for metrical purposes as long if accented,
+    and (2) the syllable under the ictus must be accented. Hence Monro concludes that by not
+    allowing long by unstressed syllables in ictic position Ellis is writing only "a metre and a
+    half"--a fully accentual meter but only partly a true quantitative meter. Praises Sidney's
+    quantitative work. </notes>
+  </item>
+
+
+  <item id="E204">
+   <bib> Montgomery, Robert L., Jr. Symmetry and Sense: The Poetry of Sir Philip Sidney. Austin:
+    University of Texas Press, 1961. </bib>
+   <notes>The first chapter examines Sidney's technical development; see esp. the section of his
+    classical meters on pp. 13-19. </notes>
+  </item>
+
+
+  <item id="E205">
+   <bib> Moyne, Ernest J., and Tauno F. Mustanoja. "Longfellow's 'Song of Hiawatha' and Kalevala."
+    American Literature 25 (1953):87-89 </bib>
+   <notes>Longfellow adopted the hexameter meter he found in Anton Schiefer's transla- tion. Cf.
+    Hardy (E170), Larrabee (E193), Kunze (E189), and Holman (E180). </notes>
+  </item>
+
+
+  <item id="E206">
+   <bib> Murray, Gilbert. "What English Poetry May Still Learn from Greek." Essays and Studies 3
+    (1912): 7-31. </bib>
+   <notes>It may learn three things: religion, architecture, and texture.The third of these occupies
+    most of the article, beginning on p. 15. Murray gives detailed atten- tion to the English meters
+    appropriate for translation as well as the nature and strengths of the Greek meters in epic,
+    dramatic, and lyric poetry. </notes>
+  </item>
+
+
+  <item id="E207">
+   <bib> Murray, L[indley]. English Grammar, adapted to the different classes of learners. York:
+    Wilson, Spence, and Mawman, 1795.The fourth part, "Prosody," (pp. 146-59) </bib>
+   <notes>discusses versification only on pp. 155-59, since in this author's view, "prosody"
+    consists of both the rules for pronunciation in English and also the laws of versification.
+   </notes>
+  </item>
+
+
+  <item id="E208">
+   <bib> Nares, Robert. Elements of Orthoepy, containing a distinct view of the whole analogy of the
+    English Language, so far as it relates to Pronunciation, Accent, and Quantity. London: T. Tayne
+    and Son, 1784; facsimile reprint: Menston, Yorkshire: Scolar Press, 1968. </bib>
+   <notes>Founder of the Royal Society of Literature, Nares produced a book on pro- nunciation that
+    was authoritative in its time and influential on Walker's Dic- tionary. Part 2 treats accent,
+    Part 3 quantity. Accent he calls "a species of em- phasis," distinguishing it from the Greek
+    pitch-accent. Quantity he admits is variable in English, though the gradations can all be
+    grouped as simply short or long. Rules for quantity, pp. 216- 18. Nares refuses to let accent
+    determine syllables as long, yet he also insists that modern meters are deficient in com-
+    parison with classical ones (pp. 211, 219-21). Chapter 10 of Part 3 sanctions elision and
+    diaeresis in verse. For a fuller account of the laws of versification the reader is referred to
+    Mitford (p. 142). There is a full-scale study of Nares' treatise by Claus-dirk Pollner E209
+    (Bern: Herbert Lang, 1976). </notes>
+  </item>
+
+
+  <item id="E210">
+   <bib> Newman, Francis W[illiam]. Homeric Translation in Theory and Practice. A Reply to Matthew
+    Arnold, Esq. London: Francis and Norgate, 1861. 104 pp. </bib>
+   <notes>A wincing response to Arnold's severe censures of Newman's translation of Homer; Newman
+    replies by condemning the hexameter translation by Arnold as unfit for the common, unscholarly
+    reader. Written while its author still felt the sting of the wound, the book is a close
+    rejoinder to both accusations and phrases, and so has little of independent value. Arnold
+    replied the following year in his Last Words lecture (E108). </notes>
+  </item>
+
+
+  <item id="E211">
+   <bib> Nowell-Smith, Simon. "Bridges' Classical Prosody: New Versions and Variants." TLS, 28
+    August 1943, p. 420. </bib>
+   <notes> See also the earlier essay on p. 415, and a confirmatory addendum on p. 444. Nowell-Smith
+    catalogues and analyzes the manscripts of the poems in Bridges' quantitative period, here dated
+    1901-3, in disagreement with Gu|'erard. </notes>
+  </item>
+
+
+  <item id="E212">
+   <bib> Omond. T. S. "Accent and Quantity." The Academy 76 (1909): 798-800. </bib>
+   <notes>A response to Bridges' hexameters in the 1909 New Quarterly, attacking the Laureate's
+    complete rejection of accent (in favor of quantity) as the basis for English meter. </notes>
+  </item>
+
+
+  <item id="E213">
+   <bib> -----. "Arnold and Homer." Essays and Studies 3 (1912): 71-91. </bib>
+   <notes>All discussions of translating Homer eventually come to the question of an ap- propriate
+    meter. This one does, too, in the midst of a helpful review of the en- tire subject.
+    Illuminating comparisons of translations. Arnold himself, it hap- pens, preferred the Hexameter
+    above Blank Verse and all other English meters as the best form for rendering Homer. Omond
+    sketches the history of hex- ameters beginning on p. 84; This essay might be read most
+    profitably just after reading Arnold's lectures directly; no study of English quantitative verse
+    is needed. </notes>
+  </item>
+
+
+  <item id="E214">
+   <bib> -----. English Hexameter Verse: with a Specimen. Edinburgh: David Douglas, 1897. 48 pp. </bib>
+   <notes>Omond's earliest work on the classical meters; his continued research allowed him to
+    expand this essay in both scope and detail into the 1903 English Metrists, all of this work
+    being finally superceded by the 1921 edition (A5). See also E310. Here Omond rough-sketches the
+    Elizabethan efforts to reproduce quan- tity in English verse, the nineteenth-century German and
+    English efforts to imitate the quantitative pattern in accent, and Omond's own approach, the
+    view that "the true unit of English verse is not the foot, nor even the accent, but simply a
+    period of time," so that the hexameter becomes "simply a verse of six periods" (italics
+    original). The essay concludes with a free translation of Book 5 of the Odyssey. </notes>
+  </item>
+
+
+  <item id="E215">
+   <bib> Omond, T. S., and John Sargeaunt. "These Lame Hexameters."Letters to TLS, 1920, pp. 456,
+    472, 488, 504, 520, 536, 552. </bib>
+   <notes>Bickering over Tennyson's hexameters, whether accentual or quantitative. </notes>
+  </item>
+
+
+  <item id="E216">
+   <bib> Oxenford, John. "The Practice of Writing English in Classical Metres." Classical Museum 3
+    (1846): 279-83. </bib>
+   <notes>Urges the use of authentic "classical metres" in translating Greek verse: Oxen- ford is
+    emphatic that the position of the ictus must be preserved (by accent, in English), and he seems
+    to think that the classical pattern of quantities can be preserved as well, albeit with "much
+    greater latitude," given the nature of our language. </notes>
+  </item>
+
+
+  <item id="E217">
+   <bib> Palmer, George Herbert. "Hexameters and Rhythmic Prose." The Atlantic Monthly 66 (1890):
+    526-34. </bib>
+   <notes>Palmer finds the former of these unsuited for translation of Homer (on the grounds that
+    English is weak in dactylic words) and recommends instead the latter, or an "iambic
+    recitative,"subjoining his translation of Book 23 of The Odyssey as example. </notes>
+  </item>
+
+
+  <item id="E218">
+   <bib> Park, B. A. "Milton and Classical Meters." Milton Quarterly 6 (1972): 75-77. </bib>
+   <notes>Milton's imitation of the classical meter (the fourth Asclepiadean) of Horace's Carm. I.5
+    in his translation of it ("What slender Youth bedew'd") is intelligible only if we postulate
+    that he took for the final syllable in the English line what was the final accented syllable in
+    the Latin line (thereby shortening the syllable count for all the lines in the translation). In
+    other words, Milton took over the accentual pattern which is formed as a by-product of the
+    quantitative meter in the Latin. The same stanza-form is used by Collins for the "Ode to
+    Evening," by Southey for "To Hymen" and "Written on the First of January," and (with rhyme
+    added) by Marvell for the "Horatian Ode." </notes>
+  </item>
+
+
+  <item id="E219">
+   <bib> Poirier, Michel. Sir Philip Sidney and English Quantitative Verse. Diss., Paris, 1944. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E220">
+   <bib> Redesdale, John Thomas Freeman Mitford, Lord. Thoughts on English Prosody and Translations
+    from Horace. </bib>
+   <notes> And </notes>
+  </item>
+
+
+  <item id="E221">
+   <bib> Redesdale, John Thomas Freeman Mitford, Lord. Further Thoughts on English Prosody. Oxford
+    and London: J.H. and James Parker, 1859. 16 pp and 15 pp. (Tracts). </bib>
+   <notes>The author is the nephew of William Mitford (E599). Established quantitative rules based
+    on his earlier translation of several Horatian Odes. "When quantity is governed by fixed rule,
+    the strongest emphasis may be placed on a short syllable without injury to the metre, and
+    reading is carried on without regard to anything but the sense of the passage." The second
+    essay, written a month later, defends this position against some intervening criticisms.
+   </notes>
+  </item>
+
+
+  <item id="E222">
+   <bib> Review of Longfellow's Ballads and Other Poems. North American Review 55 (1842): 114-44. </bib>
+   <notes>The review turns into a history of the hexameters in Greek, Latin, Spanish, German, and
+    English. </notes>
+  </item>
+
+
+  <item id="E223">
+   <bib> "Rhymed Hexameters and Pentameters." Blackwood's Magazine 59 (1846): 496. </bib>
+   <notes>Four poems in the mixed meter, with a headnote. </notes>
+  </item>
+
+
+  <item id="E224">
+   <bib> Ringler, William. "Master Drant's Rules." PQ 29 (1950): 70-74. </bib>
+   <notes>Prints three corrected texts containing all of Sidney's known statements on the rules for
+    making quantitative verses. No explication, however. See Sidney (E234). </notes>
+  </item>
+
+
+  <item id="E225">
+   <bib> Sandford, James. Houres of Recreation . . . done first out of Italian into English. 2nd ed.
+    London: Henry Binneman, 1576. </bib>
+   <notes>It was McKerrow who first noticed that one of the poems appended to this lit- tle book is
+    in five languages--Greek, Latin, Italian, French, and English--and in the Classical "elegaic
+    couplet" metre, thus representing the second known in- stance of quantitative verse printed in
+    English (after Ascham's). The verses do not appear in the first edition (1573), which was
+    entitled The Garden of Pleasure. </notes>
+  </item>
+
+
+  <item id="E226">
+   <bib> Sayers, F[rank]. "Of English Metres." In his Disquisitions Metaphysical and Literary.
+    London: J. Crouse and W.Stevenson, 1793; rpt in his Works. London, 1830; rpt New York: Garland,
+    1971. pp. 129-37. </bib>
+   <notes>Since English syllables may be denominated long or short, as in every other language, "it
+    is difficult to assign a cause why the same arrangement of English syllables [as that in
+    classical verse] should not be pleasing also." Notes instances in the Renaissance and by Milton;
+    is hopeful of more to come. </notes>
+  </item>
+
+
+  <item id="E227">
+   <bib> Schelling, Felix E. "The Inventor of the English Hexameter."MLN 5 (1890): 212- 14. </bib>
+   <notes>Those scholars who have impugned Harvey's character for his having said that he wished to
+    be remembered as The Inventor of the English Hexameter have taken the sentence out of a
+    sensitive context and thereby misconstrued it. It would seem that Greene had taunted Harvey with
+    that epithet and worse, and Harvey, replying in his Fowre Letters, naturally would prefer the
+    best of them. For references see the citation data at E173 and also E174. </notes>
+  </item>
+
+
+  <item id="E228">
+   <bib> -----. Poetic and Verse Criticism of the Reign of Elizabeth. University of Pennsylvania
+    Publications in Philology, Literature, and Archaeology, series 9, vol. 1, no.1. Philadelphia:
+    University of Pennsylvania Press, 1891. 97 pp. </bib>
+   <notes>Unjustly neglected: this dissertation provides commentary on all the major Renaissance
+    prosodists embroiled in the quantitative controversy--Ascham, Gascoigne, James VI, Blenerhasset,
+    Harvey and Spenser, Stanyhurst, Nashe, Webbe, Puttenham, Sidney (Gosson and Lodge), Harington,
+    Campion, and Daniel--commentary more extensive than most available elsewhere. Non- technical
+    literary history. </notes>
+  </item>
+
+
+  <item id="E229">
+   <bib> Schuman, Sharon. "Sixteenth Century English Quantitative Verse: Its Ends, Means, and
+    Products." MP 74 (1977): 335-49. </bib>
+   <notes>Attempting to ferret out the elusive definition of "quantity"used by the Eliza- bethans
+    and also a legitimate rationale they could have held for their poetic practice, Schuman examines
+    (1) the "aesthetic assumptions" made by the Eliza- bethan poets, (2) their conception of Latin
+    versification, and (3) the principles which they seem to have used in constructing their
+    quantitative verses. Her conclusion is that the Elizabethan poets scanned a syllable as long or
+    short by two rules, operating sequentially, the first mandatory and the second optional: if a
+    syllable was not long by (positional) definition in the Latin system, then it might be by
+    accentuation in the English one.That is, the English poets wrote quantitative verse which was to
+    be scanned according to the Latin rules but read (stressed) according to the regular English
+    pronunciation. The first system was visual, the second aural. Astoundingly, the author seems
+    totally unaware of the work of Attridge (E112), but nevertheless the article is closely argued
+    and offers a useful com- parison of the work of Willcock and Hendrickson (</notes>
+  </item>
+
+
+  <item id="E265">
+   <bib/>
+   <notes> and E175). </notes>
+  </item>
+
+
+  <item id="E230">
+   <bib> Shadwell, Lancelot. The Iliad of Homer, Faithfully Rendered in Homeric Verse from the
+    Original Greek. London: William Pickering, 1844. </bib>
+   <notes>Pure text; no Preface or notes. </notes>
+  </item>
+
+
+  <item id="E231">
+   <bib> Shawcross, John T. "The Prosody of Milton's Translation of Horace's Fifth Ode." Tennesee
+    Studies in Literature 13 (1968): 81-89. </bib>
+   <notes>Noticing that Sprott's accentual-syllabic scansion of the Ode left numerous ir-
+    regularities, Shawcross scans it by quantities, but the numerous irregularities then left force
+    him to conclude that Milton freqently reduced (1) two short syl- lables to one long and (2) a
+    trochee to a stressed monosyllable.Choruses from Samson Agonistes are likewise scanned. </notes>
+  </item>
+
+
+  <item id="E232">
+   <bib> Shipley, Joseph. "The Problems of the Elizabethan Poets."Poet-Lore 38 (1927): 358- 72. </bib>
+   <notes>Surveys the opinions of all the major Elizabethan metrists on the issues of (1) the use of
+    rime and (2) accent vs. quantity.The general problem for the poets of course was to discover and
+    legitimize a model for the new poetry. </notes>
+  </item>
+
+
+  <item id="E233">
+   <bib> Short, R. W. "The Metrical Theory and Practice of Thomas Campion." PMLA 59 (1944): 1003-18. </bib>
+   <notes>Campion's theory of English meter can be properly appraised only by setting aside
+    altogether his interest in music (and musical settings) and by understand- ing his beliefs about
+    accent and quantity. Short, claiming [without any further explanation] that English has "four
+    classes of syllables" differentiated by stress, pitch, and length, argues (1) that Campion was
+    interested not in classical met- rics but in the quantities (and accents) properly a part of
+    English meter, when the classical rules are reconciled to the vagaries of English pronunciation,
+    and also (2) that Campion sought to write verse having lines comprising equal peri- ods of time
+    regardless of their syllabic filling. Such a theory with such a practice Short has
+    understandable difficulty reconciling; he therefore argues that the proper illustrations of
+    Campion's position in the Observations are not the exam- ples given therein but Campion's own
+    poems published the year before in A Book of Ayres. These latter are then compared to verses by
+    Greene and Dekker. A patchwork explanation, of thin and motley material erratically stiched.
+   </notes>
+  </item>
+
+
+  <item id="E234">
+   <bib> Sidney, Sir Philip. The Countess of Pembrokes Arcadia. London, 1590, 1593, etc. </bib>
+   <notes>A number of the verses in the Arcadia are frankly experimental, including imi- tations of
+    quantitative meters.There is no full- scale essay on this matter, so the reader will have to
+    consult: (1) The Index, s.v. "Versification," in Jean Rob- ertson's edition of the Old Arcadia
+    (Oxford: Clarendon Press, 1973), p. 513, though the references lead only to her Commentary,
+    which is heavily reliant upon (2) The Poems of Sir Philip Sidney. Ed. William A. Ringler, Jr.
+    Oxford: Clarendon Press, 1962. Ringler's invaluable edition offers both Commentary (see pp.
+    385-86, 390-93 (above all), and 402-3) and a Table of Verse Forms (pp. 569-72). See also
+    Maynadier (E201), Underdown (E259), Applegate (E106), Hanssen (E169), Poirier (E219), and
+    Ringler (E224). </notes>
+  </item>
+
+
+  <item id="E235">
+   <bib> Smith, Albert. "Syringaline: A Myth, by Professor Long- and-short-fellow." The Month, 1851,
+    pp. 192-96. </bib>
+   <notes>A parody of Longfellow's hexameters. </notes>
+  </item>
+
+
+  <item id="E236">
+   <bib> Sonnenschein, E. A. What is Rhythm? Accompanied by an Appendix on Experimental Syllable
+    Measurement. Oxford: Basil Blackwell, 1925. 228 pp. </bib>
+   <notes>Rev: in TLS, 10 September 1925, pp. 573-74 (leading article) with reply by S. on 17
+    September, p. 600; in The Dial 80 (1926): 316-22; in MLR 23 (1928): 483-85; in American Journal
+    of Philology 47 (1926): 187-91. See the critique by MacColl at E369. Sonnenschein's treatise on
+    rhythm contains three general chapters-- "Rhythm Defined," "Rhythm and Music," "Music and
+    Verse,"--three chapters on Rhythm in Isosyllabic [Vedic], Greek, and Latin Verse, and four
+    chapters on quantity--"Rhythm in English Verse: The Ratio of Foot to Foot," "Syllable
+    Measurement in English," "Quantity in English Verse: The Ratio of Rise to Fall," and "English
+    Experiments in Classical Metres." His definition: "Rhythm is that property of a sequence of
+    events in time which produces on the mind of the observer the impression of proportion be- tween
+    the durations of the several events or groups of events of which the se- quence is composed."
+    "My own proposed system of scansion may be described as an attempt to reinstate the foot (in the
+    ancient sense of the term) as a unit of measurement." That is, he believes that English is
+    exactly like Greek and Latin in that two "short"syllables may stand for one "long" and so
+    receive metrical ictus, and also in that accent and quantity are inseparable.Chapter 8 gives
+    Rules for the Quantity of every English syllable, based on the kymography measurements in the
+    Appendix. </notes>
+  </item>
+
+
+  <item id="E237">
+   <bib> Southey, Robert. Preface to A Vision of Judgment [1821]. In The Poetical Works of Robert
+    Southey. 10 vols. London:Longman, Orme, Brown, Greer, &amp; Longmans, 1838. Vol. 10, pp.
+    195-212. For the collected edition Southey added an additional Preface (pp. vii-xxi) in response
+    to Tillbrook (E257). Rev: in the Edinburgh Review 35 (1821): 422-36. </bib>
+   <notes> With this poem Southey initiated the vogue of accentual hexameters in English in the
+    nineteenth-century--a classical-imitative meter substituting stress for length. Southey's
+    hexameter line contains six feet, the first four of which may be either dactyls or trochees, the
+    fifth being always a dactyl and the sixth a tro- chee. In this practice he follows the Germans,
+    substituting trochees in the mod- ern verse for spondees in the classical, since he agrees that
+    the true spondee is so rare a species in modern speech as to be scarcely ever seen. </notes>
+  </item>
+
+
+  <item id="E238">
+   <bib> Spedding, James. "Arnold on Translating Homer." Fraser's Magazine 63 (1861): 703- 14; </bib>
+   <notes> rpt as "On English Hexameters" in his Reviews and Discussions: Literary, Political, and
+    Historical, not relating to Bacon. London: Kegan Paul, 1879.pp. 316- 43. Reviews Arnold (E107),
+    squarely objecting to his argument that the hexameter is the best meter for rendering Homer in
+    English;in a closely reasoned and technical counterargument, Spedding examines the nature of
+    accent and quan- tity in both Greek and English, and the rules for the hexameter in each, in or-
+    der to show that the effect of the English hexameter line on the Englishman who knows no Greek
+    is not the same as the effect of Homer's lines on a Greek; it is that man whom Spedding claims
+    is the proper judge of a translation, not the scholar fluent in both languages. The 1879 volume
+    adds "corrections and explanations." Munro (M140) disagrees sharply. </notes>
+  </item>
+
+
+  <item id="E239">
+   <bib> Spingarn, J. E. "Classical Metres." A History of Literary Criticism in the Renais-sance.
+    New York: Columbia University Press, 1899; 2nd rev. ed. 1908. pp. 298-304. </bib>
+   <notes>A short account of the theories of the major Renaissance prosodists. Not en- tirely
+    reliable, as subsequent scholarship has shown. </notes>
+  </item>
+
+
+  <item id="E240">
+   <bib> Standop, Ewald. "Zur Beurteilung der Elisabethanischen Hexameter." Studien zur englischen
+    und amerikanischen Sprache und Literatur: Festschrift für Helmut Papajewski. Ed. Paul G. Buchloh
+    et al. Neumünster: Wacholtz, 1974. pp. 350- 62. </bib>
+   <notes>A long, close review of Hendrickson (E175), generally approbatory. Standop reminds us that
+    the classical-imitative phenomenon is not restricted to the Renaissance, and that we still
+    cannot judge very well the aesthetic (metrical) value of the experiments. The Renaissance read
+    such verse with normal prose accents, not with a melodic accent, though perhaps both systems
+    were heard simultaneously (Standop). Thus our reading or quantitative verse by accent may not be
+    so unrealistic; the Renaissance poets generally avoid congruence of ac- cent and ictus, and it
+    may be that counterpointing of stress and ictus is the best compromise solution, as we see in
+    the "thin"spondees of Voss with their "free- floating' stress. The ultimate question in these
+    matters is whether English sylla- bles are long and short; the answer must be No. Conclusion:
+    the nature of quantitative verse arises not from the hypothetical pattern but from the real ac-
+    centual pattern, whether intended or not. A balanced theory will pay attention to both. </notes>
+  </item>
+
+
+  <item id="E241">
+   <bib> Stanyhurst, Richard. Preface "Too thee Learned Reader." In The first foure books of Virgil
+    his Aeneis translated intoo English verse by Richard Stanyhurst, with other Poetical Devises
+    theretoo annexed. London. 1582. Rpt in Smith (A26), vol. 1, pp. 135-47. </bib>
+   <notes>Praised by Harvey but treated cooly by some others (who were put off both by his language
+    and by his uncompromising classicism, probably), Stanyhurst seems to have the strongest effort
+    of any of the Renaissance quantivists to ad- here to the Latin metrical system. Not only does he
+    follow the quantitative structure of the Latin line strictly, he also adheres to the accentual
+    structure of its last two feet, and he even conforms to the morphological structure of the meter
+    as well. Observing that the stress-rules for English are radically different from those for
+    Latin, Stanyhurst concludes that the strictest application of the Latin rules to English will be
+    disastrous, so that he is willing to scan sometimes strictly by syllabic quantity (as for words
+    of Latin etymology) and sometimes by letting the accent qualify the syllable as long. He speaks
+    much of sounds, but it is clearly the orthography that is the actual determinant in practice, as
+    can be seen in his selection between variant spellings of a word so as to fit the quanti- tative
+    rules for length by position (which were visual rules anyway). But since the Preface to his
+    Aeneis is very short and sketchy, and since his verse is in- tended to be read as anything but
+    accentual-syllabic English meter, it is very difficult to have a clear grasp of his entire
+    position.Attridge is helpful here; he devotes a short chapter to Stanyhurst. </notes>
+  </item>
+
+
+  <item id="E242">
+   <bib> Steele, R. B. "The Meter of Evangeline. MLN 9 (1894):cols. 413- 16. </bib>
+   <notes>Cf. E197. The accentual hexameter may be compared to the classical quantita- tive
+    hexameter by examining the three main characteristics of the latter in the former--the
+    proportion of dactyls to spondees, monosyllables at line-end, and caesura- placement. The same
+    features are also treated in the subsequent </notes>
+  </item>
+
+
+  <item id="E243">
+   <bib> -----. "The Meter of Miles Standish." MLN 9 (1894): cols.476- 79. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E244">
+   <bib> Stephens, W. H. Elements of English Verse as a Science and an Art. London: Macmillan, 1933.
+    118 pp. </bib>
+   <notes>An extravagant system of new terminology and convoluted scansion operations based on
+    Quantity. Every syllable in English is said to have a quantity fixed by usage, and which depends
+    on "texture," "metrical stress" (?), and "incidental emphasis." A numerical score for each of
+    these three factors is tallied, giving the "scansion feet of sound." This metrical tally may
+    then be set against the "spans of thought or emotion"(the line divided syntactically and marked
+    for natural speech-stresses). Conflict between these two systems is called a "cross- draw"; the
+    classical longs and shorts are renamed "strokes" and "flicks," and any monosyllable which can be
+    either is called a "rover." Arf. The rules for assigning quantity, besides being garbled, vague,
+    and ludi- crous, are actually based on accent, as is this entire misconceived system. Sub-
+    sequent essays written by this author: </notes>
+  </item>
+
+
+  <item id="E245">
+   <bib> -----. "The Stroke-Flick Structure of English Verse." Poetry Review 26 (1935): 23-28. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E246">
+   <bib> -----. "The Stroke-Flick Rhythm in Canadian Verse." Poetry Review 26 (1935): 471-75. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E247">
+   <bib> -----. "Stroke-Flick Tendencies in Australian Verse." Poetry Review 26 (1935): 383-86. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E248">
+   <bib> -----. "Discipline in Pattern for English Verse." Poetry Review 26 (1935): 139-42. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E249">
+   <bib> -----. "New Measures in English Verse." Poetry Review 26 (1935): 213-17. </bib>
+   <notes/>
+  </item>
+
+
+  <item id="E250">
+   <bib> -----. "Four-Time in English Verse." Poetry Review 28 (1937): 297- 99, 381-84. </bib>
+   <notes>Doubtless Stephens would have both been and not been, had he had his prefer- ence. He
+    speaks here of strokes as "the stressed syllable in the word," yet "the Metrical Quantity" of
+    both monosyllables and polysyllables is "invariable," even though the influence of Classical
+    Prosody on English has been pernicious; worse, there are "Seven Dominant Rhythms or Measures (or
+    Metres)" such as "Two-Time," etc. This is lunatic. </notes>
+  </item>
+
+
+  <item id="E251">
+   <bib> Stone, William Johnson. On the Use of Classical Metres in English. London: Henry Frowde,
+    1898. 59 pp. </bib>
+   <notes>[Omond and Bridges cite this date; BMC cites 1899.] Posthumously published (with some
+    revisions (by Bridges?)) as Classical Metres in English Verse, the second part of Bridges' 1901
+    edition of Milton's Prosody (E495). Omond thought that had Stone lived longer (he died at 26)
+    his judgments, par- ticularly phonetic, would have been sounder. In any event the substance of
+    his theory--and it is a significant statement--would not have changed. Part I of his treatise
+    give a short history of previous attempts at quantitative verse and theory in the Renaissance
+    and Nineteenth Century; Part II presents his argument. Stone believes that classical verse was
+    just the reverse of the modern: Greek meter was quantitative but "combated" by speech-accents,
+    while English meter is accentual but opposed by quantities. Hence a truly quantitative verse
+    must be metered by quantities with combative(counterpoised) accents. Such a verse must be
+    written with strict attention to quantity ("any compromise is fa- tal");accent and quantity are
+    not to coincide, as in Tennyson, and accentual imitation of quantitative structure is
+    deplorable.Accent in English does not lengthen the syllable, Stone thinks, nor do double
+    consonants lengthen the vowel--there is no length by position for us. Accent in the modern
+    languages is precisely the same as it was in Greek--a rise in pitch. </notes>
+  </item>
+
+
+  <item id="E252">
+   <bib> Swanson, Roy A. "Classical Meters in Modern Languages." Princeton (A18), pp. 126-28. </bib>
+   <notes>See also s.v. "Hexameter." Not as systematic as it might be, but cogent and reasonably
+    accurate. </notes>
+  </item>
+
+
+  <item id="E253">
+   <bib> Swinburne, Algernon Charles. "Choriambics," "Hendecasyllabics,"and "Sapphics." Poems and
+    Ballads. First Series and Second Series. London, 1866, 1878; </bib>
+   <notes> rpt in The Bonchurch Edition of The Complete Works of Algernon Charles Swinburne. Ed.
+    Edmund Gosse and T. J. Wise. 20 vols. London: William Heinemann, 1925.Vol. 3, pp. 88-89; vol. 1,
+    pp. 331-35. </notes>
+  </item>
+
+
+  <item id="E254">
+   <bib> [Taylor, William.] "English Hexameter Exemplified." The Monthly Magazine 1 (1796): 404-5. </bib>
+   <notes>Omond (A5) identifies this "transversion" of 19 lines from Macpherson's Ossian as the
+    first specimen of accentual hexameters in English on the German model; after this first
+    dislodgement, the avalanche soon followed. </notes>
+  </item>
+
+
+  <item id="E255">
+   <bib> Tennyson, Alfred Lord. "Attempts at Classical Metres in Quantity." Cornhill Magazine, 1863,
+    pp. 707-9. </bib>
+   <notes> Four samples of classical-imitative verse: "Hexameters and Pentameters,""Alcaics,"
+    "Endecasyllabics," and "Specimen of a Translation of the Iliad in Blank Verse." The latter
+    three, along with "Boadicea," were reprinted under the heading "Experiments in Quantity" in
+    Enoch Arden and other poems (1864), and thereafter, with the first sample restored, in The
+    Eversley edition of The Works of Alfred, Lord Tennyson. Ed Hallam Tennyson. 9 vols. London:
+    Macmillan, 1907-8. Vol. 2, pp. 295- 306. The most authoritative edition is The Poems of
+    Tennyson, ed. Christopher Ricks, London: Longmans, 1969, where the five poems appear as nos. 325
+    and 332-35, pp. 1118- 23, 1153-57. Lord Tennyson's attitude toward writing quantitative verse in
+    English was commensurate with his attitudes toward other technical matters: he chose the high
+    and rocky way. He wrote to satisfy both the classical and the modern systems simultaneously;
+    accent and quantity are meant to coincide throughout. </notes>
+  </item>
+
+
+  <item id="E256">
+   <bib> Tennyson, Hallam, Lord. Jack and the Beanstalk: English Hexameters. London: Macmillan,
+    1886; </bib>
+   <notes> rpt in The Eversley edition of The Works of Alfred, Lord Tennyson. Ed. Hallam Tennyson. 9
+    vols. London: Macmillan, 1907-8. Vol. 2, pp. 329-31; rpt in The Poems of Tennyson. Ed.
+    Christopher Ricks.London: Longmans 1969. pp. 1799-81. Two fragments of experiments in
+    quantitative-imitation written by Hallam with some assistance by his father; accent and quantity
+    are intended to coincide. The "Bluebeard" first appeared in 1874. </notes>
+  </item>
+
+
+  <item id="E257">
+   <bib> Tillbrook, S[amuel]. Historical and Critical Remarks Upon the Modern Hexametrists, and Upon
+    Mr. Southey's "Vision of Judgment." Cambridge: Cambridge University Press, 1822. 84 pp. </bib>
+   <notes> + fold-out comparative charts. A valuable study for its particular subject: Tillbrook
+    gives a very widely in- formed historical survey of hexameter verse both in other languages and
+    (espe- cially and preponderantly) in English Renaissance verse. His view of the Ger- man
+    accentual hexameters is deprecatory, apparently assuming that all proper classical- imitative
+    verse must be essentially quantitative;indeed there is very lit- tle discussion of theory, but
+    see pp.62-63. </notes>
+  </item>
+
+
+  <item id="E258">
+   <bib> Trevelyan, R. C. "Classical and English Verse Structure." Essays and Studies 16 (1930):
+    7-25. </bib>
+   <notes>Trevelyan essays to explain why the English meters never could (and never can) equal the
+    mellifluousness, grace, and complexity of the Classical meters of Vir- gil, Horace, Pindar,
+    Sappho, etc. His view of our prosody is a Temporalist one: English has only "duple time" and
+    "triple time" meters of isochronous bars al- ways beginning on a stress. And the fact, in his
+    view, is the explanation: In English the bars must always be equal in duration, but the
+    constituent syllables may vary greatly in number or length in order that the bar-lengths come
+    out equal. In Classical verse, on the other hand, each syllable has a fixed proportion relative
+    to the others, and the lengths of the bars do not matter. The result is regularity for our verse
+    but variety for ancient verse. He reviews the various English efforts at imitation, especially
+    those of Bridges, and offers his own translation, thinking that any successful modern imitation
+    of the classical pat- terns "would have to be mainly indicated and expressed by accent."
+   </notes>
+  </item>
+
+
+  <item id="E259">
+   <bib> Underdown, Mary E. I. "Sir Philip Sidney's 'Arcadian' Eclogues: A Study of His Quantitative
+    Verse." DA 25 (1964): 1222A (Yale, 1961). </bib>
+   <notes>The nature of Sidney's early education in Latin enabled him to apply the rules for Latin
+    verse, including the all-important "position" rule, to English verse while still preserving the
+    distinction between accent and quantity. Underdown explicates the mechanism whereby "the
+    quantitative structure of [Sidney's] verse regulates its phrasing, which in turn forms the basis
+    of rhythmical organi- zation," the word-group replacing the Latin polysyllable for purposes of
+    avoid- ing metrical diaeresis. </notes>
+  </item>
+
+
+  <item id="E260">
+   <bib> Van De Vender, George W. "The Prosody of Milton's Sampson Agonistes." DAI 34 (1974): 5209A
+    (Mississippi). </bib>
+   <notes>Milton uses accentual equivalents to the classical quantitative meters in the play,
+    dividing them into stichic meters (dialogue) and lyric meters (choral odes). Mil- ton's meters
+    in general parallel the Greek dramatic verseforms very closely. </notes>
+  </item>
+
+
+  <item id="E261">
+   <bib> Webbe, William. A Discourse of English Poetrie, Together with the Author's judgment
+    touching the reformation of out English Verse. London: John Charlewood for Robert Walley, 1586.
+    Ed.Edward Arber. English Reprints series, no. 26. London, 1869.Rpt in Smith (A26), vol. 1, pp.
+    226-302. </bib>
+   <notes>The student may begin at p. 266 in Smith. The first twenty or so pages (up to p. 247)
+    trace the history of poetry from classical times through Middle English (Webbe notices Gower,
+    Chaucer, and the author of Pierce Ploghman, who he says was the first to observe quantity
+    without rhyme in English) up to his con- temporaries, Webbe dispensing praise for many but
+    condemning the "uncount- able rabble of ryming Ballet makers."The next twenty pages discuss the
+    genres, subjects, and moral ends of poetry. The common English verse Webbe observes is based
+    upon counting of syllables and rhyme and has three requirements: equivalence of line-lengths
+    (the lines must be "answerable" to each other in syllables or feet), observance of natural
+    stressing (i.e. an ordering of words such that none are "wrested contrary to the natural
+    inclination or affection of the same"), and rhymes which do not wrench violently syntax or
+    sense. Diversity of line and stanza is illustrated from the Shepheardes Calendar. Webbe notes
+    that the "naturall course"of English verse seems to be iambic, and if the "right quantitie" of
+    the words be followed the line will turn out properly as an iamb. But the scansions show that
+    this "quantitie" means stress and nothing else. Rhymes and various sorts of acrostics are
+    noticed; Webbe then turns (p. 278) to classical-imitative verses, arguing (a little opaquely but
+    shrewdly) that even if the languages are dissimilar English should be able to adjust its rules
+    to Latin even as Latin did to Greek. He admits that length by position will have to be
+    abandoned, he cites twelve types of metrical feet, and he complains that monosyllables naturally
+    long in English he was forced to treat as short in his own quantitative verses so as to supply
+    the serious deficiency of short syllables in English, under the Latin rules. His actual
+    statements about quantity in English are confused and his practice is inconsis- tent: his
+    scansions ignore accent altogether yet length by position is admitted at points. Examples of
+    Hexameters, Sapphics, and other meters conclude the trea- tise. In large part derivative and on
+    the whole unexceptional, Webbe's prosodia is something of an anomaly: it seems scarcely to have
+    been noticed by his con- temporaries. Its chief characteristic is conservatism. </notes>
+  </item>
+
+
+  <item id="E262">
+   <bib> Whalley, George. "Coleridge on Classical Prosody: An Unidentified Review of 1797." Review
+    of English Studies n.s. 2 (1951): 238-47. </bib>
+   <notes>Reprints the text of a review of Bishop Horsley's On the Prosodies of the Greek and Latin
+    Languages which Coleridge wrote for the February 1797 number of the Critical Review, at a time
+    which his views of versification were being formed. Horsley is cited at M104; see also Patterson
+    at E845. </notes>
+  </item>
+
+
+  <item id="E263">
+   <bib> W[helpley], J. D. "The Art of Measuring Verses." American Review. A Whig Journal 7 (1848):
+    484-92. </bib>
+   <notes>Ostensibly a review of Everett (E531), but the reviewer repudiates those prin- ciples in
+    preference to his own--scanning English verse literally by syllabic quantity--which he promotes
+    here. </notes>
+  </item>
+
+
+  <item id="E264">
+   <bib> [Whewell, W.] "Dialogue on English Hexameters." Frazer's Magazine 36 (1845): 665-70. </bib>
+   <notes>Attribution given by Omond (A5). Defends accentually based hexameters on the grounds that
+    even recitation of Latin verses uses stress as a marker. Trochees will be allowed to substitute
+    for dactyls (the time being equal), though spondees in English verse are claimed. </notes>
+  </item>
+
+
+  <item id="E265">
+   <bib> Willcock, G[ladys] D. "'Passing Pitefull Hexameters': A Study of Quantity and Accent in
+    English Renaissance Verse." MLR 29 (1934): 1-19. </bib>
+   <notes>A general review of the whole Elizabethan quantitative movement which is constrained, by
+    the very scope and difficulty of its subject-matter, into a terse, generalizing style. A number
+    of the author's judgments have been subsequently refined or reversed, but it is to her credit
+    that she recognizes the absolutely central position of orthography (so seemingly superficial) in
+    the whole problem of writing and reading quantitative verses correctly: "the conclusion is
+    forced upon one that when Elizabethans . . . talk about quantity and so on, they are speaking of
+    something visible rather than audible."Otherwise not entirely reli- able. Cf. Hendrickson
+    (E175). </notes>
+  </item>
+
+
+  <item id="E266">
+   <bib> Wilson, John. "Homer and His Translators." Blackwood's Magazine, April 1831- February 1834. </bib>
+   <notes>Rpt in his Essays Critical and Imaginative. Ed. J. F. Ferrier. Edinburgh and London: W.
+    Blackwood and Sons, 1856-57. Vol. 4, pp. 1-389. </notes>
+  </item>
+
+
+  <item id="E267">
+   <bib> Wölk, Konrad. Geschichte und Kritik des englischen Hexameters. Normannia:
+    Germanisch-Romanische Bücherei, vol.3. Berlin: Emil Felber, 1909. 146 pp. </bib>
+   <notes>This is the most extensive review of the subject available, even though it rep- resents
+    little advance upon the studies of Elze (E149) and the bibliographic spadework of Omond
+    (E214).Usefully, Wölk devides his attention between the quantitative hexameters of the
+    Renaissance and after (50 pages) and the accen- tual-imitative hexameters mainly of the
+    nineteenth century, up to Stone and Bridges (60 pages). This distinction, along with the
+    diachronic organization, makes for great clarity, and there are frequent long extracts, though
+    unfortu- nately without scansions (who will ever be as assiduous as Omond?). </notes>
+  </item>
+
+
+  <item id="E268">
+   <bib> Young, G. M. "A Word for Gabriel Harvey." Life and Letters, 1930; rpt in English Critical
+    Essays: Twentieth Century. Ed. Phyllis M. Jones. London: Oxford University Press, 1933;rpt 1947.
+    pp. 284-90. </bib>
+   <notes>Defends Harvey's good judgment on the classical hexameter in talking Spenser out of using
+    the meter for The Faerie Queene. (Cf. E172-73). See also: C227, C322, E7, E280, E373, E376,
+    E471, E574, E632, E692, E758- 59, E977, E1192, E1227, E1241, E1456, E1518, G77, L115, L176-78,
+    L295, L521, L807, L1112, L1596-1600, L1692, M106, M140, N50, N72, N125. </notes>
+  </item>
+ </chapter>
+</bibliography>

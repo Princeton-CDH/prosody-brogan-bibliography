@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+    <chapter title="FREE VERSE">
+
+        <item id="E1440">
+            <bib> Allen, Charles. "Cadenced Free Verse." College English 9 (1948): 195-99. </bib>
+            <notes> Following Patterson (D248) and Amy Lowell (E1498), Allen distinguishes between
+                "accentual" and "cadenced" free verse, and (disregarding the former) shows the
+                latter to comprise "reading-time units, line cadences, and strophic rhythms." That
+                is, the lines tend to be built up of phrases which are perceptu- ally isochronous in
+                reading and parallel syntactically, longer sequences of similiar phrases in the poem
+                (hence timing) being called "strophes." </notes>
+        </item>
+
+
+
+        <item id="E1441">
+            <bib> Allen, Gay Wilson. "Biblical Analogues for Walt Whitman's Prosody." Révue
+                Anglo-Américaine 10 (1933): 490-507. </bib>
+            <notes> Whitman's two prosodic principles were parallelism (synonymous, antithetic,
+                synthetic, and climactic; frequently in "envelopes" but sometimes internal) and
+                repetition (initial, medial, or final). </notes>
+        </item>
+
+
+
+        <item id="E1442">
+            <bib> -----. A New Walt Whitman Handbook. New York: New York University Press, 1975. </bib>
+            <notes> Replaces the original 1946 edition. The section on "'Organic' Rhythm" (pp.
+                230-39) in Chapter 4 has scansions. See also the very useful Bibliography on pp.
+                395-99. </notes>
+        </item>
+
+
+
+        <item id="E1443">
+            <bib> -----. "On the Trochaic Meter of 'O Pioneers! O Pioneers.' " American Literature
+                20 (1949): 449-51. </bib>
+            <notes> Whitman's poem (first published in Drum Taps) uses a relatively regular tro-
+                chaic meter to represent the forceful cadences of marching-rhythm. The problems of
+                "organic" versification also pertain. </notes>
+        </item>
+
+
+
+        <item id="E1444">
+            <bib> Andrews, C. E. "The Rhythm of Prose and Free Verse." Sewanee Review 26 (1918):
+                183-94. </bib>
+            <notes> Of interest here is the author's recognition that a prose rhythm must be trans-
+                muted to become a verse-rhythm. Of more interest are the exhibits of rhyth- mically
+                identical but semantically different passages of prose, which, though they are
+                parallel, cannot be read the same way; Andrews draws the inference that rhythm as an
+                objective or abstract entity is much less important than con- tent for determining
+                the overall effect (contour) of the passage. </notes>
+        </item>
+
+
+
+        <item id="E1445">
+            <bib> Archer, William. Poets of the Younger Generation. London: John Lane, 1902. </bib>
+            <notes> Chapters on thirty-three poets; a great many of the remarks on the verse sam-
+                ples throughout the book are on metrics. </notes>
+        </item>
+
+
+
+        <item id="E1446">
+            <bib> Austin, Mrs. Mary. "Native Rhythms." Literary Review, 1 July 1922, pp. 769-70. </bib>
+            <notes> Comment by S. T. Byington, July 22, p. 831, and by H. M. Watts, August 12, pp.
+                878-80; reply by Mrs. Austin, Sept. 2, p. 926. Further discussion in the issue for
+                October 14, pp. 101-2, by Charles S. Baldwin: "Which Verse Is Free?" </notes>
+        </item>
+
+
+
+        <item id="E1447">
+            <bib> Barber, Virginia P. "The Poetics of William Carlos Williams." DAI 33 (1972): 301A
+                (Duke, 1970). </bib>
+            <notes> Only passing attention to versification. </notes>
+        </item>
+
+
+
+        <item id="E1448">
+            <bib> Barry, Sister M. Martin. An Analysis of the Prosodic Structure of Selected Poems
+                of T. S. Eliot. Rev. ed. Washington, D.C.: Catholic University of America Press,
+                1969. Based on her dissertation at C.U.A. in 1948. </bib>
+            <notes> Rev: by Baum in South Atlantic Quarterly 48 (1949): 155-56. A study of fourteen
+                representative poems in order to discern signs and direc- tions of development,
+                based on the system of La Drière (E570). Thus, Barry devotes separate chapters to
+                analyses of "group cadence" [rhythmic groupings of syllables based on stress and
+                syntax], "general cadence" [meter, in effect], and "measure" [balance within the
+                line and correspondence between lines]. This method will not distinguish
+                stress-verse very well, however. The reader should go straight to the concluding
+                (fourth) chapter, since the system is so bulky as effectively to obscure any
+                discoveries made in the earlier chapters. Appendices of tabular data, Bibliography.
+            </notes>
+        </item>
+
+
+
+        <item id="E1449">
+            <bib> Bennett, Florence M. "A Laboratory Experiment in Poetry." Poet-Lore 33 (1922):
+                537-52. </bib>
+            <notes> Scans some free-verse lines for both quantity and accent; she seems to think
+                them lagaoedic, as in Greek, while saying that her intent is "to show that it is
+                possible to measure this mysterious thing, the 'cadence,' by the foot or the musical
+                bar." Eccentric and prolix. </notes>
+        </item>
+
+
+
+        <item id="E1450">
+            <bib> Binyon, Laurence. Tradition and Reaction in Modern Poetry. English Association
+                Pamphlet no. 63. Oxford: Oxford University Press, 1926. </bib>
+            <notes> "Some element of resistance stimulates and fortifies." "Free verse is a soft me-
+                dium." "To write successfully without metre needs . . . more mastery of rhythm, and
+                a severer sense of form" than to write verse that is metered. Binyon concludes
+                against free verse. Much here on the functions of meter. </notes>
+        </item>
+
+
+
+        <item id="E1451">
+            <bib> Bowering, George. "The New American Prosody." Kulchur 4, 15 (Autumn 1964): 3-15. </bib>
+            <notes> Tracing the free-verse tradition through Poe, Hopkins, Dickinson, Williams, and
+                Olson, the author emphasizes as the crux of free-verse the precise notation of the
+                poet's oral delivery of his lines. </notes>
+        </item>
+
+
+
+        <item id="E1452">
+            <bib> Bradley, Sculley. "The Fundamental Metrical Principle in Whitman's Poetry.'
+                American Literature 10 (1939): 437-59. </bib>
+            <notes> Whitman's conception of verse was derived through the Transcendentalists from
+                Coleridge (organic form) and the German Romantics. His practice, his meter, is
+                derived through the ballads from the old native stress-meter of Old English poetry;
+                it is thus a nonsyllabic meter characterized by a principle of pe- riodicity and by
+                hovering accent, which demarcate equal intervals of time. Fur- ther, Whitman's poems
+                reveal a tightly unified pyramidal structure of line- lengths and line-groupings.
+            </notes>
+        </item>
+
+
+
+        <item id="E1453">
+            <bib> Bridges, Robert. "Humdrum and Harum-Scarum: A Lecture on Free Verse." North
+                American Review 216 (1922): 647-58. Also in London Mercury 7 (1922): 54-63 (see
+                following correspondence on pp. 306-7). </bib>
+            <notes> Rpt in his Collected Essays, Papers, &amp;. London: Oxford University Press,
+                1927-36. Vol. 2, no. 2, pp. 35-55. Counterpoises free verse to prose: in giving up
+                fixed meter, the poet is forced to rely even more heavily on rhythm, and the rhythms
+                of free verse are simply more regular than those of prose. Cites four distinct
+                disadvantages of the loss of meter. </notes>
+        </item>
+
+
+
+        <item id="E1454">
+            <bib> Brooke-Rose, Christine. A Structural Analysis of Pound's "Usura Canto": Jakobson's
+                Method Extended and Applied to Free Verse. The Hague: Mouton, 1976. 76 pp. </bib>
+            <notes> The analysis finds that the canto is kinetic rather than static, enacting its
+                mes- sage rather than merely asserting it. The prosodist will be interested in
+                "Level 3: Phonic and Prosodic" (pp. 59-65) and the table in Appendix B (pp. 71-72).
+            </notes>
+        </item>
+
+
+
+        <item id="E1455">
+            <bib> Burdett, Osbert. "Vers Libre." The New Statesman 20 (1923): 453-54. </bib>
+            <notes> Recognizes 3 types of rhythmical speech: meter, cadenced prose, and prose.
+            </notes>
+        </item>
+
+
+
+        <item id="E1456">
+            <bib> Byrd, Don. "The Possibility of Measure in Olson's Maximus." Boundary 2 (1973):
+                39-54. </bib>
+            <notes> Olson's verse is quantitative, not in the classical sense but in its attention
+                to the duration and the "weight" of syllables; Olson was interested in these, in
+                mod- ern atonal music, in classical Greek ontological concepts. . . . </notes>
+        </item>
+
+
+
+        <item id="E1457">
+            <bib> Catel, Jean. Rythme et Langage dans Première Édition des "Leaves of Grass" (1855). </bib>
+            <notes> Diss., Paris, 1930. Montpellier: Causse, Graille et Castelnau, 1930. 195 pp.
+            </notes>
+        </item>
+
+
+
+        <item id="E1458">
+            <bib> Ciardi, John. "How Free Is Free Verse?" Saturday Review, 11 October 1958, p. 38. </bib>
+            <notes> Argues that the verse-line of William Carlos Williams is "a series of variations
+                on an iambic-pentameter line divided into three equal units by the careful control
+                of caesuras." </notes>
+        </item>
+
+
+
+        <item id="E1459">
+            <bib> Clare, John. "Form in Vers Libre." English 27 (1978): 150-70. </bib>
+            <notes> Relying on a notion of "loops" or "return" in poetry created by reiterated
+                sounds or syntax, Clare distinguishes six types of free verse: "spherical" (using
+                such circular devices frequently), "rhythmical" (loose iambics), "cadenced" (heavy
+                endstopping and parallelism), "musical" (in counterpointed rhythms), "balanced," and
+                "vernacular." </notes>
+        </item>
+
+
+
+        <item id="E1460">
+            <bib> Cone, Eddie G. "The Free Verse Controversy in American Magazines, 1912- 1922." DAI
+                32 (1972): 4605A (Duke). </bib>
+            <notes> The "disintegration of one poetic tradition" and concomitant search for an-
+                other was not much expedited or clarified by the periodical criticism of the time;
+                au contraire, it mainly mirrored the confusions and polemics of the times. A
+                detailed historical study, demonstrating strikingly the process by which spe- cific
+                attacks and rebuttals broadened into larger, deeper theoretical issues in prosody.
+            </notes>
+        </item>
+
+
+
+        <item id="E1461">
+            <bib> Cook, Albert. "Rhythm and Person in The Cantos." New Approaches to Ezra Pound. Ed.
+                Eva Hesse. Berkeley: University of California Press, 1969. pp. 349-64. </bib>
+            <notes> In the first section Cook argues that "three mutual possibilities of design-
+                scansion [i.e. major metrical systems]--Greek dipodies, or else iambs, or else
+                trochees and dactyls--are not superimposed on each other . . . because they are only
+                possibilities; no one emerges as a main design. . . . The effect is of great
+                modulation (multiple design) and of great freedom (masterly instance) . . . The
+                instances are so diverse we attend to each one: instance becomes design." </notes>
+        </item>
+
+
+
+        <item id="E1462">
+            <bib> Corke, Hillary. "Is Metre a Dirty Word? and other observations on the present
+                state of poetry." London Magazine, vol. 7, no. 4 (1960): 52-62. </bib>
+            <notes> Interim report on the modern malady, "metre-deafness," now nearing epi- demic
+                proportions, with specimens of some of the more grievously afflicted cases. See the
+                ensuing controversy in TLS (E1513). </notes>
+        </item>
+
+
+
+        <item id="E1463">
+            <bib> Cory, Robrt E. "The Prosody of Walt Whitman." North Dakota Quarterly 28 (1960):
+                74-79. </bib>
+            <notes> From a great mass of jargon here we may extract the fact that Whitman's lines
+                are written in phrasal units, but little else. </notes>
+        </item>
+
+
+
+        <item id="E1464">
+            <bib> Biehl, Paul B. "The Renewal of Abstraction: E. E. Cummings' Sentiment, Sonnets,
+                and Meters." DAI 37 (1976): 2869A (Texas). </bib>
+            <notes> A stout defense of cummings' critically sagging reputation by showing that (1)
+                sentiment is one thing, sentimentality another; (2) Cummings wrote a very surprising
+                number of sonnets and other traditional forms--his poems are not predominantly
+                "gimmicks"; and (3) he mastered a variety of meters, both vis- ual and aural,
+                especially in syllabic-, stress-, and foot-verse. </notes>
+        </item>
+
+
+
+        <item id="E1465">
+            <bib> Dudek, Louis. "A Note of Metrics." Delta (Montreal), no. 5 (Oct. 1958), pp. 15-17. </bib>
+            <notes> The most distinctive, melodic poetry will abandon the "repetitive rhythmical
+                beat" of iambic/rhymed verse--i.e. meter--in favor of an utterly unique form. "Metre
+                makes it easy to counterfeit poetry." </notes>
+        </item>
+
+
+
+        <item id="E1466">
+            <bib> Eliot, T. S. Ezra Pound: His Metric and Poetry. New York: Alfred A. Knopf, 1917.
+                31 pp. </bib>
+            <notes> Rpt in his To Criticize the Critic. London: Faber and Faber, 1965. pp. 162-82.
+                Tracing Pound's formal development and the critical reactions in the English
+                literary review, Eliot emphasizes the erudition, "temperance," virtuosity, and
+                consistency of Pound's work. He was most indebted to Yeats and Browning, he mastered
+                "the adaptability of metre to mood" he had "a tendency toward quantitative measure,"
+                and he created a free verse whose "freedom" derived solely from working "tirelessly
+                with rigid forms and different systems of metric." </notes>
+        </item>
+
+
+
+        <item id="E1467">
+            <bib> -----. "Reflections on Verse Libre." The New Statesman 9 (3 March 1917): 518-19; </bib>
+            <notes> rpt in his To Criticize the Critic. London: Faber and Faber, 1965. pp. 183-89.
+                Eliot's famous, brilliant argument that Vers Libre does not exist," since it has no
+                positive definition, only "absence of pattern, absence of rhyme, absence of meter."
+                It is "a battlecry of freedom, and there is no freedom in art. . . . There is no
+                escape from metre; there is only mastery. . . . the ghost of some simple metre
+                should lurk behind the arras in even the 'freest' verse; to advance men- acingly as
+                we doze, and withdraw as we rouse. . . . The rejection of rhyme is not a leap at
+                facility; it imposes a much severer strain upon the language." </notes>
+        </item>
+
+
+
+        <item id="E1468">
+            <bib> Engel, Bernard F. "The Verse Line of Dr. Williams: A Fact of the Thing Itself."
+                Papers of the Michigan Academy of Sciences, Arts, and Letters 46 (1961): 665-70. </bib>
+            <notes> Argues that Williams' line is measured in phrases containing one major stress.
+            </notes>
+        </item>
+
+
+
+        <item id="E1469">
+            <bib> Ern, Lothar. Freivers und Metrik: Zur Problematik der englischen Verswissenschaft.
+                Diss., Darmstadt: Blaeschke, 1970. Freiburg, 1968. </bib>
+            <notes> A doubly valuable study: between two chapters on the development and met- rical
+                structure of free verse (with a sample analysis of Pound's second Canto) lies a long
+                second chapter categorizing the major theoretical approaches his- torically taken in
+                English metrics. Five such approaches are recognized: (1) Non-Temporal Metrical
+                Theory (Gascoigne et al., Guest, Mayor, Hopkins, Bridges, Abercrombie, Young, Hamer,
+                and G. W. Allen); (2) Rhythm-analysis (Corson, C. M. Lewis; psychological
+                experiments and theories). (3) Experi- mental Phonetics (Scripture, Verrier, C. F.
+                Jacob, Stetson, De Groot); (4) Temporal Theories of Meter (the Musical-Analogy
+                Theory of Patmore and Lanier; the Length Theory of Saintsbury, Alden, Omond,
+                Bayfield, Sonnen- schein; and the Interval Theory of Thomson, E. Smith, and J. C.
+                Anderson); and (4) Recent Trends in Metrics (Russian Formalism, New Criticism, and
+                Trager-Smith). A very substantial study both in theory and application. </notes>
+        </item>
+
+
+
+        <item id="E1470">
+            <bib> Ficke, Arthur D. "Metrical Freedom and the Contemporary Poet." The Dial 58 (1915):
+                11-13. </bib>
+            <notes> Lamentation over the paucity of adroitness in the verbal abuse of the free-verse
+                controversy. A review of four volumes. </notes>
+        </item>
+
+
+
+        <item id="E1471">
+            <bib> Fowler, Roger. "Linguistics and the Analysis of Poetry." The Critical Survey 3
+                (1967): 78-89. </bib>
+            <notes> This model analysis, mainly lexical, of a Cummings poem includes a metrical
+                analysis on pp. 86-87; the lines divide into hemistichs fairly evidently and seem to
+                be in a four-stress meter, but Fowler describes them as being in Sprung Rhythm.
+            </notes>
+        </item>
+
+
+
+        <item id="E1472">
+            <bib> Freedman, Morris. "Jazz Rhythms and T. S. Eliot." South Atalantic Quarterly 51
+                (1952): 419-35. </bib>
+            <notes> Characteristic of these are pause, repetition, nonsense syllables, and rhyme.
+            </notes>
+        </item>
+
+
+
+        <item id="E1473">
+            <bib> Fussell, Paul, Jr. "Free Verse." Antaeus 30/31 (1978): 296-308; </bib>
+            <notes> rpt as chapter 5 of the 2nd ed. of his Poetic Meter &amp; Poetic Form (E537). An
+                introduction to the poetic form of our time, with many examples of tech- nique,
+                particularly the enumerative catalogue or syntactic parallelism so preva- lent in
+                this mode. Auden knew acutely how much harder fine free verse is to write than
+                metered, and Fussell too rightly insists on "the principle of excel- lence"--the
+                principle of economy: no element without a purpose--in every form of verse. </notes>
+        </item>
+
+
+
+        <item id="E1474">
+            <bib> Gall, Sally M. "Pound and the Modern Melic Tradition: Towards a Demystifica- tion
+                of 'Absolute Rhythm.'" Paideuma 8 (1979): 35-47. </bib>
+            <notes> Scans six poems by Pound and one by Whitman in musical notation. </notes>
+        </item>
+
+
+
+        <item id="E1475">
+            <bib> Gardner, Helen. The Art of T. S. Eliot. London: The Cresset Press, 1949. </bib>
+            <notes> The first chapter ("Auditory Imagination"), esp. pp. 15-35, traces Eliot's crea-
+                tion of a new meter for the verse after The Waste Land. Dame Gardner's expo- sition
+                is here, as always, lucid and limpid, conveying great understanding in the force of
+                few words. </notes>
+        </item>
+
+
+
+        <item id="E1476">
+            <bib> Guiliani, Alfredo. "Le Ragioni Metriche di Ezra Pound (Il Problema della cetra)."
+                Nuova Corrente, nos. 5-6 (1956), pp. 105-11. </bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="E1477">
+            <bib> Gunderson, Keith. "What Is Projective Verse?" Burning Water, Fall 1964, pp. 21-26. </bib>
+            <notes> Some very sensible unpacking of Olson's terms and concepts in the "Projective
+                Verse" essay shows the contents of the package to be in a shambles. To take Olson
+                literally is to conclude that "it is in principle impossible to write Projec- tive
+                Verse" and to answer the title question with "No one really knows." Ol- son cannot
+                mean what he says. </notes>
+        </item>
+
+
+
+        <item id="E1478">
+            <bib> Hills, E. C. "Meter in Anglo-American Free Verse." University of California
+                Chronicle 26 (1924): 299-310. </bib>
+            <notes> Only the first three or four pages warrant interest. Hills distinguishes between
+                poetry (content), rhythm (repetition), and verse ("unless there be meter--or
+                measure--there is no verse"), so that he finds much modern free verse to be poetry
+                but not verse, giving the latter term considerably more weight and value than the
+                former. </notes>
+        </item>
+
+
+
+        <item id="E1479">
+            <bib> Hindus, Milton. "Notes Toward the Definition of a Typical Poetic Line in Whitman."
+                Walt Whitman Review 9 (1963): 75-81. </bib>
+            <notes> After considerably circumlocution the author suggests that Whitman's verse is
+                constructed of measures of three stresses. </notes>
+        </item>
+
+
+
+        <item id="E1480">
+            <bib> Hollander, John. "Experimental and Pseudo-Experimental Metrics in Recent American
+                Poetry." Poetics I (A16), pp. 127-36. </bib>
+            <notes> Includes a long digression on the limited value of theories made by practicing
+                poets. Those poets publishing their first volumes between 1960 and 1965 comprise two
+                camps, those of the Pound-Williams free-verse tradition and those willing to work in
+                strict forms. </notes>
+        </item>
+
+
+
+        <item id="E1481">
+            <bib> -----. "Observations on the Experimental." In his Vision and Resonance (A13), pp.
+                227-44. </bib>
+            <notes> Beyond question the American free-verse poets have shown a persistent, sometimes
+                intense interest in matters of metrical form, regardless of whether they knew more,
+                less, or other than they actually said in their poems, meta- poems, statements,
+                meta-statements, or manifestoes. Behind it all there is "the power of an ideology
+                about experiment which descends, in successive mis- readings, from Emerson." But the
+                truer form of experimentalism, evident in Pound's archaizing, makes explicit "the
+                internalization of other prior models, that they may be incorporated into the new
+                poetic being." </notes>
+        </item>
+
+
+
+        <item id="E1482">
+            <bib> Hope, A. D. "Free Verse: A Post Mortem." Quadrant (Sydney) 4 (1960): 49-58. </bib>
+            <notes> Denies that free verse allows more rhythmic variety than metered verse: free
+                verse suffers the immense loss of metrical counterpoint and cannot find neces- sary
+                restraints in the welter of possibilities. </notes>
+        </item>
+
+
+
+        <item id="E1483">
+            <bib> Hough, Graham. "Free Verse." Proceedings of the British Academy 43 (1957): 157-77. </bib>
+            <notes> Charts three varieties of free verse: (1) a type which begins, as it were, in a
+                standard meter but consciously moves away from it, (2) a type which begins in no
+                formal pattern at all but seems repeatedly to approach a strict form, and (3) a type
+                which is not recognizably iambic yet is obviously highly formal in other ways. The
+                respective types are exemplified in Eliot, Lawrence, and Pound. </notes>
+        </item>
+
+
+
+        <item id="E1484">
+            <bib> Howarth, Robert G. Notes on Modern Poetic Technique, English and Australian.
+                Sydney: Angus and Robertson, 1949. 64 pp. </bib>
+            <notes> A thin primer in paper covers: chapter 6 treats "Rhythm and Cadence," chap- ter
+                8 "Sound." </notes>
+        </item>
+
+
+
+        <item id="E1485">
+            <bib> J., W. H. "Free Verse: Description and Origin." Notes and Queries 172 (1937):
+                443-44. </bib>
+            <notes> Finds perhaps the earliest description in an 1863 letter of E. B. Browning's re-
+                peating a remark of Disraeli's. Notes the influence of Goethe and Arnold. </notes>
+        </item>
+
+
+
+        <item id="E1486">
+            <bib> Jannaccone, P. La Poesia di Walt Whitman e Évoluzione delle Forme Ritmiche.
+                Torino, 1898. Tr. by Peter Mitilineos. Washington, D. C.: Microcard Editions, 1973. </bib>
+            <notes> Finds regular meters underlying Whitman's rhythms. </notes>
+        </item>
+
+
+
+        <item id="E1487">
+            <bib> Jones, Llewellyn. "Free Verse and Its Propoganda." Sewanee Review 28 (1920):
+                384-95; rpt in his First Impressions: Essays on Poetry, Criticism, and Prosody. New
+                York: Knopf, 1925. pp. 231-49. </bib>
+            <notes> As the saying goes, "Beware the wrath of a patient man." Finally exasperated
+                with the intense propaganda (as opposed to accomplishment) of the free-verse school,
+                Jones deftly dispatches Amy Lowell (E1499) making her understanding of metrics look
+                puerile. </notes>
+        </item>
+
+
+
+        <item id="E1488">
+            <bib> Kenner, Hugh. "Blood for the Ghosts." Texas Quarterly 10 (1967): 67-79; rpt in New
+                Approaches to Ezra Pound. Ed. Eva Hesse. Berkeley: University of California Press,
+                1969. pp. 331-48. </bib>
+            <notes> By the time Pound came to the Pisan Cantos, his grasp of the whole tradition of
+                Western metrical forms--decasyllable, pentameter, Imagist cadence--was so firm that
+                it is less hyperbolic than literal to say that he was possessed of the spirits of
+                the Old Masters. Kenner's explication of a portion of those verses dis- entangles
+                skillfully all the voices of the dead, now become instrumentalities of the living.
+            </notes>
+        </item>
+
+
+
+        <item id="E1489">
+            <bib> -----. "Plea for Metrics." Poetry 86 (1955): 41-45. </bib>
+            <notes> Most directly a review of three new works of poetry (by Pound, Eliot, and Peter
+                Russell), but Kenner takes the occasion for some incisive remarks on three varieties
+                of modern metrical divagations: Pound's metric without un- stressed syllables,
+                Eliot's self-conscious effort to sever subject from treatment--a metric of craft if
+                not substance--and Russell's translation of Greek into English lines of
+                hyperwordical metric. Kenner engages, and performs, with his expect- edly
+                unexpected, ionized prose. </notes>
+        </item>
+
+
+
+        <item id="E1490">
+            <bib> Kmetzo, Thomas. "Notes Toward a Prosody of Free-Verse." Twenty-Seven to One. Ed.
+                Bradford B. Broughton. Ogdensburg N. Y.: Ryan Press, 1970. pp. 85-95. </bib>
+            <notes> The author (confusedly) identifies the four types of metrical theory as Graphic,
+                Musical, Acoustic, and Mixed, then argues that none of these will scan free verse;
+                he therefore appropriates the Trager-Smith system, modifies its symbols, then
+                (confusedly) identifies its dimensions as stress, pitch, terminal contour, pause,
+                and duration. </notes>
+        </item>
+
+
+
+        <item id="E1491">
+            <bib> Kunitz, Stanley. "Action and Incantation." Antaeus 30/31 (1978): 283-95. </bib>
+            <notes> An interview with Kunitz by Harvey Gross which focuses on his views about
+                versification and especially on his technical development from strictly metrical
+                verse to freer rhythms. </notes>
+        </item>
+
+
+
+        <item id="E1492">
+            <bib> Kwan-Terry, John W. "Free Verse: A Prosodic Description of Its Development from
+                Browning to T. S. Eliot.: Diss., Cambridge University, 1970. </bib>
+            <notes> Cited in McNamee (q.v. in Appendix D) but not listed in CDI. Not seen. </notes>
+        </item>
+
+
+
+        <item id="E1493">
+            <bib> -----. "The Prosodic Theories of Ezra Pound." Papers on Language and Literature 9
+                (1973): 48-64. </bib>
+            <notes> Any effort to bring Pound's pronouncements and practices into order and sense
+                will be a great struggle: this one succeeds tolerably well at explicating Pound's
+                interests in traditional prosodic principles, his confusions and analogies of music
+                with poetry, the interplay of the fixed and variable, syntax as struc- ture, melodic
+                cadence, the "lengthened foot," the value of meter, the quanti- ties of words, and
+                tone-color. </notes>
+        </item>
+
+
+
+        <item id="E1494">
+            <bib> LaFerrière, Daniel. "Free and Non-Free Verse: A Response to Howard McCord's
+                'Breaking and Entering.'" Language and Style 10 (1977): 79-85. </bib>
+            <notes> Reflectively, the author counterpoises the unscholarly approach of McCord
+                (E1503) to the wasteland of Halle-Keyser metrics (E775), deploring the latter for an
+                abandonment of the necessary concept of rhythm. He then offers a con- cise
+                formulation of McCord's observations: a line-break either (a) falls at the natural
+                end of a syntactic period (phrase, clause), or (b) emphasizes some word or element
+                not at the end of a phrase or clause. But in order to buy the latter, LaFerrière
+                shows, free verse (with its visual prosody) must pay the great price of losing much
+                of the auditory dimension of accentual-syllabic verse. The con- clusions reached
+                here have extensive range and implication. </notes>
+        </item>
+
+
+
+        <item id="E1495">
+            <bib> Lee, Charlotte, I. "The Line as a Rhythmic Unit in the Poetry of Theodore
+                Roethke." Speech Monographs 30 (1963): 15-22. </bib>
+            <notes> Detailed metrical analysis of "The Lost Son," focusing on stress-distribution,
+                line length, and types of endings. Lee does not seem to differentiate stress- verse
+                from foot-verse very clearly, however. </notes>
+        </item>
+
+
+
+        <item id="E1496">
+            <bib> Lieberman, Marcia R. and Philip. "The Breath-Group as a Constructive Element in
+                Charles Olson's 'Projective Verse.'" Proceedings of the Seventh International
+                Congress of Phonetic Sciences. Ed. André Rigault and R. Charbonneau. The Hague:
+                Mouton, 1972. pp. 949-56. </bib>
+            <notes> Slightly revised and expanded as E1497 "Olson's Projective Verse and the Use of
+                Breath Control as a Structural Element." Language and Style 5 (1972): 287-98.
+                Laboratory measurements of breathing while reading poetry generally confirm that
+                Olson did in fact use breath-groups as a "structural prosodic element" to point up
+                (underscore, demarcate) the line or rhythmic group rather than the syntactic group
+                (though one breath-group does not always equal one line). </notes>
+        </item>
+
+
+
+        <item id="E1498">
+            <bib> Lowell, Amy. "The Rhythms of Free Verse." The Dial 64 (1918): 51-56. </bib>
+            <notes> Responding to Patterson (D248), Miss Lowell reports experiments they con- ducted
+                together in search of a distinctive rhythm ("cadence") of free verse between those
+                of prose and metered verse. Patterson eventually identified seven discrete states on
+                the continuum between Verse and Prose. See Sapir (E390). </notes>
+        </item>
+
+
+
+        <item id="E1499">
+            <bib> -----. "Some Musical Analogies in Modern Poetry." Musical Quarterly 6 (1920):
+                127-57. </bib>
+            <notes> Free verse in English should be termed "cadenced verse," since it depends upon
+                the cadence not upon meter, since it is nonsyllabic, and since the num- ber of
+                syllables within the equal time-units varies widely. Many examples. Miss Lowell
+                mentions the resemblance of modern poetry to music frequently, speaks again of her
+                experimental intercourse with Patterson (D248), and turns at the end to "polyphonic
+                prose." E1500 See also William C. Bedford's "A Musical Apprentice: Amy Lowell to
+                Carl Engel." Musical Quarterly 58 (1972): 519-42. </notes>
+        </item>
+
+
+
+        <item id="E1501">
+            <bib> -----. "Vers libre and Metrical Prose." Poetry 3 (1914): 213-20. </bib>
+            <notes> Establishes "metrical prose" and verse libre on a continuum between "pure prose"
+                and "pure poetry," the "rhythmic wave length" of vers libre being slightly shorter
+                and sharper than that of the metered prose. </notes>
+        </item>
+
+
+
+        <item id="E1502">
+            <bib> Lowes, John Livingston. Convention and Revolt in Poetry. Boston and New York:
+                Houghton Mifflin, 1919. </bib>
+            <notes> See especially chapter five, "The Diction of Poetry Versus Poetic Diction," and
+                chapter six, "Rhyme, Metre, and Verse Libre." In the latter, he tena- ciously
+                defends the value of the tension--and resultant harmony--of meter and natural
+                speech-rhythm (read, restraint and liberty) in metrical verse, as against free
+                verse, which abandons the meter for cadence, and "is at its best essentially
+                strophic." Though we may feel Professor Lowe's book to be behind us now, and though
+                it often seems tediously discursive, still it "supports familiarity"; in grace,
+                clarity, and cool sense it remains undimmed. </notes>
+        </item>
+
+
+
+        <item id="E1503">
+            <bib> McCord, Howard. "Breaking and Entering: Words on Line-Lengths in Poems." Language
+                and Style 10 (1977): 73-79. </bib>
+            <notes> Not a rigorous or categorical analysis but rather the insights and contempla-
+                tions of a practicing poet. "Perception provides information. A poem is the ordered
+                memory, in language, of perception." See the ambivalent response by LaFerrière
+                (E1494). </notes>
+        </item>
+
+
+
+        <item id="E1504">
+            <bib> MacNaughten, Hugh. "Free Verse: A Parallel and a Warning." The National Review
+                [National and English Review] 90 (1927): 88-96. </bib>
+            <notes> The parallel is with classical Greece, where poetry also altered course
+                radically after a total war (Peloponnesian); the warning is that the result, in
+                Greece, was the total collapse of lyric poetry. </notes>
+        </item>
+
+
+
+        <item id="E1505">
+            <bib> McNaughton, William. "Ezra Pound's Meters and Rhythms." PMLA 78 (1963): 136-46. </bib>
+            <notes> To break the magnetism of the iamb, to stay close to music, to masure the to-
+                tal sound of a poem in the meter--these are Pound's three central metrical im-
+                pulses. McNaughton collects what must surely be everything Pound ever said on the
+                subject, along with a great many examples of metrical experiments. There is more
+                than enough material here for a book-length study. </notes>
+        </item>
+
+
+
+        <item id="E1506">
+            <bib> -----. "Pound's Translations and Chinese Melopoeia." Texas Quarterly 10 (1967):
+                52-56. </bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="E1507">
+            <bib> MacNeice, Louis. "Rhythm and Rhyme." In his Modern Poetry: A Personal Essay.
+                Oxford: Clarendon Press, 1938; 2nd ed. 1968. pp. 114-35. </bib>
+            <notes> Though MacNeice himself favors the more regular verseforms and rhyme, he defends
+                free verse from the criticism of G. M. Young; the problem with free verse is only
+                that "the poet's matter tends in this form to appear insufficiently digested or
+                distilled." The crucial element in any poetry however is rhythmical variation, or
+                varied patterns of stresses which MacNeice demonstrates in a de- tailed scansion of
+                a lyric by Nashe, remarks by Coleridge, poems by Hopkins, Anglo-Saxon imitations by
+                Pound, Auden, and Day Lewis, and Skeltonics by Graves. </notes>
+        </item>
+
+
+
+        <item id="E1508">
+            <bib> Maynard, Theodore. "The Fallacy of Free Verse." Yale Review n.s. 11 (1922):
+                354-66. </bib>
+            <notes> "The point at issue is not whether free verse has form, but whether it has po-
+                etic form; whether it is a satisfactory medium for poetry." </notes>
+        </item>
+
+
+
+        <item id="E1509">
+            <bib> Meyerstein, E. H. W. "You Might Have Rimed." Essays and Studies n.s. 2 (1949):
+                64-74. </bib>
+            <notes> It is not easy to say with confidence that the subject of this opaque essay is
+                free verse. Along the way, he nominates James Macpherson as the originator of free
+                verse and discusses the meter of The Testament of Beauty. He expects "the re- turn
+                of stanza, of strophe." </notes>
+        </item>
+
+
+
+        <item id="E1510">
+            <bib> Mitchell, Roger. "A Prosody for Whitman?" PMLA 84 (1969): 1606-12. </bib>
+            <notes> The key to scanning Whitman's verse is not metrical but syntactic--it is the
+                caesura. Whitman constructs his lines so that the stress-counts of the half-lines
+                form recognizable patterns of repetition over a run of lines, the chief pattern
+                being the "parabola." Also, Whitman establishes a principle of opposition be- tween
+                the number of syntactic groups per line and the number of stresses per group.
+            </notes>
+        </item>
+
+
+
+        <item id="E1511">
+            <bib> Monroe, Harriet. "The Free-Verse Movement in America." English Journal 13 (1924):
+                691-705; </bib>
+            <notes> rpt in her Poets &amp; Their Art (E374), pp. 291-301. A historical survey of the
+                vers libre movement in the early part of the century and its general metrical
+                backgrounds, with a musical scansion of Richard Ald- ington's "Choricus," "the first
+                Imagist poem ever printed." </notes>
+        </item>
+
+
+
+        <item id="E1512">
+            <bib> Morgan, Frederick. "William Carlos Williams: Imagery, Rhythm, Form." Sewanee
+                Review 55 (1947): 675-90. </bib>
+            <notes> Section II treats rhythm in Williams' verse: its chief characteristics are "a
+                con- tinuous movement and adroit timing of the beats." The use of the short line
+                isolates and sharpens images, allows variations of tempo, and permits expressive use
+                of indentation, sudden break-off, and white space. Morgan takes issue with Yvor
+                Winters on the possibility of a free-verse meter, finding "in all true free verse .
+                . . rhythm doing its work unsupported by meter." But that view forces a concession:
+                "free-verse rhythm is but an intensification of prose rhythm." So, by his mode
+                Williams has severely constricted his range of expression, since "the elimination of
+                meter entails the abandonment of metrical effects, which are far richer and more
+                various than free-verse effects." </notes>
+        </item>
+
+
+
+        <item id="E1513">
+            <bib> "The Muse in Chains." TLS, 13 May 1960, p. 305. </bib>
+            <notes> Correspondence follows, from 27 May - 5 August, pp. 337, 353, 385, 401, 417,
+                433, 456, 481, 497. The original article above follows an earlier by Hilary Corke;
+                see E1462. The TLS reviewer raps Mr. Corke lightly on the knuckles for insisting on
+                strict adherence to regularity in form, especially in an age of metrical con- fusion
+                and transition. Mr. Corke replies that he actually insisted on metrical control.
+                Thereafter the correspondents quarrel over the "cadence-scansion" of one case and
+                the entailed issues of stress-assignment and semantics. At pp. 417 and 456, Terence
+                Hawkes interecedes to promote linguistic metrics as the only precise descriptive
+                instrument. </notes>
+        </item>
+
+
+
+        <item id="E1514">
+            <bib> Olson, Charles. Projective Verse. First printed in Poetry New York, no. 3, 1950. </bib>
+            <notes> Thereafter published as a pamphlet, New York: Totem Press, 1959. Rpt in his
+                Selected Writings. New York: New Directions, 1966. Rpt in Perkins (A25), pp. 336-42.
+                Olson's famous manifesto on the "laws and possibilities of the breath" and
+                COMPOSITION BY FIELD posits as the twin premises of its metric the syl- lable and
+                the line. "It would do us no harm . . . if both rime and meter, and, in the quantity
+                words, both sense and sound, were less in the forefront of the mind than the
+                syllable, if the syllable, that fine creature, were more allowed to lead the harmony
+                on. . . . it is from the union of the mind and the ear that the syllable is born. .
+                . . And the line comes (I swear it) from the breath, from the breathing of the man
+                who writes, at the moment that he writes . . . for only he, the man who writes, can
+                declare, at every moment, the line, its metric and its ending--where its breathings
+                shall come to, termination." See the scathing criticisms by Perloff (next entry).
+            </notes>
+        </item>
+
+
+
+        <item id="E1515">
+            <bib> Perloff, Marjorie G. "Charles Olson and the 'Inferior Predecessors': 'Projective
+                Verse' Revisited." ELH 40 (1973): 285-306. </bib>
+            <notes> Inquiry into the argument and sources (Pound and Williams) of Projective Verse
+                with a more-than-skeptical (indeed, hostile) attitude yields the conclusion that
+                Olson's manifesto is "hardly the break-through in literary theory it is reputed to
+                be. It is essentially a scissors-and-paste job, a clever but confused collage."
+            </notes>
+        </item>
+
+
+
+        <item id="E1516">
+            <bib> Pound, Ezra. "A Few Dont's by an Imagiste." Poetry 1 (1913): 200-6. Rpt as "A
+                Retrospect." The Literary Essays. New York: New Directions, 1918. </bib>
+            <notes> Rpt in Perkins (A25). Pound's familiar laconic advice to would-be poets. See
+                esp. the section "Rhythm and Rhyme": "behave as a musician, a good musician, when
+                dealing with that phase of your art which has exact parallels in music. The same
+                laws govern, and you are bound by no others. . . . your rhythmic structure should
+                not destroy the shape of your words, or their natural sound, or their meaning. . . .
+                The term harmony is misapplied in poetry; it refers to simultaneous sounds of
+                different pitch. There is, however, in the best verse a sort of residue of sound
+                which remains in the ear of the hearer and acts more or less as an organ- base. . .
+                . As regarding rhythm, compose in the sequence of the musical phrase, not in
+                sequence of a metronome." </notes>
+        </item>
+
+
+
+        <item id="E1517">
+            <bib> Powell, Grosvenor E. "Two Essays: I. Quantity and the Meters of Yvor Winters; II.
+                Being, Poetry, and Yvor Winters' Poetry." University of Denver Quarterly 10 (1975):
+                38-66. </bib>
+            <notes> A subtle yet penetrating essay which suggests that in contrast to the
+                traditional metrical theory of the twentieth century, derived from Hopkins and
+                positing his conception of metrical pattern counterpointed against rhythmical
+                realiza- tion, Winters devised--or discovered--another metrical system having two
+                levels of counterpointing: (1) the meter (actually "heard," for Winters, and not an
+                abstraction) against the rhythm of actual stresses, and (2) the rhythm against
+                variations in (a) degrees of accent and (b) syllabic length. That is, several sam-
+                ples of verse may have identical meter and rhythm but vary considerably in secondary
+                stressing and deployment of syllabic quantity, producing markedly different textural
+                effects. It was this latter aspect--a patterning of syllable length which was
+                neither entirely random nor fixedly repetitive--which Winters de- veloped in his
+                verse. The result is a dipodic or hierarchic structure where two levels of
+                counterpointing are evident--the one (accentual) setting the primary stresses
+                against all others, the other (accentual-syllabic) setting primary and sec- ondary
+                stresses against all others. In his verse, therefore, Winters sought to minimize
+                variations of meter and rhythm so as to allow the subtler free-quanti- tative
+                patterns to shine through. He also experimented in blank verse, cou- plets,
+                quatrains, sonnets, and the seven-syllable tetrameter line so dear to Her- rick.
+            </notes>
+        </item>
+
+
+
+        <item id="E1518">
+            <bib> Powell, James A. "The Light of Vers Libre." Paideuma 8 (1979): 3-34. </bib>
+            <notes> Propounds the problematic thesis that the rhythmic patterns of Pound's verse can
+                best be discovered by marking the stresses, then grouping them into the longer and
+                more arcane feet of Greek metrics (Powell calls them "rhythmic phrases larger and
+                more articulate than the iamb"). This, because "as early as 1912 [Pound] began to
+                evolve from a synthesis of Greek quantitative prosody and English accentual potency
+                a new rhythmic basis for English verse." But it is surely untrue that "in Pound's
+                mature poetry there is no metre. Rhythm is all." </notes>
+        </item>
+
+
+
+        <item id="E1519">
+            <bib> Rambo, Dorothy E. "An Analysis of Four Quartets by T. S. Eliot with Particular
+                Respect to its Prosody." DA 19 (1958): 1476A (Northwestern). </bib>
+            <notes> Only the sixth chapter provides analysis, but the study seems to be mainly
+                concerned with the structural integration of the individual movements of the poem
+                into a unified whole. </notes>
+        </item>
+
+
+
+        <item id="E1520">
+            <bib> Ramsey, Paul. "Free Verse: Some Steps Toward Definition." SP 65 (1968): 98-108. </bib>
+            <notes> Should we have had to have waited years for some sense on this muddled sub-
+                ject? Ramsey examines ten possible conceptions of free verse, concluding that the
+                tenth, "All of the Above," is correct: free verse is not so much a single rhythmic
+                form as a range of closely related forms. Wonderfully stylish. See also this
+                author's </notes>
+        </item>
+
+
+
+        <item id="E1521">
+            <bib> -----. The Lively and the Just: An Argument for Propriety. University of Alabama
+                Studies, no. 15. Tuscaloosa: University of Alabama Press, 1962. </bib>
+            <notes> There is a discussion of free verse and poetic prose (denigrating Eliot in the
+                Four Quartets) on pp. 125-32; note also pp. 57-58, 63-64, and 86-90. For some years
+                Professor Ramsey has also been writing a regular review col- umn on recent poetry
+                for the Sewanee Review; the reviews generally include at least a few pages of
+                commentary on versification. See vols. 74 (1966): 930-45; 82 (1974): 393-406; 85
+                (1977): 532-40. </notes>
+        </item>
+
+
+
+        <item id="E1522">
+            <bib> -----. "Some American Poetry of 1974: Three Traditions." Sewanee Review 83 (1975):
+                348-56. </bib>
+            <notes> The traditions being metrical--"short-line free verse," strict iambics," and
+                "loosened iambics." </notes>
+        </item>
+
+
+
+        <item id="E1523">
+            <bib> -----. "William Carlos Williams as Metrist: Theory and Practice." Journal of
+                Modern Literature 1 (1971): 578-92. </bib>
+            <notes> The "variable foot," Ramsey concludes, is nothing very clear and nothing very
+                new. However, as another poet said, there are moments, points, spheres of co-
+                herence, as this poet elucidates in two of Williams' poems, abundantly. Wil- liams'
+                verse runs to a medley of musics, it seems. Yet consider: we must say either tht he
+                knew not what he was about or that he could not speak what he knew. Which is it?
+            </notes>
+        </item>
+
+
+
+        <item id="E1524">
+            <bib> Ramsom, John Crowe. "Gerontion." In T. S. Eliot: The Man and His Work. Ed. Allen
+                Tate. New York: Delacorte Press, 1966. pp. 133-58. </bib>
+            <notes> A close explication of rhythmic analysis of each of the five movements of the
+                poem in which Eliot "first worked out to his own satisfaction that brisk pros- ody
+                which was to be his staple thereafter." </notes>
+        </item>
+
+
+
+        <item id="E1525">
+            <bib> Ranta, Jerrald L. "William Carlos Williams' Prosody to 1940." DAI 31 (1970): 400A
+                (Kent State, 1968). </bib>
+            <notes> Williams' prosody depends on counting, as do all others, but in his early verse
+                he counts and measures many more features than conventional meters do. What he
+                achieved is less "free verse" than "a new poetic order" altogether, based on the
+                principles of variability and relativity. </notes>
+        </item>
+
+
+
+        <item id="E1526">
+            <bib> Ross, E. C. "Whitman's Verse." MLN 45 (1930): 363-64. </bib>
+            <notes> Propounds the unlikely thesis that because traditional verse is "but metered
+                prose" Whitman's verse is even further removed from prose than are tradi- tional
+                forms. </notes>
+        </item>
+
+
+
+        <item id="E1527">
+            <bib> Savage, D. S. "Form in Modern Poetry." Poetry 65 (1944): 30-43. </bib>
+            <notes> "Form is always the effect of rhythm. . . ." But form cannot be identified
+                strictly with meter. "Free Verse" should be re-termed "Loose Verse." Discus- sion
+                chiefly of M. Moore, Pound, and Hardy. </notes>
+        </item>
+
+
+
+        <item id="E1528">
+            <bib> Schafer, R. Murray. "The Developing Theories of Absolute Rhythm and Great Bass."
+                Paideuma 2 (1973): 23-35; rpt in Ezra Pound and Music: The Complete Criticism. New
+                York: New Directions, 1977. pp. 467-80. </bib>
+            <notes> An effort to explicate these two troublesome concepts by collecting, ordering,
+                and examining Pound's known statements about them. Summary in penulti- mate
+                paragraph. </notes>
+        </item>
+
+
+
+        <item id="E1529">
+            <bib> Schiller, Andrew. "An Approach to Whitman's Metrics." Emerson Society Quarterly
+                no. 22 (1961), pp. 23-25. </bib>
+            <notes> Despite the image of "the natural poet, the bardic savage . . . [of] the
+                barbaric yawp" that Whitman cultivated, his verse was carefully crafted. Though the
+                lines are not isosyllabic or isoaccentual, they are isosyntactic, Schiller shows,
+                and probably also isochronic. Specimen: "I Sit and Look Out." </notes>
+        </item>
+
+
+
+        <item id="E1530">
+            <bib> Schilling, Dorothy C. "The Form of Free Verse." Leland Stanford University
+                Abstracts of Dissertations 2 (1928): 125-26. </bib>
+            <notes> Defining the metrical foot as "primary" rhythm (the line and the stanza being
+                secondary and tertiary), the author distinguishes types of free verse where pri-
+                mary rhythm is (1) absent, (2) potential, (3) irregular, or (4) regular. It is this
+                rhythm which she finds the only one comparable to that of regular verse; the other
+                two are only "vaguely suggested." </notes>
+        </item>
+
+
+
+        <item id="E1531">
+            <bib> Schramm, Richard. "The Line Unit: Studies in the Later Poetry of W. B. Yeats."
+                Ohio University Review 3 (1961): 32-41. </bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="E1532">
+            <bib> Schulte, Edvige. "Ritmi vecchi e neovi nella poesia inglese moderna." Annali
+                Instituto Universitario Orientale, Napoli, Sezione Germanica 2 (1959): 191-236. </bib>
+            <notes> On the meters of Pound, Eliot, and Auden. </notes>
+        </item>
+
+
+
+        <item id="E1533">
+            <bib> Scott, Fred Newton. "A Note on Whitman's Prosody.: JEGP vol. 7, no. 2 (1907- 8):
+                134-53. </bib>
+            <notes> See also the brief abstract of his paper entitled "The Prosody of Walt Whit-
+                man" in PMLA 21 (1906): xix (Proceedings). </notes>
+        </item>
+
+
+
+        <item id="E1534">
+            <bib> Sienicka, Marta. "William Carlos Williams' Theory and Practice of Poetic Measure."
+                Studia Anglica Posnaniensia 3 (1971): 121-29. </bib>
+            <notes> On the genesis of the concept of the "variable foot." </notes>
+        </item>
+
+
+
+        <item id="E1535">
+            <bib> Sutton, Walter. American Free Verse: The Modern Revolution in Poetry. New York:
+                New Directions, 1973. </bib>
+            <notes> Not technical, unfortunately; it would have been a far better book had it been
+                so. </notes>
+        </item>
+
+
+
+        <item id="E1536">
+            <bib> -----. "The Analysis of Free Verse Form, Illustrated by a Reading of Whitman."
+                JAAC 18 (1959): 241-54. </bib>
+            <notes> General remarks on the four aspects of poetic structure--sound, syntax, image,
+                and meaning. Schematized on pp. 249-50. </notes>
+        </item>
+
+
+
+        <item id="E1537">
+            <bib> Swett, Margery. "Free Verse Again." Poetry 25 (1924): 153-59. </bib>
+            <notes> The author acknowledges the utility of rhyme and meter but thinks free verse
+                provides greater "cohesion." The greatest artists command both media. </notes>
+        </item>
+
+
+
+        <item id="E1538">
+            <bib> Teele, Roy E. "The Japanese Translations." Texas Quarterly 10 (1967): 61-66. </bib>
+            <notes> Metrical problems--and accomplishments--besetting Ezra Pound in translating
+                haiku and lyrics in the Noh plays. </notes>
+        </item>
+
+
+
+        <item id="E1539">
+            <bib> Van Doorn, Willem. "Vers Libre in Theory and Practice." English Studies 3 (1921):
+                1-7. </bib>
+            <notes> Observations on rhythm in the course of a long review of F. S. Flint's Other-
+                world: Cadences (1920). </notes>
+        </item>
+
+
+
+        <item id="E1540">
+            <bib> Ware, Lois. "Poetic Conventions in Leaves of Grass." SP 26 (1929): 47-57. </bib>
+            <notes> Instances of those conventions Whitman professed to eschew--meter, rhyme scheme,
+                poetic diction, sound patterns--repeatedly used by him in his poetry. </notes>
+        </item>
+
+
+
+        <item id="E1541">
+            <bib> Warfel, Harry R. "A Rationale of Free Verse." Jahrbuch für Amerikanstudien 13
+                (1968): 228-35. </bib>
+            <notes> A close history of the early free-verse movement in America and a short view of
+                some of its principles. </notes>
+        </item>
+
+
+
+        <item id="E1542">
+            <bib> Warner, H. E. "Verse--free or confined?" The Dial 61 (1916): 572. </bib>
+            <notes> A letter. Vers libre is free but is not verse because it lacks consistently
+                organized rhythm. </notes>
+        </item>
+
+
+
+        <item id="E1543">
+            <bib> Weatherhead, A. Kingsley. "William Carlos Williams: Prose, Form, and Measure." ELH
+                33 (1966): 118-31. </bib>
+            <notes> Even though Williams' own dicta on versification are, on the whole, erratic and
+                unreliable, his poetry is certainly something other than prose cleverly de- ployed
+                on the page. The typography is functional, and the three-part lines seem to be
+                measured into temporally equal rhythmic units. Still, "looseness" or
+                "incompleteness" of form as of statement does seem to be central to the Wil- liams
+                poetics. </notes>
+        </item>
+
+
+
+        <item id="E1544">
+            <bib> Weeks, Ruth M. "Phrasal Prosody." English Journal 10 (1921): 11-19. </bib>
+            <notes> An entirely nontechnical essay on Whitman: the author believes English
+                speech-rhythm to comprise stress, pitch, time, and pause, the stress being of two
+                sorts: "syllabic stress, or accent, and phrasal stress, or emphasis." Whatever this
+                means, Weeks divides lines into phrase-groupings or "feet." </notes>
+        </item>
+
+
+
+        <item id="E1545">
+            <bib> Wesling, Donald. "The Prosodies of Free Verse." In Twentieth Century Literature in
+                Retrospect. Ed. Reuben A. Brower. Cambridge, Mass.: Harvard University Press, 1971.
+                pp. 155-87. </bib>
+            <notes> An articulate apologia for the "far wider variety" of rhythmic patterns
+                available in free verse. Drawing on P. J. Wexler's notion of "grammetrics" (L1000-1)
+                and emphasizing the virtues of uncertainty where the metrical unit is the line,
+                Wesling points out the tracers of the complimentarities--continuity and dis-
+                continuity--in modern verse. </notes>
+        </item>
+
+
+
+        <item id="E1546">
+            <bib> West, Paul. "Poetic Form Today." English 13 (1960): 8-12. </bib>
+            <notes> Some salient observations on the form and effects of free verse here--effects
+                "of making the reader wait, of spreading weight upon a single word by making it a
+                line in itself," even though free verse in "essence is a disposition of type," and
+                hence makes "vocalization less necessary" since it gives, in silent reading, "an
+                effect of vocal light and shade." </notes>
+        </item>
+
+
+
+        <item id="E1547">
+            <bib> Whitman, Walt. "Preface to Leaves of Grass [1855]. In The Collected Writings of
+                Walt Whitman. Ed. Gay Wilson Allen and Sculley Bradley. 9 vols. New York: New York
+                University Press, 1965. Vol. 5, pp. 708-29. </bib>
+            <notes> "The poetic quality is not marshalled in rhyme or uniformity . . . but is the
+                life of these and much else and is in the soul. The profit of rhyme is that it drops
+                seeds of a sweeter and more luxuriant rhyme, and of uniformity that it conveys
+                itself into its won roots in the ground out of sight. The rhyme and uniformity of
+                perfect poems show the free growth of metrical laws and bud from them as unerringly
+                and loosely as lilacs or roses on a bush, and take shapes as compact as the shapes
+                of chestnuts and oranges and melons and pears, and shed the perfume impalpable to
+                form." </notes>
+        </item>
+
+
+
+        <item id="E1548">
+            <bib> Williams, William Carlos. "On Measure--Statement for Cid Corman." In his Selected
+                Essays New York: New Directions, 1948; rpt in Perkins (A25), pp. 259-62. </bib>
+            <notes> Probably the poet's best-known pronouncement on metrics: modern verse cannot
+                take the form of the older verse because "the very grounds of our be- liefs have
+                altered"; Whitman is to be chided for being "the cause of our going astray. . . . No
+                verse can be free, it must be governed by some measure, but not by the old measure."
+                The solution is "a relatively stable foot, not a rigid one." This is the famous
+                "variable foot." </notes>
+        </item>
+
+
+
+        <item id="E1549">
+            <bib> -----. "Some Hints Toward the Enjoyment of Modern Verse." Quarterly Review of
+                Literature 7 (1953): 171-75. </bib>
+            <notes> In the fascinating symposium on "Experimental and Formal Verse." Williams
+                reiterates his interest in "the search of the modern world for a new measure, a new
+                way of measuring." See B16 and B230. </notes>
+        </item>
+
+
+
+        <item id="E1550">
+            <bib> -----. "Some Simple Measures in the American Idiom and the Variable Foot." Poetry
+                93 (1959): 386-91. </bib>
+            <notes> Not to be deceived: these are poems. </notes>
+        </item>
+
+
+
+        <item id="E1551">
+            <bib> Winters, Yvor. "The Influence of Meter on Poetic Convention." Primitivism and
+                Decadence: A Study in American Experimental Poetry. New York: Arrow Editions, 1937.
+                Rpt in his In Defense of Reason. Chicago: Swallow Press, 1947. pp. 103-50. </bib>
+            <notes> Winters, managing to set aside for a space his moral objections to modern verse,
+                turns to consider its achievements, limitations, and possibilities from a strictly
+                technical point of view. For this he will (1) sketch out his general the- ory of
+                verse-structure, (2) examine free verse of his own, his models, and his
+                contemporaries, (3) contrast these achievements with those of the poets working
+                within the great metrical tradition of the sixteenth and seventeenth centuries, and
+                (4) sharpen the focus of the contrast by examining the tradi- tional meter developed
+                with the greatest refinement, the heroic couplet. Summary at the end. Four metrical
+                systems are recognized--quantitative, accentual, syllabic, and
+                accentual-syllabic--with the permissible variations in English (accentual- syllabic)
+                verse being four: substitution, secondary control of quantity, variety in degree of
+                accent (Winters recognizes the Relative Stress Principle and argues for
+                pyrrhic-spondee combinations), and contiguous stresses (Sprung Rhythm). Free Verse
+                Winters views as being organized metrically on two levels at once, as a kind of
+                "dipodic" verse (as Stewart would say): the patterning of both primary and secondary
+                stresses is basically iambic meter, but the pattern- ing of primary stresses alone
+                is the free-verse meter. But "if the ambiguity, in free verse, ceases to be a
+                hesitation between alternatives. . . . [or] if the heavy beats cannot be heard as
+                distinct from the light, then the free verse scheme vanishes and one has left only a
+                fragmentary blank verse, badly arranged." The technical weakness of free verse are
+                that the devices for variation in traditional verse--substitution and shading of
+                accent--are not available, and that "the free- verse foot is very long, or is likely
+                to be," so that "the only norm, so far as the structure of the foot is concerned, is
+                perpetual variation." These deficiencies may be offset by "the use of lines of
+                irregular length" and "the approximate repetition of a foot or of a series of feet."
+                But Winters concludes that free verse cannot achieve the complexity and subtlety of
+                tone, the range and profundity of emotion, possible in metered verse. Traditional
+                meter "tends to exploit the full possibilities of language; experimental meter . . .
+                is incomplete." It is only by hovering near the steadying norm that the poet can
+                "vary his feelings in opposite or even in many directions." </notes>
+        </item>
+
+
+
+        <item id="E1552">
+            <bib> -----. "Mr. Winters' Metrics." Saturday Review of Literature 7 (1930): 188. </bib>
+            <notes> Prof. Winters explains the "loose foot" he employs in his free verse; "it
+                consists of a single heavily-accented syllable, placed usually toward the fore, an
+                unlim- ited number of secondarily-accented syllables, and an unlimited number of un-
+                accented syllables." </notes>
+        </item>
+
+
+
+        <item id="E1553">
+            <bib> Wood, Clement. "Poetry's New Tools." English Journal 22 (1933): 615-27. </bib>
+            <notes> Examines rhythm, line-structure, rhyme, and vocabulary in American poetry of the
+                Teens and Twenties. See also: B197, B220, D333, E28, E135, E461, E486, E634, I5,
+                I24, I33, L24, L64, L77, L360, L803-4, L821, L858-59; L903, L984, L1626, L1629.
+            </notes>
+        </item>
+    </chapter>
+</bibliography>

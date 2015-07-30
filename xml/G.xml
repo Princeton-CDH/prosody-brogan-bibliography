@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+    <chapter title="STANZA STRUCTURES">
+
+        <item id="G1">
+            <bib> Adams, Stephen J. "T. S. Eliot's So-called Sestina: A Note on The Dry Salvages,
+                II." ELN 15 (1978): 203–8.</bib>
+            <notes> Therein Eliot is attempting not the sestina but a related Provençal lyric form,
+                the coblas estrampas (isolated stanzas) with rimas cars (scarce rhymes), which he
+                apparently learned from Pound. The meter is still stress-verse. Cf. G9 and
+                G20.</notes>
+        </item>
+        <item id="G2">
+            <bib> Allen, James L., Jr. "Stanza Pattern in the Poetry of Poe." Tennessee Studies in
+                Literature 12 (1967): 111–20.</bib>
+            <notes> Convinced that Poe was a consummate technical craftsman, Allen reacts in-
+                dignantly to the influential view of W. L. Werner (B228) that Poe's stanzas are
+                mainly loose verse paragraphs. To reject everything but perfect identity of form as
+                formless is to ignore Poe's allegiance to Variety Within Uniformity and to be blind
+                to his expressive variations. </notes>
+        </item>
+        <item id="G3">
+            <bib> Beum, Robert. "Yeats's Octaves." Texas Studies in Literature and Language 3
+                (1961): 89–96</bib>
+            <notes>; rpt as chapter 10 of his The Poetic Art of William Butler Yeats (B12). An
+                admirably elegant defense of Yeats's stature as a poet of the very first order,
+                argued on the basis of his individuality and his mastery of the ottava rima stanza.
+                Coming after his earlier use of the quatrain, the octave was a moderate not a
+                radical change for Yeats; it represented Tradition yet had been seldom em- ployed
+                and--best of all--allowed ampler room for an ampler exposition. Cf. G39. </notes>
+        </item>
+        <item id="G4">
+            <bib> Binyon, Laurence. "'Terza Rima' in English Poetry." English 3 (1940):
+                113–17.</bib>
+            <notes> Curious why Dante's great meter has never taken deep root in English, Binyon
+                concludes that when English poets fail to respect the integrity of each stanza,
+                allowing run-on of sense, they "change the metre into something else. . . . In terza
+                rima, the rhymes being not coupled but interwoven, there is not the dan- ger, always
+                present in the closed couplet, of the verse becoming mechanical and monotonous in
+                its beat: the form is ampler, more flexible, and allows of varied cadences. But with
+                a loose treatment the same thing happens in both cases: the rhyme tends to lose its
+                functional value." Binyon collects as many instances in English as he can find. Cf.
+                G60. </notes>
+        </item>
+        <item id="G5">
+            <bib> Brewster, Paul G. "The Influence of the Popular Ballad on Wordsworth's Poetry." SP
+                35 (1938): 588–612.</bib>
+            <notes> Esp. pp. 597–601, for a survey of the various ballad stanzas Wordsworth ex-
+                perimented with. </notes>
+        </item>
+        <item id="G6">
+            <bib> Coffin, Tristram P. "Coleridge's Use of the Ballad Stanza in The Rime of the
+                Ancient Mariner." MLQ 12 (1951): 437–45.</bib>
+            <notes> Coleridge's variations and expansions of the abcb stanza occur most often in the
+                middle of the poem, where the supernatural forces are most prevalent; the principle
+                of expansion seems to be incremental repetition. </notes>
+        </item>
+        <item id="G7">
+            <bib> Cohane, J. J. "Cowley and Yeats." TLS, 10 May 1957, p. 289.</bib>
+            <notes> Yeats used the stanza of Cowley's "On the Death of Mr. William Hervey" for many
+                of his best poems. </notes>
+        </item>
+        <item id="G8">
+            <bib> Collins, Ben L. "The Stanzaic Pattern in Shelley's 'Ode to the West Wind.'" Keats-
+                Shelley Journal 19 (1970): 7–8.</bib>
+            <notes> Tenders the opinion that each section of the poem is a sonnet based on terza
+                rima. Cf. Haworth (G103) and Wilcox (G64). </notes>
+        </item>
+        <item id="G9">
+            <bib> Cummins, Paul. "The Sestina in the 20th Century." Concerning Poetry 11 (1978): 15–
+                23.</bib>
+            <notes> A defense of the importance of the form, against the view that it is merely a
+                technical exercise, with examination of some of the best. Bibliography of sesti- nas
+                by twenty-five modern poets. Cf. G1 and G20. </notes>
+        </item>
+        <item id="G10">
+            <bib> Damico, Helen. "Sources of Stanza Forms Used by Burns." Studies in Scottish
+                Literature 12 (1975): 207–19.</bib>
+            <notes> Traces the long genealogy of the six-line stanza, the form of which is aaa 4 b 2
+                a 4 b 2 , from its first appearance in the Middle Ages through fairly common usage
+                by such poets as Allan Ramsey and Robert Sempill down to Burns, who turned its light
+                tone into "a markedly lyric character with a dying fall" suitable for se- rious
+                subjects. Also traced: rime couée, the septenary, the cauda, the bob-and- wheel, and
+                other related and compound forms. </notes>
+        </item>
+        <item id="G11">
+            <bib> Davies, H. Neville. "Laid Artfully Together: Stanzaic Design in Milton's 'On the
+                Morning of Christ's Nativity.'" Fair Forms: Essays in English Literature from
+                Spenser to Jane Austen. Ed. Maren-Sofie Rostvig. Totowa, N.J.: Rowman and
+                Littlefield, 1975. pp. 85–117, 213–19.</bib>
+            <notes> Argues that the stanzaic structure has four sections--a four-stanza Proem and a
+                Hymn in sections of 15, 11, and 1 stanzas. </notes>
+        </item>
+        <item id="G12">
+            <bib> Dechert, Peter. "'He Shouts to See Them Scamper So': E. A. Robinson and the French
+                Forms." Colby Library Quarterly 8 (1969): 386–98.</bib>
+            <notes> Robinson's interest in strict metrical forms borrowed from the French (ron-
+                deau, rondel, ballade, triolet, villanelle) was limited to his early period, under
+                the influence of his mentor A. T. Schumann; he wrote no more of them after 1895. The
+                villanelle "The House on the Hill" is the best of the lot. </notes>
+        </item>
+        <item id="G13">
+            <bib> Dickson, Margarette Ball. Patterns and Poems. Minneapolis: Argus, 1938. 103
+                pp.</bib>
+            <notes> A pocket primer of stanza forms with the author's original poems as examples.
+            </notes>
+        </item>
+        <item id="G14">
+            <bib> Fisher, J. "James Hammond and the Quatrain of Gray's Elegy." MP 32 (1935): 301–
+                10.</bib>
+            <notes> Hammond was the first, though not the most important, influence in fixing the
+                quatrain as the staple--indeed, obligatory--stanza for the elegy in the eight- eenth
+                century. </notes>
+        </item>
+        <item id="G15">
+            <bib> Fletcher, Robert H. "The Metrical Forms Used by Certain Victorian Poets." JEGP 7
+                (1907–8): 87–91.</bib>
+            <notes> A very brief statement of the sum totals of metrical (i.e. stanzaic) forms used
+                by Browning (200), Tennyson (240), and Swinburne (420), with discussion of problems
+                of categorization and usefulness of results. Given the present exposi- tion, I
+                cannot see but that the former is exceedingly large and the latter very small,
+                though the question is an interesting one. </notes>
+        </item>
+        <item id="G16">
+            <bib> Françon, Marcel. "Wyatt et le Rondeau." Renaissance Quarterly 24 (1971):
+                340–43.</bib>
+            <notes> Confirms the traditional judgments about Wyatt's nine triple-strophic ron-
+                deaus. </notes>
+        </item>
+        <item id="G17">
+            <bib> Gosse, Edmund. "A Plea for Certain Exotic Forms of Verse." Cornhill Magazine 36
+                (1877): 53–71.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G18">
+            <bib> Häublein, Ernst. Strophe und Struktur in der Lyrik Sir Philip Sidneys. Bern:
+                Herbert Lang, 1971.</bib>
+            <notes> A current, critically informed, and "fully systematic" analysis of the structure
+                and internal dynamics of the stanza, taking Sidney's poems and those of the major
+                Renaissance miscellanies as texts. The author anatomizes (1) structural (or logical)
+                relations between stanzas in a poem, grading the connectedness as "unfixed,"
+                "light-stimulus," or "strong-stimulus," with a notation for marking these; (2)
+                reiteration of key words or phrases in and across stanzas; and (3) the structure
+                within a stanza, especially vis à vis the problem of rhyme. </notes>
+        </item>
+        <item id="G19">
+            <bib>Häublein, Ernst. The Stanza. The Critical Idiom Series, vol. 38. London: Methuen, 1978. 125
+                pp.</bib>
+            <notes> A companion-work to Turco (G59), yet of considerably greater range and
+                penetration. Häublein reviews the major critical opinions on stanza-form from
+                Puttenham (E614) to the present and surveys the characteristics of the major forms,
+                but his principal interest throughout is the functions and effects--the dynamics--of
+                stanzas, a province virtually unexplored to date. He examines modes of unification,
+                varieties of openings and endings, structural repetition, and the "framing" effect
+                within the stanza, and forms of linkage and develop- ment between stanzas in a poem.
+                Well informed; extensive examples. </notes>
+        </item>
+        <item id="G20">
+            <bib> Haselmayer, Louis A. "Sestina Revival." Iowa English Bulletin Yearbook, no. 8
+                (1963), pp. 37–45.</bib>
+            <notes> A splendidly succinct, informative, synoptic history of sestinas written from
+                the twelfth century (Arnaut Daniel) to the twentieth, along with notes on twenty-
+                one sestinas written by poets in our time and a Bibliography. Cf. G1 and G9.
+            </notes>
+        </item>
+        <item id="G21">
+            <bib> Havens, Raymond D. "The Meter of Collins's Ode to Evening." MLN 25 (1910):
+                30–31.</bib>
+            <notes> The stanza form of the ode is that of Milton's translation of the fifth ode of
+                the first book of Horace, but it was suggested to Collins by Joseph Warton, who also
+                has a poem in the same form. </notes>
+        </item>
+        <item id="G22">
+            <bib> Hayes, Albert M. "Counterpoint in Herbert." SP 35 (1938): 43–60.</bib>
+            <notes> Herbert devised a strategy of counterpointing his stanzas (abstract patterns of
+                line-lengths, e.g. abab) to his rhymes (also abstract patterns, e.g. abba). As a re-
+                sult, "this clash of patterns, this countrapuntal music" seems designed to pro- mote
+                the sense before the pleasing sounds of the poem, thereby insuring the alertness of
+                the reader. The sources: Puttenham's theory and Donne's practice. Hayes identifies
+                twenty-seven varieties of stanza in The Temple, concluding, from an examination of
+                twelve other major poets, that Herbert's contrapuntal stanza-structure is nearly
+                nonexistent in the rest of English poetry. Compare this study with that by Kiparsky
+                on abstract patterns (B117). </notes>
+        </item>
+        <item id="G23">
+            <bib> Hinnant, Charles H. "Freedom and Form in Milton's Lycidas." Papers of the Michigan
+                Academy of Sciences, Arts, and Letters 53 (1968): 321–28.</bib>
+            <notes> Promotes two explanations for the unrhymed lines and intricate stanza-
+                arrangements in the poem, basing both on extensive English literary tradition: (1)
+                they denote the "formless agitation" of grief; (2) they are appropriate to the
+                rustic diction and manners of an "uncouth swain." </notes>
+        </item>
+        <item id="G24">
+            <bib> Huttar, Charles A. "A 'Sixain' of Four-Line Stanzas." Renaissance News 18 (1965):
+                7–8.</bib>
+            <notes> Finds an instance of a poem having six syllables to the line (four lines per
+                stanza and twenty-six stanzas, in this case) in 1561, fourteen years before the
+                first use of the term "sixain" recorded in the OED (by Gascoigne) and differing in
+                sense. Gascoigne used the term to mean stanzas of six lines, which seems to have
+                been the generally accepted definition. The 1561 usage--six syllables to the
+                line--is an anomaly. </notes>
+        </item>
+        <item id="G25">
+            <bib> Jackson, Elizabeth. "The Stanza of Rossetti's 'The Blessed Damozel.'" PMLA 58
+                (1943): 1050–56.</bib>
+            <notes> The six-line form (metrically 4-3-4-3-4-3; rhyme-scheme xaxaxa) Rossetti thought
+                of as a ballad stanza and seems to have found in Coleridge, but by the time of "The
+                Blessed Damozel" it had lost the ballad meter entirely and taken on a "shifting,
+                hesitant rhythm" created by back-to-back stresses. Longfellow and Holmes also
+                employed the form. </notes>
+        </item>
+        <item id="G26">
+            <bib> Jason, Philip K. "Stanzas and Anti-Stanzas." College English 39 (1978):
+                738–44.</bib>
+            <notes> A very salient point: apparent units should be real units. Stanzaic divisions on
+                the page ought to correspond to divisions in thought or organization in the struc-
+                ture of the poem. Plath's "Ariel" is taken to task. </notes>
+        </item>
+        <item id="G27">
+            <bib> Keating, John E. "'A Continuous Structural Parallelism': Stanzaic Pattern in The
+                Wreck." Readings of The Wreck: Essays in Commemoration. Ed. Peter Milward and
+                Raymond J. Schoder. Chicago: Loyola University Press, 1976. pp. 154– 61.</bib>
+            <notes> Drawing some suggestions from Hopkins' undergraduate essay "On the Origin of
+                Beauty" (on symmetry and variation), Keating notices that the first four lines of
+                Hopkins' stanza are separated (and unified) metrically and thematically from the
+                last four. This diremption creates effects of (1) balanced antithesis, (2)
+                particularization, (3) incremental addition, or (4) reflectiveness, and altogether
+                the stanzaic pattern of The Wreck is "basically antiphonal." </notes>
+        </item>
+        <item id="G28">
+            <bib> King, Terrance J. "An Effect of Ease: Stanzaic Structure in the Early Poetry of
+                Wallace Stevens." DAI 31 (1970): 6615A (Michigan).</bib>
+            <notes> A visual approach to stanzaic design, emphasizing the "geography" or contour of
+                the poem on the page, whether it be in monomorphic, polymorphic, paratactic, or
+                radial-design (pivoting on a central line or word--the fulcrum in "Thirteen Ways of
+                Looking at a Blackbird" is the word "see") construction. Rhyme, too, can serve
+                visual as well as aural effects. </notes>
+        </item>
+        <item id="G29">
+            <bib> Kronenfield, Judy Z. "The Asymmetrical Arrangement of Donne's 'Love's Growth' as
+                an Emblem of Its Meaning." Concerning Poetry 9 (1976): 53–58.</bib>
+            <notes> Stanza-breaks at lines 6 and 14 are both indispensable, even though the rhyme
+                scheme does not seem to concur: two stanzas must seem to be three, since the-
+                matically love has not inherently changed, it has simply become more mani- fest.
+            </notes>
+        </item>
+        <item id="G30">
+            <bib> Lawlor, Nancy K. "Eliot's Use of Rhyming Quatrains in The Waste Land." Poet and
+                Critic 4 (1967): 29–37.</bib>
+            <notes> The abcb quatrain seems to be distinctly associated, in Eliot's mind, with the
+                theme of love-degraded-into-lust, i.e. sex. </notes>
+        </item>
+        <item id="G31">
+            <bib> McGhee, Richard D. "'Blank Misgivings': Arthur Hugh Clough's Search for Poetic
+                Form." Victorian Poetry 7 (1969): 105–15.</bib>
+            <notes> The changes in the poem's stanza-pattern "reflect the ironic paradox of discov-
+                ering aesthetic form while trying to escape from it." </notes>
+        </item>
+        <item id="G32">
+            <bib> McGill, Josephine. "Old Ballad Burthens." Musical Quarterly 4 (1918):
+                293–306.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G33">
+            <bib> McKeehan, Irene P. "A Neglected Example of the In Memoriam Stanza." MLN 41 (1926):
+                531–32.</bib>
+            <notes> Addendum to Morton (G40). The example is a poem of Mrs. Katherine Phil- lips
+                called "A Translation of Thomas à Kempis into verse," first published in 1667.
+            </notes>
+        </item>
+        <item id="G34">
+            <bib> MacLaine, Allan H. "New Light on the Genesis of the Burns Stanza." Notes &amp;
+                Queries 198 (1953): 349–51.</bib>
+            <notes> Additions to the genealogy of this six-line stanza-form (aaabab): Robert Sem-
+                pill used it in 1640, taking the form from a collection of lyrics, The Gude and
+                Godlie Ballatis. Some earlier instances are here identified ca. 1500; the form has
+                been traced back to thirteenth-century France by T. F. Henderson. </notes>
+        </item>
+        <item id="G35">
+            <bib> Marcotte, Paul J. "An Introduction to the Triolet." Inscape 5 (1966): 18–31.</bib>
+            <notes> Patrick Cary seems to have transported the form, ca. 1651, though his work
+                remained unknown until Scott reprinted it in 1819; Bridges revived it in 1873.
+            </notes>
+        </item>
+        <item id="G36">
+            <bib> -----. "More Late-Victorian Triolet Makers." Inscape 6, no. 2 (1968): 1–18.</bib>
+            <notes> Namely Lang, Gosse, Henley, Hardy, and Symons. </notes>
+        </item>
+        <item id="G37">
+            <bib> -----. "A Victorian Trio of Triolet Turners." Inscape 6, no. 1 (1968): 1–19.</bib>
+            <notes> Bridges, Dobson, and Hopkins. </notes>
+        </item>
+        <item id="G38">
+            <bib> "Modern Stanzas and Meters of Fixed Forms Originating under the Influence of the
+                Renascence, or Introduced Later." Schipper (A11), Book II, Part 3. pp. 348–90.</bib>
+            <notes> Five chapters on forms, including one on the Spenserian and one on the Son- net
+                (Italian origins through the nineteenth century). </notes>
+        </item>
+        <item id="G39">
+            <bib> Moran, Ronald. "The Octaves of E. A. Robinson." Colby Library Quarterly, Series 8,
+                no. 7 (1969), pp. 363–70.</bib>
+            <notes> Robinson wrote forty Octaves, twenty-eight of which are extant. Has anyone else
+                written in this stanza as an isolate? Cf. G3. </notes>
+        </item>
+        <item id="G40">
+            <bib> Morton, Edward P. "Poems in the Stanza of In Memoriam." MLN 24 (1909):
+                67–70.</bib>
+            <notes> Though Tennyson was unaware of any predecessors in the use of the abba te-
+                trameter stanza, Morton locates twenty-five examples by seventeen poets in the
+                seventeenth through nineteenth centuries, most notably by Jonson, Lord Herbert of
+                Cherbury, and Clough, but only Lord Herbert used it at all fre- quently. See
+                McKeehan (G33) and the next entry. </notes>
+        </item>
+        <item id="G41">
+            <bib> -----. "The Stanza of In Memoriam." MLN 21 (1906): 229–31.</bib>
+            <notes> The rarity of the form is perhaps due to its metrical compactness and enve-
+                lope-rhymes; the former reduces variety and encourages prolixity, while the latter
+                weaken the ends of the contiguous stanzas. Stanzaic comparison with the other
+                well-known elegies in English is revealing. </notes>
+        </item>
+        <item id="G42">
+            <bib> [Nature and Structure of the Stanza.] Schipper (A11), Book II, Part 1. pp.
+                270–87.</bib>
+            <notes> Definitions of stanza- and rhyme-forms. Classifies rhyme by number, quality, and
+                position of rhyming syllables. </notes>
+        </item>
+        <item id="G43">
+            <bib> Omans, Glen A. "Medieval French Poetic Forms in Victorian Poetry." DAI 24 (1963):
+                1173A (Minnesota).</bib>
+            <notes> A history of the revival begun in 1871 with Swinburne's translations of Villon
+                and fortified by the discovery of de Banville's work in France after 1874, so that
+                the English poets too--Swinburne, Lang, Gosse, Payne, Henley, and Dobson--began to
+                call themselves "Parnassians." </notes>
+        </item>
+        <item id="G44">
+            <bib> Power, Sister Alacoque. The Refrain in Nineteenth Century English Poetry.
+                Washington, D. C.: Catholic University of America Press, 1960. 24 pp.</bib>
+            <notes> A condensation of her dissertation of the same title. </notes>
+        </item>
+        <item id="G45">
+            <bib> R., J. F. "Refrains." The Spectator 110 (1913): 875–76.</bib>
+            <notes> Finds the origin and power of the refrain in the wider rhythmical patterns of
+                repetition and variation, as also seen in meter and rhyme. </notes>
+        </item>
+        <item id="G46">
+            <bib> Robinson, James K. "Austin Dobson and the Rondeliers." MLQ 14 (1953): 31–42.</bib>
+            <notes> Very useful information (and notes) on Victorian poems in foreign forms.
+            </notes>
+        </item>
+        <item id="G47">
+            <bib> Ruhrmann, Friedrich G. Studien zur Geschichte und Charakteristik des Refrains in
+                der englischen Literatur. Anglistische Forschungen, vol. 64. Heidelberg: Carl
+                Winter, 1927. 179 pp.</bib>
+            <notes> Rev: in English Studies 10 (1928): 88–89; by Baum in JEGP 28 (1929): 591– 92; in
+                Englische Studien 63 (1929): 415–17; in LGRP 50 (1929): 349. Organized historically,
+                from early folk ballads to the Edwardians; nearly half the book is devoted to the
+                Victorians--Tennyson, Poe, Browning, Rossetti, Morris, and Swinburne. </notes>
+        </item>
+        <item id="G48">
+            <bib> Schliebs, Gisela. Die Funktion der Strophenformen in George Herbert's "The Temple"
+                im Rahmen des literarhistorischen sowie des musik- und dichtungstheoretischen
+                Kontexte. Diss., Giessen, 1970. 643 pp.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G49">
+            <bib> Shuster, George N. The English Ode from Milton to Keats. Columbia University
+                Studies in English and Comparative Literature, no. 150. New York: Columbia
+                University Press, 1940.</bib>
+            <notes> Based on his dissertation of the same title at Columbia University, 1940. Rev:
+                in JEGP 40 (1941): 304–7; in MLN 57 (1942): 158–59. The scope is actually Early
+                Renaissance to just after Keats, and the method in- cludes a very close attention to
+                the prosodic aspects of the ode (as essential criteria for definition of that form)
+                throughout. A much more satisfactory treatment than in Maddison (L97). </notes>
+        </item>
+        <item id="G50">
+            <bib> Simonds, W. E. "The Three Rondeaux of Sir Thomas Wyatt." MLN 6 (1891): cols.
+                178–84.</bib>
+            <notes> Demonstrates the metrical regularization suffered by the three rondeaux cho- sen
+                for inclusion in Tottel's Miscellany. </notes>
+        </item>
+        <item id="G51">
+            <bib> "Stanzas Common to Middle and Modern English and Others Formed on the Analogy of
+                These." Schipper (A11), Book II, Part 2. pp. 288–347.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G52">
+            <bib> Stein, Arnold. "The Stanza of Lovers Infinitenesse." In his John Donne's Lyrics:
+                The Eloquence of Action. Minneapolis: University of Minnesota Press, 1962. pp.
+                213–16.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G53">
+            <bib> Stratton, Clarence. "The Italian Lyrics of Sidney's Arcadia." Sewanee Review 25
+                (1917): 305–26.</bib>
+            <notes> A very detailed examination of the Italian metrical forms--terza rima, ottava
+                rima, sesta rima, sestina, madrigal, strambotto, canzone, and sonnet--and then the
+                forms of the lyrics in the Arcadia's of Sannazaro (Italian, 1504), Montemayor
+                (Portuguese, 1558), and Sidney. </notes>
+        </item>
+        <item id="G54">
+            <bib> Thomas, C. T. "The Metrical Structure of Keats's Odes of 1819." Literary Studies:
+                Homage to Dr. A. S. Aiyer. Ed. K. P. K. Menon et al. Trivandrum: St. Joseph's Press,
+                1973. pp. 163–72.</bib>
+            <notes> Follows Garrod in explicating the stanzaic form of the six Odes of 1819, be-
+                ginning with the "Ode to Psyche"; their form seems to be a fusion of the Petrarchan
+                sonnet and the Pindaric ode. Rejects N. S. Bushnell's conclusions G55 in MLN 44
+                (1929): 287–96. See also G70. </notes>
+        </item>
+        <item id="G56">
+            <bib> Tierney, Frank M. "The Causes of the Revival of the Rondeau in Nineteenth- Century
+                England." Revue de l'Université d'Ottawa 43 (1973): 96–113.</bib>
+            <notes> They are: the degeneration of blank verse written by minor poets imitating
+                Tennyson and Browning, didacticism in poetry, a revived interest in medie- valism,
+                and most importantly, the l'art pour l'art movement begun in France in the Thirties
+                headed by Gautier. See Gosse (G17). </notes>
+        </item>
+        <item id="G57">
+            <bib> -----. "The Development of the Rondeau in England from its Origin in the Middle
+                Ages to its Revival in the Years Following 1860." Revue de l'Université d'Ottawa 41
+                (1971): 25–46.</bib>
+            <notes> Discusses the form as used by Chaucer, Hoccleve, Lydgate, Wyatt, Charles Cotton,
+                and the authors of The Rolliad (1784). </notes>
+        </item>
+        <item id="G58">
+            <bib> -----. "Sir Edmund Gosse and the Revival of French Fixed Forms in the Age of
+                Transition." English Literature in Transition 14 (1971): 191–99.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G59">
+            <bib> Turco, Lewis. The Book of Forms: A Handbook of Poetics. New York: E. P. Dutton, nd
+                1968. Pp.; 2 ed. 198x. pp.</bib>
+            <notes> A little handbook of metrical/stanzaic forms in English poetry, including many
+                forms or analogues from French, Irish, Welsh, Spanish, Italian, Arabic, Greek, and
+                Japanese, organized alphabetically, with abstract symbolizations of the form. Three
+                introductory chapters on metrics, sound, and figures; bibliogra- phies of sources
+                and examples; glossary. Many of the forms are however ex- tremely rare in English or
+                else only assayed in the author’s own work. Not scholarly. Cf. Häublein (G19).
+            </notes>
+        </item>
+        <item id="G60">
+            <bib> Wain, John. "Terza Rima: A Foot Note on English Prosody." Rivista di letterature
+                moderne n.s. 1 (1950): 44–48.</bib>
+            <notes> Earlier English poets seem to have thought this form uncongenial, since it ap-
+                pears but briefly in Chaucer, Wyatt, Surrey, and Sidney, but anything before 1800 is
+                antediluvian. Diluvian: Shelley, Byron, Browning, Morris, Hardy, Hopkins, Dixon,
+                Bridges, Empson, Auden, Eliot, Binyon, and the too- neglected E. H. W. Meyerstein.
+                Cf. G4. </notes>
+        </item>
+        <item id="G61">
+            <bib> Weiss, Wolfgang. Der Refrain in der elisabethanischen Lyrik. Diss., Munich,
+                1964.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G62">
+            <bib> White, J[oseph William] Gleeson. Ballades and Rondeaus, Chants Royal, Sestinas,
+                Villanelles, &amp;, selected, with a chapter on the various forms. In the Canterbury
+                Poets series. London: Walter Scott, 1887.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G63">
+            <bib> White, William. "Housman's Five-Line Stanza." Notes &amp; Queries 198 (1953):
+                217–18.</bib>
+            <notes> Instances of the ababb stanza before Housman. </notes>
+        </item>
+        <item id="G64">
+            <bib> Wilcox, Stewart C. "The Prosodic Structure of 'Ode to the West Wind.'" Notes &amp;
+                Queries 195 (1950): 77–78.</bib>
+            <notes> Elaborates on the synthesis of sonnet form and terza rima in the West-Wind
+                stanza, and the parallel of the triple metrical form with the tripartite thematic
+                divisions. Cf. Collins (G8) and Haworth (G103). </notes>
+        </item>
+        <item id="G65">
+            <bib> Woolley, Arthur P. "Stanzaic Patterns in the Short Poems of Thomas Hardy." DAI 32
+                (1972): 4584A (Wisconsin).</bib>
+            <notes> A fully rounded study of the prosodic structures which jointly give a stanza its
+                shape, along with the effects Hardy could achieve in each of his several stan- zaic
+                modes, couplets to octains and irregular forms. See also: C278–80, E964, J211, K45,
+                K56, K70, K78, K84, K92–93, K165, K169, K182, K191, K206, K232, K245, K252–53, K257,
+                K260, K338, K346, K353, K374, K378, K408, K413, K416–18, K428, K431, L21, L72, L97,
+                L122, L139–40, L315, L574, L782, L786–87, L812, L835, L891, L1007, L1358, L1643,
+                M305, M307. SPENSERIAN </notes>
+        </item>
+        <item id="G66">
+            <bib> Alpers, Paul J. The Poetry of "The Faerie Queene." Princeton: Princeton University
+                Press, 1967.</bib>
+            <notes> Chapter 2 is very good on Spenser's handling of his stanza-form; chapter 3
+                treats his "poetic language." </notes>
+        </item>
+        <item id="G67">
+            <bib> Botting, Roland B. "A New Spenserian Rhyme Scheme?" JEGP 36 (1937): 384– 86.</bib>
+            <notes> Spenser employed in Colin Clouts Come Home Againe a rhyme-scheme in- tended to
+                be continuous--one wherein the fourth rhyme in every group of four lines is
+                reiterated as the second in the following four, i. e. ababcbcdedegfgfh, etc.--rather
+                than divided into discrete elegiac quatrains. </notes>
+        </item>
+        <item id="G68">
+            <bib> Bradner, Leicester. "Forerunners of the Spenserian Stanza." Review of English
+                Studies 4 (1928): 207–8.</bib>
+            <notes> On the three crucial characteristics of the form: the nine-line stanza Spenser
+                might have noticed in two poems in Tottel, and the medial bb couplet he must have
+                learned from Chaucerian rhyme royal (it appears in the June and No- vember
+                eclogues); the sixth-line c-rhyme, however, which links the final cou- plet to the
+                body of the stanza, he must have found in the Italian madrigal. </notes>
+        </item>
+        <item id="G69">
+            <bib> Brooke, Tucker, "Stanza-Connections in the Fairy Queen." MLN 37 (1922):
+                223–27.</bib>
+            <notes> Spenser used four devices to effect some continuity across stanza-breaks: repe-
+                tition of a rhyme, a key word, or a whole line, or beginning a stanza with a
+                relative pronoun. See Stein (G84), Owen (G76), and Schoeck (G81). </notes>
+        </item>
+        <item id="G70">
+            <bib> Bushnell, Nelson S. "The Style of the Spenserian Stanzas, Sonnets, and Odes of
+                Keats." Diss., Harvard University, 1928. Cf. G54.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G71">
+            <bib> Corse, Larry B. "'A Straunge Kind of Harmony': The Influence of Lyric Poetry and
+                Music on Prosodic Techniques in the Spenserian Stanza." DAI 33 (1973): 4404A (North
+                Texas State).</bib>
+            <notes> Spenser devised an aural structure equally as distinctive and important as, yet
+                in counterpoint and tension to, the visual structure of his stanza: against the so-
+                lidity and uniformity of the structure of line-lengths, he set in opposition ir-
+                regularities of stressing, caesura placement, and enjambment to create variety.
+                Another device: the repetition of short metrical "motifs" to link stanzas; this
+                device Spenser learned from music, since the strophic poem set to music re- quires
+                metrical repetition to correspond to the repeated phrasings in the mel- ody. Seems
+                to be a study of metrical variation. </notes>
+        </item>
+        <item id="G72">
+            <bib> Davies, Phillips G. "A Check List of Poems, 1595 to 1833, Entirely or Partly
+                Written in the Spenserian Stanza." Bulletin of the New York Public Library 77
+                (1974): 314–28.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G73">
+            <bib> Mahony, Patrick J. "An Analysis of Shelley's Craftsmanship in Adonais." Studies in
+                English Literature 1500–1900 4 (1964): 555–68.</bib>
+            <notes> Detailed technical analysis of Shelley's handling of the Spenserian stanza in
+                matters of tempo and pacing, rhyme, feminine endings, caesura, trisyllabic feet with
+                elision, spondees, pyrrhics, alliteration, and assonance. Stanzas 1, 4, and 21 are
+                anatomized. </notes>
+        </item>
+        <item id="G74">
+            <bib> Morton, Edward P. "The Spenserian Before 1700." MP 4 (1907): 639–54.</bib>
+            <notes> A valuable examination of the predecessors and successors of Spenser's metrical
+                hallmark. Of the former the most important and least understood is the Mirrour for
+                Magistrates. Of the latter, only eighteen examples by five authors may be found in
+                the seventeenth century. But aside from the full form of the stanza, its principal
+                characteristics are the linking of quatrains and a final Alexandrine: the linking
+                has not been much followed, but the final long-line "is the most cer- tain mark of
+                Spenserian influence, even where that influence is at second or even third hand."
+            </notes>
+        </item>
+        <item id="G75">
+            <bib> -----. "The Spenserian Stanza in the Eighteenth Century." MP 10 (1913):
+                365–91.</bib>
+            <notes> Continuing his historical researches, Morton finds fifty-six instances by
+                thirty- eight known and eight anonymous authors in the eighteenth century, includ-
+                ing a few early attempts by Pope. But the immediate public response to Thomson's
+                "Castle of Indolence" shows that Spenser's influence was unexpect- edly strong in
+                the Age of Reason. </notes>
+        </item>
+        <item id="G76">
+            <bib> Owen, W. J. B. "Orlando Furioso and Stanza-Connection in The Faerie Queene." MLN
+                67 (1952): 5–8.</bib>
+            <notes> Tucker Brooke (G69) was wrong to think Virgil the source for Spenser's de- vice
+                of linking stanzas by verbal repetition; Ariosto is the more obvious source. See
+                also Schoeck (G81) and Stein (G84). </notes>
+        </item>
+        <item id="G77">
+            <bib> Pope, Emma F. "The Critical Background of the Spenserian Stanza." MP 24 (1926):
+                31–53.</bib>
+            <notes> Drawing on a very extensive knowledge of early Italian poetics, Pope argues that
+                Spenser derived his stanza form from the terza rima in Dante, a stately epic meter,
+                regularizing syllable-count and line-length, and adapting the final Alex- andrine
+                from the sdrucciolo; "for stanzaic form his direct model was the nine- line madrigal
+                recognized by all critics as a stanzaic form of terza rima." Addi- tionally, Section
+                1 of the essay surveys the course of quantitative measures in Italy, France, and
+                England up to 1600. Repetitive but very highly informed. </notes>
+        </item>
+        <item id="G78">
+            <bib> Prausuhn, Klaus-Ulrich. Zur Erfüllung der Spenserstanze bei Edmund Spenser, Lord
+                Byron und John Keats. Diss., Göttingen, 1974.</bib>
+            <notes> Historical development. </notes>
+        </item>
+        <item id="G79">
+            <bib> Reeve, Frederic E. "The Stanza of The Faerie Queene." DA 12 (1952): 307A
+                (Princeton).</bib>
+            <notes> Applies Elder Olson's theory of prosody (B158) to the analysis of the Spense-
+                rian stanza, isolating rhythmic, metric, and harmonic. Matter and diction also ex-
+                amined. In terms of metrical structure the stanza generally sets four lines against
+                five or vice versa. </notes>
+        </item>
+        <item id="G80">
+            <bib> Reschke, Hedwig. Die Spenserstanza bei den Spensernachahmern des neunzehnten
+                Jahrhunderts. Anglistische Forschungen, vol. 54. Heidelberg: Carl Winter, 1918. 198
+                pp.</bib>
+            <notes> His dissertation at Heidelberg in 1918. Rev: in Literaturblatt 44 (1923): 103–4;
+                in Englische Studien 53 (1919–20): 430– 32. This is still the most extensive study
+                of the later use of the form. Organized by author, with chapters on Wordsworth,
+                Coleridge, Shelley, Byron, Keats, Hunt, and Tennyson, and shorter chapters on many
+                other lesser figures. </notes>
+        </item>
+        <item id="G81">
+            <bib> Schoeck, R. J. "Alliteration as a Means of Stanza Connection in The Faerie
+                Queene." MLN 64 (1949): 90–93.</bib>
+            <notes> Addenda to Stein (G84) and Brooke (G69). Schoeck distinguishes regular or
+                primary alliteration from subordinate or secondary (more subtly and closely em-
+                bedded). See also Owen (G76). </notes>
+        </item>
+        <item id="G82">
+            <bib> Skeat, W. W. "The Origin of the Spenserian Stanza." The Athenaeum, 6 May 1893, p.
+                574.</bib>
+            <notes> Spenser formed his stanza from the ottava rima stanza he found in Chaucer and
+                the Alexandrines he saw in Tottel's Miscellany. </notes>
+        </item>
+        <item id="G83">
+            <bib> Steadman, John M. "Stanzaic Patterns in the English Wagner Book." Notes &amp;
+                Queries 202 (1957): 376–77.</bib>
+            <notes> Some odd seven-line stanzas (six pentameters plus a hexameter) in this early
+                (1594) version of Faust seem to be a conflation of the Spenserian stanza and rhyme
+                royal, the final Alexandrine of the former being appended to the latter, the older
+                form. </notes>
+        </item>
+        <item id="G84">
+            <bib> Stein, Arnold. "Stanza Continuity in The Faerie Queene." MLN 59 (1944):
+                114–18.</bib>
+            <notes> Addenda to Brooke (G69). Continuity is preserved also by repetition of key
+                sounds or sound-patterns, by rhyme-sounds repeated outside of the rhyme po- sition,
+                and by preservation of rhythmic flow. See Schoeck (G81) and Owen (G76). </notes>
+        </item>
+        <item id="G85">
+            <bib> Taboreux, Etienne. "The Spenserian Stanza." Revue de l'enseignement des langues
+                vivantes 15 (1899): 499–505; 16 (1899): 14–21, 112–18, 163–72.</bib>
+            <notes> The source of the form is not the Chaucerian ottava rima but the stanza of The
+                Monk's Tale and the A.B.C. Surveys rhyme, (syntactic) pause, (metrical) cae- sura,
+                enjambment, metrical variety, metrical and sonal mimesis ("word- painting"), melody
+                (assonance, consonance, alliteration), and the use of the Al- exandrine. Concluding
+                list of poets who have used the form. See also: B40, C264, C296, C299, K250. SONNET
+                The fourteen lines of the sonnet constitute that narrow cell where English poets
+                have fretted most, and most accurately gauged their skill and invention in
+                comparison with their predecessors, the great poets of the past--in the tightest
+                forms, the set pieces, the obligatory routines. </notes>
+        </item>
+        <item id="G86">
+            <bib> Blank, Philip E., Jr. Lyric Forms in the Sonnet Sequences of Barnabe Barnes. The
+                Hague: Mouton, 1974. 162 pp.</bib>
+            <notes> Based on his dissertation at North Carolina in 1966. After Spenser and Sidney,
+                Barnes was the most prolific and versatile innovator of stanzaic forms in the
+                Renaissance. </notes>
+        </item>
+        <item id="G87">
+            <bib> Bray, Sir Denys. "The Art-Form of the Elizabethan Sonnet Sequence and
+                Shakespeare's Sonnets." Shakespeare Jahrbuch 63 (1927): 159–82.</bib>
+            <notes> Then see his </notes>
+        </item>
+        <item id="G88">
+            <bib> Bray, Sir Denys. Shakespeare's Sonnet Sequence (London, 1938).</bib>
+            <notes> In support of his argument that the sequence not the individual sonnet was the
+                aesthetic whole for the Elizabethans, Sir Denys demonstrates varieties of link- age
+                between sonnets, i.e. the whole line, the half line, rhyme words, rhyme sounds,
+                composite rhyming (both whole words and sounds), and more com- plex patterns of
+                rhymes and other key words elsewhere in the lines, both in consecutive and separated
+                sonnets. Detailed analysis of rhyme-linkages in Shakespeare's sonnets allows
+                reconstruction of their chronology. Bray's results are disputed by Bullitt (G91).
+            </notes>
+        </item>
+        <item id="G89">
+            <bib> Brewer, Wilmon. Sonnets and Sestinas. Boston: Cornhill, 1937. 245 pp.</bib>
+            <notes> Original poems in both forms followed by a history of each. </notes>
+        </item>
+        <item id="G90">
+            <bib> Brownlow, E. G. "Wyatt's Sonnets and Their Sources." Poet-Lore 3 (1891): 44–45,
+                127–34.</bib>
+            <notes> Addenda and corrigenda, pp. 97–98, 595. </notes>
+        </item>
+        <item id="G91">
+            <bib> Bullitt, John M. "The Use of Rhyme Link in the Sonnets of Sidney, Drayton, and
+                Spenser." JEGP 49 (1950): 14–32.</bib>
+            <notes> Sir Denys Bray's (G88) somewhat excessive claim for rhyme-linking as an im-
+                portant and common device in Renaissance sonnets is repudiated in this analysis:
+                Sidney and Drayton show no particular enthusiasm for the device, though Spenser
+                employs it at times. Without a doubt some of the sonnets of these poets were
+                intended to be linked, but on the other hand the paucity of rhymes in English
+                entails the unfortunate fact that many seeming links will ap- pear which may or may
+                not have been intended, even beyond those that ap- pear in sonnets that are
+                unquestionably not meant to be linked. </notes>
+        </item>
+        <item id="G92">
+            <bib> Bullock, Walter L. "The Genesis of the English Sonnet Form." PMLA 38 (1923):
+                729–44.</bib>
+            <notes> Rebuts the argument of Lathrop (G113) and insists on the simpler, traditional,
+                consensus view that Wyatt learned the forms of both octave and sestet from an
+                anthology he read while on a trip to Italy in 1527. Surrey, then, "relaxed and
+                simplified" the forms he learned from Wyatt. </notes>
+        </item>
+        <item id="G93">
+            <bib> Cermak, Mary M. "Terminal Structures in the Sonnets of Wyatt and Surrey." DA 30
+                (1969): 2522A (Catholic University of America).</bib>
+            <notes> A study in Poetic Closure; also a study in The Sense of an Ending. Most of
+                Wyatt's and Surrey's sonnets end with a couplet, but (surprisingly) this terminal
+                structure does not correlate with 12–2 division of the sonnet as a whole, quat-
+                rains, serial progression, and syntactic isolability of the couplet. The conclud-
+                ing couplet is usually attached syntactically only to the closest preceding lines,
+                and the rhyme form is clearly 8–6, so that in both poets the sonnets show both
+                Italian and English characteristics. Their sonnets have, on the most general level,
+                beginnings, middles, and ends, though the form is not indelibly Shake- spearean.
+            </notes>
+        </item>
+        <item id="G94">
+            <bib> Chandler, Patricia A. "Gerard Manley Hopkins and Dylan Thomas: A Study in
+                Computational Stylistics." DAI 31 (1971): 4747A (L.S.U.).</bib>
+            <notes> Computerized comparison of thirty variables in ten sonnets by each. </notes>
+        </item>
+        <item id="G95">
+            <bib> Clinard, Turner N. "A Critical History of the Pre-Elizabethan English Sonnet."
+                Diss., Vanderbilt University, 1956.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G96">
+            <bib> Cook, Wister J. "The Sonnets of Christina Rossetti: A Comparative Prosodic
+                Analysis." DAI 32 (1972): 6419A (Auburn).</bib>
+            <notes> Examines metrical variation and pause-placement in her sonnets as compared with
+                those of Dante Gabriel Rossetti, Swinburne, and Meredith. Rossetti was not
+                especially adroit at meter: her lines tend to oscillate between the extremes of
+                regularity and irregularity, and she rarely uses enjambment. </notes>
+        </item>
+        <item id="G97">
+            <bib> Cooper, Sherod M., Jr. The Sonnets of "Astrophel and Stella": A Stylistic Study.
+                The Hague: Mouton, 1966.</bib>
+            <notes> Based on his dissertation, "A Stylistic Study of the Sonnets of Astrophel and
+                Stella." DA 24 (1964): 1612A (Pennsylvania). Chapter 3 treats versification, chapter
+                4 rhyming, chapter 5 lexis. </notes>
+        </item>
+        <item id="G98">
+            <bib> Cygan, Jan. "English Sonnet Structure." Germanica Wratislaviensia 14 (1971): 103–
+                18.</bib>
+            <notes> A pedestrian literary history of the "external form" of the sonnet in England
+                from its twelfth-century Provençal origins to the present, but particularly in the
+                Renaissance. </notes>
+        </item>
+        <item id="G99">
+            <bib> Ellis, Patrick. "Wordsworth's 'Ode: Intimations of Immortality' and the Italian
+                Sonnet." CEA Critic 34, 3 (1972): 26–29.</bib>
+            <notes> The rhyme-scheme of the "Ode" shows discernible lineaments of the Italian
+                sonnet, the close proximity of which in ancestry is not immediately evident because
+                of line-lengths in typography. But in the aural mode the kinship is more evident.
+            </notes>
+        </item>
+        <item id="G100">
+            <bib> Flower, Timothy F. "3. Making It New: Problems of Meaningful Form in the Sonnets
+                of Sidney and Keats" (Three-part dissertation). DAI 32 (1972): 6927A
+                (Rutgers).</bib>
+            <notes> Astrophel's unease with the Petrarchan conventions is reflected in the Sidneyan
+                prosodic strategy of using a two-tercet sestet against the quatrained octave.
+            </notes>
+        </item>
+        <item id="G101">
+            <bib> Gibson, William M. "Sonnets in T. S. Eliot's The Waste Land." American Literature
+                32 (1961): 465–66.</bib>
+            <notes> A double Shakespearean sonnet is embedded in ll. 236–62 of "The Fire Ser- mon."
+            </notes>
+        </item>
+        <item id="G102">
+            <bib> Hanscom, Elizabeth D. "The Sonnet Forms of Wyatt and Surrey." MLN 16 (1901): cols.
+                274–80.</bib>
+            <notes> Detailed comparison and contrast of meters and rhymes. The single most sig-
+                nificant difference between the Petrarchan sonnet and its English imitations is the
+                adoption in the latter of a couplet to close the sestet. </notes>
+        </item>
+        <item id="G103">
+            <bib> Haworth, Helen E. "'Ode to the West Wind' and the Sonnet Form." Keats-Shelley
+                Journal 20 (1971): 71–77.</bib>
+            <notes> More successful than any of Shelley's seventeen experiments in the sonnet form
+                is the fusion of terza rima and the sonnet in each of this poem's sections: "the
+                sonnet restrains the speed of the terza rima, terza rima, in turn, loosens the
+                sometimes ponderous sonnet, giving it flexibility and speed." Cf. Collins (G8) and
+                Wilcox (G64). </notes>
+        </item>
+        <item id="G104">
+            <bib> Jacobs, Elijah L. "The Sonnet on the Sonnet." South Atlantic Quarterly 42 (1943):
+                282–88.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G105">
+            <bib> Jakobson, Roman, and Lawrence G. Jones. Shakespeare's Verbal Art in "Th'Expense of
+                Spirit." The Hague: Mouton, 1970.</bib>
+            <notes> Rev: by I. A. Richards in TLS, 28 May 1970, pp. 589–90, an essay G106
+                subsequently revised and expanded into "Linguistics and Poetics" in his Poetries:
+                Their Media and Ends. Ed. Trevor Eaton. The Hague: Mouton, 1974. pp. 39–49. A
+                seemingly exhaustive structural analysis of the linguistic features of the son- net,
+                apparently intended as a model of the method. See also: </notes>
+        </item>
+        <item id="G107">
+            <bib> Fowler, Roger. "Language and the Reader: Shakespeare's Sonnet 73." In Style and
+                Structure in Literature: Essays in the New Stylistics. Ed. Roger Fowler. Oxford:
+                Basil Blackwell, 1975. pp. 79–122.</bib>
+            <notes> And: </notes>
+        </item>
+        <item id="G108">
+            <bib> Vendler, Helen. "Jakobson, Richards, and Shakespeare's Sonnet CXXIX." In I. A.
+                Richards: Essays in His Honor. Ed. Reuben Brower et al. New York: Oxford University
+                Press, 1973. pp. 179–98.</bib>
+            <notes> also see C162. </notes>
+        </item>
+        <item id="G109">
+            <bib> Johnson, Lee M. "Milton's Blank Verse Sonnets." Milton Studies 5 (1973):
+                129–53.</bib>
+            <notes> Johnson suggests the existence of sonnet-like units in Milton's three epics,
+                dis- tinguished not by rhyme but by approximate syntax and by the fact that these
+                "sonnets" regularly appear "at points of resolution in the destinies of the char-
+                acters who speak them." He identifies about two dozen in PL, nearly a dozen in PR,
+                and a half-dozen in SA, but nowhere are these catalogued in this essay, so the
+                reader will have to pick his way through for examples, which is irritat- ing. Cf.
+                Arnold Stein (G134). </notes>
+        </item>
+        <item id="G110">
+            <bib> Kallsen, T. J. "W. H. Auden's Supersonnet." Genre 4 (1971): 329–34.</bib>
+            <notes> Surveys the various alterations of sonnet form which English poets have ex-
+                perimented with, then focuses on one such by Auden: a 21-line expanded sonnet, in
+                three stanzas of 6, 6, and 9 lines, rhyming aabcbc, ddefef, and ghijghjhi. Example:
+                "The Crossroads." </notes>
+        </item>
+        <item id="G111">
+            <bib> Kelley, Tracy R. "Studies in the Development of the Prosody of the Elizabethan
+                Sonnet." Diss., University of California, 1937.</bib>
+            <notes> Basing his discussion on six very large statistical tables, Kelley draws conclu-
+                sions on the evolution of technique in the sonnet from Wyatt to Donne, but with
+                chief interest in the sonneteers of the 1580s and '90s. He examines (1) non-metrical
+                pause placement, both intralinear and end-of-line; (2) stress variations on the
+                iamb; and (3) consonant alliteration and vowel harmony (see also Appendix A). The
+                author uses Mayor's (E592) 0-1-2 scansion system, yet Saintsbury is the authority
+                most cited and approved. Conclusion: the sonnet- eers purposefully aimed for
+                variation both in meter and internal caesura place- ment, while line-end pauses
+                decreased in number yet were more effectively employed. The data here is reliable
+                and worth consultation, though it is not conveniently accessible. </notes>
+        </item>
+        <item id="G112">
+            <bib> Kocher, Paul H. "A Marlowe Sonnet." PQ 24 (1945): 39–45.</bib>
+            <notes> Embedded in the blank verse of Act V of Tamburlaine. </notes>
+        </item>
+        <item id="G113">
+            <bib> Lathrop, H. B. "The Sonnet Forms of Wyatt and Surrey." MP 2 (1904–5):
+                463–70.</bib>
+            <notes> A modification of the traditional view. Wyatt's sestets divide evenly into ter-
+                cets as often as not; his sources were the French poet Saint Gelais and the Ital-
+                ian sonneteers. Surrey's sonnet, however, is a new fourteen-line form derived from
+                the strambotto not an imitation of Wyatt. See G92. </notes>
+        </item>
+        <item id="G114">
+            <bib> Lentzner, Karl. Über das Sonett und seine Gestaltung in der englischen Dichtung
+                bis Milton. Halle: Max Niemeyer, 1886. 81 pp.</bib>
+            <notes> Mainly literary history, though of course on this subject nothing much can be
+                said without frequent reference to form. Indexes of sonneteers, first lines,
+                Milton's sonnets in chronological order, and Milton's rhyme-schemes. </notes>
+        </item>
+        <item id="G115">
+            <bib> Lever, J. W. The Elizabethan Love Sonnet. London: Methuen, 1956</bib>
+            <notes>; 2nd ed. 1965; rpt 1978. Thompson (E91) gives a more direct and successful
+                account of the metrical development of the early sonneteers, but it is hard--very
+                hard--to draw away from Lever's refulgent book. The first chapter, on Wyatt, is
+                devoted largely to versification; thereafter, mainly pp. 86–87, 134–35, and 145.
+            </notes>
+        </item>
+        <item id="G116">
+            <bib> Levý, Jirí. "The Development of Rhyme-Scheme and of Syntactic Pattern in the
+                English Renaissance Sonnet." Acta Universitatis Palackianae Olomucensis, Philologica
+                4 (1961): 167–85</bib>
+            <notes>; rpt in his Paralipomena. Brünn: J. E. Purkyne University Philosophical Faculty,
+                1971. pp. 22–42. Mere analysis of rhyme-patterns and positioning of the volta is far
+                less revealing than analysis (such as this) of the deployment of syntactic and
+                semantic material within the frames of rhyme and stanza. Levý examines the "internal
+                morphol- ogy" of the sonnets of the eleven major Renaissance sonneteers, then com-
+                pares their practices with those of three later English poets and six Continental
+                ones. No radically new conclusions emerge, but a number of significant ones do, and
+                in general the article synthesizes, concisely and accessibly, a wealth of
+                information--far more than most English critics put into whole books. </notes>
+        </item>
+        <item id="G117">
+            <bib> -----. "On the Relations of Language and Stanza Pattern in the English Sonnet."
+                Worte und Werte. Ed. Gustav Erdmann and Alfons Eichstaedt. Berlin: De Gruyter, 1961.
+                pp. 214–31</bib>
+            <notes>; rpt in Paralipomena. Brünn: J. E. Purkyne University, 1971. pp. 43–61. A fine
+                technical analysis of this case-in-point of "the transformation of a [po- etic] form
+                when taken over by a foreign nation." </notes>
+        </item>
+        <item id="G118">
+            <bib> Mollenkott, Virginia R. "Experimental Freedom in Herbert's Sonnets." Christian
+                Scholar's Review 1 (1971): 109–16.</bib>
+            <notes> Argues the "original, varied technical inventiveness" of Herbert's seventeen
+                sonnets. </notes>
+        </item>
+        <item id="G119">
+            <bib> Mumford, Ivy L. "Italian Aspects of Surrey's Lyrics." English Miscellany 16
+                (1905): 19–36.</bib>
+            <notes> A very close examination of Surrey at the hands of his successive editors dis-
+                closes some modifications of traditional views on the respective importance of his
+                blank verse and his sonnets: Surrey shows "rather less direct acquaintance with
+                Italy than might have been expected" when his sonnets are set against Wyatt's and
+                Petrarch's. Against about 600 lines of sonnets Surrey wrote over 2000 lines of
+                heroic verse, and though his Aeneid was not reprinted, the intro- duction of blank
+                verse is his most notable achievement. </notes>
+        </item>
+        <item id="G120">
+            <bib> Nardo, A. K. "The Submerged Sonnet as Lyric Moment in Miltonic Epic." Genre 9
+                (1976): 21–35.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G121">
+            <bib> Nowottny, Winifred. "Some Features of Form and Style in Sonnets 97–126." New
+                Essays on Shakespeare's Sonnets. Ed. Hilton Landry. New York: AMS Press, 1976. pp.
+                65–107.</bib>
+            <notes> Metrical virtuosity is discussed on pp. 82–88, 92–93, and 98–100. </notes>
+        </item>
+        <item id="G122">
+            <bib> Oliphant, E. H. C. "The Sonnet Form: A Determination of the Rules." Poetry Review
+                21 (1930): 337–51.</bib>
+            <notes> Subsumed in and therefore superseded by the following study. </notes>
+        </item>
+        <item id="G123">
+            <bib> -----. "Sonnet Structure: An Analysis." PQ 11 (1932): 135–48.</bib>
+            <notes> Guaranteed to boggle the minds of all readers except statisticians. Working his
+                way through a considerable number of the literally thousands of possible per-
+                mutations of sonnet form, Oliphant stipulates ten minimal-compliance rules for a
+                poem to be deemed a sonnet, and fifteen rules for it to achieve "perfec- tion" in
+                that form. The permutation-analysis produces "21 forms in 46 varie- ties of unlinked
+                and 170 varieties of linked" structure which meet the stipula- tions, as opposed to
+                the mere eight forms now commonly in use. </notes>
+        </item>
+        <item id="G124">
+            <bib> Ordeman, D. Thomas. "How Many Rhyme Schemes Has the Sonnet?" College English 1
+                (1939): 171–73.</bib>
+            <notes> Mathematically, 51,300 "without destroying the sonnet as a recognizable form."
+                With up to 7 rhymes in alphabetical order, the English form will yield 55 types, the
+                Italian 32. If the alphabetical order is discarded, the Italian sestet alone may
+                yield 25 two-rhyme types and 90 three-rhyme types. How could anyone think this a
+                "scanty plot of ground"? </notes>
+        </item>
+        <item id="G125">
+            <bib> Parker, William R. "The Sonnets in Tottel's Miscellany." PMLA 54 (1939): 669–
+                77.</bib>
+            <notes> In Tottel 54 of the 310 poems are sonnets, and these show 14 different rhyme-
+                schemes, an index of the milieu of experimentation in the early development of the
+                form. Parker argues that sonnets 218, 219, and 241 in the Rollins edition are by
+                Wyatt. </notes>
+        </item>
+        <item id="G126">
+            <bib> Pitchford, Lois W. "The Curtal Sonnets of Gerard Manley Hopkins." MLN 67 (1952):
+                165–69.</bib>
+            <notes> Hopkins' three "bob-tailed" sonnets ("Pied Beauty," "Peace," and "Ash Boughs")
+                have a structure derived from a careful and calculated reduction of the standard
+                sonnet form by 1/4, the 14 lines thus cut to 10.5, on the basis of the poet's belief
+                that the English form had too expansive a structure for the compression of its
+                thought. </notes>
+        </item>
+        <item id="G127">
+            <bib> Potter, James L. "The Development of Sonnet-Patterns in the Sixteenth Century."
+                Diss., Harvard University, 1954.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G128">
+            <bib> Reader, Willie D. "Dramatic Structure and Prosodic Form in Milton's Sonnet "On His
+                Deceased Wife.'" Language Quarterly 11 (1972): 21–25, 28.</bib>
+            <notes> Very close explication of sound-patterning (the vowels of the octave and sestet
+                rhymes seem particularly important in controlling the total sonal texture) and meter
+                (variations and inversions, syllabic length) reveals the internal dynamics of the
+                quickening emotional crescendo in lines 1–13 of Milton's sonnet. </notes>
+        </item>
+        <item id="G129">
+            <bib> Rich, Morton D. "The Dynamics of Tonal Shift in the Sonnet." DAI 36 (1975): 2179A
+                (New York University).</bib>
+            <notes> Devises "an objective means of locating, describing, and finding" the volta of a
+                sonnet by comparing performances of the sonnet with syntactic and supraseg- mental
+                analysis. </notes>
+        </item>
+        <item id="G130">
+            <bib> Rood, Karen L. "Robert Frost's 'Sentence Sounds': Wildness Opposing the Sonnet
+                Form." Frost: Centennial Essays II. Ed. Jac L. Thorpe. Jackson: University of
+                Mississippi Press, 1976. pp. 196–210.</bib>
+            <notes> Explores "the shifting equilibrium between the freedom of spoken language and
+                the restrictions of poetic form," particularly in rhyme-scheme, where Frost used
+                more than the conventional number of rhymes for thematic effect. </notes>
+        </item>
+        <item id="G131">
+            <bib> Ross, Ian. "Sonneteering in Sixteenth-Century Scotland." Texas Studies in
+                Literature and Language 6 (1964): 255–68.</bib>
+            <notes> </notes>
+        </item>
+        <item id="G132">
+            <bib> Schirmer, Walter F. "Das Sonett in der englischen Literatur." Anglia 49 (1925): 1–
+                31.</bib>
+            <notes> General discussion of the form, Wyatt through the Rossettis. Useful notes.
+            </notes>
+        </item>
+        <item id="G133">
+            <bib> Stageberg, Norman C. "The Aesthetics of the Petrarchan Sonnet." JAAC 7 (1948):
+                132–37.</bib>
+            <notes> The longevity of the sonnet's form is explained by the fact that it (1) controls
+                and (2) enriches the experience being presented. The control resides in order; the
+                form evokes a unified response, based on numerous sub-levels of organiza- tion. Each
+                level groups fewer than six of its units, which is in fact the maximum number of
+                units perceptible in the human attention span. The Gestalt criteria of nearness,
+                likeness, sequence, and closure are also met in the rhyme scheme. The enrichment
+                resides in the pleasure of perceiving "equipollence," the series of "internal
+                balances" the sonnet maintains both within and among its levels of organization.
+            </notes>
+        </item>
+        <item id="G134">
+            <bib> Stein, Arnold. "Sonnet Structure in Chapman's Blank Verse." MLN 59 (1944):
+                397–403.</bib>
+            <notes> Subliminal influence of sonnet-structure as an embedded form in Elizabethan
+                dramatic blank verse. Cf. L. M. Johnson (G109). </notes>
+        </item>
+        <item id="G135">
+            <bib> Stoehr, Taylor. "Syntax and Poetic Form in Milton's Sonnets." English Studies 45
+                (1964): 298–301.</bib>
+            <notes> Very close analysis of the "tension between energy and control" in five son-
+                nets, demonstrating how Milton hammered out a unity of syntactic form, me- ter, and
+                stanza form (by yoking the quatrain and sestet through enjambment) within which his
+                powerfully emotional subjects could be brought under order. </notes>
+        </item>
+        <item id="G136">
+            <bib> Stout, Janis P. "Convention and Variation in Frost's Sonnets." Concerning Poetry
+                11 (1978): 27–36.</bib>
+            <notes> Frost wrote twenty-eight sonnets, of which it can be said that "the sonnets in
+                which Frost least varies the conventions tend to be his weakest." </notes>
+        </item>
+        <item id="G137">
+            <bib> Strzetelski, Jerzy. The English Sonnet: Syntax and Style. Cracow: Jagiell
+                University, 1970. 146 pp.</bib>
+            <notes> Analysis of 278 sonnets by 55 authors over 400 years using the method mapped out
+                by Reszkiewicz for The Book of Margery Kempe (a graphic notation of the dimensions
+                of momentum and modification in the sentence, analogous to Jakobson's axes of
+                selection and combination). The resultant summary graphs and tables provide an
+                enormous amount of compressed information still to be mined. Tentative conclusion:
+                the centripetal force of tradition on authors construing the syntax of sonnets has
+                held much greater sway than the centrifu- gal force of the individual talent.
+            </notes>
+        </item>
+        <item id="G138">
+            <bib> Svendsen, Kester. "Milton's Sonnet on the Massacre in Piedmont." Shakespeare
+                Association Bulletin 20 (1945): 147–55.</bib>
+            <notes> Technical analysis of sound and meter in section 2. </notes>
+        </item>
+        <item id="G139">
+            <bib> Sweeney, Kevin M. "The Structural Importance of the First Quatrain in the Sequence
+                of Sonnets of Michael Drayton: A Study of the 4–10 Sonnet." DAI 38 (1977): 2147A
+                (Catholic University of America).</bib>
+            <notes> The study of sonnet structure is one study of the ways in which meaning can be
+                structured. The 4–10 pattern is very unusual--though about a third of Drayton's 106
+                sonnets are either clearly or ambiguously of this pattern--and it appears in two
+                types: either the dizaine will develop the meaning embryonic in the quatrain, or it
+                will provide contrast, taking the quatrain material simply as "a point of
+                departure." </notes>
+        </item>
+        <item id="G140">
+            <bib> Tomlinson, Charles. The Sonnet, Its Origin, Structure, and Place in Poetry.
+                London: John Murray, 1974. 227 pp.</bib>
+            <notes> Worth consulting: wide European scope. </notes>
+        </item>
+        <item id="G141">
+            <bib> Turpin, Elizabeth R. "Rhetoric and Rhythm in Twentieth-Century Sonnets by Hopkins,
+                Auden, Frost, Cummings, Thomas, and Merrill Moore." DAI 33 (1973): 4368A (Texas
+                A&amp;M).</bib>
+            <notes> </notes>
+        </item>
+        <item id="G142">
+            <bib> Vabalens, D. Y. [Poetical Prosody and Poetical Translation: Shakespeare's Sonnets
+                Analysed.] Vilnius, 1976. 22 pp.</bib>
+            <notes> Abstract of a thesis at Vilnius University on statistical analysis of metrical
+                pat- terns of the sonnets in translation. In Russian. </notes>
+        </item>
+        <item id="G143">
+            <bib> Vanderbok, Judith A. "Growth Patterns in E. E. Cumming's Sonnets: A Quantitative
+                Approach." Association for Literary and Linguistic Computing Bulletin 6 (1978):
+                42–52</bib>
+            <notes>. Based on her dissertation, </notes>
+        </item>
+        <item id="G144">
+            <bib> Vanderbok, Judith A. "E. E. Cummings and His Sonnets: A Quantitative Approach," in
+                1976.</bib>
+            <notes> Statistical changes in seventy-six variables are tabulated for four phases of
+                Cummings' career; 99% of these elements were present in his work from the very
+                beginning. If indeed Cummings did "grow" artistically it was only very modestly.
+            </notes>
+        </item>
+        <item id="G145">
+            <bib> Weeks, L. T. "The Order of Rimes of the English Sonnet." MLN 25 (1910): 176– 80.
+                Addendum by H. M. Belden on p. 231.</bib>
+            <notes> On p. 179 the author presents a large table showing quatrain rhyme-schemes
+                listed down one axis and sestet rhymes along the other, with frequency of oc-
+                currence tabulated for each variety in the sonnets of "the entire body of Eng- lish
+                sonnet writers." If this last claim be true, the table should be of consider- able
+                utility. </notes>
+        </item>
+        <item id="G146">
+            <bib> Wendel, Karl-Heinz. Sonettstrukturen in Shakespeares Dramen. Bad Hamburg: H.
+                Gehlen, 1968. 192 pp.</bib>
+            <notes> An extensive exercise in triviality: "sonnet" is differentiated from "sonnet-
+                structure" only on the basis of manifestation: sonnets appear separately, while
+                sonnet-structures are embedded in longer runs of verse, as in the drama. There their
+                purpose is dramatically, or contextually, motivated. </notes>
+        </item>
+        <item id="G147">
+            <bib> Whigam, R. G., and O. F. Emerson. "Sonnet Structure in Sidney's Astrophel and
+                Stella." SP 18 (1921): 347–52.</bib>
+            <notes> Catalogues rhyme-schemes. </notes>
+        </item>
+        <item id="G148">
+            <bib> Withim, Philip M. "A Prosodic Analysis of Milton's Seventh Sonnet." Bucknell
+                Review 6, no. 4 (1957): 29–34.</bib>
+            <notes> A justification of the metrical irregularities as semantically expressive, and
+                an interesting observation on the grouping of sounds in the octave versus the ses-
+                tet. </notes>
+        </item>
+        <item id="G149">
+            <bib> Zillman, Lawrence J. John Keats and the Sonnet Tradition: A Critical and
+                Comparative Study. Los Angeles: Lymanhouse, 1939. Based on his dissertation work at
+                the University of Washington in 1936, "The Sonnets of John Keats: A Critical and
+                Comparative Study in Versecraft.</bib>
+            <notes> A tripartite work: the first section discusses the sonnet tradition in general,
+                while the second (about 75 pages) focuses on a close analysis of Keats's han- dling
+                of the sonnet, and the third (Appendix) prints the texts of the 67 sonnets Keats
+                wrote. There are also incidental observations on the sonnet techniques of Hunt,
+                Bowles, Wordsworth, Milton, Shakespeare, and Spenser in Appendix II. Keats at
+                sonnets was relatively conservative, following the views of the age- -and especially
+                Hunt--pretty closely. It is not generally known that he only turned to the
+                Shakespearean form after writing nearly 40 of his 67 or so son- nets in the Italian
+                form. Zillman's study of Keats's prosody is narrower in focus and less stylish but
+                more detailed than Bate's (B7), often providing tables of information on sound
+                patterning, alliteration and assonance, rhyming, metrical variation, end-stopping,
+                pauses, and phrasing. See also: B20, B40, C68, C78, C152, C374, C377, E464, E1146,
+                E1242, E1260, E1281–82, H33, I27, L10, L12, L73–74, L109, L126, L304, L459, L646,
+                L766, L997, L1168, L1190, L1635. </notes>
+        </item>
+    </chapter>
+</bibliography>

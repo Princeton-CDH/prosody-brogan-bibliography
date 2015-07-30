@@ -1,0 +1,20 @@
+default namespace = ""
+
+start =
+  element bibliography {
+    element chapter {
+      attribute title { text },
+      element section {
+        attribute title { xsd:NCName },
+        element div {
+          attribute title { text },
+          element item {
+            attribute id { xsd:NCName },
+            (text
+             | element bib { text }
+             | element notes { text })+
+          }+
+        }+
+      }
+    }
+  }

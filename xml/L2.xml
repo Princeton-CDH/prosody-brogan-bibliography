@@ -1,0 +1,3959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+ <chapter title="APPENDIX 1: GERMANIC">
+
+  <item id="L271">
+   <bib> Aall, Anthon. "Zur Psychologie des Stabreims." Zeitschrift für Psychologie 122 (1931):
+    98–109.</bib>
+   <notes> Argues that the fundamental principle behind both alliteration and rhyme is a dialectic
+    between likeness and unlikeness. </notes>
+  </item>
+
+
+
+  <item id="L272">
+   <bib> Adler, Friedrich. "Richard Dehmel über Metrik." Euphorion 24 (1922): 409-11.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L273">
+   <bib> Albertsen, L. L. "Weshalb schrieben die klassizisten tonbeugende Hexameter?" GRM 45 (1964):
+    360-70.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L274">
+   <bib> Amelung, Arthur. "Beiträge zur deutschen Metrik." ZDP 3 (1871): 253-305.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L275">
+   <bib> Anderson, Dennis R. "Metrics and Meaning in the Early Poetry of Stefan George." DAI 36
+    (1976): 6720A.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L276">
+   <bib> Appelmann, A[nton Hermann]. Der fünffüssige Iambus bei Otto Ludwig. Munster: Greve, 1911.
+    228 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L277">
+   <bib> Arndt, Erwin. Deutsche Verslehre: Ein Abriss. Berlin, 1959. 143 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L278">
+   <bib> Arnholtz, Arthur. Studier i poetisk og musikalsk Rytmik. I: Principielt. Studien zur
+    vergleichenden Rytmik. Mit einer Zusammenfassung in deutscher Sprache. Copenhagen: Levin and
+    Munksgaard, 1938. 424 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L279">
+   <bib> Asmuth, Bernhard. "Klang, Metrum, Rhythmus." Grundzüge der Literatur- und
+    Sprachwissenschaft Bd. I: Literaturwissenschaft. Munich: Deutscher Taschenbuch, 1973. pp.
+    208-26.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L280">
+   <bib> Assmuss, R. Die äussere Form neuhochdeutscher Dichtung. Leipzig, 1882. 246 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L281">
+   <bib> Atkins, Henry Gibson. A History of German Versification: Ten Centuries of Metrical
+    Evolution. London: Methuen, 1923. 276 pp.</bib>
+   <notes> Book I, "Principles," is the most generally useful, treating of accent, metrical
+    variation, style, and rhyme, with bibliographies at the ends of chapters (there is a three-page
+    "Bibliographical Note" at the beginning of the book). Thereafter the book returns to its
+    narrower topic of the history of verseforms in Ger- many, though the approach is rather more
+    typological (cataloguing forms) than historical. </notes>
+  </item>
+
+
+
+  <item id="L282">
+   <bib> Atkinson, Jeanette L. "Traditional Forms in German Poetry 1930–1945." DAI 39 (1978): 1605A
+    (Pennsylvania).</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L283">
+   <bib> Baesecke, Georg. Kleine Metrische Schriften. Ed. Werner Schröder. Munich: Wilhelm Fink,
+    1968. 218 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L284">
+   <bib> Bailey, James. "The Stress-Meter of Goethe's Der Erlkönig." Language and Style 2 (1969):
+    339-51.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L285">
+   <bib> Bartsch, Karl. "Über Muspilli." Germania 3 (1858): 7–21.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L286">
+   <bib> Bayerdörfer, Hans-Peter. Poetik als sprachtheoretisches Problem. Tübingen, 1967. 303
+    pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L287">
+   <bib> Behaghel, Otto. "Alliterierende Doppelkonsonanz im Heliand." ZDP 27 (1895): 563.</bib>
+   <notes> A reply to Meyer (L497). </notes>
+  </item>
+
+
+
+  <item id="L288">
+   <bib> -----. "Zur Technik der mittelhochdeutschen Dichtung." PBB 30 (1905): 431-564.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L289">
+   <bib> Beissner, Friedrich. "Satzton und Verston." Der Deutschunterricht 16 (1964): 33-49.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L290">
+   <bib> Belfrage, Sixten Esbjorn Mauritz. Die Entstehung der freien Rhythmen. Lund, 1941. 26
+    pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L291">
+   <bib> Belling, Eduard. Beiträge zur Metrik Goethes. 3 parts in 1 vol. Bromberg: A. Dittmann,
+    1884-87.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L292">
+   <bib> -----. Die Metrik Lessings. Berlin, 1887. 140 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L293">
+   <bib> -----. Die Metrik Schillers. Breslau, 1883. 401 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L294">
+   <bib> Belmore, H. W. Rilke's Craftsmanship: An Analysis of his Poetic Style. Oxford: Basil
+    Blackwell, 1954. 234 pp.</bib>
+   <notes> Based on his Thesis at the University of London. </notes>
+  </item>
+
+
+
+  <item id="L295">
+   <bib> Bennett, W[alter]. German Verse in Classical Metres. The Hague: Mouton, 1963.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L296">
+   <bib> Benoist-Hanappier, Louis. Die freien Rhythmen in der deutschen Lyrik. Halle, 1905.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L297">
+   <bib> Berron, G. Studien zum "Heliand" als Kunstwerk. Wirzberg-Anmühle, 1939.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L298">
+   <bib> Bessinger, Jess B., Jr. "Old Germanic Prosody." Princeton (A18), pp. 587-88.</bib>
+   <notes>A very short précis; see also s.v. "Alliterative Meter." </notes>
+  </item>
+
+
+
+  <item id="L299">
+   <bib> Beyschlag, Siegfried. Die Metrik der mittelhochdeutschen Blütezeit. Nuremburg, 1950; 3rd
+    ed. 1959. 52 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L300">
+   <bib> Bindig, R. G. "Wesen und Wert des Reims im Gedicht." Die Literatur 39 (1936): 5–9.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L301">
+   <bib> Blümel, Rudolf. "Bedingungen für den Reim." PBB 48 (1924): 315-18.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L302">
+   <bib> -----. "Die Rhythmusarten." PBB 48 (1924): 310-15.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L303">
+   <bib> Boer, Richard C. Studiën over de Metriek van het Alliteratievers. Amsterdam: J. Müller,
+    1916. 268 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L304">
+   <bib> Bopp, Barbara. "Experimentation with Sonnet Form in the Lieb- Lob- und Ehren- Sonnette of
+    Johann Georg Schoch." DAI 39 (1978): 2962A (Indiana).</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L305">
+   <bib> Borinsky, F. Das "Enjambement." Studien zur Literaturgeschichte. Hamburg and Leipzig,
+    1893.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L306">
+   <bib> Bostock, J. Knight. "Appendix on Old Saxon and Old High German Metre." A Handbook of Old
+    High German Literature. Oxford: Clarendon Press, 1955; 2nd rev. ed. 1976. pp. 302-26.</bib>
+   <notes>An extremely lucid, authoritative, and valuable summary. </notes>
+  </item>
+
+
+
+  <item id="L307">
+   <bib> Bräuer, Robert. "Rhythmische Studien: Untersuchungen zu Tempo, Agogik, und Dynamik des
+    Eichendorffschen Stiles." Archiv für die gesamte Psychologie 56 (1926): 289-387.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L308">
+   <bib> -----. Tonbewegung und Erscheinungsformen des sprachlichen Rhythmus: Profile des deutschen
+    Blankverses. Berlin: Walter de Gruyter, 1964. 306 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L309">
+   <bib> Brecht, Bertolt. über reimlose Lyrik mit unregelmässigen Rhythmen." Gesammelte Werke. Ed.
+    Elisabeth Hauptmann. Frankfurt: Suhrkamp, 1967. Vol. 19, pp. 395-404.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L310">
+   <bib> Brenner, Otto. "Zum Rhythmus der Nibelungen- und Gudrunstrophen." PBB 19 (1894):
+    466-71.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L311">
+   <bib> Brieger, Adolf. "Vom rhythmischen Zwischenaccent und Schlussaccent im deutschen Verse." PBB
+    26 (1900): 267-80.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L312">
+   <bib> Brinkmann, Hennig. "Verwandlung und Dauer: Otfrids Endreimdichtung und ihr geschichtlicher
+    Zusammenhang." Wirkendes Wort 2 (1951–52): 1–15; rpt in Wirkendes Wort Sammelband II. 1962. pp.
+    92–106; rpt in Ernst and Neuser (L337), pp. 66-88.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L313">
+   <bib> Brody, Elaine, and R. A. Fowkes. The German Lied and Its Poetry. New York: New York
+    University Press, 1971. 316 pp.</bib>
+   <notes> Primarily historical, but the student inquisitive of the dynamics of setting words to
+    melodies can learn much here, even if his German is only passing fair. English notes on texts
+    and scores. </notes>
+  </item>
+
+
+
+  <item id="L314">
+   <bib> Brücke, Ernst. Die physiologischen Grundlagen der neuehochdeutschen Verskunst. Vienna,
+    1871. 86 pp.</bib>
+   <notes> See Transactions of the Philological Society, 1875–76, p. 469 for discussion of his
+    method. </notes>
+  </item>
+
+
+
+  <item id="L315">
+   <bib> Bünte, Gerhard. Zur Verskunst der deutschen Stanze. Halle: Max Niemeyer, 1928. 177
+    pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L316">
+   <bib> Burchinal, N. C. Hans Sachs and Goethe: A Study in Meter. Göttingen, 1912.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L317">
+   <bib> Caldart, C. La Metrica tedesca. Livorno, 1909. 69 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L318">
+   <bib> Cannon, Harry S. "Rhyme and Alliteration in Carl Spitteler." MP 23 (1925): 189-200.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L319">
+   <bib> Chisholm, David. Goethe's Knittelvers: A Prosodic Analysis. Abhandlungen zur Kunst- ,
+    Musik-, und Litteraturwissenschaft, no. 185. Bonn: Bouvier, 1975. 213 pp.</bib>
+   <notes> Based on his dissertation at Indiana University, 1971. </notes>
+  </item>
+
+
+
+  <item id="L320">
+   <bib> -----. "Lexicality and German Derivational Suffixes: A Contribution to the Magnuson-Ryder
+    Theory of Prosody." Language and Style 6 (1973): 27-38.</bib>
+   <notes> An amplification and elucidation of the treatment given to suffixes in the Magnuson-
+    Ryder theory; a suffix is to be marked -WEAK if it was fully lexical (i.e. a free mor- pheme) at
+    least as recently as the MHG period; otherwise it is +WEAK. </notes>
+  </item>
+
+
+
+  <item id="L321">
+   <bib> -----. "Phonological Patterning in German Verse." Computers and the Humanities 10 (1976):
+    5–20.</bib>
+   <notes> Recognizing that conventional terminology and methods for analyzing sound- patterns in
+    poetry are worse than crude, Chisholm adopts Magnuson's [con- ceptually elegant] schema of
+    horizontal and vertical Phonological Frames as the basis for a computerized analysis. </notes>
+  </item>
+
+
+
+  <item id="L322">
+   <bib> Classen, E[rnest]. On Vowel Alliteration in the Old Germanic Languages. Manchester:
+    Manchester University Press, 1913. 91 pp.</bib>
+   <notes> Rev: by Klaeber in Anglia Beiblatt 25 (1914): 164–66; in JEGP 13 (1913): 449–51; in MLN
+    30 (1915): 108–14; in ANF 32 (1916): 125-28. Classen's monograph presents short summaries of the
+    three theories so far pro- posed to explain the odd, seemingly anomalous rule of vowel
+    alliteration in Old Germanic poetry (whereby any vowel may alliterate with any other, un- like
+    the consonants, which may only echo identically); these are the Glottal Catch theory (proposed
+    by Rapp [1836]), the Sonority theory (Jiriczek [1895], Kauffmann [1897], Saran [1907]), and the
+    [Originally] Identical Vowel theory (Kock [1889–94], Jespersen [1904]). Classen himself supports
+    the third of these--the theory that the vowels originally alliterated only individually but
+    became confused in the normal course of sound-changes in the language--and provides analyses of
+    Old English, Old Saxon, and Old Norse verse as evidence. As a point of information, Sievers, and
+    Schipper after him, accepted the glottal-catch theory. </notes>
+  </item>
+
+
+
+  <item id="L323">
+   <bib> Claus, Paul. Rhythmik und Metrik in Sebastian Brants Narrenschiff. Quellen und Forschungen,
+    no. 112. Strassburg: Karl Trubner, 1911.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L324">
+   <bib> Closs, August. Die freien Rhythmen in der deutschen Lyrik. Bern, 1947. 198 pp.</bib>
+   <notes> Rev: in MLN 65 (1950): 127-30.</notes>
+  </item>
+
+
+
+  <item id="L325">
+   <bib> Dethlefsen, Dirk. Metrum und Rhythmus der Blankvers in den Dramen Heinrichs von Kleist.
+    Munich: Wilhelm Frank, 1970.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L326">
+   <bib> Dichler, Gustav. "Experimentalphonetische Untersuchungen über den Einschläger im deutschen
+    Vers." Archiv für die gesamte Psychologie 64 (1928): 375-82.</bib>
+   <notes>Applies the methods of Scripture. Cf. Krejcik and Zemen. </notes>
+  </item>
+
+
+
+  <item id="L327">
+   <bib> Dütschke, Gottfried. Die Rhythmik der Litanei. Diss., Halle, 1889. 53 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L328">
+   <bib> Duttle, M. Rückerts Verskunst. Nuremburg, 1937. 68 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L329">
+   <bib> Eberhardt, G. "Die Metrik des Annoliedes." PBB 34 (1908): 1–100.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L330">
+   <bib> Eggert, B. "Untersuchungen über Sprachmelodie." Zeitschrift für Psychologie 49 (1908):
+    218-37.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L331">
+   <bib> Ehrenfeld, Alexander. Studien zur Theorie des Gleichklangs. 2 vols. Zurich, 1897,
+    1904.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L332">
+   <bib> Elema, J. "Das unbeliebte Reimschema: abba." Neophilologus 41 (1957): 263-69.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L333">
+   <bib> Ellis, Frances H. "Analysis of the Berlin MS. Germ. Quart. 414." PMLA 61 (1946):
+    947-96.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L334">
+   <bib> Elst, J. Van der. L'Alternance binaire dans le vers néerlandais du seizième siècle.
+    Groningen, 1920. 127 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L335">
+   <bib> Erné, Giovanni B. "Die schwebende Betonung als Kunstmittel in der Lyrik." Diss., Berlin,
+    1944.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L336">
+   <bib> Ernst, Ulrich, and Peter-Erich Neuser. "Bausteine zu einer Geschichte der Reimtheorie.
+    Dokumentation und Analyse." Ernst and Neuser (L337), pp. 432-86.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L337">
+   <bib> Ernst, Ulrich, and Peter-Erich Neuser, eds. Die Genese der europäischen Endreimdichtung.
+    Wege der Forschung, vol. 444. Darmstadt: Wissenschaftliche Buchgesellschaft, 1977. 514 pp.</bib>
+   <notes> Reprints of twenty previously published essays on rhymed Germanic verse to- gether with
+    an Introduction, a long (original) essay on the theory by the edi- tors, an excellent
+    Bibliography, and Indexes. </notes>
+  </item>
+
+
+
+  <item id="L338">
+   <bib> Ertel, Suitbert. "Der Lautcharakter künstlicher Lautgebilde." Psychologische Forschung 28
+    (1965): 491-518.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L339">
+   <bib> Ertel, Suitbert, and R. Dorst. "Expressive Lautsymbolik." Zeitschrift für experimentelle
+    und angewandte Psychologie 12 (1965): 557-69.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L340">
+   <bib> Feise, Ernst. "Goethe's Kriegserklärung, Heine und die Schnadahüpfel." MLN 61 (1946):
+    325-30.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L341">
+   <bib> Fischli, Albert. Über klangmittel im Vers-Innern: Aufgezeigt an der Lyrik Eduard Mörikes.
+    Bern, 1921.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L342">
+   <bib> Flasdieck, Hermann M. "The Phonetic Aspect of Old Germanic Alliteration." Anglia 69 (1950):
+    266-87.</bib>
+   <notes>Response by Herbert Koziol (J150); then see Paul Salmon (L564). </notes>
+  </item>
+
+
+
+  <item id="L343">
+   <bib> Flom, George T. "Alliteration and Variation in Old Germanic Name-Giving." MLN 32 (1917):
+    7–17.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L344">
+   <bib> Forster, L. "Königsberger Zwischenspiele of 1644 and the Dutch Comedy: A Study in Metrics."
+    MLR 36 (1941): 488-94.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L345">
+   <bib> Fourquet, Jean. L'Ordre des éléments de la phrase germanique ancien. Paris: Société
+    d'Éditions "Les Belles Lettres," 1938.</bib>
+   <notes> Rev: in Anglia Beiblatt 50 (1939): 225-33.</notes>
+  </item>
+
+
+
+  <item id="L346">
+   <bib> -----. "Le Vers des langues germaniques: Est-il d'une autre nature que le vers des langues
+    romanes? Le Vers néerlandais et vers francais." Études germaniques 15 (1960): 1–10.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L347">
+   <bib> Fowler, T. H. A Study of Suffix Rime in Otfrid's "Evangelienbuch." Baltimore: Lord
+    Baltimore Press, 1905. 62 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L348">
+   <bib> Franck, Johannes. "Aus der Geschichte des 'Hiatus' im Verse." ZDA 48 (1906): 147-61.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L349">
+   <bib> -----. "Beiträge zur Rhythmik des Alliterationsverses." ZDA 38 (1894): 225-50.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L350">
+   <bib> Frantzen, J. J. A. A. "Het Alliteratievers." Neophilologus 3 (1918): 30-35.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L351">
+   <bib> Frauscher, Georg. "Der Einfluss des Reims auf den Gebrauch der Fremdwörter in Ottokars
+    (Österreichischer Reimchronik)." PBB 43 (1918): 169-75.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L352">
+   <bib> Friedrich, W.-H. "Über den Hexameter." Geist und Zeichen: Festschrift . . . Ed. Herbert
+    Anton et al. Heidelberg: Carl Winter, 1977. pp. 98–120.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L353">
+   <bib> Fülleborn, Ulrich. Das deutsche Prosagedicht: Zu Theorie und Geschichte einer Gattung.
+    Munich: W. Fink, 1970. 59 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L354">
+   <bib> Fuhr, Karl. Die Metrik des westgermanisches Alliterationsverses: Sein Verhaltnis zu Otfrid,
+    den Nibelungen, der Gudrun. . . . Marburg, 1892. 147 pp.</bib>
+   <notes> Rev: by Heusler in Anzeiger für deutsches Altertum 19 (1893): 122–28; in Indo-
+    germanische Forschungen 5 (1895): 84–91; by Sievers in Literarisches Centralblatt, no. 19, 1893;
+    in LGRP, no. 3, 1894. </notes>
+  </item>
+
+
+
+  <item id="L355">
+   <bib> Galt, Alan B. "Sound and Sense in the Poetry of Theodor Storm: A Phonological- Statistical
+    Study." DAI 32 (1972): 4610A (Indiana).</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L356">
+   <bib> Gereke, Paul. "Textkritisches und Metrisches zu den Dichtungen Konrads von Würzburg:
+    Untersuchungen über den Auftakt." PBB 37 (1911): 432-69.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L357">
+   <bib> Gerhardt, Mia I. "Metrische Schema's van het Lange Vers." Neophilologus 43 (1959):
+    193-207.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L358">
+   <bib> Gminder, Lore. Der einsilbige Takt in der neuhochdeutschen Dichtung. Stuttgart: W.
+    Kohlhammer, 1929. 127 pp.</bib>
+   <notes> Contains a supplementary study, "Studien zum Faustvers," by Hermann Schneider. </notes>
+  </item>
+
+
+
+  <item id="L359">
+   <bib> Goedeke, Karl. Grundriss zur Geschichte der deutschen Dichtung. 2nd ed. Dresden,
+    1887.</bib>
+   <notes> Bibliography of German metrics included. </notes>
+  </item>
+
+
+
+  <item id="L360">
+   <bib> Goldbeck-Loewe, [?]. Zur Geschichte der freien Verse in den deutschen Dichtung von
+    Klopstock bis Goethe. Diss., Kiel, 1891.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L361">
+   <bib> Grimm, Wilhelm Karl. "Zur Geschichte des Reims" [1852]; rpt in his Kleinere Schriften.
+    Gütersloh: Bertelsmann, 1887. Vol. 4, pp. 125-341.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L362">
+   <bib> Gröger, Otto. Die althochdeutsche und altsächsische Kompositionsfuge. Diss., Zurich,
+    1910.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L363">
+   <bib> Gropp, Friedrich. Zur Asthetik und statistischen Beschreibung des Prosarhythmus. Diss.,
+    Würzburg, 1915. See also Fortschritte der Psychologie 4 (1917): 43-81.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L364">
+   <bib> Gumpel, Liselotte. "Concrete" Poetry from East and West Germany: The Language of
+    Exemplarism and Experimentalism. New Haven: Yale University Press, 1976.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L365">
+   <bib> Gutenbrunner, Siegfried. "Der Weg von der Stabreimlangzeile zum Endreimkurzvers." In
+    Festgabe für Friedrich Maurer. Ed. Werner Besch et al. Düsseldorf, 1968. pp. 85–118;</bib>
+   <notes> rpt in Ernst and Neuser (L337), pp. 356-91.</notes>
+  </item>
+
+
+
+  <item id="L366">
+   <bib> Hahn, Josef. "über Kurzzeilen und Versteilung im deutschen und lateinischen Drama des 16.
+    Jahrhunderts." PBB 37 (1911): 279-312.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L367">
+   <bib> Hahn, Werner, ed. Das Nibelungenlied. Stuttgart, 188-. "Nibelungenstrope," pp. 47-71.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L368">
+   <bib> Haller, Rudolf. "Studie über den deutsche Blankvers." Deutsche Vierteljahrsschrift für
+    Literaturwissenschaft und Geistesgeschichte 31 (1957): 380-424.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L369">
+   <bib> Hanssen, Friedrich. "Die Jambischen Metra Alfons des X." MLN 29 (1914): 65-68.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L370">
+   <bib> Harper, Anthony J. "Renaissance Verse Reform and the German Poetry of the 17th Century."
+    Neuphilologische Mitteilungen 79 (1978): 426-37.</bib>
+   <notes>A useful short account of the successive establishments of a successful vernacu- lar
+    verseform in the countries of northern Europe in the Renaissance: France, the most advanced
+    culturally, led the way (Du Bellay and the Pléiade), fol- lowed by England (Wyatt and Surrey),
+    Holland, and finally Germany, which did not settle the issue of a native line until well into
+    the seventeenth century (Opitz, 1624). </notes>
+  </item>
+
+
+
+  <item id="L371">
+   <bib> Hatfield, James T. "Lessing's Feeling for Classical Rhythms." JEGP 16 (1917): 187-94.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L372">
+   <bib> Hatto, A. T. "On Beauty of Numbers in Wolfram's Dawn Songs: An Improved Metrical Canon."
+    MLR 45 (1950): 181-88.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L373">
+   <bib> -----. "The Early Tagelied." MLR 46 (1951): 66-69.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L374">
+   <bib> Heilborn, Ernst. "Der E-Reime bei Opitz." PBB 13 (1888): 567-72.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L375">
+   <bib> Heims, Wilhelm. Der germanische Alliterationsvers und seine Vorgeschichte: Mit einem Exkurs
+    über den Saturnier. Diss., Münster, 1914. 126 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L376">
+   <bib> Heinzel, Richard. Über den Stil der altgermanischen Poesie. Quellen und Forschungen, no.
+    10. Strassburg: Karl Trübner, 1875. 54 pp.</bib>
+   <notes> An attempt to demonstrate stylistic parallels between the early Germanic verse and the
+    Sanskrit Vedas, taking the latter as the extant form closest to the origi- nal Indo-European
+    verseform. </notes>
+  </item>
+
+
+
+  <item id="L377">
+   <bib> Hellenbrecht, H. Das Problem der freien Rhythmen mit Bezug auf Nietzsche. Sprache und
+    Dichtung, vol. 48. Bern, 1931.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L378">
+   <bib> Hellmuth, Hans-Heinrich. Metrische Erfingung und metrische Theorie bei Klopstock. Munich:
+    Wilhelm Fink, 1973.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L379">
+   <bib> Hellmuth, Hans-Heinrich, and J. Schröder. Die Lehre von der Nachahmung der antiken Versma e
+    in Deutschen. Munich: Wilhelm Fink, 1976.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L380">
+   <bib> Helm, C. H. G. Zur Rhythmik der kurzen Reimpaare des XVI Jahrhunderts. Karlsruhe, 1895. 103
+    pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L381">
+   <bib> Helm, K. "Zum Muspilli." PBB 35 (1909): 319-23.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L382">
+   <bib> Henning, Rudolf. "Metrik." Nibelungenstudien. Quellen und Forschungen, no. 31. Strassburg:
+    Karl Trübner, 1883. pp. 253-92.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L383">
+   <bib> Herr, Günter. "Der übertonige Auftakt im Vers C. F. Meyers." Neuphilologische Mitteilungen
+    73 (1972): 633-66.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L384">
+   <bib> Hertel, Engelbert. Die Verse von mehr als vier Hebungen in der frühmittelhochdeutschen
+    Dichtung. Marburg, 1908. 87 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L385">
+   <bib> Hettich, Leonhard. Der fünffüssige Jambus in den Dramen Goethes: Ein Beiträg zur Geschichte
+    und Methodik der Verslehre. Heidelberg: Carl Winter, 1913. 271 pp.</bib>
+   <notes> Rev: in JEGP 13 (1914): 319-27.</notes>
+  </item>
+
+
+
+  <item id="L386">
+   <bib> Heusler, Andreas. Deutscher und antiker Vers: Der falsche Spondeus und angrenzende Fragen.
+    Quellen und Forschungen, no. 123. Strassburg: Karl Trübner, 1917.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L387">
+   <bib> -----. Deutsche Versgeschichte, mit Einschluss des altenglischen und altnordischen
+    Stabreimverses. Grundriss der germanischen Philologie, no. 8. 3 vols. Berlin and Leipzig: Walter
+    de Gruyter, 1925-29.</bib>
+   <notes>Vol. 1: Part I: Einführendes, Grundbegriffe der Verslehre. Part II: Der altgermanische
+    Vers. Vol. 2: Part III: Der altdeutsche Vers. Vol. 3: Part IV: Der frühneudeutsche Vers. Part V:
+    Der neudeutsche Vers. Heusler is still the standard authority on German versification, despite
+    later res- ervations by other workers about his metrical principles, which are Temporal- ist.
+    English has no equivalent study either in range or in precision. The main relevance of Heusler
+    to our own literature lies in the study of Old English versification: Heusler is one of the
+    three or four major theorists, his work serving as the basis for Pope's later studies (J241,
+    J242). See Pope's discussion on pp. 20–37 of J242. In Heusler's view each OE verse (half-line)
+    consisted of two compound (four-member) measures, schematically | / x \ x | / x \ x ||, each
+    member (x) representing the duration of one short syllable (= one quarter-note). Heusler uses
+    musical notation freely but not structurally (that was Pope's addi- tion), but his arbitrary
+    symbols translate into time-values thus: — half-note u eighth-note x quarter-note ^
+    quarter-pause. The signature then (not the tempo) is 4/4. Rests are employed freely everywhere
+    except at the beginning of the line, since Heusler considers eve- rything before the first
+    primary stress as anacrusis (i.e. extrametrical). It re- mained for Pope to add the initial
+    rests and account for them. </notes>
+  </item>
+
+
+
+  <item id="L388">
+   <bib> -----. Über germanischen Versbau. Berlin: Weidmann, 1894. 139 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L389">
+   <bib> -----. "Wege und Irrwege in der neueren Verslehre." In 250 Jahre Wiedmannsche Buchhandlung.
+    Supplement to Part 4 of the Monatsschrift für höhere Schulen. Berlin, 1930. pp. 38-55.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L390">
+   <bib> Heyne, Moriz. Formulae alliterantes ex antiquis legibus lingua Frisica conscriptis
+    extractae. Halle, 1864. 32 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L391">
+   <bib> Hildebrand, Rudolf. "Zum Wesen des Reims auch des Stabreims, dabei eine Berichtigung
+    Scherers." Zeitschrift für den deutschen Unterricht 5 (1891): 577–85, 6 (1892): 1–6.</bib>
+   <notes> Note by Rosenberg in the latter volume, pp. 840-41.See reply by Oertel (L524). </notes>
+  </item>
+
+
+
+  <item id="L392">
+   <bib> Hildebrandt, Bruno F. O. "Linguistic Analysis of Sound and Rhyme in Poetry." Papers from
+    the 1977 Mid-America Linguistics Conference. Ed. Donald M. Lance et al. Columbia: University of
+    Missouri Linguistics Program, 1978. pp. 453-60.</bib>
+   <notes>The author constructs a very precise scale or graded hierarchy of assonance having
+    thirteen discrete degrees: one-, two-, three-, and four-dimensional Type A assonance; " " Type B
+    " ; " " Type C " ; and Type D (or total) assonance. Each dimension represents one opposition or
+    contrast of a phonological feature, of which there are four for vowels; each Type represents one
+    contrast in the following consonants. Examples from German poetry, esp. Novalis. </notes>
+  </item>
+
+
+
+  <item id="L393">
+   <bib> Hilmer, H. Schallnachahmung, Wortschöpfung und Bedeutungswandel. Halle, 1914.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L394">
+   <bib> Hirschmann, Rudolf. "Die maschinelle rhythmische Analyse der mittelhochdeutschen Daktylen."
+    Maschinelle Verarbeitung altdeutscher Texte, I. Ed. Winfried Lenders and Hugo Moser. Berlin:
+    Schmidt, 1978. pp. 29-44.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L395">
+   <bib> -----. "überblick zum Gebiet der maschinellen Verarbeitung altdeutscher Text und zwei
+    Forschungsprobleme in Metrik und Rhythmik." Maschinelle Verarbeitung altdeutscher Texte, II. Ed.
+    Winfried Lenders and Hugo Moser. Berlin: Schmidt, 1978. pp. 81-90.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L396">
+   <bib> Hirt, Herman. "Der altdeutsche Reimvers und sein Verhältnis zur Alliterationspoesie." ZDA
+    38 (1894): 304-33.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L397">
+   <bib> -----. "Zur Metrik des altsachsischen und althochdeutschen Alliterationsverses." Germania
+    36 (1891): 139–79, 279-307.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L398">
+   <bib> Hofmann, Dietrich. "Die Frage des musikalischen Vortrags der altgermanischen
+    Stabreimdichtung in philologischer Sicht." ZDA 92 (1963): 83–121.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L399">
+   <bib> Hofmann, Dietrich, and Ewald Jammers. "Zur Frage des Vortrags der altgermanischen
+    Stabreimdichtung." ZDA 94 (1965): 185-95.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L400">
+   <bib> Horn, C. R. "Zur Metrik des Heliand." PBB 5 (1878): 164-92.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L401">
+   <bib> Hügli, Emil. Die romanischen Strophen in der Dichtung deutscher Romantiker. Diss., Berlin.
+    Zurich, 1900. 102 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L402">
+   <bib> Ingenbleek, Theodor. Über den Einfluss des Reimes auf die Sprache Otfrids. Quellen und
+    Forschungen, no. 37. Strassburg: Karl Trübner, 1880.</bib>
+   <notes> See also Sturtevant (L619). </notes>
+  </item>
+
+
+
+  <item id="L403">
+   <bib> Ipsen, Gunther, and Fritz Karg. Schallanalytische Versuche. Heidelberg: Carl Winter,
+    1928.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L404">
+   <bib> Jackson, George P. "The Rhythmic Form of the German Folk Songs." MP 13 (1915–16): 561–81;
+    14 (1916–17): 65–92, 357–83; 15 (1917–18): 79–102.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L405">
+   <bib> Jackson, W. T. H., et al. "German Prosody." Princeton (A18), pp. 321-23.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L406">
+   <bib> Jakobson, Roman. "On the So-called Vowel Alliteration in Germanic Verse." Zeitschrift für
+    Phonetik, Sprachwissenschaft, und Kommunikationsforschung 16 (1963): 85–92;</bib>
+   <notes> rpt in his On Verse, Its Masters and Explorers (L1296), pp. 189– 97, with a following
+    Appendix by Sigrid Valfells, "A Note on the Dissimilation of Vowels in Icelandic Alliteration,"
+    pp. 198-200.</notes>
+  </item>
+
+
+
+  <item id="L407">
+   <bib> Jammers, Ewald. "Grundbegriffe der altdeutschen Versordnung." ZDA 92 (1963): 241–48; rpt in
+    Ernst and Neuser (L337), pp. 246-55.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L408">
+   <bib> -----. "Das mittelalterliche deutsche Epos und die Musik." Heidelberger Jahrbücher 1
+    (1957): 31-90.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L409">
+   <bib> -----. "Der Vortrag des altgermanischen Stabreimverses im musikwissenschaftlicher Sicht."
+    ZDA 93 (1964): 1–13.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L410">
+   <bib> Jellinek, M. H. "Der EU-Reime bei Opitz." PBB 43 (1918): 286-96.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L411">
+   <bib> -----. "Studien zu den älteren deutschen Grammatikern: Die Lehre von Accent und Quantität."
+    ZDA 48 (1906): 227-363.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L412">
+   <bib> -----. "Zur Rhythmik des 16. Jahrhunderts." PBB 29 (1904): 356-62.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L413">
+   <bib> Jespersen, Otto. "Cause psychologique de quelques phénomènes de métrique germanique." In
+    Psychologie du langage. Ed. H. Delacroix et al. Paris: F. Alcan, 1933. pp. 333-38.</bib>
+   <notes>Repeats the substance of his argument in his "Notes on Metre" (E562). </notes>
+  </item>
+
+
+
+  <item id="L414">
+   <bib> Jessen, E. "Grundzüge der altgermanischen Metrik." ZDP 2 (1870): 114-47.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L415">
+   <bib> Jost, Walter. Probleme und Theorien der deutschen und englischen Verslehre: mit einem
+    Sonderteil über die Form des alemannischen Mundarthexameters bei Johann Peter Hebel und den
+    Schweizern Bern: Herbert Lang, 1976. 275 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L416">
+   <bib> Jünger, Friedrich. G. Rhythmus und Sprache im deutschen Gedicht. Stuttgart, 1952; </bib>
+   <notes>2nd ed. 1966. </notes>
+  </item>
+
+
+
+  <item id="L417">
+   <bib> Jung, Victor. "Untersuchungen zum Reimgebrauch Rudolfs von Ems." PBB 27 (1902):
+    446-53.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L418">
+   <bib> Juvet, Alfred. "über den Reimgebrauch in Bruder Philipps Marienleben." PBB 29 (1904):
+    127-74.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L419">
+   <bib> Kauffmann, Friedrich. Deutsche Metrik nach ihrer geschichtlichen Entwicklung. Marburg: N.
+    G. Elwert, 1897; 3rd ed. 1912.</bib>
+   <notes> A massive revision of Vilmar-Grein-Kauffmann (L629). </notes>
+  </item>
+
+
+
+  <item id="L420">
+   <bib> -----. "Metrische Studien." ZDP 29 (1897): 1–49; pp. 17–22 are rpt in "Dreihebige Verse in
+    Otfrids Evangelienbuch" in Ernst and Neuser (L337), pp. 1–7.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L421">
+   <bib> -----. "Die Rhythmik des Heliand." PBB 12 (1887): 283-355.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L422">
+   <bib> Kaulhausen, M. H. "über den Ursprung der Sprachmelodie in der klassischen und modernen
+    deutschen Lyrik." Proceedings of the Sixth International Congress of Phonetic Sciences. Ed. B.
+    Hala et al. Prague: Academia Publishing House of the Czech Academy of Sciences, 1970. pp.
+    475-77.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L423">
+   <bib> Kayser, Wolfgang. Geschichte des deutschen Verses. Bern: Francke, 1960.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L424">
+   <bib> -----. Kleine Deutsche Versschule. Bern, 1946; 12th ed. 1966.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L425">
+   <bib> -----. Das sprachliche Kunstwerk. Munich, 1948; 2nd ed. 1961.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L426">
+   <bib> -----. "Vom Rhythmus in deutschen Gedichten." Euphorion 39 (1938): 487-510.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L427">
+   <bib> -----. "Zur Frage von Syntax und Rhythmus in der Vers-sprache." Trivium 5 (1947):
+    283-92.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L428">
+   <bib> Kelletat, Alfred. "Zum Problem der antiken Metren im Deutschen." Der Deutschunterricht 16
+    (1964): 50-85.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L429">
+   <bib> Kellogg, Robert L. "The South Germanic Oral Tradition." Franciplegius: Medieval and
+    Linguistic Studies in Honor of F. P. Magoun, Jr. Ed. Jess B. Bessinger and R. P. Creed. New
+    York: New York University Press, 1965. pp. 66-74.</bib>
+   <notes> The existence of virtually identical formulas in Anglo-Saxon, Old Saxon, Old Icelandic,
+    and Old High German confirms that there was a unified, continu- ous, oral tradition in the
+    Germanic tribes stretching back at least several centu- ries before Beowulf. </notes>
+  </item>
+
+
+
+  <item id="L430">
+   <bib> Klein, Wolfgang, and H. Zimmermann. "Trakl: Versuch zur maschinellen Analyse von
+    Dichtersprache." Sprachkunst 1 (1970): 122-39.</bib>
+   <notes>Computerized phonological-pattern analysis. </notes>
+  </item>
+
+
+
+  <item id="L431">
+   <bib> Klopstock, Friedrich G. "Vom deutschen Hexameter" [1779]. Sämmtliche Werke. Leipzig: G. J.
+    Göschen, 1855. Vol. 10, pp. 45–161.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L432">
+   <bib> Kluge, Friedrich. "Zur Geschichte des Reimes im Altgermanischen." PBB 9 (1884):
+    422-50.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L433">
+   <bib> Köhler, Wolfgang. "Akustische Untersuchungen." Zeitschrift für Psychologie 54 (1910):
+    241–89; 58 (1911): 59–140; 64 (1913): 92–105; 72 (1915): 1–192.</bib>
+   <notes> On "dark" and "bright" consonants. </notes>
+  </item>
+
+
+
+  <item id="L434">
+   <bib> Kolbe, Parke R. "Die Variation bei Otfrid." PBB 38 (1912): 1–66.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L435">
+   <bib> -----. "Variation in the Old High German Post-Otfridian Poems." MLN 28 (1913): 216–17; 29
+    (1914): 82–85; 31 (1916): 19-23.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L436">
+   <bib> Kommerell, M. "Bemerkungen zum Stabvers." Nachrichten der Giessener Hochschulgesellschaft
+    10 (1934): 56 ff.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L437">
+   <bib> Kossmann, Ernst, ed. Die altdeutsche "Exodus" mit Einleitung und Anmerkungen. Quellen und
+    Forschungen, no. 57. Strassburg: Karl Trübner, 1886. "Reim," pp. 6–13; "Verskunst," pp.
+    14-18.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L438">
+   <bib> Kossmann, F. Nederlandsch Versrythme: De Versbouwtheorieen in Nederland en de Rythmische
+    Grondslag van het Nederlandsch Vers. The Hague: 's-Gravenhage, 1922. 236 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L439">
+   <bib> Krämer, Wolfgang. "Phonetische und phonologische Aspekte des Reims." Linguistics, no. 66
+    (1971), pp. 12-28.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L440">
+   <bib> Kraus, Carl von. "Der rührende Reim im Mittelhochdeutschen." ZDA 56 (1918): 1–76.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L441">
+   <bib> Kreiner, Artur. Zur Aesthetik des sprachlichen Rhythmus. Diss., Würzburg. Würzburg: C. J.
+    Becker, 1916. 60 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L442">
+   <bib> Krejcik, Norbert. "Experimentalphonetische Untersuchungen über einige wichtige Formen des
+    Vierschlägers im deutschen Vers." Archiv für die gesamte Psychologie 64 (1928): 453-62.</bib>
+   <notes>Applies the acoustic-metrics methods of Scripture. Cf. Dichler and Zemen. </notes>
+  </item>
+
+
+
+  <item id="L443">
+   <bib> Krieger, Rudolf. "Sprache und Rhythmus der späten Hymnen Hölderlins." Zeitschrift für
+    Asthetik und allgemeine Kunstwissenschaft 22 (1928): 256-91.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L444">
+   <bib> Kuhlmann, Walter. Sprache als Bestand und Vollzug. Das Verhalten zur Dichtung. Rhythmus und
+    Metrum. Freiburg: L. Bielefeld, 1959. 47 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L445">
+   <bib> Kuhn, Hans. "Die altgermanische Verskunst." In Germanische Philologie: Ergebnisse und
+    Aufgaben. Festschrift für Otto Behaghel. Ed. Alfred Goetze et al. Heidelberg: Carl Winter, 1934.
+    pp. 19-28.</bib>
+   <notes> A bibliographic-review essay. </notes>
+  </item>
+
+
+
+  <item id="L446">
+   <bib> -----. "Wortstellung und -betonung im Altgermanischen." PBB 57 (1933): 1–109.</bib>
+   <notes> I.e., in the four principal poetic monuments of Old Germanic, the Beowulf (OE), the Edda
+    (ON), the Heliand (OS), and the Hildebrandslied (OHG). In this article the author formulates
+    Kuhn's Law of Sentence Particles, which until very recently (see Stanley [J300] and Fakundiny
+    [J80]) has been the standard account of the ordering and stressing of the lesser
+    sentence-elements in the Germanic verse-line. </notes>
+  </item>
+
+
+
+  <item id="L447">
+   <bib> Kuhn, Karl G. "Zur Geschichte des Reims." Deutsche Viertelsjahrsschrift für
+    Literaturwissenschaft und Geistesgeschichte 23 (1949): 217–26; rpt in Ernst and Neuser (L337),
+    pp. 22-33.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L448">
+   <bib> Kurylowicz, Jerzy. "Latin and Germanic Metre." English and German Studies 2 (1948–49):
+    34–38; rpt in his Esquisses Linguistiques. Wroclaw, Krakow, 1960. pp. 294-98.</bib>
+   <notes>A demonstration of the fundamental linguistic identity between and the metri- cal
+    transition from Old Latin verse to Old Germanic, based on the "iambic shortening" equivalence /
+    = ú u found in the earliest Latin prosody. Later, in the Germanic transition into Romance
+    isosyllabism, short vowels ending monosyllables were lengthened and the distinction between
+    single and double consonants was lost. </notes>
+  </item>
+
+
+
+  <item id="L449">
+   <bib> Deleted.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L450">
+   <bib> -----. "A Problem of Germanic Alliteration." Studies in Language and Literature in Honor of
+    Margaret Schlauch. New York: Russell &amp; Russell, 1971. pp. 195-201.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L451">
+   <bib> -----. "Problems of Germanic Quantity and Metre." Biuletyn Polskiego Towarzystwa
+    Jezykoznawczego 10 (1950): 25-44.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L452">
+   <bib> -----. Die sprachlichen Grundlagen der altgermanischen (Metrik). Innsbrucker Beiträge zur
+    Sprachwissenschaft no. 1. Innsbruck, 1970.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L453">
+   <bib> Lachmann, E. Hölderlins Hymnen in freien Strophen: Eine metrische Untersuchung. Frankfurt
+    on Main, 1937.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L454">
+   <bib> Lachmann, Karl. "Über althochdeutsche Betonung und Verskunst" [1831–34]. In Kleinere
+    Schriften. Ed. Karl Müllenhoff. Berlin: G. Reimer, 1876. Vol. 1, pp. 358-406.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L455">
+   <bib> -----. “Über das Hildebrandslied" [1833]. Ibid., vol. 1, pp. 407-48.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L456">
+   <bib> Lehmann, Winfred P. The Alliteration of Old Saxon Poetry. Oslo: H. Aschehoug, 1953. 231 pp.
+    + chart.</bib>
+   <notes> Critical of the work of Scherer and others as lacking in substantiation, Lehmann provides
+    a forty-one-page synthesis of 231 pages of raw data-- indexes of alliteration and transverse
+    alliteration in the Heliand and Genesis. </notes>
+  </item>
+
+
+
+  <item id="L457">
+   <bib> -----. The Development of Germanic Verse Form. Austin: University of Texas Press, 1956; rpt
+    New York: Gordian Press, 1971. 217 pp.</bib>
+   <notes> Rev: in Review of English Studies n.s. 9 (1957): 296–97; in MLN 63 (1957):
+    149-51.</notes>
+  </item>
+
+
+
+  <item id="L458">
+   <bib> -----. "Germanic [Versification]." Wimsatt (A20), pp. 122-35.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L459">
+   <bib> Leighton, Joseph. "Sonnets and Computers: An Experiment in Stylistic Analysis." The
+    Computer in Literary and Linguistic Research. Ed. R. A. Wisbey. Cambridge: Cambridge University
+    Press, 1971. pp. 149-58.</bib>
+   <notes>Describes a program for syntactic analysis, using a single-letter code for each type of
+    grammatical phrase. </notes>
+  </item>
+
+
+
+  <item id="L460">
+   <bib> Lentz, Hans. Zum Verhaltnis von Versiktus und Wortakzent im Versbau G. R. Weckherlins.
+    Munich: Wilhelm Fink, 1966. 123 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L461">
+   <bib> Leonard, W. E. "Four Footnotes to Papers on Germanic Metrics." Studies in English
+    Philology: A Miscellany in Honor of Frederick Klaeber. Ed. Kemp Malone and M. B. Ruud.
+    Minneapolis: University of Minnesota Press, 1929. pp. 1–13.</bib>
+   <notes> A summary restatement of his position and a response to his critics ("It seems time to
+    have a little talk on this"): his model for the meter of ME, MHG, and OSp is "six speech-beats,
+    three in each half-line, with a rest-beat at the end of each half-line," making eight altogether
+    for the long line. </notes>
+  </item>
+
+
+
+  <item id="L462">
+   <bib> Lichtenstein, Franz, ed. "Metrik." Eilhart von Oberge. Quellen und Forschungen, no. 19.
+    Strassburg: Karl J. Trübner, 1877. pp. lxxxviii–cxiv.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L463">
+   <bib> Lockemann, Fritz. Das Gedicht und seine Klanggestalt. Emsdetten (Germany): Lechte, 1952.
+    232 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L464">
+   <bib> -----. Der Rhythmus des deutschen Verses: Spannkräft und Bewegungsformen in der
+    neuhochdeutschen Dichtung. Munich: Max Hueber, 1960. 208 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L465">
+   <bib> Loerke, O. "Vom Reimen." Neue Rundschau 46 (1935): 414-26.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L466">
+   <bib> Loomis, C. G. "Amphibrach: A Footnote to Seventeenth Century German Prosody." MLQ 19
+    (1958): 71-74.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L467">
+   <bib> Lotz, John. "A Notation for the Germanic Verse Line." Lingua 6 (1956): 1–7.</bib>
+   <notes> Proposes a scansion notation for stressed verse: the procedure is to count the number of
+    weak syllables between (or before or after) each stress, denoting this information by a row of
+    numbers. Thus, Longfellow's "Tell me not in mournful numbers / Life is but an empty dream,"
+    traditionally marked /x/x/x/x | /x/x/x/ would be marked 01111 | 01110, since only one weak
+    syllable appears between each of the stresses in these traditionally "trochaic" lines. </notes>
+  </item>
+
+
+
+  <item id="L468">
+   <bib> Lützeler, Heinrich. "Die Lautgestaltung in der Lyrik." Zeitschrift für Ästhetik und
+    allgemeine Kunstwissenschaft 29 (1935): 193-216.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L469">
+   <bib> Luick, Karl. "Sprachmelodisches in deutscher und englischer Dichtung." GRM 2 (1910):
+    14-27.</bib>
+   <notes> Applies the theories of Sievers and Rutz concerning melodic (pitch) patterns in verse.
+    Synopsis at ZDP 41 (1909): 512-13. </notes>
+  </item>
+
+
+
+  <item id="L470">
+   <bib> -----. "über Sprachmelodisches in deutscher und englischer Dichtung." Verhandlungen der
+    fünfzigsten Versammlung deutscher Philologien und Schülmanner (Graz 1909). Leipzig: B. G.
+    Teubner, 1910. pp. 132-34.</bib>
+   <notes>Summary of his lecture given at the convention. Luick adopts Sievers' theory of the
+    "musical constants," the fixed tones, in verse, and gives here an expan- sion on the notion of
+    Major and Minor modes in speech as in music. The Major is characteristically clear, light,
+    distinct, having larger intervals, high pitch, and considerable rhetoric; the Minor is veiled,
+    muffled, legato, having lower pitch and smaller intervals over syllables. Out of the moods in
+    the words comes a melodic organization. </notes>
+  </item>
+
+
+
+  <item id="L471">
+   <bib> -----. "Zur Herkunft des deutschen Reimverses." PBB 22 (1897): 576.</bib>
+   <notes> A reply to Saran on Otfrid. </notes>
+  </item>
+
+
+
+  <item id="L472">
+   <bib> McLintock, D. R. "Metre and Rhythm in the Hildebrandslied." MLR 71 (1976): 565-76.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L473">
+   <bib> Maeder, H. "Hölderlin und das Wort: Zur Problem der freien Rhythmen in Hölderlins
+    Dichtung." Trivium 2 (1944): 42-59.</bib>
+   <notes> K474 Magnuson, Karl. "Consonant Repetition in the Lyrics of George Trakl." Germanic
+    Review 37 (1962): 263-81.</notes>
+  </item>
+
+
+
+  <item id="L475">
+   <bib> -----. "On the Distinctiveness of the Word in German and English Prosody." Husbanding the
+    Golden Grain. Ed. Luanne T. Frank and E. E. George. Ann Arbor: University of Michigan Department
+    of Germanic Languages and Literatures, 1973. pp. 178-86.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L476">
+   <bib> -----. "Phonological Investigations into the Structure of German Verse." Diss., Michigan,
+    1966.</bib>
+   <notes> Sound-pattern analysis using a novel concept, "phonological frames." </notes>
+  </item>
+
+
+
+  <item id="L477">
+   <bib> Maher, J. Peter. "Distinctive Feature Rhyme in German Folk Versification." Language
+    Sciences 19 (1972): 19-20.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L478">
+   <bib> Malmberg, Bertil. "Die expressiven und ästhetischen Ausdrucksmöglichkeiten der Sprache Ihre
+    strukturale und quantitative Beschriebung." Versprache: Zeitschrift für Literaturwissenschaft
+    und Linguistik 1, 3 (1971): 9–38.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L479">
+   <bib> Marbe, Karl. Über den Rhythmus der Prosa. Giessen, 1904. 37 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L480">
+   <bib> Marpurg, Friedrich W. Anleitung zur singcomposition. Berlin: G. A. Lange, 1758. 206
+    pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L481">
+   <bib> Marstrander, Carl J. S. "Notes on Alliteration." Serta Eitremiana: Opuscula Philologica S.
+    Eitrem. Oslo, 1942. pp. 185-208.</bib>
+   <notes>Not conveniently accessible, but a valuable and very readable summary of what is known of
+    the very earliest verseforms of the Germanic peoples, espe- cially ca. the 4th century.
+    Marstrander's view is that alliteration originated in the Gaulish bardic schools, then spread to
+    the Teutonic and Celtic tribes; in any event it can be found as far back as we can trace any
+    other vestiges of Western European civilization outside the Empire. It is sobering to consider
+    Caesar's Gallic Wars from the natives' point of view. </notes>
+  </item>
+
+
+
+  <item id="L482">
+   <bib> Martin, Ernst. Der Versbau des "Heliand" und der altsächsischen "Genesis." Quellen und
+    Forschungen, no. 100. Strassburg: Karl Trübner, 1907.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L483">
+   <bib> Masing, Woldemar. Sprachliche Musik in Goethes Lyrik. Strassburg: Karl J. Trübner, 1910. 79
+    pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L484">
+   <bib> -----. Über Ursprung und Verbreitung des Reims. Diss., Dorpat, 1866. 140 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L485">
+   <bib> Masson, David I. "Patterns of Vowel and Consonant in A Rilkean Sonnet." MLR 46 (1951):
+    419-30.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L486">
+   <bib> -----. "Sound and Sense: Mechanisms in a Middle Rilkean Sonnet." MLR 59 (1964):
+    237-43.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L487">
+   <bib> Maurer, Friedrich. "über Langzeilen und Langzeilenstrophen in der ältesten deutschen
+    Dichtung." Beiträge zur Sprachwissenschaft und Volkskunde: Festschrift für Ernst Ochs. Ed. Karl
+    F. Müller. Lahr, 1951. pp. 31–52; rpt in Ernst and Neuser (L337), pp. 34-65.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L488">
+   <bib> Mayer, Charles A. "Die Rhythmik des Hans Sachs." PBB 28 (1903): 457-96.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L489">
+   <bib> -----. "Vokalisch Alliteration im Heliand." ZDA 47 (1904): 413-20.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L490">
+   <bib> Mehring, Sigmar. Deutsche Verslehre. Leipzig, 1891.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L491">
+   <bib> -----. Der Reim in seiner Entwicklung und Fortbildung. Berlin, 1889.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L492">
+   <bib> Meilach, M. B. "Probleme von Rhythmus, Raum und Zeit in der komplexen Erforschung des
+    Kunstscaffens." Kunst und Literatur 23 (1975): 824-29.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L493">
+   <bib> Mennemeier, Franz N. "Freier Rhythmus im Ausgang von der Romantik." Poetica 4 (1971):
+    197-214.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L494">
+   <bib> Merker, Paul, and Wolfgang Stammler, eds. Reallexikon der deutschen Literaturgeschichte.
+    1st ed., 1925. 2nd ed., 2 vols. Berlin: Walter de Gruyter, 1958.</bib>
+   <notes> S.v. "Hebung und Senkung," "Metrik," and "Stabreimvers." </notes>
+  </item>
+
+
+
+  <item id="L495">
+   <bib> Meyer, Ernst A. Beiträge zur deutschen Metrik. Diss., Marburg, 1897. 55 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L496">
+   <bib> Meyer, Herman. "Von Leben der Strophe in neuerer deutscher Lyrik." Deutsche
+    Vierteljahrsschrift für Literaturwissenschaft und Geistegeschichte 25 (1951): 436-73.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L497">
+   <bib> Meyer, R. M. "Alliterierende Doppelkonsonanz im Heliand." ZDP 26 (1894);149– 67; 28 (1896):
+    142.</bib>
+   <notes> See L287. </notes>
+  </item>
+
+
+
+  <item id="L498">
+   <bib> -----. Die altgermanische Poesie nach ihren formelhaften Elementen beschrieben. Berlin,
+    1889. 549 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L499">
+   <bib> -----. "Die Formen des Refrains." Euphorion 5 (1898): 1–24.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L500">
+   <bib> -----. Grundlagen des mittelhochdeutschen Strophenbaus. Quellen und Forschungen, no. 58.
+    Strassburg: Karl Trübner, 1886.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L501">
+   <bib> Minckwitz, J. Lehrbuch der deutschen Verskunst oder Prosodie und Metrik. 3rd ed. Leipzig,
+    1854; 4th ed. 1862.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L502">
+   <bib> Minis, Carl. "Zum Problem der frühmittelhochdeutschen Langzeilen." ZDP 87 (1968): 321–43; </bib>
+   <notes>rpt in Ernst and Neuser (L337), pp. 392-421. </notes>
+  </item>
+
+
+
+  <item id="L503">
+   <bib> Minor, Jakob. Neuhochdeutsche Metrik. Strassburg: Karl J. Trübner, 1893; 2nd ed.
+    1902.</bib>
+   <notes> There is a subsequent redaction of this introductory manual: </notes>
+  </item>
+
+
+
+  <item id="L504">
+   <bib> -----. "Metrische Studien." GRM 3 (1911): 417-38.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L505">
+   <bib> Möller, Hermann. Zur althochdeutschen Alliterationspoesie. Kiel and Leipzig: Lipsius &amp;
+    Tischer, 1888. 179 pp.</bib>
+   <notes> Möller (at Copenhagen) believed that the Old English verse (halfline) was comprised of
+    two Takten, each Takte (or "bar") consisting of four Moren, a More being the time required for
+    one short syllable. His theory was soon af- terwards taken up and promoted in English by
+    Lawrence (J156). </notes>
+  </item>
+
+
+
+  <item id="L506">
+   <bib> Moolenaar, D., and H. Poort. Nederlandsche Verskunst. Zeist, 1909.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L507">
+   <bib> Moritz, Karl P. Versuch einer deutschen Prosodie. Berlin, 1786. 252 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L508">
+   <bib> Mueller, C. die rhythmischen Masze. Berlin, 1931. 130 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L509">
+   <bib> Müeller-Freienfels, Richard. "Einige psychologische Grundfragen der Metrik." GRM 6 (1914):
+    369-79.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L510">
+   <bib> Müllenhoff, Karl. "Zum Muspilli." ZDA 11 (1859): 381-93.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L511">
+   <bib> Müller, D. H. Komposition und Strophenbau. Vienna, 1907.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L512">
+   <bib> Münnich, Udo A. "Untersuchungen zu Lautwiederhöldlungen im jambischen Pentameterzeilen."
+    Zeitschrift für Literaturwissenschaft und Linguistik, no. 22 (1976), pp. 35-62.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L513">
+   <bib> -----. "Untersuchungen zu Lautwiederholungen in deutscher Dichtung und Prosa." Diss.,
+    Indiana University, 1971.</bib>
+   <notes> Applies the program devised by Magnuson (L476) to scan phonological pat- terns in verse.
+   </notes>
+  </item>
+
+
+
+  <item id="L514">
+   <bib> Neumann, Friedrich. "Deutsche Literatur bis 1500: Versgeschichte (Metrik)." In Kurzur
+    Grundriss der germanischen Philologie bis 1500. Ed. L. E. Schmitt. 2 vols. Berlin: Walter de
+    Gruyter, 1971. Vol. 2, pp. 608-65.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L515">
+   <bib> -----. Geschichte des neuhochdeutschen Reimes von Opitz bis Wieland: Studien zur
+    Lautgeschichte der neuhochdeutschen Gemeinsprache. Berlin, 1920.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L516">
+   <bib> -----. "Grundsätzliches zum epischen Hexameter Goethes." Deutsche Vierteljahresschrift 40
+    (1966): 328-59.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L517">
+   <bib> Newton, Robert P. "Ditonic Rhythmemes: Formal Elements of Rhythmic Patterning." Poetics 11
+    (1974): 63-95.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L518">
+   <bib> -----. "The First Voice: Vowel Configuration in the German Lyric." JEGP 68 (1969):
+    565-92.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L519">
+   <bib> -----. Form in the "Menschheitsdämmerung": A Study of Prosodic Elements and Style in German
+    Expressionist Poetry. The Hague: Mouton, 1971. 270 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L520">
+   <bib> -----. "Vokallänge und Vokalgleichklang als rhythmische Antriebs- und Gestaltungsmomente."
+    Zeitschrift für Literaturwissenschaft und Linguistik, no. 3 (1971), pp. 39-58.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L521">
+   <bib> -----. "Voweled Undersong." MLN 84 (1969): 387-414.</bib>
+   <notes>R. P. Newton has managed to devise an analytic technique that, so far as I know, is
+    entirely new in prosody. He is aware of Sievers' work on "speech- melody," he knows that
+    duration is an aspect of melody equally as important as pitch, and he admits that the scansion
+    of phonetic length (the old "quantities") has been fruitless; he proposes, though, that we mark
+    patterns of phonemic length--i.e., the duration of the stressed vowels in a verse-line, making
+    an as- sumption that the length of a vowel varies with the words it inhabits and fur- ther, the
+    metrical context the words inhabit. Statistical analysis of some 3000 lines of German trochaic
+    tetrameter (pp. 404–5) reveals some very interesting correlations of certain patterns with
+    certain environments. Test case: a Bren- tano lyric. </notes>
+  </item>
+
+
+
+  <item id="L522">
+   <bib> Noreen, E. "Einige Bemerkungen über den Ursprung des Stabreims in der altgermanischen
+    Dichtung." Festschrift Friedrich Kluge. Tübingen, 1926. pp. 92– 99.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L523">
+   <bib> Nowack, W. Die schallanalytische Methode von Eduard Sievers: Darstellung und Kritik.
+    Langensalza: Beyer &amp; Mann, 1924. 50 pp. Rpt from Mann's Pädagogisches Magazin, no.
+    969.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L524">
+   <bib> Oertel, Hanns. "Hildebrand's Theory of Alliteration." MLN 7 (1892): 144-46.</bib>
+   <notes>Repudiation of Hildebrand's view (L391) that alliteration is a subcategory of (identical
+    with) Rime proper, and that the vowels following alliterating conso- nants must differ. Oertel
+    emphasizes the different origins and effects of allitera- tion and rhyme (alliteration,
+    depending on roots rather than suffixes, is much more difficult to achieve, for example), and
+    shows that in 10–15% of all allit- eration the vowels will naturally coincide. In tone, though,
+    this response is an over-reaction. </notes>
+  </item>
+
+
+
+  <item id="L525">
+   <bib> Ogilvy, J. D. A. "Alcuin's Use of Alliteration." MLN 46 (1931): 444-45.</bib>
+   <notes>Two of his poems in the Latin Adonic form also show the characteristics of the Anglo-Saxon
+    alliterative line in the A pattern, suggesting a connection between the high Classical poetry
+    and the vernacular forms in Germany. </notes>
+  </item>
+
+
+
+  <item id="L526">
+   <bib> Oppert, Kurt. "Möglichkeiten des Enjambements." Zeitschrift für Ästhetik und allgemeine
+    Kunstwissenschaft 20 (1926): 235-38.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L527">
+   <bib> Owen, Francis. "The Origin of Alliteration as a Device of Poetic Technique in Germanic
+    Verse." University of Chicago Abstracts of Theses, Humanistic Series 4 (1925–26): 305-10.</bib>
+   <notes>Iconoclastic: Owen rejects any idea that the earliest Germanic verse was allit- erative,
+    even going so far as to say that from its origin in Latin, alliteration was passed to the Irish
+    bards, who (along with the monks) taught it to the Anglo- Saxons, from whom the continental
+    Germanic tribes learned the device. </notes>
+  </item>
+
+
+
+  <item id="L528">
+   <bib> Paetzel, Walther. Die Variationen in der altgermanischen Alliterationspoesie. Berlin: Mayer
+    and Müller, 1913. 216 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L529">
+   <bib> Palková, Zdena. "Einige Probleme des Prosarhythmus." Proceedings of the Sixth International
+    Congress of Phonetic Sciences. Ed. B. Hala. Prague: Academia Publishing House of the Czech
+    Academy of Sciences, 1970. pp. 719-22.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L530">
+   <bib> Paul, Hermann. "Deutsche Metrik." In Paul's Grundriss der germanischen Philologie (below),
+    pp. 39–140.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L531">
+   <bib> Paul, Hermann, ed. Grundriss der germanischen Philologie. Strassburg: Karl J. Trübner. Vol.
+    2, part 1 (1893);</bib>
+   <notes> rpt in 2nd ed. as vol. 2, part 2 (1905). The second edition is the one cited elsewhere in
+    this bibliography. The volume contains four lengthy review articles on metrics: Old Teutonic is
+    surveyed by Eduard Sievers (J284); German by Hermann Paul (previous en- try); English--The
+    Native Meters by Karl Luick (K223); and English--The Foreign Meters by Jakob Schipper (K331).
+   </notes>
+  </item>
+
+
+
+  <item id="L532">
+   <bib> Paul, Otto, and Ingeborg Glier. Deutsche Metrik. 6th ed. Munich: Max Hueber, 1966; 8th ed.
+    1970.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L533">
+   <bib> Pauls, Fritz. "Zur Stilistik der altsächsischen Genesis." PBB 30 (1905): 142-207.
+    "Verstechnik," pp. 183-207.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L534">
+   <bib> Petersen, E. "Rhythmus." Abhandlung der Gesellenschaft der Wissenschaft zu Göttingen,
+    philologisch-historische Klasse, n.s. 16, no. 6, 1917, pp. 1–104.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L535">
+   <bib> Pfaunnmüller, Ludwig. "über metrische 'Stilarten' in der mittelhochdeutschen Epik." PBB 40
+    (1915);373-81.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L536">
+   <bib> -----. "Zur Auffassung des Hans Sachs-Verses." PBB 43 (1918): 47-55.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L537">
+   <bib> Phillips, [?]. Zur Theorie des neuhochdeutschen Rhythmus. Diss., Leipzig, 1879.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L538">
+   <bib> Plenio, Kurt. "Bausteine zur altdeutschen Strophik." PBB 42 (1917): 411–502; 43 (1918):
+    56-99.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L539">
+   <bib> -----. "Beobachtungen zu Wolframs Liedstrophik." PBB 41 (1916): 47–128.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L540">
+   <bib> -----. "Metrische Studie über Walthers Palinode." PBB 42 (1917): 255–76. Also the following
+    excursus, pp. 276-80.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L541">
+   <bib> -----. "Strophik von Frauenlobs Marienleich." PBB 39 (1913): 290-319.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L542">
+   <bib> -----. "über deutsche Strophik." PBB 42 (1917): 280-85.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L543">
+   <bib> Poggel, Caspar. Grundzüge einer Theorie des Reimes und der Gleichklänge mit besonderer
+    Rüchsicht auf Goethe. Recklinghausen, 1834.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L544">
+   <bib> Pohl, Gerhard. Der Strophenbau im deutschen Volkslied. Palaestra, no. 136. Diss., Berlin,
+    1921. 219 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L545">
+   <bib> Polenz, Peter von. "Otfrids Wortspiel mit Versbegriffen als literarisches Bekenntnis."
+    Festschrift für Ludwig Wolff. Neumunster, 1962. pp. 121–34; rpt in Ernst and Neuser (L337), pp.
+    196-212.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L546">
+   <bib> Prawer, S. S. German Lyric Poetry. London: Routledge &amp; Kegan Paul, 1952.</bib>
+   <notes> Elementary analyses and interpretations, often touching on prosodic matters. </notes>
+  </item>
+
+
+
+  <item id="L547">
+   <bib> Pretzel, Ulrich. Frühgeschichte des deutschen Reims. Diss., Göttingen, 1929. Leipzig:
+    Becker &amp; Erler, 1941.</bib>
+   <notes> Rev: in Anzeiger für deutsches Altertum 61 (1942): 67-75. </notes>
+  </item>
+
+
+
+  <item id="L548">
+   <bib> Pretzel, Ulrich, and Helmuth Thomas. "Deutsche Verskunst." In Deutsche Philologie im
+    Aufriss. Ed. Wolfgang Stammler. 3 vols. Berlin, 1952–59; 2nd ed. 1957-62.</bib>
+   <notes>Vol. 3, part 2, issue no. 32, cols. 2327–2466. </notes>
+  </item>
+
+
+
+  <item id="L549">
+   <bib> Rakel, H. S. "Metrik und Rhythmus in der deutschen und französischen Lyrik am Ende des 12.
+    Jahrhunderts." Jahrbuch für Internationale Germanistik 2 (1976): 340-49.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L550">
+   <bib> Reinecke, O. Das Enjambement bei Wolfram von Eschenbach. Diss., Giessen, 1903.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L551">
+   <bib> Reinhard, E. Zur Wertung der rhythmisch-melodischen Faktoren in der neuhochdeutschen Lyric.
+    Diss., Leipzig, 1908.</bib>
+   <notes> Cf. Sievers (L603) and Rutz (L559). </notes>
+  </item>
+
+
+
+  <item id="L552">
+   <bib> Rieger, Max. "Bemerkungen zum Hildebrandsliede." Germania 9 (1864): 295-320.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L553">
+   <bib> Ries, John. "Metrische Excurse." Appendix to his Die Stellung von Subject und
+    Prädicatsverbum im "Heliand." Quellen und Forschungen, no. 41. Strassburg: Karl J. Trübner,
+    1880. pp. 112-29.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L554">
+   <bib> Ritter, B. Die metrische Brechung in Hartmann von Aue. Diss., Halle, 1913.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L555">
+   <bib> Roethe, Gustav. "Bemerkungen zu den deutschen Worten des Typus Ëxx." Sitzungsberichte der
+    Preussischen Akademie der Wissenschaften [zu Berlin], no. 41. Berlin, 1919. pp. 770-802.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L556">
+   <bib> Rowley, Brian. "'Iambic Trochees,' Or, On Not Being Able to Scan." Publications of the
+    English Goethe Society n.s. 37 (1967): 142-74.</bib>
+   <notes>The familiar sigh of despair over scansion terminology and method offers oc- casion for a
+    lucid and much-illustrated synopsis of the modern system of ac- centual metrics, making an
+    absolute distinction between the abstract metrical level and the concrete rhythmic level,
+    marking both levels in the scansion of each line. Extensive examples of metrical variations. The
+    one curiosity here (actually a serious inconsistency in theory) is that Rowley will allow both
+    metrical rests (the full metrical paradigm is not filled out at every slot by an actual
+    syllable) and also "slurring" [my phrase], "the elogation of two syllables [in the rhythm] to
+    occupy the space of three" in the metrical paradigm. The first of these effects is problematic
+    (Rowley allows rests to fill an entire foot; why not an entire line?), the second even more so,
+    but worst of all, in practice we have no way to tell the two apart. </notes>
+  </item>
+
+
+
+  <item id="L557">
+   <bib> Rupp, Heinz. "Otfrid von Weissenburg und die spätantike Bibeldichtung." Wirkendes Wort 7
+    (1956–57): 334–43; rpt in Ernst and Neuser (L337), pp. 124-40.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L558">
+   <bib> Rutz, Ottmar. Musik, Wort, und Körper als Gemütsausdruck. Leipzig, 1911.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L559">
+   <bib> -----. Neue Entdeckungen von der menschlichen Stimme. Munich, 1908.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L560">
+   <bib> Ryder, Frank G. "The Ebbing of Style: Hölderlin's Late Poetry in the Perspective of Meter."
+    Texte und Kontexte: Studien zur deutschen und vergleichenden Literaturwissenschaft. Ed. Manfred
+    Durzak et al. Bern: Otto Francke, 1973. pp. 161-76.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L561">
+   <bib> -----. "Hölderlin's Spondee--True or False?" Essays on European Literature In Honor of
+    Liselotte Dieckmann.. Ed. Peter Uwe Hohendahl et al. St. Louis: Washington University Press,
+    1972. pp. 133-46.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L562">
+   <bib> -----. "How Rhymed Is a Poem?" Word 19 (1963): 310-21.</bib>
+   <notes>The significance of the subject is evident: we have no scale for fixing degrees of
+    rhymedness in poems. Ryder suggests several criteria, both phonological and non-phonological. Of
+    the former, distribution patterns and frequencies of sounds in rhyme words compared to those in
+    the whole language are especially useful; of the latter, repetition of morphemes or whole words,
+    connotations, and patterns such as chiasmus are most important. Two German poems are analyzed.
+   </notes>
+  </item>
+
+
+
+  <item id="L563">
+   <bib> -----. "Off-Rhymes and Consonantal Confusion Groups: Some Hints from Mother Goose and the
+    Volkslied." Lingua 12 (1963): 190-98.</bib>
+   <notes>Acoustic researches by Miller and Nicely had shown that consonants may be sorted into a
+    series of "confusion groups"--i.e., [p t k], [f th s sh], [b d g], [v dj z zh], and [m n]; a
+    listener will mistake one consonant for another within each group but not between groups. Ryder
+    ingeniously inquires whether or not the principle is preserved in off-rhymes (English and German
+    folk verses), and it is. Implica- tion: "off-rhyme . . . is by no means a casual approximation
+    of sounds. . . . rather, it has discriminated among sounds as to degree of similarity." Such ap-
+    plications of acoustic facts as this deserve emulation. </notes>
+  </item>
+
+
+
+  <item id="L564">
+   <bib> Salmon, Paul. "Anomalous Alliteration in Germanic Verse." Neophilologus 42 (1958):
+    223-41.</bib>
+   <notes>A highly technical explanation of the seeming inconsistency in the strict rule for
+    alliterating initial sp-, st-, or sk- and the conversely catholic rule for "pro- miscuous" vowel
+    alliteration, on general phonetic grounds. An addition to Flasdieck (L342) and an excellent
+    review of the literature. </notes>
+  </item>
+
+
+
+  <item id="L565">
+   <bib> -----. "Stress, Time, and Quantity in Early German Narrative Verse." Transactions of the
+    Philological Society, 1967, pp. 125-53.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L566">
+   <bib> Samson-Himmelstjerna, H., von. Rhythmik-Studien. Riga, 1904. 136 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L567">
+   <bib> Sanders, Daniel. Abriss der deutschen Silbenmessung und Verskunst. Berlin, 1881; 2nd ed.
+    1891. 146 pp.</bib>
+   <notes> Distinguishes three streams in German versification: Old German; verse based on the
+    syllable-counting, Romance meters (Opitz); and classical-imitative, quantitative verse
+    (Klopstock, Voss). </notes>
+  </item>
+
+
+
+  <item id="L568">
+   <bib> Saran, Franz L. Deutsche Verslehre. Munich: C. H. Beck, 1907. 355 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L569">
+   <bib> -----. "Metrik." Ergebnisse und Fortschritte der germanischen Wissenschaft im letzten
+    Vierteljahrhundert. Ed. Richard Bethge. Leipzig: O. R. Reisland, 1902. pp. 158-87.</bib>
+   <notes>Probably the best available summary of the philological scholarship after Rask on Germanic
+    verse, surveying (separately) the old alliterative line and rhymed verse in OHG; MHG; Modern
+    German; and general metrical theory. </notes>
+  </item>
+
+
+
+  <item id="L570">
+   <bib> -----. "Zur romanischen und deutschen Rhythmik." PBB 24 (1899): 72-84.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L571">
+   <bib> Schädle, Lucie. Der frühe deutsche Blankvers unter besonderer Berücksichtigung seiner
+    Verwendung durch Chr. M. Wieland: Eine versstilistische und literarhistorische Untersuchung.
+    Göttingen: A. Kümmerle, 1972. 272 pp.</bib>
+   <notes> Summary in English. </notes>
+  </item>
+
+
+
+  <item id="L572">
+   <bib> Schaerf, H. C. Beyer's Lehre vom deutschen Versbau und Heine's Stellung Innerhalb
+    Derselben. Czernowitz, 1889. 24 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L573">
+   <bib> Schaffer, Aaron. Georg Rudolf Weckherlin: The Embodiment of a Transitional Stage in German
+    Metrics. Baltimore: J. H. Furst Company, 1918.</bib>
+   <notes> This pamphlet is Chapter One of his dissertation (of the same title) at Johns Hopkins
+    University in 1917 and is subtitled "German Metrics from Earliest Times to Opitz." </notes>
+  </item>
+
+
+
+  <item id="L574">
+   <bib> Schlawe, Fritz. Die deutsche Strophenformen. Systematisch-chronologische Register zur
+    deutschen Lyrik 1600–1950. Stuttgart: J. B. Metzler, 1972. 578 pp.</bib>
+   <notes> A comprehensive catalogue of the stanzas used by sixty major German poets, 1600–1950,
+    obtained by computerized analysis. Part 1 is organized by Author and Work, first alphabetically
+    then chronologically; Part 2, by metrical and stanzaic Forms. An epoch-making Index; English
+    verse-study will remain in its infancy until it obtains a comparable resource. </notes>
+  </item>
+
+
+
+  <item id="L575">
+   <bib> -----. Neudeutsche Metrik. Sammlung Metzler 112. Stuttgart: J. B. Metzler, 1972. 108
+    pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L576">
+   <bib> Schlegel, August Wilhelm. "Betrachtungen über Metrik" [1800]. Kritische Schriften und
+    Briefe. Ed. Edgar Lohner. Stuttgart: Kohlhammer, 1962. Vol. 1, pp. 181– 218.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L577">
+   <bib> Schmarsow, August. "Zur Lehre vom Rhythmus." Zeitschrift für Ästhetik und allgemeine
+    Kunstwissenschaft 16 (1922): 109-18.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L578">
+   <bib> Schmeckebier, Oskar. Abriss der deutschen Verslehre und der Lehre von den Dichtungsarten.
+    Berlin, 1866; 3rd ed. 1892.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L579">
+   <bib> -----. Deutsche Verslehre. Berlin: Wiedmann, 1886. 148 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L580">
+   <bib> -----. Zur Verskunst Otfrieds. Diss., Kiel, 1877. 39 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L581">
+   <bib> Schmeller, J. A. "Über den Versbau in der alliterierenden Poesie besonders der Altsachsen."
+    Abhandlungen der philosophisch-philologischen Klasse der königlich bayerischen Akademie der
+    Wissenschaften zu Müchen, vol. 4. Munich, 1844. pp. 207-27.</bib>
+   <notes>Schmeller's study of Old Saxon verse convinced him that Germanic poetry was meant to be
+    recited rather than sung and that its fundamental metrical element was accent not quantity.
+   </notes>
+  </item>
+
+
+
+  <item id="L582">
+   <bib> Schmidt, Erich. "Deutsche Reimstudien, I." Sitzungsberichte der königlich Preussischen
+    Akademie der Wissenschaften zu Berlin, Part 1, no. 23. Berlin, 1900. pp. 430-72.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L583">
+   <bib> Schmitz, Friedrich W. Metrische Untersuchungen zu Paul Flemings deutschen Gedichten.
+    Quellen und Forschungen, no. 111. Strassburg: Karl Trübner, 1910.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L584">
+   <bib> Scholte, J. H. "Stafrijm en Eindrijm." Neophilologus 27 (1941): 46-49.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L585">
+   <bib> Schröbler, Ingeborg. "Zu den Carmina Rhythmica in der Wiener Handschrift der
+    Bonifatiusbriefe (MG AA XV, 517 ff): Oder über den Stabreim in der lateinischen Poesie der
+    altenglishchen." PBB (Tübingen, not Halle) 79 (1957): 1–42.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L586">
+   <bib> Schröder, Werner. "Zu alten und neuen Theorien einer altdeutschen 'Binnengereimten
+    Langzeile.'" PBB 87 (1965): 150–65; rpt in Ernst and Neuser (L337), pp. 269-86.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L587">
+   <bib> Schütze, J[ohann]. S[tephan]. Versuch einer Theorie des Reims nach Inhalt und Form.
+    Magdeburg: G. C. Keil, 1802. 143 pp.</bib>
+   <notes> S. was a student of Kant and friend of Goethe: Wimsatt ("One Relation," first footnote)
+    says he was the first to posit the semantic character of rhymes. Sum- mary in Henry Lanz,
+    162-66. [531/230 InU PHC] </notes>
+  </item>
+
+
+
+  <item id="L588">
+   <bib> Schulte, Hans. Experimentelle Prüfung der Rutz-Sieversschen Typenlehre. Diss., Bonn, 1929;
+    rpt in Archiv für die gesamte Psychologie 70 (1929): 119-208.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L589">
+   <bib> Schulze, F. W. "Stabungen und verwandte Bindungen in den Lateinversionen der altfriesischen
+    Gesetze." ZDA 91 (1961): 85–107.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L590">
+   <bib> Schweikle, Günther. "Die Herkunft des althochdeutschen Reimes: Zu Otfrieds von Weissenburg
+    formgeschichtlicher Stellung." ZDA 96 (1967): 165–212; rpt in Ernst and Neuser (L337), pp.
+    287-355.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L591">
+   <bib> Scripture, E. W. "Analyse einer Aufnahme des Anfangsmonologs im Urfaust." Zeitschrift für
+    Psychologie 102 (1927): 310-29.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L592">
+   <bib> -----. "Ausserungen deutscher Dichter über ihre Verskunst." Archiv für die gesamte
+    Psychologie 66 (1928): 216-51.</bib>
+   <notes>Responses from thirty modern German poets to a questionnaire on meter and rhythm sent them
+    by Scripture. </notes>
+  </item>
+
+
+
+  <item id="L593">
+   <bib> -----. "Ein Einblick im dem unbewussten Versmechanismus." Zeitschrift für Psychologie 102
+    (1927): 307-9.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L594">
+   <bib> -----. "Experimentalphonetische Untersuchungen über den Bau der deutschen Verszeile."
+    Archives néerlandaises de phonétique expérimentale 4 (1929): 1–9.</bib>
+   <notes> Acoustic metrics: analyses of Schaukal, Goethe, and Schiller. </notes>
+  </item>
+
+
+
+  <item id="L595">
+   <bib> -----. "Die neue Metrik." Archiv für die gesamte Psychologie 64 (1928): 463-74.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L596">
+   <bib> -----. "Die Versform des Anfangsmonologs im Goethe's Urfaust." Zeitschrift für Psychologie
+    104 (1927): 109-12.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L597">
+   <bib> -----. "Die Verskunst und die experimentelle Phonetik." Wiener medizinische Wochenschrift
+    72 (1922): 1378-80.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L598">
+   <bib> Seckel, Dietrich. Hölderlins Sprachrhythmus. Mit einer Einleitung über das Problem des
+    Rhythmus und einer Bibliographie zur Rhythmus-Forschung. Palaestra, no. 207. Leipzig: Mayer and
+    Müller, 1937. 350 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L599">
+   <bib> See, Klaus, von. Germanische Verskunst. Stuttgart: J. B. Metzler, 1967. 80 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L600">
+   <bib> Seidel, Wilhelm. Rhythmus: Eine Begriffsbestimmung. Darmstadt: Wissenschaftliche,
+    1976.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L601">
+   <bib> Seitz, Karl. Niederdeutsche Alliterationen. Leipzig: D. Soltau, 1893. 99 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L602">
+   <bib> Sievers, Eduard. "Die Entstehung des deutschen Reimverses." PBB 13 (1888): 121– 66.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L603">
+   <bib> -----. Rhythmisch-melodische Studien: Vorträge und Aufsätze. Germanische Bibliothek, vol.
+    5. Heidelberg: Carl Winter, 1912. 141 pp.</bib>
+   <notes> Five studies covering the period from 1893 to 1908: (1) "Zu Wernhers Ma- rienliedern,"
+    (2) "Zur Rhythmik und Melodik des neuhochdeutschen Spre- chverses," (3) "über Sprachmelodisches
+    in der deutschen Dichtung," (4) "über ein neues Hilfsmittel philologischer Kritik," and (5) "Zur
+    alteren Judith." There is a translation of the technical terminology of (3) in L521, p. 369. See
+    also L469–70, L551, L559, L588, and L620. For commentary on Schallanalyse: see G. Ungeheuer,
+    "Die Schallanalyse von Sievers." ZfMda 31 (1964): 97–124. See Paul Habermann, "Metrik," in Real-
+    lexikon I pp. 343-44 with bibl. and also his "Schallanalyse" pp. . </notes>
+  </item>
+
+
+
+  <item id="L604">
+   <bib> -----. "Ziele und Wege der Schallanalyse." In Stand und Aufgabe der Sprachwissenschaft:
+    Festschrift für Wilhelm Streitberg. Ed. J. Friedrich et al. Heidelberg: Carl Winter, 1924. pp.
+    65–111.</bib>
+   <notes> See Nowack (L523), Ipsen and Karg (L403), and Sievers (J287). </notes>
+  </item>
+
+
+
+  <item id="L605">
+   <bib> -----. "Zum Heliand." ZDA 19 (1876): 1–76. Esp. p. 46 ff.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L606">
+   <bib> Silz, W. "A Note on Kleist's Verse Style." MLN 58 (1943): 351-54.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L607">
+   <bib> Sobel, Naphtali. Die Accente in Otfrids Evangelienbuch: Eine metrische Untersuchung.
+    Quellen und Forschungen, no. 48. Strassburg: Karl Trübner, 1882. 133 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L607">
+   <bib> a Spanke, H. "Romanische und mittellateinische Formen in der Metrik von Minnesangs
+    Frühling." Zeitschrift für romanische Philologie 49 (1929): 191-235.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L608">
+   <bib> Staedler, Erich. Die Reime in Goethes Faustgedicht. Weimar, 1932. 127 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L609">
+   <bib> Stein, Jack M. "Poem and Music in Hugo Wolf's Mörike Songs." Musical Quarterly 53 (1967):
+    22-38.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L610">
+   <bib> -----. "Poetry for the Eye." Monatshefte 55 (1963): 361-66.</bib>
+   <notes>"Lyric poetry . . . is most deeply and fully perceived only in silent reading by the
+    sensitive reader . . . voicing of the poem, whether in public or private is a reduction of its
+    scope and perhaps a distortion of its essence." </notes>
+  </item>
+
+
+
+  <item id="L611">
+   <bib> -----. "Was Goethe Wrong about the Nineteenth-Century Lied? An Examination of the Relation
+    of Poem and Music." PMLA 77 (1962): 232-39.</bib>
+   <notes>Though Goethe's view was that a setting should be only a "modest embellish- ment" to a
+    great poem, the nineteenth-century song in general was dominated by the rich and closely-woven
+    melodic line of its music. </notes>
+  </item>
+
+
+
+  <item id="L612">
+   <bib> Stephan, Rudolf. "über sangbare Dichtung in althochdeutscher Zeit." Bericht über den
+    internationalen musikwissenschaftlichen Kongress, Hamburg 1956. Kassel, 1957. pp. 225–29; rpt in
+    Ernst and Neuser (L337), pp. 141-48.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L613">
+   <bib> Sternfeld, Frederick W. "The Musical and Rhythmical Sources of Poetry." English Institute
+    Essays, 1951. Ed. Alan S. Downer. New York: Columbia University Press, 1952. pp. 126-45.</bib>
+   <notes>As exemplified in the settings of English ballads, Shakespearean tunes, and Burns by
+    German poets, mainly Goethe. </notes>
+  </item>
+
+
+
+  <item id="L614">
+   <bib> Stoltenberg, Hans L. "Deutscher und antiker Vers." Zeitschrift für Ästhetik und allgemeine
+    Kunstwissenschaft 12 (1917): 460-67.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L615">
+   <bib> Storz, Gerhard. Der Vers in der neueren deutschen Dichtung. Stuttgart, 1970. 239 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L616">
+   <bib> Stütz, Franz. Die Technik der kurzen Reimpaare des Pamphilus Gengenbach, mit einem
+    kritischen Anhang über die zweifelhaften Werke. Quellen und Forschungen, no. 117. Strassburg:
+    Karl Trübner, 1912.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L617">
+   <bib> Stuiveling, G. Versbouw en Ritme in de Tijd van '80. Groningen, 1934. 243 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L618">
+   <bib> Stummer, Josef K. Vers, Reim, Strophe, Gedicht. Thun, 1968. 224 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L619">
+   <bib> Sturtevant, Albert M. "Zur Reimgebrauch Otfrids." MLN 28 (1913): 239-43.</bib>
+   <notes>See also Ingenbleek (L402). </notes>
+  </item>
+
+
+
+  <item id="L620">
+   <bib> Tenner, Julius. "über Versmelodie." Zeitschrift für Ästhetik und allgemeine
+    Kunstwissenschaft 8 (1913): 247-79.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L621">
+   <bib> Thomas, Helmut. "Der altdeutsche Strophenbau und die unliturgische Sequenz." In Festgruss
+    für Hans Pyritz. (A special publication of Euphorion.) Heidelberg: Carl Winter, 1955. pp. 14–20;
+    rpt in Ernst and Neuser (L337), pp. 115-25.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L622">
+   <bib> Thomas, R. Hinton. Poetry and Song in the German Baroque: A Study of the Continuo Lied.
+    Oxford: Clarendon Press, 1963. 219 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L623">
+   <bib> Titz, Johann Peter. Von der Kunst hochdeutsche Verse und Lieder zu machen. 1642; rpt in
+    Poetik des Barock. Ed. M. Szyrocki. Reinbek, 1968.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L624">
+   <bib> Trost, Pavel. "Verse von Brecht." To Honor Roman Jakobson: Essays on the Occasion of his
+    Seventieth Birthday. 3 vols. The Hague: Mouton, 1967. Vol. 3, pp. 2055-59.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L625">
+   <bib> Unwerth, Wolf von. "Vers und Strophe von Ratperts Lobgesang auf den heiligen Gallus." PBB
+    42 (1917): 111-21.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L626">
+   <bib> Verwey, Albert. Ritme en Metrum. Santpoort: C. A. Mees, 1931; 2nd ed. entitled Rhythmus und
+    Metrik. Halle, 1934.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L627">
+   <bib> Vetter, Ferdinand. Über die germanische Alliterationspoesie. Diss., Göttingen, 1872.
+    Vienna, 1872. 68 pp.</bib>
+   <notes> Also under the title Zum Muspilli und zur germanischen Alliterationspoesie. Rev: in
+    Anglia 33 (1910): 175. Opposes Schubert (J269). </notes>
+  </item>
+
+
+
+  <item id="L628">
+   <bib> Viehoff, Heinrich. "Vers und Strophenbau." Book 1 of his Die Poetik auf der Grundlage der
+    Erfahrungsseelenlehre. 2 vols. in 1. Trier: Lintz, 1888.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L629">
+   <bib> Vilmar, A. F. Ch. Die Deutsche Verskunst nach ihrer geschichtlichen Entwicklung. Mit
+    Benutzung des Nachlasses von A. F. Ch. Vilmar bearbeitet von Ch. W. M. Grein. Marburg,
+    1870.</bib>
+   <notes> Superseded by Kauffmann (L419). </notes>
+  </item>
+
+
+
+  <item id="L630">
+   <bib> Vilmar, Otto. Reste der Alliteration im Nibelungenliede. Marburg, 1855.. 36 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L631">
+   <bib> Vogt, W. H. "Altgermanische Druck-'Metrik': recht unbekümmerte Meinungen eines
+    Nicht-Metrikers." PBB 64 (1940): 124-64.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L632">
+   <bib> "Vorträge und Verhandlungen zum Problemkreise Rhythmus." Seven essays from the Proceedings
+    of the Third Congress for Aesthetics (1927) reprinted in Zeitschrift für Ästhetik und allgemeine
+    Kunstwissenschaft 21 (1927): 185-292.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L633">
+   <bib> Vos, R. J. "Rime-Parallelism in Old High German Verse." PMLA 15 (1900): xii</bib>
+   <notes> [Abstract]. </notes>
+  </item>
+
+
+
+  <item id="L634">
+   <bib> Wackernagel, Wilhelm. "Geschichte des deutschen Hexameters und Pentameters bis auf
+    Klopstock" [1831]. In Abhandlungen zur deutschen Litteraturgeschichte. Vol. 2 of his Kleinere
+    Schriften. Leipzig: S. Hirzel, 1873. pp. 1–68.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L635">
+   <bib> Wagenknecht, Christian Johannes. Weckherlin und Opitz: Zur Metrik der deutschen
+    Renaissancepoesie. Munich: Beck, 1971. 126 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L636">
+   <bib> Wagner, Kurt. "Phonetik, Rhythmik, Metrik." In Germanische Philologie: Ergebnisse und
+    Aufgaben: Festschrift für Otto Behaghel. Ed. Alfred Goetze et al. Heidelberg: Carl Winter, 1934.
+    pp. 3–18.</bib>
+   <notes> A bibliographic-review essay. </notes>
+  </item>
+
+
+
+  <item id="L637">
+   <bib> Wakefield, Ray M. Nibelungen Prosody. The Hague: Mouton, 1976. 116 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L638">
+   <bib> Walshe, M[aurice] O. "A Metrical Survey." Medieval German Literature: A Survey. Cambridge,
+    Mass.: Harvard University Press, 1962. pp. 71-85.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L639">
+   <bib> Walzel, O. Gehalt und Gestalt im dichterischen Kunstwerk. Potsdam, 1923.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L640">
+   <bib> Wehowsky, G. Schmuckformen und Formbruch in der deutschen Reimpaardichtung des
+    Mittelalters. Breslau, 1936. 135 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L641">
+   <bib> Weinhold, Carolus. Spicilegium Formularum. Halle, 1847. 32 pp.</bib>
+   <notes> A small pamphlet in Latin: seems to be a catalogue of forms in Old English and Old
+    Germanic. </notes>
+  </item>
+
+
+
+  <item id="L642">
+   <bib> Weiss, Karl. "Von Reim und Refrain." Imago 2 (1913): 552-72.</bib>
+   <notes>On their psychological effects. </notes>
+  </item>
+
+
+
+  <item id="L643">
+   <bib> -----. "Von Reim und Refrain: Ein Beitrag zur Psychogenese dichterischer Ausdrucksmittel."
+    Literatur und Psychoanalyse Ansatze zu einer psychoanalytischen Textinterpretation. Ed. Wolfgang
+    Beutin. Munich: Nymphenburger, 1972. pp. 137-58.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L644">
+   <bib> Weissenfels, Richard. Der daktylishe Rhythmus bei den Minnesängern. Halle: Max Niemeyer,
+    1886. 272 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L645">
+   <bib> Wellek, Albert. "Der Sprachgeist als Oppelempfinder." Zeitschrift für Ästhetik 25 (1931):
+    226-62.</bib>
+   <notes>Experiments which show a correlation between high front vowels and "thin, quick, clear,
+    bright objects," and lower back vowels and "clumsy, slow, dull, and dark objects." </notes>
+  </item>
+
+
+
+  <item id="L646">
+   <bib> Welti, Heinrich. Geschichte des Sonettes in der deutschen Dichtung. . . . Leipzig, 1884.
+    255 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L647">
+   <bib> Wesle, K. Frühmittelhochdeutsche Reimstudien. Jenaer germanistische Forschungen, no. 9.
+    Jena, 1925.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L648">
+   <bib> Westphal, Rudolf. Theorie der neuhochdeutschen Metrik. Jena, 1870; 2nd ed. 1877.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L649">
+   <bib> Wiessner, Hermann. Der Stabreimvers in Richard Wagners "Ring des Nibelungen." Germanische
+    Studien, no. 30. Berlin, 1924; rpt Nendeln, Leichtenstein: Kraus Reprint, 1967. 108 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L650">
+   <bib> Williams, Charles A. "German Stanzas from Joh. Werlin's Rhythmorum Varietas." MLN 33
+    (1918): 146-50.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L651">
+   <bib> Wisniewski, Roswitha. "'Significatio' des Verses: Otfrids Deutung metrische geformter
+    Sprache." Festschrift für Hans Eggers. Ed. Herbert Backes. Tübingen: Max Niemeyer, 1972. pp.
+    694–702; rpt in Ernst and Neuser (L337), pp. 422– 31.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L652">
+   <bib> Wolf, Ferdinand. Über die Lais, Sequenzen und Leiche. Ein Beitrag zur Geschichte der
+    rythmischen Formen und Singweisen der Volkslieder und der volksmässingen Kirchen- und
+    Kunst-lieder im Mittelalter. Mit Facsimiles und Musikbeilagen. Heidelberg, 1841. Bibliography
+    begins on p. 161.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L653">
+   <bib> Wolferz, Louis E. "The Rime-Technique in the Poems of Reinmar von Zweter." Diss., Cornell
+    University, 1916.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L654">
+   <bib> Wolff, Ludwig. "Untersuchungen über Otfrids Reimkunst." ZDA 60 (1923): 265-83.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L655">
+   <bib> -----. "Von der lyrischen Bedeutung der Strophenform bei Walther von der Vogelweide."
+    Neuphilologische Mitteilungen 53 (1952): 338-61.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L656">
+   <bib> Wolkowa, J. "Der Rhythmus als Objekt der ästhetischen Analyse." Kunst und Literatur 24
+    (1976): 81-90.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L657">
+   <bib> Woronczak, Jerzy. "Statistische Methoden in der Verslehre." Poetics I (A16), pp.
+    607-24.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L658">
+   <bib> Zarncke, F. Über den fünffüssigen Iambus mit besonderer Rücksicht auf seine Behandlung
+    durch Lessing, Schiller, und Goethe. Leipzig, 1865.</bib>
+   <notes> Abstracted in Appendix A of Mayor's Chapters on English Metre (E592), pp. 197–202;
+    apparently the work is extremely rare. Zarncke traces the English five-foot line from the Old
+    French décasyllable of Provençal troubadour poetry through the Italian hendecasyllable to the
+    modern English, French, and Ger- man line-forms. </notes>
+  </item>
+
+
+
+  <item id="L659">
+   <bib> Zemen, Karl. "Experimentalphonetische Untersuchung des Metrums von Goethes Spruch: Gottes
+    ist der Orient" Archiv für die gesamte Psychologie 66 (1928): 501-5.</bib>
+   <notes>Applies the methods of Scripture. Cf. Dichler and Krejcik. </notes>
+  </item>
+
+
+
+  <item id="L660">
+   <bib> Ziehen, Theodor. "Rhythmus in allgemein philosophischer Betrachtung." Zeitschrift für
+    Ästhetik und allgemeine Kunstwissenschaft 21 (1927): 187-98.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L661">
+   <bib> Zitelmann, Ernst. "Der Rhythmus des fünffüssigen Jambus." Neue Jahrbucher für das
+    klassische Altertum Geschichte und deutsche Literatur 19 (1907): 500–33, 545-70.</bib>
+   <notes>Zitelmann's concept of a "higher rhythm" in the pentameter means that two and sometimes
+    three of the five stresses have a superordinate emphasis. </notes>
+  </item>
+
+
+
+  <item id="L662">
+   <bib> Zwierzina, Konrad. "Zum Reimgebrauch Rudolfs von Ems." PBB 28 ( 1903): 425-53.</bib>
+   <notes>See also: E527, E805, E818, H21; Section J, esp. J55, J166, J190, J246, J253–54; K270.
+    Scandinavian (Skaldic, Eddic) </notes>
+  </item>
+
+
+
+  <item id="L663">
+   <bib> Ahlqvist, E. Suomalainen runous-oppi kielelliseltä kannalta. Helsinki, 1863. pp.
+    1–32.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L664">
+   <bib> Alexander, G. Die Bindungen im Ljóðaháttr: Ein Beitrag zur Lehre vom altnordischen
+    Strophenbau. Germanistische Abhandlungen, vol. 61. Breslau, 1929. 186 pp.</bib>
+   <notes> Rev: in ZDA 49 (1930): 99–103; in DLZ, 1930, pp. 933-35.</notes>
+  </item>
+
+
+
+  <item id="L665">
+   <bib> Anderson, Stephen. "U-Umlaut and Skaldic Verse." A Festschrift for Morris Halle. Ed.
+    Stephen R. Anderson and P. Kiparsky. New York: Holt, Rinehart and Winston, 1973. pp. 3–13.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L666">
+   <bib> Beckman, N. "Kritische Beiträge zur altnordischen Metrik." (Three Parts) Arkiv för Nordisk
+    Filologi 15 (1899): 69-93.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L667">
+   <bib> Bjerke, André. Rim og Rythme: En Litenverselaere . . . Sprog og Stil, no. 6. Oslo, 1956. 85
+    pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L668">
+   <bib> Björnson, G. "Nokkur orð um islenzkan ljoðalið." Skírnir 87 (1891): 339-57.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L669">
+   <bib> Boer, R. C. "Studien über die Snorra Edda." Acta Philologica Scandinavica 1 (1926– 27):
+    54–150.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L670">
+   <bib> Borum, Poul. "Meningsmetrik." Kritik (Copenhagen) 9 (1969): 20-51.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L671">
+   <bib> Brady, C. A. "The Date and Metre of the Hamðismál." JEGP 38 (1939): 201-16.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L672">
+   <bib> Brate, E. Fornnordisk Metrik. Uppsala, 1884; 2nd ed., Stockholm, 1898. 76 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L673">
+   <bib> -----. Svenska Runverser. Stockholm, 1901.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L674">
+   <bib> Craigie, W. A. "On Some Points in Skaldic Metre." Arkiv för Nordisk Filologi 16 (1900):
+    341-84.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L675">
+   <bib> Dietrich, F. E. "über ljóðaháttr." ZDA 3 (1843): 94–116.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L676">
+   <bib> Donner, Otto. "Das Metrum." Lieder der Lappen. Helsinki, 1876. pp. 29–36 and passim.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L677">
+   <bib> Du Méril, Edelestand. "De La Versification scandinave." In his Histoire de la poésie
+    scandinave. Paris, 1839. pp. 63-72.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L678">
+   <bib> Edzardi, A. "Die skaldischen Versmasse und ihr Verhältnis zur keltischen (irischen)
+    Verskunst." PBB 5 (1878): 570–89; 6 (1879): 262-64.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L679">
+   <bib> -----. "Zur Eddametrik." PBB 8 (1881): 343–49. A reply to Sievers (L733).</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L680">
+   <bib> Ehrhardt, Harald. Der Stabreim in altnordischen Rechtstexten. Diss., Frankfurt, 1976.
+    Heidelberg: Carl Winter, 1977. 221 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L681">
+   <bib> Einar Ol Sveinsson. "Bragfræthi." Islenzkar Bókmenntir í Fornöld, I. Reykjavík, 1962. pp.
+    103-37.</bib>
+   <notes>On Eddic metrics. </notes>
+  </item>
+
+
+
+  <item id="L681">
+   <bib> a -----. "Dróttkvae ða þáttur." Skírnir 121 (1947): 5–32.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L682">
+   <bib> Einarsson, Stèfán. "Hexameter in Icelandic Literature." MLN 68 (1953): 351-54.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L683">
+   <bib> Ent, W. van den. Het Fornyrðislag. Bijdrage tot de studie der metriek van het Oudgermansche
+    alliteratievers. Haarlem, 1924. 168 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L684">
+   <bib> Fafner, Jórgen. "En apologi for verslæren." Nordisk Tidsskrift for Tale og Stemme 26
+    (1966): 3–16.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L685">
+   <bib> Falk, H. "Om de rimende konsonanter ved helrim i dróttkvætt." Arkiv för Nordisk Filologi 10
+    (1894): 125-30.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L686">
+   <bib> Frank, Roberta. Old Norse Court Poetry: The "Dróttkvætt" Stanza. Islandica, vol. 42.
+    Ithaca, N.Y.: Cornell University Press, 1978.</bib>
+   <notes> Chapter 1 surveys the versification of Skaldic poetry. Dróttkvætt was the most complex
+    verseform evolved in all of the Germanic and Scandinavian lan- guages: strict rules stipulated
+    internal rhyme, end rhyme, alliteration, and a po- etic diction for the eight-line, symmetrical
+    stanza, each line of which had three stresses in six syllables and ended with an obligatory,
+    penultimate, long stressed syllable followed by a final short unstressed syllable. </notes>
+  </item>
+
+
+
+  <item id="L687">
+   <bib> Genzmer, F. "Alte und neue Auffassung der Skaldendichtung." GRM 17 (1929): 96–110.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L688">
+   <bib> Gering, H. "Die Rhythmik des Ljóðaháttr." ZDP 34 (1902): 162–234, 452-504.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L688">
+   <bib> a Hagen, S. N. "On the Origin of the Term Edda." MLN 19 (1904): 127-34.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L689">
+   <bib> Hallberg, Peter. Den fornisländska Poesien. Stockholm, 1962; 2nd rev. ed., 1964, translated
+    by Paul Schach and Sonja Lindgrenson as Old Icelandic Poetry: Eddic Lay and Skaldic Verse.
+    Lincoln: University of Nebraska Press, 1975. 219 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L690">
+   <bib> Haugen, E. "Prosodic System of Norwegian." Scandinavian Studies 39 (1967): 47– 51.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L691">
+   <bib> Heusler, Andreas. Der ljóðaháttr. Eine metrische Untersuchung. Acta Germanica, vol. 1, no.
+    2. Berlin, 1889. 84 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L692">
+   <bib> Hildebrand, Karl. "Die Versteilung in den Eddaliedern." ZDP, Ergänzungsband (1874), pp.
+    74–139.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L693">
+   <bib> Hollander, Lee M. "General Commentaries on Skaldic Verse: Metrics, Style, Origins, Etc." A
+    Bibliography of Skaldic Studies. Copenhagen: Ejnar Munksgaard, 1958. pp. 27-55.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L694">
+   <bib> -----. "Hat die Vollzeile des ljóðaháttr zwei oder drei Hebungen?" JEGP 30 (1931):
+    475-93.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L695">
+   <bib> -----. "Is the Skaldic Stanza a Unit?" Germanic Review 22 (1947): 298-319.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L696">
+   <bib> -----. "Notes on the Structure of Ljóðaháttr." Acta Philologica Scandinavica 6 (1931– 32):
+    39-54.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L697">
+   <bib> -----. "Observations on Skaldic Rime Usage with Special Reference to the dunhent and
+    liðhent Varieties of dróttkvætt." PMLA 61 (1946): 891-909.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L698">
+   <bib> -----. The Skalds. Princeton: Princeton University Press, 1945; rpt Ann Arbor: University
+    of Michigan Press, 1968. Introduction, pp. 1–24.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L699">
+   <bib> -----. "Some Observations on the Dróttkvætt Meter of Skaldic Poetry." JEGP 52 (1953):
+    189-97.</bib>
+   <notes>Affirms the pioneering insights of Sievers with supplementary observations on
+    alliteration, metrical patterns, and apportionment of line. </notes>
+  </item>
+
+
+
+  <item id="L700">
+   <bib> Hollmérus, R. Studier över alliterationen i Eddan. Skrifter utgifna af Svenska
+    Litteratursällskapet i Finland, no. 258. Helsinki, 1936.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L701">
+   <bib> Iacobus, Nicholai. Liber de distinccione Metrorum. Uppsala: Almqvist &amp; Wiksell,
+    1967.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L702">
+   <bib> Jessen, E. "Oldnordisk og Oldtysk Verselag." Tidsskrift for Philologi og Pædagogik 4
+    (1863): 249-92.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L703">
+   <bib> Jónsson, Finnur. "Navnet Ljóðaháttr og andre Versarters navne." Arkiv för Nordisk Filologi
+    8 (1892): 307-22.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L704">
+   <bib> -----. Stutt islenzk Bragfræði. Copenhagen, 1892. 82 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L705">
+   <bib> -----. "Ulige linjer i dróttkvædede skaldekvad." Arkiv för Nordisk Filologi 6 (1890):
+    121-55.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L706">
+   <bib> Jónsson, Guðni, ed. Edda Snorra Sturlusonar. Reykjavik, 1949.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L707">
+   <bib> Kahle, B. Die Sprache der Skalden auf Grund der Binnen- und Endreime. Verbunden mit einem
+    Rimarium. Strassburg, 1892. 303 pp.</bib>
+   <notes> Rev: in ANF 9 (1893): 378-84.</notes>
+  </item>
+
+
+
+  <item id="L708">
+   <bib> Kalinke, Marianne E. “Alliteration in 'Ívens Saga.'” MLR 74 (1979): 871-83.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L709">
+   <bib> Kock, A. Östnordiska och Latinska medeltidsordsprak. Copenhagen, 1889-94.</bib>
+   <notes>An alternative theory is proposed by Jiriczek in ZDP 28 (1895): 545 ff. See Classen
+    (L322). </notes>
+  </item>
+
+
+
+  <item id="L710">
+   <bib> Kock, Ernst A. "Ett kapitel nordisk metrik och textkritik." Arkiv för Nordisk Filologi 49
+    (1933): 279-94.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L711">
+   <bib> -----. Notationes Norrœnæ: Anteckningar till Edda och skaldediktning. Lunds Universitets
+    Arsskrift, n.s. 1, vol. 37, no. 5. Lund: C. W. K. Gleerup, 1941.</bib>
+   <notes> This number contains sections 3401–28 of the series, which catalogue Eddic metrical
+    forms. </notes>
+  </item>
+
+
+
+  <item id="L712">
+   <bib> Krappe, A. H. "Alexandrinische Nachklänge in der älteren Skaldendichtung." ZDA 71 (1934):
+    181-86.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L713">
+   <bib> Kreutzer, Gert. Die Dichtungslehre der Skalden: Poetologische Terminologie und
+    Autorenkommentare als Grundlagen einer Gattungspoetik. Kronberg: Scriptor, 1974; 2nd ed., 1977.
+    313 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L714">
+   <bib> Kuhn, Hans. Das Füllwort of -um im Altwestnordischen. Ein Beitrag zur altgermanischen
+    Metrik. Göttingen, 1929. 132 pp.</bib>
+   <notes> Rev: in JEGP 32 (1933): 399-402.</notes>
+  </item>
+
+
+
+  <item id="L715">
+   <bib> -----. "Westgermanisches in der altnordischen Verskunst." PBB 63 (1939): 178– 236.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L716">
+   <bib> -----. "Zum Vers- und Satzbau der Skalden." ZDA 74 (1937): 49-63.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L717">
+   <bib> Lehmann, Winfred P., and J. L. Dillard. The Alliterations of the Edda. Austin: University
+    of Texas Department of Germanic Languages, 1954.</bib>
+   <notes> An index. </notes>
+  </item>
+
+
+
+  <item id="L718">
+   <bib> Leumann, Ernst. "über ein nordarisches Dichtwerk und seine Versmasse." In his Zur
+    nordarischen Sprach und Literatur. Strassburg: K. J. Trübner, 1912. pp. 15– 28.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L719">
+   <bib> Lotspeich, C. M. "Musical Accent and Double Alliteration in the Edda. MP 6
+    (1909):375-84.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L720">
+   <bib> Malone, Kemp. "The Alliterative Pattern abba in the þulur." Saga-Book of the Viking Society
+    for Northern Research 11 (1928–36): 250-52.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L721">
+   <bib> Maverick, G. V. "Alliteration and Consonant Philology in Icelandic." Scandinavian Studies
+    40 (1968): 319-25.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L722">
+   <bib> Norrie, Gordon. "Metrisk Statistik: Fuldstædige og Overfulstændige Former af den Femfodede
+    Jambe." Danske Studien, 1934, pp. 70-76.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L723">
+   <bib> Oldberg, Ragnar. En Bok om Rim. Lund: C. W. K. Gleerup, 1945.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L724">
+   <bib> O'Neil, Wayne. "Linguistic Structures in Djurhuus's 'Grímur Kamban.'" Scandinavian Studies
+    35 (1963): 325-32.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L725">
+   <bib> Owen, Francis. "Alliteration in the Runic Inscriptions." MP 25 (1928): 397-408.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L726">
+   <bib> Pipping, H. Bidrag till Eddametriken. Skrifter utgifna af Svenska Litteratursällskapet i
+    Finland, no. 59. Helsinki, 1903.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L727">
+   <bib> Poestion, J. C. L'Assonance dans la poésie norraine. Vienna and Kolozsvár, 1884. 26
+    pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L728">
+   <bib> Recke, E. v. d. Principerne for den danske Verskunst. 2 vols. Kjóbenh, 1881.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L729">
+   <bib> Reinskou, Finn. "Snorri und die Skaldenmetrik." Festschrift Eugen Mogk. Halle: Max
+    Niemeyer, 1924. pp. 66-77.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L730">
+   <bib> Risberg, Bernhard. Den Svenska Versens Teori: Prosodiska och Metriska Undersökningar af. 2
+    vols. in 1. Stockholm: Ljus, 1905–7; 2nd ed. 1932. 259 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L731">
+   <bib> Rosenberg, C. "Bidrag til vore vigtigste Versemaals Historie, I: Fornyrðalag- Versemaalenes
+    rhytmiske Beskaffenhed." Nordisk Universitets Tidsskrift 8, 3 (1862): 1–70.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L732">
+   <bib> Ruke-Dravina, Velta. " 'Säf, säf, susa, våg, våg, slå': Problems of Onomatopoeia." Studia
+    Linguistica 32 (1978): 161-68.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L733">
+   <bib> Sievers, Eduard. "Beiträge zur Skaldenmetrik." PBB 5 (1878): 449–518; 6 (1879): 265–376; 8
+    (1882): 54-79.</bib>
+   <notes> Rev: in LGRP 1880, pp. 166–69. See also L679. </notes>
+  </item>
+
+
+
+  <item id="L734">
+   <bib> -----. Proben einer metrischen Herstellung der Eddalieder. Tübingen, 1885. 80 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L735">
+   <bib> Sjöros, Bruno. Malahattr: En Studie i fornisländsk Metrik. Diss., Helsinki, 1906. 152
+    pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L736">
+   <bib> -----. "Meter och Stil i Fornyrðislag." Festskrift tillägnad Hugo Pipping. Copenhagen,
+    1924. pp. 487-501.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L737">
+   <bib> Snorri Sturluson [1179-1241]. Bók þessi heitir Edda. Hana hefir samansetta Snorri Sturlu
+    sonr eptir peim hætti sem hér er skipat [Snorri's Edda, also known as the Prose Edda]. MSS ca.
+    1300.</bib>
+   <notes> See now the critical ed. of Part III (the Poetic Edda) by Faulkes. Snorri's critical
+    treatise/poem consists of three parts. The first provides an apo- logia for the beliefs of the
+    Æsir and a survey of their mythology. The second discusses poetic diction--kennings and one
+    other topic. The third is a 102- stanza, 100-meter praise poem intended as a display of
+    virtuosity as well as a metrical catalogue, with prose commentaries between each stanza
+    explaining the technique involved. "Edda" means poetics. The first known commentary on the Eddic
+    poetry in Old Icelandic. For further discussion, see: </notes>
+  </item>
+
+
+
+  <item id="L738">
+   <bib> Ciklamini, Marlene. Snorri Sturluson. Twayne's World Authors Series, no. 493. Boston:
+    Twayne Publishers, 1978.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L739">
+   <bib> For bibliographic information on the Edda see Icelandica 13 (1920): 74–95; 37 (1955):
+    93–104.</bib>
+   <notes> Criticism: </notes>
+  </item>
+
+
+
+  <item id="L740">
+   <bib> Brodeur, Arthur. "The Meaning of Snorri's Categories." University of California
+    Publications in Modern Philology 36, no. 4 (1952): 129-48.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L741">
+   <bib> Stephens, John. "Is the Skaldic dróttkvætt Metre Trochaic?" JEGP 70 (1971): 76-85.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L742">
+   <bib> Deleted.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L743">
+   <bib> Sylwan, O. Svensk Verskunst: Fran Wivallius till Karfeldt. Stockholm, 1934. 151 pp.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L744">
+   <bib> Taylor, Paul B. "The Rhythm of Völuspá." Neophilologus 55 (1971): 45-57.</bib>
+   <notes> Applies the systems devised by Creed (J61) and Issacs (J135) for Old English. </notes>
+  </item>
+
+
+
+  <item id="L745">
+   <bib> Turville-Petre, Gabriel. "On the Poetry of the Scalds and of the Filid." Ériu 22 (1971):
+    1–22.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L746">
+   <bib> -----. Introduction. Scaldic Poetry. Oxford: Clarendon Press, 1976.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L747">
+   <bib> -----. "Um Dróttkvæði og Irskan Kveðskap." Skírnir 128 (1954): 31-55.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L748">
+   <bib> Vigfusson, Gudbrand, and F. York Powell. "On the Old Northern and Teutonic Metre." Corpus
+    Poeticum Boreale. 2 vols. Oxford: Oxford University Press, 1883. Vol. 1, pp. 432-58.</bib>
+   <notes>See also s.v. "Metre" in the Index. </notes>
+  </item>
+
+
+
+  <item id="L749">
+   <bib> Wenck, Herbert. Zur Alliteration im Eddischen Fornyrðislag. Diss., Leipzig, 1905; rpt in
+    PBB 31 (1906): 91–238.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L750">
+   <bib> Wilken, E. Nykrat. "Metrische Bemerkungen. I: Zur Alliterationspoesie. II: Zur
+    Skaldenpoesie." Germania 24 (1879): 257–92; 28 (1883): 308–37. See also his note at 23 (1878):
+    446-47.</bib>
+   <notes> </notes>
+  </item>
+
+
+
+  <item id="L751">
+   <bib> Wisen, Theodorus. "Conspectus Metrorum." Carmina Norroena. 2 vols. in 1. Lund, 1886. pp.
+    169-211.</bib>
+   <notes/>
+  </item>
+
+
+
+  <item id="L752">
+   <bib> Worm, Ole. "Literarum Runicarum in Poesi usum uberius declarans." Appendix to his Runir seu
+    Danica Literatura Antiquissima. Amsterdam, 1636. See also pp. 105-13.</bib>
+   <notes/>
+  </item>
+ </chapter>
+</bibliography>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+    <chapter title="VISUAL (TYPOGRAPHIC) STRUCTURES">
+        <item id="H1">
+            <bib> Babcock, Sister Mary D. "Cummings' Typography: An Ideogrammic Style." Renascence
+                15 (1963): 115–23.</bib>
+            <notes> Draws an extended analogy to the Chinese written character as a profitable
+                approach to Cummings' poetic structure. </notes>
+        </item>
+        <item id="H2">
+            <bib> Babula, William. "The Shaped Sound of Faith: George Herbert's 'Easter Wings.'"
+                Oral English 2 (1976): 13–14.</bib>
+            <notes> Six paragraphs explain how the (heard) metrical pattern and the "visual emblem"
+                of this poem interact thematically to "twice indicate fall and rise." </notes>
+        </item>
+        <item id="H3">
+            <bib> Beloof, Robert L. "E. E. Cummings: The Prosodic Shape of His Poems." DA 14 (1954):
+                2342A (Northwestern).</bib>
+            <notes> With his customary cogency Beloof identifies seven prosodic modes in Cummings'
+                work: stress verse, free verse, pictograms, syllabic verse, oral verse in visual
+                form, dramatic free verse, and foot verse. The typographical poetry is found to be
+                both oral and visual. Three periods in Cummings' prosodic development are
+                postulated. The useful Appendix III classifies the poetry by prosodic type. </notes>
+        </item>
+        <item id="H4">
+            <bib> Brown, C. C., and W. P. Ingoldsby. "George Herbert's 'Easter Wings.'" Huntington
+                Library Quarterly 35 (1972): 130–42.</bib>
+            <notes> Since "the general shape of his stanzas is Greek, the precise dimensions
+                Hebrew," Herbert set for himself in the construction of the poem the problem of
+                synthesizing his Hellenic and Hebraic sources and their traditions. </notes>
+        </item>
+        <item id="H5">
+            <bib> Burton, D. "The Exploitation of the Word in Concrete Poetry." Thesis, University
+                of Birmingham, 1974.</bib>
+            <notes> </notes>
+        </item>
+        <item id="H6">
+            <bib> Butler, Michael. "Concrete Poetry and the Crisis of Language." New German Studies
+                1 (1973): 99–115.</bib>
+            <notes> H7 </notes>
+        </item>
+        <item id="H8">
+            <bib> Church, Margaret. "The First English Pattern Poems." PMLA 61 (1946): 636–50.</bib>
+            <notes> Based on her dissertation, "The Pattern Poem," at Radcliffe in 1945. The
+                rediscovery of the Greek Anthology at the end of the Middle Ages resulted in, among
+                other things, a considerable number of imitations of pattern poems- -in England, in
+                the sixteenth century, by Stephen Hawes, Richard Wills, and Puttenham, and on the
+                continent, by Scalinger, Jean Crispin, and Joannes Pierius Valerianus. N.B.:
+                Puttenham's mistaken attribution of the egg form to Anacreon proves he had not seen
+                an authentic text. </notes>
+        </item>
+        <item id="H9">
+            <bib> Conrad, Philip. "Visual Poetry." Poetry 32 (1928): 112–14.</bib>
+            <notes> Lucid argumentation that the chief merit of poetry as seen lies in the near-
+                instantaneous impression we gain, as opposed to the strictly sequential ordering of
+                meaning in sounds. See H31. </notes>
+        </item>
+        <item id="H10">
+            <bib> Crowley, John W. "Visual-Aural Poetry: The Typography of E. E. Cummings."
+                Concerning Poetry 5, 2 (1972): 51–54.</bib>
+            <notes> Argues that even in Cummings' most heavily typographical poems the oral- aural
+                dimension is not dispensed with. </notes>
+        </item>
+        <item id="H11">
+            <bib> Doyle, Mike. "Notes on Concrete Poetry." Canadian Literature, no. 46 (1970), pp.
+                91–95.</bib>
+            <notes> A freeform discussion of trends as an ostensible review of Oberon Press's
+                collection of concretism, The Cosmic Chef. </notes>
+        </item>
+        <item id="H12">
+            <bib> Draper, R. P. "Concrete Poetry." New Literary History 2 (1971): 329–40.</bib>
+            <notes> Having its roots in Elizabethan rhetorical patterning and Herbert's "Easter
+                Wings," concrete poetry is still a young and playfully inventive art; it will have
+                to become "visual not merely graphic," absorbing the dimension of space into a set
+                of rational and functional principles of meaning, as traditional poetry has done.
+                Three such principles are vertical-horizontal, axial, and circular. Many examples.
+            </notes>
+        </item>
+        <item id="H13">
+            <bib> Dust, Philip C. "George Herbert's Two Alter Poems." Humanistica Lovaniensia 24
+                (1975): 278–87.</bib>
+            <notes> </notes>
+        </item>
+        <item id="H14">
+            <bib> Finch, Peter. "Concrete Poetry: A Brief Outline." The Anglo-Welsh Review 43
+                (1970): 207–12.</bib>
+            <notes> Historical outline, that is, of the international movement in this century
+                (mainly Switzerland and Brazil), with examples. </notes>
+        </item>
+        <item id="H15">
+            <bib> Gray, Paul H. "American Concrete: New Poetics, New Performance." Studies in
+                Interpretation Vol. 2. Ed. Esther M. Doyle and V. H. Floyd. Amsterdam: Rodopi, 1977.
+                pp. 77–98.</bib>
+            <notes> History, trends, and possibilities for oral performance. </notes>
+        </item>
+        <item id="H16">
+            <bib> Hastings, Robert. "'Easter Wings' as a Model of Herbert's Method." Thoth 4 (1963):
+                15–23.</bib>
+            <notes> </notes>
+        </item>
+        <item id="H17">
+            <bib> Hedges, James S. "Correlation of Line and Syntax in Shaped Poems." Papers from the
+                1977 Mid-America Linguistics Conference. Ed. Donald M. Lance et al. Columbia:
+                University of Missouri Linguistics Program, 1978. pp. 445–51.</bib>
+            <notes> Random sampling of such a correlation in a large number of poets produces an
+                average: 95% in non-shaped poetry vs. 68% in shaped poetry. Conclusion: "when the
+                poet becomes preoccupied with the visual image of the poem upon the page, the
+                correlation between line and syntax is substantially lower than when the visual
+                shape of the poem on the page is dictated by nonvisual criteria, i.e. by the number
+                of syllables in the line, by phrasal units, by notions of rhythm analogous to
+                "isochronous units," etc. </notes>
+        </item>
+        <item id="H18">
+            <bib> Helms, Alan E. "I: Visual Prosody and the Sound of Punctuation." (Three-part
+                dissertation.) DAI 32 (1971): 3305A (Rutgers).</bib>
+            <notes> If prosody comprises the "total rhythmic form" of a poem then everything which
+                affects that form is by definition prosodic, including white space, lineation,
+                paragraphing, spatial deployment of lines, and--especially-- punctuation, since the
+                pointing controls both the temporal positioning and pacing of elements and also the
+                sense. "To alter the poem's punctuation is to alter the poem's prosody, and, hence,
+                its meaning," as can be shown by constructing twin dummy models of poems which
+                differ only in punctuation. </notes>
+        </item>
+        <item id="H19">
+            <bib> Higgins, Dick. George Herbert's Pattern Poems: In Their Tradition. West Glover,
+                Vermont: Unpublished Editions, 1977. 79 pp.</bib>
+            <notes> A twenty-page introductory essay followed by examples of Greek, Latin, and other
+                pattern poems. Islamic deserved much more attention. Bibliography. The traditions
+                for visual poetry are much older and wider than we think they are. </notes>
+        </item>
+        <item id="H20">
+            <bib> Hollander, John. "The Poem in the Eye." Shenandoah 23 (1972): 3–32</bib>
+            <notes>; rpt in revised form as chapter 12 of his Vision and Resonance (A13), pp.
+                245–87. There is melos, and then there is opsis. There is, as correlate to the
+                reading of poems, the "reading" of the shape of poems (in the sense in which art
+                critics talk about "reading" or "scanning" a painting) which is so crucial for our
+                determinations of meter and genre. There is the long tradition of poems picturing
+                things--the pattern poems of the Renaissance, the concrete poetry of our own
+                century--but then again there is the central visuality of syllabic verse and free
+                verse, the importance of which far surpasses mere picturing by form in its deep
+                access to the structure and nature--both quidditas and haecceitas--of the poem.
+                After all, "a poem's shape may be a frame for itself as it may be a frame for its
+                picture of the world." </notes>
+        </item>
+        <item id="H21">
+            <bib> Horn, Peter. "Poetical Set Theory and the Technocratic Consciousness." Theoria 40
+                (1973): 19–32.</bib>
+            <notes> Concrete poetry betrays a surprising degree of mysticism and irrationality,
+                given its fundamental ordering principle, permutation, and in the end seems more
+                advertisement than poetry. </notes>
+        </item>
+        <item id="H22">
+            <bib> Kell, Richard. "A Note on Versification." British Journal of Aesthetics 3 (1963):
+                341– 45.</bib>
+            <notes> A short but exceptionally illuminating exposition of how the texture and timing
+                of the line "Two stones dropping in a silent chasm" A B C D vary when the line is
+                broken, syntactically/typographically, into various vertical linear arrangements,
+                e.g.: A BCD A BC D AB CD A B CD A B C D ABC D </notes>
+        </item>
+        <item id="H23">
+            <bib> Kiyokawa, Shoichi. "Concrete Poetry." New York Quarterly, no. 14 (1973), pp.
+                176–81.</bib>
+            <notes> </notes>
+        </item>
+        <item id="H24">
+            <bib> Korn, A. L. "Puttenham and the Oriental Pattern-Poem." Comparative Literature 6
+                (1954): 289–303.</bib>
+            <notes> Research into the history of shaped poems, especially Persian and Turkish, shows
+                that Puttenham's four pattern poems in the Arte, purported to be translations, "owe
+                nothing demonstrable to any direct contact with Eastern patterns." Probably the form
+                was known to him only by word of mouth (from his trip to Italy?), and he seems to
+                have relied mainly on the Occidental geometrical tradition. </notes>
+        </item>
+        <item id="H25">
+            <bib> Kostelanitz, Richard, ed. Imaged Words &amp; Worded Images. New York: Outerbridge
+                and Dientsfrey, 1970.</bib>
+            <notes> </notes>
+        </item>
+        <item id="H26">
+            <bib> Lipski, John. "Connectedness in Poetry: Toward a Topological Analysis of E. E.
+                Cummings." Language and Style 9 (1976): 143–63.</bib>
+            <notes> Since the typography of a poem is a spatial structure, it has a geography, and a
+                topological analysis becomes possible: Lipski maps out rules for continuity in such
+                a text and then synthesizes them into a formal model. </notes>
+        </item>
+        <item id="H27">
+            <bib> McHughes, Janet L. "The Poesis of Space: Prosodic Structures in Concrete Poetry."
+                Quarterly Journal of Speech 63 (1977): 168–79.</bib>
+            <notes> Identifies three characteristics of concrete poetry: foregrounding of spatial
+                ordering, "reduction of language," and "functional repetition"; distinguishes three
+                varieties of concrete poetry: poems retaining elements of traditional prosody, poems
+                relying on sound for their "controlling structure," and poems employing space
+                exclusively. Concludes that concrete poetry is open to analysis and interpretation.
+                The examples are pleasing. </notes>
+        </item>
+        <item id="H28">
+            <bib> Marcus, Aaron. "An Introduction to the Visual Syntax of Concrete Poetry." Visible
+                Language 8 (1974): 333–60.</bib>
+            <notes> An adequate understanding of the possibilities inherent in this verseform rests
+                on an adequate typology of the basic modes of visual organization, or a "visual
+                syntax." Marcus postulates four types of relationships as syntactic constituents:
+                figure-field, depth, structure, and movement; these four types are illustrated by
+                fifty- seven subtypes with examples on pp. 356–60. This is the most valuable
+                treatment of the subject yet produced. </notes>
+        </item>
+        <item id="H29">
+            <bib> Merritt, Francine. “Concrete Poetry--Verbivocovisual.” Speech Teacher 18 (1969):
+                109–14.</bib>
+            <notes> An apologia. Some representative types of this verse: code poem, picture poem,
+                text poem, anagram, node, circle, constellation, emergent poem, computer-generated
+                lines, and the chance poem. Serious and judicious. </notes>
+        </item>
+        <item id="H30">
+            <bib> Mooij, J. J. A. "On the 'Foregrounding' of Graphic Elements in Poetry."
+                Comparative Poetics. Ed. D. W. Fokkema et al. Amsterdam: Rodopi, 1976. pp.
+                89–102.</bib>
+            <notes> The author's review of international works on Poetics reveals a surprising
+                reluctance to admit the graphic dimension of poetry as central to the theory. His
+                arguments for the primacy of the printed poem in the Western cultural tradition
+                include elements such as punctuation, lineation, and eye-rhyme, and forms such as
+                pattern poems and concrete poetry. Adapts Mukarovskij. </notes>
+        </item>
+        <item id="H31">
+            <bib> North, J. N. "Visual Poetry." Poetry 31 (1928): 3.</bib>
+            <notes> Quaintly, North considers it a "quaint delusion" that a poem "may be taken in
+                with the eye." See response by Conrad, H9. </notes>
+        </item>
+        <item id="H32">
+            <bib> Ostriker, Alicia. "Poem Objects." Partisan Review 40 (1973): 95–107.</bib>
+            <notes> A survey of concrete poetry. </notes>
+        </item>
+        <item id="H33">
+            <bib> Potter, James L. "Sylvester's Shaped Sonnets." Notes &amp; Queries 202 (1957):
+                405–6.</bib>
+            <notes> Notes eleven typographical poems that are also variant sonnets at the beginning
+                of Sylvester's Divine Weekes and Workes. </notes>
+        </item>
+        <item id="H34">
+            <bib> Ranta, Jerrald. "Geometry, Vision, and Poetic Form." College English 39 (1978):
+                707–24.</bib>
+            <notes> Though George Puttenham (E614) apparently had the last word on strictly
+                geometrical form in poetry, Ranta identifies two forms in modern poetry--a "rising"
+                and a "diminishing" design--which may be combined into a third, composite form, and
+                which also operate both visually and aurally--spatially and temporally. These
+                designs are conventional strategies of structure, not particularly connected to
+                Concretism; they entail adding, repeating, or deleting lines from stanzas. And
+                naturally the structural principle is displaced into imagery as well. The psychology
+                of perception offers corroboration. Turgid beyond endurance, this essay is too long
+                by half. </notes>
+        </item>
+        <item id="H35">
+            <bib> -----. "Palindromes, Poems, and Geometric Form." College English 36 (1974): 161–
+                72; also in Visible Language 10 (1976): 157–72.</bib>
+            <notes> Shows that three poems--by William Carlos Williams, E. E. Cummings, and Marianne
+                Moore--have a vertical, typographic, palindromic form, showing axial symmetry of
+                meter, sound, and syntax. None of them is as interesting as: "Lewd did I live, and
+                evil I did dwel" or "A man, a plan, a canal--Panama!" </notes>
+        </item>
+        <item id="H36">
+            <bib> Robbins, R. H. "Punctuation Poems--A Further Note." Review of English Studies 15
+                (1939): 206–7.</bib>
+            <notes> Poems capable of double interpretation depending on ambiguity of punctuation.
+                See James R. Kreuzer's earlier examples in H37 Review of English Studies 14 (1938):
+                321–23. </notes>
+        </item>
+        <item id="H38">
+            <bib> Sousa, R. "Concrete Poetry: A Contrastive Approach." Kentucky Romance Quarterly
+                [formerly KFLQ] 23 (1976): 199–212.</bib>
+            <notes> Contrasts a Pignatari concrete poem to Yeats's "The Magi" in order to point up
+                what devices, functions, and effects are available in each mode. Traditional poetry
+                allows patterning of sound, sense, rhythm, image, and ambiguity, whereas in concrete
+                poetry the signs take on added substance beyond their purely referential linguistic
+                nature, detaching themselves from the usual code if not establishing an entirely new
+                code, and representing the simplest (most fundamental) conceptual categories by the
+                strategy of spatialization. The two poems exemplify two entirely different "modes of
+                language use in poetry." </notes>
+        </item>
+        <item id="H39">
+            <bib> Stanley, Julia P. "The Escape from Syntax: or the Aesthetics of Dissolution."
+                Bucknell Review 22 (1976): 152–63.</bib>
+            <notes> A fusillade against concrete poetry for its goal of "removing language from its
+                role in the creation of poetry" or "the abrogation of language." Concrete poetry
+                "might be another art, but it is not poetry. . . . it is the content, the feeling,
+                the emotion that distinguishes poetry as an art." Value judgments masquerade as
+                premises in this completely muddled polemic. </notes>
+        </item>
+        <item id="H40">
+            <bib> Waldrop, Rosemarie. "A Basis of Concrete Poetry." Bucknell Review 22 (1976):
+                141–51.</bib>
+            <notes> Demonstration through numerous examples of the centrality of the principle of
+                reduction in concrete poetry; since a concrete poem is "a structure which explores
+                elements of language itself rather than one which uses language to explore something
+                else. . . . the real concrete text only represents itself and is identical with what
+                it shows." Jakobson's notion of equivalence and Levin's notion of coupling are also
+                turned to use. </notes>
+        </item>
+        <item id="H41">
+            <bib> Weaver, Mike. "Concrete Poetry." The Lugano Review 1 (1966): 100–25</bib>
+            <notes>; rpt in The Journal of Typographic Research [later Visible Language] 1 (1967):
+                293–326. Traces part of the early history of the Concretist movement then elaborates
+                a typology of concrete poems as (1) optic, (2) kinetic, or (3) phonetic. Many
+                examples. See also: L7, L15, L26, L78, L114, L132, L134–36, L160, L364, L878,
+                L950–51, N15, N25. </notes>
+        </item>
+    </chapter>
+</bibliography>

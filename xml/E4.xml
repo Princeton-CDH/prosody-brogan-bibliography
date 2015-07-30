@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+ <chapter title="">
+  <item id="E709">
+   <bib> Chatman, Seymour. "Comparing Metrical Styles." Sebeok (A19), pp. 149-72; rpt in Chatman and
+    Levin (A21), pp. 132-55. </bib>
+   <notes> More a systematic argument in the theory than an inductive comparison of the metrical
+    styles of Donne and Pope at Satires. Chatman follows an unimpeachable definition of meter--"a
+    systematic literary convention whereby certain aspects of phonology are organized for aesthetic
+    purposes"--with an enumeration of the types of metrical variation--"intra-systemic variation,"
+    either by displacement of metrical points or a change in syllable-count, or "countermetrical
+    variation," either by weak stresses under ictus or strong stresses outside of ictus or else by
+    the choice of junctures--an explanation of "the impression of speed" in verse (if it is not a
+    "lexically-induced illusion" it is caused by addition of extra syllables or else weak stresses
+    under ictus), a very succinct survey of the types of elision, and a distinction between poetic
+    style, interpretation, and performative style. On sound-patterning he deprecates mimesis, offers
+    an anatomy of devices, and observes that "the rhyme actually may provide information by limiting
+    the possibilities of interpretation." Close analyses of the poets are interpolated. N. B.: "I
+    have never been able to discover a good reason for assuming that a metrical accent point has any
+    closer connection with the zero that it follows than with the one that it precedes." Very
+    important essay. </notes>
+  </item>
+
+
+
+  <item id="E710">
+   <bib> -----. "Mr. Stein on Donne." Kenyon Review 18 (1956): 443-51. </bib>
+   <notes> A part of the symposium "English Verse And What It Sounds Like" and a reply to Arnold
+    Stein's notes on Donne's meters (E1070). Applying the Trager-Smith inventory, Chatman is
+    insistent that there can be no ambiguity or ambivalent "hovering" in meter (as Stein maintains);
+    any ambiguity in traditional scansion "is a paper ambiguity only. . . . [it] demands a
+    resolution in oral performance." "The very act of performance . . . forces the reader to resolve
+    ambiguities, to decide between alternatives. . . . ambiguity can only exist between the printed
+    page and the reader's eye. . . ." Cf. Levin (I35). </notes>
+  </item>
+
+
+
+  <item id="E711">
+   <bib> -----. "New Directions in Metrics." The Concise Encylopedia of English and American Poets
+    and Poetry. Ed. Stephen Spender and Donald Hall. New York: Hawthorn Books, Inc., 1963. pp.
+    229-33. </bib>
+   <notes> A simplified, clear, direct discussion of rhythmicity in verbal structures and that
+    higher ordering, meter, which is "a species of rhythm." In a sequence of regularly recurring
+    events, the key aspect is the prominences which mark regularity; for languages, specifically
+    English, these seem to be stresses. But though it is true to insist, No metric without its
+    phonetic, still no amount of phonetic analysis can discover, explain, or produce meter, since
+    meter is a convention arbitrarily imposed on the language. Chatman sketches out the two most
+    recent linguistic accounts of meter, Trager-Smith and Bolinger. The latter has so far been
+    scarcely explored, but its early findings are intriguing. </notes>
+  </item>
+
+
+
+  <item id="E712">
+   <bib> -----. "Robert Frost's 'Mowing': An Inquiry into Prosodic Structure." Kenyon Review 18
+    (1956): 421-38. </bib>
+   <notes> The first published application of structural linguistics to metrics, an analysis
+    "envisaging a tension between two systems: the abstract metrical pattern . . . and the ordinary
+    stress-pitch-juncture system of spoken English" which "incorporates both formula and
+    performance." The Trager-Smith system can elucidate the actual performance, so Chatman
+    transcribes eight readings of the Frost poem (one of them Frost's) and marks their intonation
+    patterns in order to resolve ambiguities of interpretation. The principle of tension between
+    oral performance and abstract metrical pattern is the central concept in structural- linguistic
+    metrics. See also John Crowe Ransom's summary comments at E627. </notes>
+  </item>
+
+
+
+  <item id="E713">
+   <bib> -----. A Theory of Meter. The Hague: Mouton, 1965. 229 pp. Pages 102-27 are reprinted as
+    "The Components of English Meter" in Freeman (A24), pp. 309- 35. </bib>
+   <notes> Rev: by C. F. P. Stutterheim in Levende Talen 239 (1967): 265-68. Up to its time the most
+    significant treatise in the field of metrics since Bridges (E491); Chatman provides a full-scale
+    theory of an order which has been rarely matched. His procedure is empirical throughout, and the
+    study never strays very far from its data. "Meter itself is a system, parallel to and actualized
+    by, but not to be confused with, the linguistic system." Chapter 2 surveys the psychology of
+    rhythm, since meter is, by general consensus, a species of rhythm. A very long Ch. 3 reviews
+    elementary phonology, since the relevant event or unit-object in meter is the syllable, followed
+    by the nature of prominence or ictus in meter; length, stress, and pitch are closely examined,
+    "stress" is defined, and the importance of pitch in stress is emphasized (following Bolinger).
+    Chapter 4 reviews earlier Objective studies of meter as well as Russian Formalist/American
+    Structural-Linguistic work. Chapter 5, the crux, states the theory: inductively, we do scan
+    poems--meter is agreed to exist--but no one linguistic feature can be shown to be an invariable
+    signal of metrical ictus. "Lexical stress unambiguously marks metrical ictus . . . unless
+    overridden by [phrasal stress]"; in confusing or ambiguious contexts, the "metrical set" of
+    expectations will then act to denominate the ictus and pre- serve meter. Scansion is a notation
+    of the meter of a recitation, while metrical analysis is a composite summing of all the
+    scansions; "the meter in this sense is a consensus, not a normative formulation." The foot is
+    defended on grounds of theoretical elegance and the pyschological reality of grouping. Four
+    degrees of syllable-stress are denoted (a, b, c, d) producing thirty-two varieties of disyl-
+    labic feet, excluding spondees, pyrrhics, ambiguous feet, and mono- and trisyllabic
+    sybstitutions [hence, no "metrical pause"], which are also allowed. Chapter 6 provides a sample
+    analysis of Shakepeare's Sonnet 18; eleven professional recordings are analyzed on a sound
+    spectrograph then checked against the judgments of a panel of expert judges; conclusions, pp.
+    182-83. A final chapter speculates on the functions of meter--an important and much- neglected
+    subject. See also Wode (E703). </notes>
+  </item>
+
+
+
+  <item id="E714">
+   <bib> "English Verse and What It Sounds Like." Kenyon Review 18 (1956): 411-77. </bib>
+   <notes> The famous and influential Kenyon symposium which inaugurated the new
+    structural-linguistic approach to metrics in essays by Harold Whitehall (E735) and Seymour
+    Chatman (E712, E710), followed by responses and appraisals by two of the most distinguished of
+    traditional literary critics, Arnold Stein (E667 and E1070) and John Crowe Ransom (E627).
+   </notes>
+  </item>
+
+
+
+  <item id="E715">
+   <bib> Epstein, Edmund L., and Terence Hawkes. Linguistics and English Prosody. Studies in
+    Linguistic Occasional Papers, no. 7. Buffalo: University of Buffalo Department of Anthropology
+    and Linguistics, 1959. 50 pp. </bib>
+   <notes> The monograph which constitutes the formal application of the methods of structural
+    linguistics (the Trager-Smith phonology; see D32) to English metrics. Dispensing with the
+    traditional binary metrical system (stressed- unstressed), the structural analysis notates all
+    the intonational features present in the normal production of speech, in four degrees of each:
+    stress: primary secondary teriary weak /, /\, \, Ë; pitch: highest high mid lowest 4, 3, 2, 1;
+    juncture: end-of-word end of phrase end-of-clause end-of-sentence +, |, ||, #. Assuming also,
+    then, the Relative Stress Principle (stress differences on syllables are relevant only within,
+    not across, the boundaries of the metrical foot) and what later came to be called the Allophonic
+    Principle (the second of two objectively equal syllables will be heard as louder--subsequently a
+    much- disputed rule), the iambic foot may be redefined as "weaker-stronger," and if the metrical
+    pause is allowed as well, the Epstein-Hawkes analysis yields 186 types of possible iambic feet
+    (taking into consideration only stress and juncture; adding pause yields another 44, and the
+    inclusion of pitch as well [the authors consider pitch peripheral, however] produces a total of
+    "only" !) 6,236 types of iambic feet in English). The method is applied to Samson Agonistes.
+    Varieties of trochees: 96 (stress and juncture only), besides 86 more (pause), or a total of
+    2,460 (including pitch). Possibilities for the anapest run several thousand higher, with those
+    for the dactyl being somewhat less, though in both cases the stress differences between the
+    three syllables of the foot are characteristically quite pronounced. And though the authors
+    define the metrical line typograph- ically, as a line of print, they reiterate that the basic
+    patterning (unit) in meter must be binary for sheer simplicity of description. Probably the
+    strongest feature of the whole structural-metric analysis is its efficacious demolition of
+    larger metrical units in favor of the traditional binary and ternary units, even of binary alone
+    (the ternary may be subsumed under the binary isochronically). The authors conclude that English
+    verse is fundamentally iambic. On the strophic leve they recognize that the context controls the
+    scansion of specific problematic lines, under a principle of greatest prevailing metrical
+    consistency. The strophe does in some sense define and determine the line (meter), so it is at
+    this level that an index of metrical tension becomes practicable for a text (see p. 49), an
+    index which would score gradations in its features both above and below the norm ("matrix").
+    "This is the difference between fine and coarse analysis," true enough, but structural metrics
+    also clearly proceeds from an assumption not that meter is made out of language but that meter
+    is language. In practice the authors ignore the conventionality of meter, in its reduction of
+    the linguistic system. This represents, in Jakobson's terms noted by Fowler, a confusion of
+    verse design and verse instance. No reader perceives six thousand types of iambs. Meter, both to
+    be written and to be read, must be a very simple pattern, underneath its elaborations. </notes>
+  </item>
+
+
+
+  <item id="E716">
+   <bib> Fowler, Roger. "'Prose Rhythm' and Meter." Fowler (A14), pp. 82-99; rpt in Freeman (A22),
+    pp. 347-65. </bib>
+   <notes> This lambent essay adapts the recent insights and concepts of structural metrics to
+    explain how meter interacts with grammar at both its higher and its lower levels, syntax and
+    phonology. The "counterpoint" of meter against syntax is essentially that of the line against
+    the sentence, and Fowler shows through examples that it would be possible to construct a "scale
+    of enjambement," an index sensitive to the force of the meter, essentially discontinuous,
+    pulling against the force of the syntax, toward continuity. (Note that counterpoint must be
+    sustained to deserve its name.) The play of metrical paradigm against the phonological structure
+    of the language (stress), however, is properly termed "syncopation" not "counterpoint." The
+    metrical pattern must be kept visible in order for tension to be created; otherwise the rhythm
+    is "sprung" out of its proper sphere of concessions and aggressions into a simple stress verse.
+   </notes>
+  </item>
+
+
+
+  <item id="E717">
+   <bib> -----. "Structural Metrics." Linguistics, no. 27 (1966), pp. 49-64; rpt in Chatman and
+    Levin (A21) pp. 156-69; rpt in Fowler (A12), pp. 124-40. </bib>
+   <notes> A thorough, careful review of Seymour Chatman's A Theory of Meter (E713), exploring not
+    only the book and its arguments but also the assumptions and methods of structural metrics in
+    America since 1951. Fowler's own differences from Chatman's principles and conclusions are
+    twofold, but not severe: he worries about systems in which "metre is easily and relevantly
+    described according to the practices of the linguists," and he urges the adoption of the full
+    Trager-Smith four-level phonological system (which Chatman rejects), believing that the "full
+    suprasegmental pattern . . . is metrically significant," since ictus can be created in several
+    ways. The reader who hasn't the time to read Chatman entire may safely trust this essay for a
+    solid and accurate understanding. </notes>
+  </item>
+
+
+
+  <item id="E718">
+   <bib> Fraser, G. S. Metre, Rhyme, and Free Verse. Critical Idioms Series, no. 8. London: Methuen,
+    1970. 88 pp. </bib>
+   <notes> A pocket-sized student's manual, the first of that sort to explictly adopt the
+    Trager-Smith four-level stress system. Chapters on Stress Meters, Syllable- Stress Meters,
+    Quantitative and Syllabic Meters, Rhyme, and Free Verse. Clear, non-technical explanations.
+    Fraser allows six actualizations of the metrical iamb (weaker-stronger), taking 4 as the weakest
+    stress and 1 as the strongest: 4-3, 4-2, 4-1, 3-2, 3-1, and 2-1 (Epstein and Hawkes (E715)
+    allowed fourteen). </notes>
+  </item>
+
+
+
+  <item id="E719">
+   <bib> Hawkes, Terence. "The Matter of Metre." Essays in Criticism 12 (1962): 413-21. Reply by F.
+    W. Bateson, pp. 421-23. </bib>
+   <notes> Thereafter the controversy widens: Hawkes, Terence, and F. W. Bateson. "The Matter of
+    Metre." EIC 13 (1963): 198-201. Then: Ridland, J. M., and F. W. Bateson. "The Matter of Metre."
+    EIC 14 (1964): 102-6. Then: Michel, Laurence. "The Emperor's Clothes (Again) or, Is Criticism
+    Possible? (Again)." EIC 15 (1965): 239-43; reply by Richard Stack, "Contre Michel, Or, the
+    Atomist as Contextualist," pp. 471-73. Finally: Hawkes, Terence. "New Prosodists for Old?" EIC
+    16 (1966): 258; rejoinder by Michel, "The Vanity of Zeugmatising--A Correction," p. 259. Hawkes'
+    review of Thompson (E91) complains of inadequacy and inconsistency in his application of the
+    Trager-Smith system, as if Thompson did not quite understand how to use his tools, as it were.
+    Bateson observes that the Trager-Smith system will allow comparisons of the weights of different
+    metrical feet and lines, but he also identifies the effort "to detach metre from poetry" as "the
+    prosodic fallacy," and he rejects the Allophonic Principle (the second of two equal sounds will
+    be heard as louder). This last he reiterates. Ridland interjects that meter is more conventional
+    than linguistic; metrical rules are like the rules of any game. Bateson seconds that by
+    stipulating a necessary intermediary between speech and meter, Line. Michel also criticizes
+    Thompson but in the process thoroughly discredits himself (as Stack shows) by a flagrant
+    misrepresentation, for which he later apologizes. The entries in vols. 15 and 16 may be ignored.
+   </notes>
+  </item>
+
+
+
+  <item id="E720">
+   <bib> -----. "The Problems of Prosody." Review of English Literature 3 (1962): 32-49. </bib>
+   <notes> Are the results of unwieldy and inaccurate conceptual machinery. The Trager- Smith
+    analysis is substituted, yielding fourteen types of iambs, six trochees, ten anapests, and two
+    dactyls, or thirty-two altogether. This system certainly allows better description of the
+    linguistic texture of a line, but it rests on the false assumption that the metrical system is
+    identical to the linguistic system underneath it. </notes>
+  </item>
+
+
+
+  <item id="E721">
+   <bib> Hewitt, Elizabeth K. "Prosody: A Structuralist Approach." Style 6 (1972): 229-59. </bib>
+   <notes> An expansion and refinement of her earlier presentation of a structuralist metric
+    (below). Hewitt criticizes the Halle-Keyser framework for failing to admit first trochaic feet
+    in iambic lines, final iambic feet in trochaic lines, contiguous strong stresses, and the
+    allophonic-stress principle; Magnuson and Ryder for mistakenly basing their metric on syntax;
+    and Beaver for the convenient optional status of the stress-exchange rule. She then presents a
+    refined version of her own theory, which contains three levels--Meter (marking ictus), Cadence
+    (juncture and strong stress), and Measure (pitch pattern and stress). Thus she has a tripartite
+    criterion for evaluating the metricality of a line: unmetrical, uncadenced, unmeasured. A line
+    that fails all three is "irregular." Finally, she tests the efficacy of her system against
+    Halle- Keyser and Magnuson-Ryder in twenty-three lines from Shakespeare's Sonnets, with detailed
+    analysis. </notes>
+  </item>
+
+
+
+  <item id="E722">
+   <bib> -----. "Structure and Meaning in T. S. Eliot's Ash Wednesday." Anglia 83 (1965): 426-50. </bib>
+   <notes> The scansion system of traditional metrics is too primitive, Hewitt argues, to describe
+    the complex transactions and levels of English language and verse, and so she produces a
+    "three-level prosodic analysis," and levels--meter, measure, and cadence--showing
+    (respectively)--ictus, stress, and pitch, and stress and juncture. The meter level is binary;
+    measure is rising or falling and comprises units of one stress and up to four slacks; cadence
+    comprises eleven poetic and five prose feet (in Eliot). The analysis of the poem correlates
+    these metrical forms with meaning, particularly the "fixity and flux" Eliot contemplates in
+    "Reflections on Vers Libre." These scansions are easily the most complex I have seen. </notes>
+  </item>
+
+
+
+  <item id="E723">
+   <bib> Hill, Archibald. "English Metrics: A Restatement." Published privately in his Essays in
+    Literary Analysis. Austin, Texas: Dailey Diversified Services, 1952. pp. 6-18. </bib>
+   <notes> Argues that a scansion which denotes (four degrees of metrical) stress, juncture, and
+    (isochronous periods of) time should supplant the two inadequate, "pre- phonemic" metrical
+    systems which cause such confusion in metrics--the one using the classical terminology, the
+    other based on music. </notes>
+  </item>
+
+
+
+  <item id="E724">
+   <bib> Kellogg, Robert L., and Oliver L. Steele. "On the Punctuation of Two Lines in The Faerie
+    Queen." PMLA 78 (1963): 147-48. </bib>
+   <notes> The authors contest Seymour Chatman's reading of "And like a Persian mitre on her
+    head/She wore" (in C45), citing parallel examples from Spenser as support, and defending both
+    the necessity of linguistic analysis of verselines and also the value of the Trager-Smith
+    notation of specific features against the criticisms of these procedures by Wimsatt and
+    Beardsley (E700). </notes>
+  </item>
+
+
+
+  <item id="E725">
+   <bib> Loesch, Katherine T. "Prosodic Patterns in the Poetry of Dylan Thomas." DA 22 (1962): 3295A
+    (Northwestern). </bib>
+   <notes> Trager-Smith analysis of Thomas's recordings of six of his major poems, vis à vis rhythm,
+    meter, and sound patterning. The poems seen to be in both syllabic- and foot-verse, with some
+    tendency toward dipodism. </notes>
+  </item>
+
+
+
+  <item id="E726">
+   <bib> Lozano, Ann. "Phonemic Patterning in Keats's 'Ode on Melancholy.'" Keats-Shelley Journal 17
+    (1968): 15-29. </bib>
+   <notes> A full Trager-Smith scansion of the poem reveals that it is generally isochronous, with
+    two differing durations between stresses. A full analysis of segmental patterning shows general
+    features of regularity, complementarity, and overlapping. Other matters of interest: Keats shows
+    a surprising preference for only a few vowels on the seventh syllable in the line; there is a
+    variance in distribution between those sounds that pattern horizontally and those vertically;
+    y-glides are frequent in rhymes; phonemes tend to be patterned in groups of threes. </notes>
+  </item>
+
+
+
+  <item id="E727">
+   <bib> Mosher, Harold F., Jr. "Organic Form in Gerard Manley Hopkins' 'Hurrahing in Harvest': A
+    Linguistic Reading." Language and Style 2 (1969): 172-89. </bib>
+   <notes> Applies traditional metrical analysis to the poem, treating it as if it were in
+    accentual-syllabic meter, to discover that no discernible pattern of traditional feet appears.
+    Mosher insists that the Trager-Smith system is the only adequate approach. Close analysis of
+    rhyme, alliteration, and consonance round out the paper. </notes>
+  </item>
+
+
+
+  <item id="E728">
+   <bib> Smith, Henry Lee, Jr. "Toward Redefining English Prosody." Studies in Linguistics 14
+    (1959): 68-76. </bib>
+   <notes> Amplification and reassertion of the author's view that "all of English 'metered' verse
+    is predominantly iambic." This thesis he bases on the structural-linguistic framework (four
+    degrees of stress) and two principles, the Relative Stress Principle (ictus falls "on the
+    syllable bearing the stronger of any two of the four stress phonemes") and the Allophonic
+    Principle (it also falls "on the second of two successive syllables bearing the same stress
+    phoneme"). Examples from Donne. </notes>
+  </item>
+
+
+
+  <item id="E729">
+   <bib> Stack, Richard C. "From Sweetness to Strength: A Study of the Development of Metrical Style
+    in the English Renaissance." DA 29 (1968): 616A (Stanford). </bib>
+   <notes> Stack distinguishes two broad metrical traditions in the Renaissance: one, running from
+    Surrey to Spenser, sought to develop viruosity by adapting the syntax to the meter as
+    mellifluously as possible; the other, best exemplified by Donne, sought to exploit the
+    possibilities for contrast, tension, and clash between the rhythm and the meter. Trager-Smith
+    notation of suprasegmentals is employed throughout to render more precise prosodic descriptions.
+    Concludes that Donne's verse reveals not metrical roughness or license but a remarkable
+    assimilation of natural speech within complex, severely constraining formal structures. </notes>
+  </item>
+
+
+
+  <item id="E730">
+   <bib> Stein, Arnold. "George Herbert's Prosody." Language and Style 1 (1968): 1-38. </bib>
+   <notes> No American critic has so successfully assimilated the precise descriptive instruments of
+    Trager and Smith into graceful yet incisive critical analysis as has Arnold Stein; this essay is
+    a showpiece of method [though protracted at times, one feels], explicating the rhythmic focus
+    and control of "the particular discriminations of . . . meanings" in "Employment" and "The
+    Crosse." Following the first four pages justifying his ways to men, Stein identifies three types
+    of phrasing--metrical, colloquial, and rhythmical [these terms are inaccurate]--in order to show
+    "the inventive ease with which [Herbert] adjusts colloquial and metrical phrasing to each
+    other," isolating also an important principle of "advancing intensity of stress" characteristic
+    of Herbert. </notes>
+  </item>
+
+
+
+  <item id="E731">
+   <bib> -----. The Movement of Words." In his George Herbert's Lyrics. Baltimore: Johns Hopkins
+    University Press, 1968. pp. 45-84. </bib>
+   <notes> Stein's consistently articulate prose and steady insight is here reinforced with the
+    precise descriptive apparatus of Trager and Smith (D32), using the numbers 1-4 to denote stress
+    and the standard bars and cross-hatches for juncture. Stein's purpose here, though, is less to
+    pursue a reading of Herbert than to establish the apparatus, and to show how Herbert's meters
+    and rhythms function "in both establishing and discovering meanings." </notes>
+  </item>
+
+
+
+  <item id="E732">
+   <bib> Sutherland, Ronald. "Structural Linguistics and English Prosody." College English 20
+    (1958): 12-17: rpt in Gross (A23), pp. 181-90; rpt in Readings in Applied English Linguistics.
+    Ed. Harold B. Allen. New York: Appleton-Century-Crofts, 1958; 2nd ed. 1964. pp. 492-99. </bib>
+   <notes> A succinct argument of the central position of Structural Metrics--i.e., that metrical
+    analysis can be considerably refined and augmented in descriptive power by adding pitch,
+    juncture, and two degrees of stress to the repertoire of features denoted in scansion. The new
+    method is compared to traditional scansion in a detailed analysis of Yeats's "Speech After Long
+    Silence." The advantage the structural method offers is not greater understanding but clearer
+    understanding. </notes>
+  </item>
+
+
+
+  <item id="E733">
+   <bib> Taylor, Clyde R. "Developments in English Prosody." Revue de l’Université de Sherbrooke
+    (Quebec) 3 (1962): 9-20. </bib>
+   <notes> Taylor establishes the very salient point that traditional metrics (a la Saintsbury) and
+    structural-linguistic metrics are in fact "describing different aspects of prosody [the first,
+    meter, the second, rhythm], and are not at all in competition with each other." Rejecting the
+    musical theory of meter and the analysis of stress-verse, Taylor then reviews the linguistic
+    work, questioning the selection of the subjects chosen to perform poems for recording and
+    analysis. The problem of poetic ontology at the end. </notes>
+  </item>
+
+
+
+  <item id="E734">
+   <bib> Wells, Rulon, et al. "Comments to Part Five." Sebeok (A19), pp. 197-200; </bib>
+   <notes> rpt in Chatman and Levin (A21), pp. 127-31. Responses and general discussion follow on
+    pp. 200-9 (in Sebeok), and notice also the summary comments on metrics by John Hollander (pp.
+    402-3) and René Wellek (pp. 413-14). Actually a study in poetic ontology (or epistomology),
+    alternatively): Wells distinguishes carefully between the poem, the (original) record of the
+    poem, all exact copies thereof, and adequacy vs. inadequacy in records of the poem. Conventional
+    orthography gives only a fairly adequate record; a phonetic transcription would be a much better
+    version. Though rules for determining meter can be given, the problem for the reader of poetry
+    is that he has to (1) infer an adequate record and (2) determine the meter simultaneously,
+    usually forcing him to use hypotheses about each problem to help solve the other. In the ensuing
+    discussion, the participants all manage to ignore each other at length. </notes>
+  </item>
+
+
+
+  <item id="E735">
+   <bib> Whitehall, Harold. "From Linguistics to Criticism." Kenyon Review 13 (1951): 710- 14. </bib>
+   <notes> Reprinted in the symposium on "English Verse and What It Sounds Like" (E714), pp. 411-21.
+    The essay reviews and anatomizes Trager and Smith's Outline of English Structure (D32), adding a
+    section on "Prosodic Implications." Whitehall's position: "as no science can go beyond
+    mathematics, no criticism can go beyond its linguistics." He illustrates how the Trager-Smith
+    4-level stress system can be adapted to the traditional 2-level system in metrics: the two
+    middle levels of stress may be variously promoted to ictus or suppressed to nonictus depending
+    on environment. English verse is (surprisingly?) also said to be isochronic, our language being
+    "stress-timed." Whitehall concludes with an outline of global verse-systems: ________syllabic
+    rhythms_______ | | non-configurational configurational verse | | | | syllabic verse isotonic |
+    isoaccentual | | | | Vedic | quantitative | | | | Chinese Greek Old English _non-syllabic
+    rhythms_ | | isosyntactic isochronic | | Hebrew English The configurational forms mark or weight
+    with one feature. English verse he suggests is "isoaccentual counterpointed with isochronic."
+   </notes>
+  </item>
+
+
+
+  <item id="E736">
+   <bib> Whitehall, Harold, and Archibald A. Hill. "A Report on the Language-Literature Seminar."
+    Readings in Applied English Linguistics. Ed. Harold B. Allen. New York: Appleton-Century-Crofts,
+    1958; 2nd ed. 1964. pp. 488-92. </bib>
+   <notes> The seminar topic was the examination of metrics "in light of phonemic theory," since
+    "there is no phase in literature where there is a more intimate relation between the structure
+    of the language and the structure of the literary work than in metrics." The components of meter
+    are three: stress (using Trager-Smith's four levels in the language and two levels in meter),
+    juncture (three levels--rising, falling, level--vulgarly known as "caesura"), and isochronism.
+    Two primary metrical traditions in English are identified: the isochronous (the native form) and
+    the isosyllabic (the foreign, syllable-counting form borrowed in Middle English); there are also
+    two main theoretical traditions: the traditional metrists (with concepts derived from classical
+    verse), whose system is adequate only for isosyllabic verse, and the musical metrists (Lanier,
+    etc.), whose system only describes isochronous verse. Both systems are said to be prephonemic."
+   </notes>
+  </item>
+
+
+
+  <item id="E737">
+   <bib> Williams, Joseph M. "Caliban and Ariel Meet Trager and Smith, or Descriptive Linguistics
+    and Teaching Literature." College English 24 (1962): 121-26. </bib>
+   <notes> Reviews several studies which apply structural-linguistic methods to literature,
+    especially on stress-metrics, criticizing them for describing single features in isolation and
+    mistaking description for interpretation. Offers a sample contrastive analysis of consonant
+    clustering and light stresses in the speeches of Caliban and Ariel to support intuitions about
+    verbal texture and characterization. See also: B32-33, B167, E67, E89-90, E608, E703, E1130,
+    E1490, E1513, Ill, I25, E35, E38-39. </notes>
+  </item>
+
+
+
+  <item id="E738">
+   <bib> Barnes, Mervin, and Helmut Esau. "Gilding the Lapses in a Theory of Metrics." Poetics n.s.
+    8 (1979): 481-87. Commentary follows by J. C. Beaver, pp. 489- 90. </bib>
+   <notes> Both the original and revised theories of generative metrics are unsatisfactory, the
+    authors argue, because they judge unmetrical all lines such as Keats's "How may bards gild the
+    lapses of time" which pose the problem of "double trochee after syntactic juncture." But
+    trochees are unquestionably admissible after juncture at the beginning of the line, so why not
+    elsewhere? Subsequent trochees after juncture are simply generalizations of the line-initial
+    case. Beaver replies politely (and correctly) that the authors do not define "juncture"
+    adequately. He does not mention the fact that they do not pursue their thesis to its logical
+    end, where "Never, never, never, never, never" would then be an acceptable iambic pentameter.
+   </notes>
+  </item>
+
+
+
+  <item id="E739">
+   <bib> Beaver, Joseph C. "Contrastive Stress and Metered Verse." Language and Style 2 (1969):
+    257-71. </bib>
+   <notes> The first to coin the term "generative metrics," Beaver here examines the problem which
+    H-K describe as "emphatic stress" (known to traditional metrists as "inverted feet") and
+    elaborates a rule for reversing stress which is to stand between the lexical and the phrasal
+    stress rules in the phonological cycle. On restrictiveness (optional or obligatory) no
+    conclusion is drawn. A theoretical essay on rule-ordering in a particular (the metrical)
+    environment. E740 MOVED to D44a. </notes>
+  </item>
+
+
+
+  <item id="E741">
+   <bib> -----. "Current Metrical Issues." College English 33 (1971): 177-97. </bib>
+   <notes> Beaver rejects the "totally accommodating" "performance grammar" of Magnuson-Ryder (while
+    approving the use of Distinctive Features). His purpose here is to establish a scale of
+    metricality, so glaringly absent in Halle- Keyser, based on stress rules more effective than
+    those ("correspondence rules") offered in "Illustration and Defense" (E778), including his
+    "Stress-Exchange Rule." This approach differs markedly from the Halle-Keyser metric, since
+    Beaver's rules disclose "several kinds of stress maxima." Throughout, careful and equanimitous
+    intellection. For a fuller exposition of Beaver's rules, see his E748 below. </notes>
+  </item>
+
+
+
+  <item id="E742">
+   <bib> -----. "Generative Metrics." Princeton (A18), pp. 931-33. </bib>
+   <notes> A summary review of the development of the school; Beaver elaborates the direct analogy
+    between transformational-generative grammar and generative metrics, argues that the new theory
+    is "more rigorous" than any of its predecessors, rebukes structural linguists ("the concept of
+    stress is not a phonetic one but a phonological one, and the theory is therefore in no direct
+    sense dependent on performance"), reviews the Magnuson-Ryder "Distinctive Feature" alternative,
+    and cites historical precedents for the generative approach. </notes>
+  </item>
+
+
+
+  <item id="E743">
+   <bib> -----. "Generative Metrics: The Present Outlook." Poetics 12 (1974): 7-28. </bib>
+   <notes> A later reassessment of the evolution of the theory and its problems; Beaver generally
+    defends his "extended original theory" against the original 1966 theory (E775) and the "revised
+    theory" (E777). Triple meters, nursery-rhyme verse, competence/performance, and free verse are
+    topics also treated; the section on nursery rhymes is particularly suggestive. </notes>
+  </item>
+
+
+
+  <item id="E744">
+   <bib> -----. "Generative Metrics: Revised Version I and II." University of Illinois Department of
+    Linguistics Newsletter 3 (1972): 11-12. </bib>
+   <notes> A note which argues that the author's own modification of the original Halle- Keyser
+    system is more adequate than their own revised version. </notes>
+  </item>
+
+
+
+  <item id="E745">
+   <bib> -----. "A Grammar of Prosody." College English 29 (1968): 310-21. rpt in Freeman (A22), pp.
+    427-47. </bib>
+   <notes> An influential early article providing revision, evaluation, and "critical commentary" on
+    the Halle-Keyser system. Beaver also turns to shorter-lined and trochic verse, finding that the
+    "greater rhythmic regularity" in verse of short lines may be explained generatively: short lines
+    are 50% denser in stress maxima. Triple meters seem to rely heavily on set syntactic formulae,
+    such as prepositional phrases, which put stress on the third syllable. The traditional "foot,"
+    enjambement, initial inversion, and metric stylistics are then considered in turn. Beaver
+    suggests revised stress rules but insists that Halle-Keyser's metrical principles offer a
+    "unified explanation" of the iambic pentameter line. The generative system, however, is
+    augmented by Chatman's analysis of five types of syllables (E713). </notes>
+  </item>
+
+
+
+  <item id="E746">
+   <bib> -----. "Progress and Problems in Generative Metrics." Papers from the Fourth Regional
+    Meeting Chicago Linguistic Society. Ed. B. J. Darden, C. J. N. Bailey, and A. Davison. Chicago:
+    University of Chicago Department of Linguistics, 1968. pp. 146-55. </bib>
+   <notes> An introduction, summary, and review of the work of Halle-Keyser (E775), Beaver (E745),
+    and Freeman (E766) on the conceptual structure of generative metrics, concluded by brief
+    discussion of the problems of phrasal stress rules, contrastive stress, secondary accent,
+    syntactic juncture, and vowels. </notes>
+  </item>
+
+
+
+  <item id="E747">
+   <bib> -----. The Prosody of John Donne. Chicago: Northeastern Illinois University Department of
+    Linguistics, 1976. </bib>
+   <notes> A bound typescript--not listed in MLA. Rev: in Style 12 (1978): 55-57. </notes>
+  </item>
+
+
+
+  <item id="E748">
+   <bib> -----. "The Rules of Stress in English Verse." Language 47 (1971): 586-614. </bib>
+   <notes> Recognizing that "stress maxima are created in different ways," Beaver examines stress
+    rules from Chomsky and Halle's Sound Pattern of English: The Nuclear Stress Rule frequently and
+    the Compound Stress Rules sometimes place stress maxima in unmetrical positions. Two additional
+    rules are proposed--a Stress Exchange Rule and an Alternating Stress Rule--to account for
+    various causes of stress maxima. A recognition of the possible rule combinations of all these
+    rules, Beaver argues, will account for "degrees of metricality." </notes>
+  </item>
+
+
+
+  <item id="E749">
+   <bib> -----. "A Stress Problem in English Prosody." Linguistics, no 95 (1973), pp. 5-12. </bib>
+   <notes> Reviewing "three approaches to the problem of how to handle back-to-back strong
+    stresses," Beaver again proposes his Stress Exchange Rule, whereby word-stress may be reversed
+    due to metrical context. The three positions are Traditional Prosody vs. Generative,
+    Magnuson-Ryder, and Chomsky-Hall stress rules. More interesting, though, is his comparison of
+    variant abstract descriptions of the same empirical phenomena on pp. 6-7. </notes>
+  </item>
+
+
+
+  <item id="E750">
+   <bib> -----. "A Stress Swapping Rule in English Verse." Papers from the Sixth Regional Meeting
+    Chicago Linguistic Society. Chicago: Chicago Linguistic Society, 1970. </bib>
+   <notes> pp. 447-53. Noting that the Nuclear Stress Rule creates a dilemma for the Halle-Keyser
+    system, Beaver proposes a later rule which would have the effect of exchanging stresses in cases
+    where the NSR creates an unmetrical line--the rule is obligatory for metered verse and optional
+    otherwise. </notes>
+  </item>
+
+
+
+  <item id="E751">
+   <bib> Bloomfield, Morton W. "Generative Grammar and the Theory of Literature." Actes de Xe
+    Congres International des Linguistes. Ed. A. Graur et al. Bucarest: Éditions de l'Academie
+    R.S.R., 1970. Vol. 3, pp. 57-65. </bib>
+   <notes> A very discursive survey of the uses of the new linguistics for literary analysis and
+    theory, focusing at one point on metrics. </notes>
+  </item>
+
+
+
+  <item id="E752">
+   <bib> Bowley, C. C. "Metrics and the Generative Approach." Linguistics, no. 121 (1974), pp. 5-19. </bib>
+   <notes> Argues that Halle and Keyser's conception of the "standard theory of metrics" (against
+    which they are reacting) is erroneous: the perfect pentameter line is not the "norm" from which
+    all variations (initial trochees, etc.) are deviations; rather, the consensus in traditional
+    metrics has been that variations are a part of the norm. Nor is the perfect pentameter line any
+    "ideal," since poets have so obviously labored to vary it. Thereafter, protracted attributions
+    from Bridges, Saintsbury, Omond, and McAuley follow. Finally, Bowley offers his own set of four
+    metrical rules, which will "account for all possible metrical patterns": these differ from the
+    generative account in that "metrical variation is . . . accounted for by differences in the
+    underlying metrical patterns, not by differences in the way the correspondence rules apply." A
+    tumid article but a trenchant criticism. </notes>
+  </item>
+
+
+
+  <item id="E753">
+   <bib> Buss, Karen O. H. "Stress-Placement in Milton's Verse: Implications for the Halle- Keyser
+    Theory of English Iambic Pentameter." DAI 35 (1974): 3727A (Brandeis). </bib>
+   <notes> A comparison of Halle-Keyser and Weismiller on trochaic feet in Milton, which are found
+    to comprise less that 1% of the lines in the canon. Both the two approaches are corroborated,
+    though Buss proposes an amended stress- placement rule, the effect of which is to suggest that
+    "the traditional concept of the foot is a meaningful one." Finally, the problem of the "relative
+    stress prominence" in two adjacent stressed syllables is examined in Pope and Milton, along the
+    lines of Beaver's work. </notes>
+  </item>
+
+
+
+  <item id="E754">
+   <bib> Cable, Thomas. "A Garland of Pomposities: Comment on Halle-Kayser Prosody." College English
+    34 (1973): 593-95. </bib>
+   <notes> Three substantial objections are raised: (1) the Halle-Keyser theory "assumes the
+    adequacy of the system" a priori in order to judge the adequacy of poetic lines, rather than
+    vice versa; (2) it makes "the assumption that there should be no violations, for the sake of
+    meter, of the 'linguistic givens'"--or, in other words, that rules for the general language will
+    account for poetic language, there being no such thing as "poetic license" or poetic
+    "deviation"; and (3) the theory excludes lines from actual poetry (Shelley) while admitting
+    strings of ordinary prose and other random discourse--i.e. it admits both too much and too
+    little. </notes>
+  </item>
+
+
+
+  <item id="E755">
+   <bib> -----. "Recent Developments in Metrics." Style 10 (1976): 313-28. </bib>
+   <notes> A lucid critique of generative work to 1976. Cable criticizes the Halle-Keyser theory for
+    "two crucial flaws": (1) taking the stress maximum rather than the foot as the metrical unit,
+    and (2) assuming that only stress ("segmental units") matter for meter, rather than other
+    "linguistic givens" (i.e. "suprasegmentals" such as pause, duration, pitch, juncture). The "only
+    progress [in Halle-Keyser] was the articulation of an explicit goal [Rules for determining
+    Metricality] for the study of meter." Moreover, Cable argues persuasively that the generativists
+    have been scornful of if not oblivious to much of the earlier scholarship of real value in
+    metrics. He considers Beaver's work to yield some progress, in that it tries explicitly to work
+    out other and better rules for metrical generation. Magnuson and Ryder's theory is dismissed
+    because it lacks generalization altogether: any rule written applies only to that line and no
+    other. Altogether, he concludes, the sole advance of the generative approach is the effort to
+    make the metrical rules explicit. </notes>
+  </item>
+
+
+
+  <item id="E756">
+   <bib> -----. "Timers, Stressers, and Linguists: Contention and Compromise." MLQ 33 (1972):
+    227-39. </bib>
+   <notes> Puckishly, Cable skewers the generative theory for two major flaws--the "Prosaic Fallacy"
+    ("some linguists cannot read poetry" because of their dogma about No Violations of Linguistic
+    Givens for the Sake of Meter) and the "Inclusive Fallacy" (the theory will admit almost any
+    random string as a metrical line). The objections to the generative metrics are "unanswerable."
+    The latter hald of the article argues for the existence of the "metrical pause." In sum it is an
+    elegantly written piece by a sometime Timer; cf. his position in the later Style article
+    (previous entry). </notes>
+  </item>
+
+
+
+  <item id="E757">
+   <bib> Devine, A. M., and L. D. Stephens. "The Abstractness of Metrical Patterns: Generative
+    Metrics and Explicit Traditional Metrics." Poetics (o.s. 16) n.s. 4,4: 411-29. </bib>
+   <notes> A comparison of traditional and generative metrics in order to show that some traditional
+    procedures are more effective than present generative ones and that the two might therefore be
+    usefully conjoined. "Once traditional metrics is made explicit, it becomes evident that the
+    label 'generative' is not really the prerogative of the so-called 'generative' approach to
+    metrical theory." (The examples are taken from the Classical meters.) </notes>
+  </item>
+
+
+
+  <item id="E758">
+   <bib> Dilligan, Robert J. "Ibant Obscuri: Robert Bridges' Experiment in English Quantitative
+    Verse." Style 6 (1972): 38-65. </bib>
+   <notes> A detailed anatomy of the concepts of stress, quantity, and pitch in Latin, Greek,
+    English, and in the work of Bridges and Stone, coupled with a computed scansion based on
+    Beaver's revised definition of the "stress maximum." A system for scanning stresses can be
+    applied to Bridges' work because he produced "a combination of accentual and quantitative
+    meter." </notes>
+  </item>
+
+
+
+  <item id="E759">
+   <bib> -----. "Verse Design in the Poetry of the Hopkins-Bridges Circle: An Essay in Computational
+    Metrics." DAI 31 (1970): 1755A (Wisconsin). </bib>
+   <notes> A computerized analysis of Hopkins, Bridges, and Patmore using a method of a "linguistic
+    orientation" (no more is divulged); these three poets were selected because their metrical
+    theories are concentrated on, respectively, stress, syllables, and time. Moreover, "Hopkins'
+    Sprung Rhythm and Bridges' experiments in quantitative verse are examples of phonemic and
+    nonphonemic verse-conventions for which linguistic, as contrasted with traditional, prosody is
+    [a] particularly suitable basis for analysis." The methodology is apparently generative.
+    Computer programs provided as an appendix. </notes>
+  </item>
+
+
+
+  <item id="E760">
+   <bib> Dilligan, Robert J., and Karen Lynn. "Computers and the History of Prosody." College
+    English 34 (1973): 1103-23. </bib>
+   <notes> The assumption behind all of Dilligan's work is that the only way to avoid impressionism
+    in prosodic studies is quantification: assertions are to be validated by distributions and
+    percentages. This essay describes the computer- program for an analysis of Hopkins, following
+    the revised theory presented in English Stress (E777) (since "in linguistics one finds a
+    methodology . . . that satisfies the need for explicitness and logical consistency"). But
+    Dilligan is clear about the recognition that "the statistics, then, are in no sense an
+    interpretation within themselves; they are simply a significant preliminary to interpretation."
+    All a computer can do is count and sort. </notes>
+  </item>
+
+
+
+  <item id="E761">
+   <bib> Dilligan, Robert J., and T. K. Bender. "The Lapses of Time: A Computer-Assisted
+    Investigation of English Prosody." The Computer and Literary Studies. Ed. A. J. Aitken et al.
+    Edinburgh: Edinburgh University Press, 1973. pp. 239-52. </bib>
+   <notes> Description of the four phases of the computer analysis, particularly the third--
+    cataloguing--since it is the computer's ability to sort very large files that is of use. A
+    sample of the running tallies on thirty-eight metrical variables by poem and by corpus is shown.
+   </notes>
+  </item>
+
+
+
+  <item id="E762">
+   <bib> Fowler Rowena. "Metrics and the Transformational-Generative Model." Lingua 38 (1976):
+    21-36. </bib>
+   <notes> A survey-commentary on the development of transformational-generative linguistics as
+    applied to metrics: the linchpin of Fowler's argument is that the application is based on an
+    analogy (there is a "grammar of prosody" equivalent to the grammar of the language) which has
+    decided limitations. Most conspicuously, the linguistic model exaggerates the extent of
+    poetry-as-a- piece-of-language: "although their basic material is linguistic and therefore
+    subject to description in linguistic terms, metrical and literary conventions are non-linguistic
+    aspects of form." Less conspicuously, the key concepts of T-G grammar, such as abstract pattern,
+    tranformational rules, deep structures, competence, or grammaticality, have shown only very
+    limited uses in metrics. Fowler distinguishes between the methods of theoretical metrics and
+    metrical stylistics and then enumerates advantages and disadvantages. A reflective essay which
+    scores some hits and some misses. </notes>
+  </item>
+
+
+
+  <item id="E763">
+   <bib> Fox, Allan B. "Chaucer's Prosody and the Non-Pentameter Lines in John Heywood's Comic
+    Debates." Languages and Style 10 (1977): 23-41. </bib>
+   <notes> Follows Ian Robinson (K318) in believing that "Chaucer's line is a non- pentameter, more
+    dependent on the alliterative accentual tradition of native verse. . . ." Analysis of Heywood
+    supports the further argument that his metric is better than most prosodists believe and that it
+    represents a coherent and substantial (alliterative) tradition throughout late-medieval and
+    early-Tudor poetry. His metrical unit, then, is neither the foot nor the (generative) position
+    but the phrase, or half-line. Rules on p. 29. </notes>
+  </item>
+
+
+
+  <item id="E764">
+   <bib> Freeman, Donald C. "Current Trends in Metrics." Current Trends in Stylistics. Ed. B. B.
+    Kachru and Herbert R. W. Stahlke. Edmonton (Canada): Linguistic Research, Inc., 1972. pp. 67-80. </bib>
+   <notes> Distinguishes the schools of metrists as Traditional (Shapiro, Beum, Fussell, Malof),
+    Structural (Epstein, Hawkes, Chatman, Fowler) and Generative, offers a sample analysis of
+    Dickinson's "Safe in Their Alabaster Cloisters" according to each system, argues for the
+    existence of a metrical "stressed rest", and concludes that the poem is a conflation of both the
+    syllabontonic (iambic pentameter) and accentual (Germanic four-stress verse) systems, which only
+    generative metrics can account for. The logic in all this is confused, and Freeman takes a his
+    model Halle-Keyser 1966 (E775) rather than 1971 (E777). </notes>
+  </item>
+
+
+
+  <item id="E765">
+   <bib> -----. "Metrical Position Constituency and Generative Metrics." Language and Style 2
+    (1969): 195-206. </bib>
+   <notes> Freeman is interested in synaloepha (metrical position:syllable = one:many) and diaeresis
+    (position : syllable = many : one); the essay interprets the data provided in Sipe (E1304) on
+    Shakespeare in order to derive the rules for permissible filling of metrical slots. </notes>
+  </item>
+
+
+
+  <item id="E766">
+   <bib> -----. "On the Primes of Metrical Style." Language and Style 1 (1968): 63-101; rpt in
+    Freeman (A22), pp. 448-91. </bib>
+   <notes> An early affirmative appraisal of Halle-Keyser, with application to Renaissance dramatic
+    blank verse. Granting that the forte of generative metrics is its mechanism for sorting metrical
+    from unmetrical lines, Freeman confronts the further, harder issue: "What are we to ask beyond
+    metricality? What does such a theory allow us to say about metrical style?" An entire set of
+    metrical-stylistic categories (a terminology) is needed which does not presently exist (none is
+    given here). Freeman criticizes the stylistic adequacy of structural metrics and shows the
+    stylistic "effects" of various stress-maxima realizations as the groundwork for a full-blown
+    generative theory of metrical styles. Detailed interpretation of statistics and examples. A
+    survey very extensive in scope and implication and superior to many that followed it. </notes>
+  </item>
+
+
+
+  <item id="E767">
+   <bib> Freeman, Margaret H. "Emily Dickinson's Prosody: A Study in Metrics." DAI 33 (1972): 2915A
+    (Massachusetts). </bib>
+   <notes> Generative metrics is particularly useful for describing Dickinson's unusual verse
+    because her enigmatic dashes "often serve to prevent unmetricality," but two rules need to be
+    added to the system stipulating when "stress rests" need to be supplied, since in E. D.'s verse
+    both the number and the positions of the stresses are important. Freeman concludes that
+    Dickinson wrote in two modes- -"syllabotonic rhythm" and "stress-rest rhythm." Surprisingly, she
+    also applies Creed's rules for Beowulf (J61) to E. D., in order to establish a connection
+    between the Germanic meter and the English ballad. </notes>
+  </item>
+
+
+
+  <item id="E768">
+   <bib> Greenblatt, Daniel L. "The Effect of Genre on Metrical Style." Language and Style 11
+    (1978): 18-29. </bib>
+   <notes> Plotting each degree of complexity on the Halle-Keyser scale against the number of lines
+    rated at that degree produces a graphic distribution curve for Ben Jonson which turns out to be
+    virtually identical to a standard Poisson distribution. Similar analyses of a reduced corpus
+    sorted by genre for each of six major seventeenth-century poets shows that (1) all except
+    Marvell vary their metrical style (as shown by complexity distributions) considerably among the
+    different genres, though (2) all six poets treat each genre essentially the same way metrically.
+    Genre exerts a "powerful" effect on metrical style. </notes>
+  </item>
+
+
+
+  <item id="E769">
+   <bib> -----. "Generative Metrics and Seventeenth-Century Prosody: A Quantitative Study." DAI 35
+    (1975): 4476A (Michigan). </bib>
+   <notes> An argument that generative metrics is superior to traditional metrics for quantitative
+    (computer-counting) studies. Analysis of concepts and procedures. </notes>
+  </item>
+
+
+
+  <item id="E770">
+   <bib> -----. "Generative Metrics and the Authorship of 'The Expostulation.'" Centrum 1 (1973):
+    87-104. </bib>
+   <notes> Concludes in favor of Jonson. </notes>
+  </item>
+
+
+
+  <item id="E771">
+   <bib> -----. "Variable Rules and Literary Style." Computers and the Humanities 11 (1977): 193-97. </bib>
+   <notes> Interested in the concept of the variable rule in linguistics, the author analyzes 1136
+    pentameters of Herrick and Jonson, writing such a rule to test for Weak- position stress
+    assignment. The rule is "systematically variable and context- senstive" and states that the
+    probability of stressing a W-position "increases when that position is preceded and/or followed
+    by an unstressed syllable, or when no major syntactic break is adjacent to it." </notes>
+  </item>
+
+
+
+  <item id="E772">
+   <bib> Guéron, Jacqueline. "Children's Verse and the Halle-Keyser Theory of Prosody." Children's
+    Literature: The Great Excluded, II. Storrs, Ct.: University of Connecticut Press, 1973. pp.
+    197-208. </bib>
+   <notes> A narrow application of the Halle-Keyser framework to English and French nursery- and
+    counting-rhymes, which turn out to have the same deep metrical structure, four stresses to the
+    line. Nowhere does the author distinguish ballad- meter as stress verse from accentual-syllabic
+    verse, but her realization rules allow filling of W-positions with from one to three syllables.
+   </notes>
+  </item>
+
+
+
+  <item id="E773">
+   <bib> -----. "The Meter of Nursery Rhymes: An Application of the Halle-Keyser Theory of Meter."
+    Poetics 12 (1974): 73-112. </bib>
+   <notes> The meter is syllabotonic, not tonic as in Old English, and the stress is clausal. Cf.
+    Burling (L19). </notes>
+  </item>
+
+
+
+  <item id="E774">
+   <bib> Halle, Morris. "On Meter and Prosody." Progress in Linguistics. Ed. M. Bierwisch and K. E.
+    Heidolph. The Hague: Mouton, 1970. pp. 64-80. </bib>
+   <notes> Abstracted in Actes du Xe Congres International des Linguistes. Ed. A. Graur et al.
+    Bucarest: Éditions de l'Academie R.S.R., 1970. p. 97. A theoretical discussion and typology of
+    Meter, Actualization, and Mapping Rules in the meters of a number of different languages.
+   </notes>
+  </item>
+
+
+
+  <item id="E775">
+   <bib> Halle, Morris, and Samuel J. Keyser. "Chaucer and the Study of Prosody." College English 28
+    (1966): 187-219; rpt in Freeman (A22), p. 366-426. </bib>
+   <notes> The original statement of the theory of generative metrics, as applied to the iambic
+    pentameter in Middle English; the definitions and concepts given here were much criticized and
+    amended later, and this article has no final authority. See the revised version of the theory at
+    E777. Halle and Keyser fix the fundamental aim of prosody as the distinguishing of metrical from
+    unmetrical lines. To this end they define the abstract (deep) metrical pattern of the iambic
+    pentameter line as having ten metrical positions, five even, five odd. Second, they define the
+    conditions under which a postion may be occupied by more than one (surface) syllable. Third,
+    they define the stress maximum (a syllable with stress greater than that on both syllables
+    adjacent to it), which may (or may not) occupy an even position but may not occupy an odd one,
+    as the fundamental criterion of metricality. The stress rules to be applied are lexical, and a
+    provision is made for caesurae (stress maxima undergo "neutralization" across "a major syntactic
+    boundary"). Two Condition rules allow disyllabic occupancy of the metrical positions. </notes>
+  </item>
+
+
+
+  <item id="E776">
+   <bib> -----. "English: III. The Iambic Pentameter." Wimasatt (A20), pp. 217-37. </bib>
+   <notes> Since Wimsatt's anthology appeared (1972) after the publication of Halley and Keyser's
+    English Stress (1971), this article takes account (in the Notes) of the additions to the theory
+    by Hascall, Beaver, and Freeman, and the objections by Wimsatt and Magnuson-Ryder, even though
+    the article itself is a simplified version of chapter 3 of English Stress (next entry). </notes>
+  </item>
+
+
+  <item id="E777">
+   <bib> -----. English Stress: Its Form, Its Growth, and its Role in Verse. New York: Harper &amp;
+    Row, 1971. 186 pp. </bib>
+   <notes> Rev: by Beaver in Language Sciences, no. 18 (1971), pp. 33-37. A theory of both phonology
+    ("The Stress System of Modern English" and "The Evolution of the English Stress System") and
+    metrics ("A Theory of Meter"). Chapter 3 should be considered the definitive statement of the
+    revised Halle-Keyser theory of generative metrics. It contains an introductory section on
+    general principles, a section on Old English alliterative verse, and a section on the iambic
+    pentameter. The revised rules are as follows: For Old English verse ABSTRACT METRICAL PATTERN:
+    (i) A verse line is composed of a first and second half-line (ii) The first-half-line is
+    composed of (X)*X (iii) The second half-line is composed of X(W)* CORRESPONDENCE RULES: (i) Each
+    X corresponds to a single S, or One X in a half-line may correspond to an S and a W in either
+    order DEFINITION: If in two or more stressed syllables the zero or more consonants that pre-cede
+    the vowel are identical or begin with an identical consonant or s-cluster, the syllables
+    alliterate. (ii) Syllables in S positions alliterate; syllables in W positions do not alliterate
+    For modern English verse ABSTRACT METRICAL PATTERN: (W)*SWSWSWSWS(X) (X) where elements enclosed
+    in parentheses may be omitted and where each X position may be occupied only by an unstressed
+    syllable CORRESPONDENCE RULES: A position (S, W, or X) corresponds to a single syllable or to a
+    sonorant sequence incorporating at most two vowels (immedi-ately adjoining or separated by a
+    sonorant conso-nant) DEFINITION: When a fully stressed syllable occurs between two unstressed
+    syllables in the same syntactic constituent within a line of verse, this syllable is called a
+    "stress maximum" (ii) Fully stressed syllables occur in S positions only and in all S positions,
+    or Fully stressed syllables occur in S positions only but not in all S positions, or Stress
+    maxima occur in S positions only but not in all S positions, Since the Correspondence Rules are
+    ordered from least to greatest generality, lines which violate them will be progressively less
+    metrical in the same order. Lines violating rule (1) will normally be considered acceptable
+    variations, while lines violating rule (iii) are simply unmetrical. Counting each infraction of
+    each rule as one unit will give a numerical score of the metrical complexity (i.e. degree of
+    metricality) of the line. (This procedure is unchanged from the original version of the theory.)
+   </notes>
+  </item>
+
+
+
+  <item id="E778">
+   <bib> -----. "Illustration and Defense of a Theory of the Iambic Pentameter." College English 33
+    (1971): 154-76. </bib>
+   <notes> Published after the codification of their theory in English Stress (which appeared in
+    Feb. 1971), Halle and Keyser here reprint a succinct account of the modified theory and respond
+    directly to the criticisms of Wimsatt (E814) and Magnuson-Ryder (E821). They reject Wimsatt's
+    view that the meter "exerts a certain kind of coercion . . . a quiet 'promotion' of certain
+    weaker syllables"--i.e., that the meter can "tilt" the "linguistic givens." The Halle- Keyser
+    view is that "meter is an abstract pattern embodied in linguistic material by virtue of specific
+    correspondence rules"; Wimsatt's approach is "contentless." They defend the concept of the
+    "stress maximum." The Magnuson-Ryder theory is examined at length and dismissed, its rules
+    having no applicable generalization beyond the separate lines they describe. </notes>
+  </item>
+
+
+
+  <item id="E779">
+   <bib> Hascall, Dudley L. "The Prosody of John Lydgate." Language and Style 3 (1970): 122-46. </bib>
+   <notes> A modification of the Halle-Keyser scansion system, recognizing changes in the language
+    between Chaucer and Lydgate; the original Halle-Keyser theory alone "does not work" for Lydgate.
+    The conclusion is that Lydgate is more regular metrically than is usually assumed, and that he
+    simply used, extensively, line types which are exceptional in Chaucer. </notes>
+  </item>
+
+
+
+  <item id="E780">
+   <bib> -----. "Some Contributions to the Halle-Keyser Theory of Prosody." College English 30
+    (1969): 357-65. </bib>
+   <notes> Close technical work: amendments to the Halle-Keyser 1966 rules (E775), and contravention
+    of their position on rhyme and stress. Also contradicted is their "No Violations of the
+    Linguistic Givens." </notes>
+  </item>
+
+
+
+  <item id="E781">
+   <bib> -----. "A Theory of English Meter: Accentual-Syllabic Verse." DAI 31 (1970): 2899A
+    (Harvard). </bib>
+   <notes> A twofold study: Hascall argues for the teaching of meter in high-school poetry classes
+    as the "only coherent internal structure" in poetry (à la Bruner); his method is "largely within
+    the framework" of Halle-Keyser. "The syllabic-accentual meters of English are determined as
+    iambic, ballad, trochaic, and triple meters." Finally, he considers problems of line length,
+    secondary stress in compounds, and rhyming of unstressed syllables, proposing solutions based on
+    a redefinition of "relative stress" and other features. </notes>
+  </item>
+
+
+
+  <item id="E782">
+   <bib> -----. "Triple Meter in English Verse." Poetics 12 (1974): 49-72. </bib>
+   <notes> An extension of the generative framework: Hascall discovers that triple meters (1) have
+    fewer applicable rule conditions, (2) depend much more heavily on phrasal stress than lexical
+    for the rhythm, (3) employ contrastive stress more frequently, and (4) require, for the
+    sacrifice in flexible line-length, stronger marking of stress in the ictus position. </notes>
+  </item>
+
+
+
+  <item id="E783">
+   <bib> -----. "Trochaic Meter." College English 33 (1971): 217-26. </bib>
+   <notes> Taking Nowottny as his text, Hascall applies Halle-Keyser yet once again, this time to
+    trochaics. The conditions turn out to apply much less often than in iambics, unmetrical trochaic
+    lines are rare; the meter is fixed at the very outset of the line; more positions are fitted by
+    stress maxima. There is "less distance, in trochaic verse, between the metrical line and the
+    poetic line." Provocative suggestions near the end. See also Newton (E779), Steward (E331),
+    Atkins (E467), and Creek (E18). </notes>
+  </item>
+
+
+
+  <item id="E784">
+   <bib> Heller, Janet Ruth. "Enjambement as a Metrical Force in Romantic Conversation Poems."
+    Poetics 6 (1977): 15-26. </bib>
+   <notes> A suggestion to revise the Halle-Keyser definition of "stress maximum" so as to allow its
+    occurrence in position 10 of emjambed lines; in effect, therefore, a complete abandonment of the
+    concept of "line" as "the ultimate domain" in the generative system. Under the revised
+    definitions, the number of stress maxima rise sharply (12-16%) and the distribution patterns of
+    course change. E785 -----. "Syntactic Juncture and the Halle-Keyser Theory of Iambic
+    Pentameter." Language and Style 11 (1978): 164-67. Sharp criticism of Halle and Keyser's
+    treatment of major syntactic junctures. Their later view--that juncture neutralizes stress
+    maxima--contradicts their original position, prohibits their results from being compared with
+    those of other researchers (Freeman), produces undesirable redundancies in the theory, is based
+    on a flimsy definition of terms, and does not differentiate pauses from larger junctures, in sum
+    creating more problems than it solves. </notes>
+  </item>
+
+
+
+  <item id="E786">
+   <bib> Ihwe, Jens. "On the Foundations of 'Generative Metrics.'" Poetics n.s. 4,4(o.s. 16)(1975):
+    367-400. </bib>
+   <notes> A metatheoretical and metaprocedural essay. Ihwe believes that in fact "genera-tive
+    metrics" is not particularly generative and that it will not become so until it establishes an
+    adequately descriptive metalanguage. He examines the work of Kiparsky (E827) approvingly, and
+    the work of Halle (E774), and others: the tranformational framework must be more rigorously
+    applied, he concludes, in order to explain precisely how "the structure of national languages
+    permits the introduction and development of metrical systems and makes them thus accentually
+    possible." </notes>
+  </item>
+
+
+
+  <item id="E787">
+   <bib> Jussel, Richard F. "A Linguistic Analysis of Pope's Prosody." DAI 36 (1975): 2780A
+    (Northern Colorado). </bib>
+   <notes> Jussell claims that the generative theory "does not deny the validity of any of the other
+    critical approaches to the study of Pope." In fact "it supports them," since it "deals with
+    placement of linguistic stress, not metrical stress." Also examined: the linguistic and metrical
+    aspects of metaphor, tone, and stylistic development. </notes>
+  </item>
+
+
+
+  <item id="E788">
+   <bib> Keyser, Samuel J. "The Linguistic Basis of English Prosody." Modern Studies in English. Ed.
+    David A. Reibel and Sanford A. Schane. Englewood Cliffs: Prentice-Hall, 1969. pp. 379-94. </bib>
+   <notes> Keyser finds the precedent for prosodic rules in Bridges (E491). This article presents
+    modifications of Halle-Keyser 1966 (E775); in general it is a simplified, non-technical
+    introduction to the generative theory for iambic pentameter. </notes>
+  </item>
+
+
+
+  <item id="E789">
+   <bib> -----. "Old English Prosody." College English 30 (1969): 331-56. </bib>
+   <notes> A "companion piece" to Halle-Keyser 1966 (E775), with rule-adjustments for accentual
+    verse. In addition, a detailed response to Sievers, with glanes at Pope (prosodist), Sir Gawain,
+    and nursery rhymes. Notice that in the generative account of the OE verse only one full stress
+    need appear in a half-line to confirm it as metrical. And the matter of "resolved stresses" is
+    dispensed with. See the revised rules for Old English meter at E777. And see E807. </notes>
+  </item>
+
+
+
+  <item id="E790">
+   <bib> Klein, Wolfgang. "Critical Remarks on Generative Metrics." Poetics 12 (1974): 29- 48. </bib>
+   <notes> Beginning with the notion that "metrics deals with the order of marked and unmarked
+    elements in discourse," Klein isolates fifteen Questions any metrical theory must answer. He
+    contrasts at length the generative theories to the earlier "taxonomical" (descriptive) ones and
+    rejects the notion of a "metrical competence" in speakers analogous to the linguistic
+    competence. "The main fault of standard theory is . . . that it tries to grasp all possible and
+    allowable deviations by means of a list" (rather than a rule). But the generative theory, on the
+    other hand, "is not able to distinguish between metrical and unmetrical lines," is flagrantly
+    accomodating, and "cannot establish a difference between iambic and trochaic lines." The older
+    empirical theory is to be preferred to the newer theory, which is "fundamentally inadequate"
+    because its formulation is "a statement on the nature of the infinite set of possible iambic
+    pentameters." </notes>
+  </item>
+
+
+
+  <item id="E791">
+   <bib> Küper, Christoph. "Moglichkeiten and Grenzen der Generativen Metrik." Linguistische
+    Berichte 27 (1973): 8-40. </bib>
+   <notes> Reviews the standard and revised Halle-Keyser theories and the Magnuson- Ryder approach,
+    then tests the standard and revised theories on the verse of Dylan Thomas and G. M. Hopkins in
+    order to discover the limits of the Halle-Keyser theory's applicability. These limits turn out
+    to be rather severe, though Thomas can be described more adequately than Hopkins: (1) lines in
+    the same meter but with different lengths cannot be usefully compared; (2) intentional shifts of
+    meter in mid-line, common in Hopkins, are classed as unmetrical; (3) mixed meters cannot be
+    described; (4) the theory misunderstands Old English meter by not paying attention to the number
+    of slacks; (5) Sprung Rhythm, in which the stress-count varies, cannot be adequately explained;
+    (6) no adequate justification for a scale of complexity is given; and (7) no clear line is drawn
+    between complex and unmetrical. Küper gives Correspondence Rules for Sprung Rhythm at the end.
+   </notes>
+  </item>
+
+
+
+  <item id="E792">
+   <bib> Levin, Samuel R. "A Revision of the Halle-Keyser Metrical Theory." Language 49 (1973):
+    606-11. </bib>
+   <notes> A cogent demonstration of the incoherence of Correspondence Rule 52bii in English Stress
+    (E777). Levin offers a simplified, ordered, more conceptually elegant set of three rules, each
+    of which "describes a metrical type," and defines the violation of the next more complex
+    metrical type, thus producing a simpler and clearer index of metrical complexity. </notes>
+  </item>
+
+
+
+  <item id="E793">
+   <bib> Lynn, Karen. "Chaucer's Decasyllabic Line: The Myth of the Hundred-Year Hibernation."
+    Chaucer Review 13 (1978): 116-27. </bib>
+   <notes> Based on her dissertation, DAI 34 (1974): 4210A (U.S. C.). Computer analysis (using the
+    Dilligan programs) of samples of the verse of the Post-Chaucerians disproves the thesis that
+    these poets misunderstood the master's versification; rather, they extended metrical variation
+    beyond the limits Chaucer allowed himself as well as adding new possibilities. Specifically,
+    they more frequently (1) filled one metrical position with two syllables, expanding the range of
+    permissible elisions, (2) elided unstressed suffixes to their roots, (3) dropped a syllable in
+    position 5, leaving a rest after the caesura (Lydgate's "broken-backed" line), and (4) rhymed
+    stressed syllables with unstressed. Metrical complexity scores: Chaucer, 1.8; Dunbar, 2.0;
+    Hoccleve, 2.7; and Lydgate and Skelton, 3.0. Chaucer's grace and "lightness" of line result from
+    stresses often falling under ictus; his followers, in contrast, often weighted their lines by
+    spreading stresses into non-ictic positions. But more interesting still is the discovery that
+    stress-neutralization by adjacent syntactic break is radically different from neutralization by
+    adjacent stress, producing a much smoother effect stylistically. </notes>
+  </item>
+
+
+
+  <item id="E794">
+   <bib> Meyers, Gerald W. "Modern Theories of Meter: A Critical Review." DAI 30 (1970): 3912A
+    (Michigan) </bib>
+   <notes>. After identifying the functions of a metrical theory as (1) historical analysis, (2)
+    characterization of styles, and (3) close study of a text, Meyers distinguishes three schools of
+    metrists: Traditional (e.g. Fussell, Wimsatt &amp; Beardsley, Fowler), Performance (Charman,
+    Epstein and Hawkes), and Language-Competence (Halle-Keyser). Traditional metrics is "in essence
+    a psychological theory" and "workable but unnecessarily complicated." The extreme variation in
+    oral performances of poetry has not yet been adequately comprehended in a notation system, and
+    so Performance metrics is not yet successful. Linguistic metrics, however, is "the most
+    promising of modern theories of meter," because it assumes that "the language . . . together
+    with the shared competence of speakers of the language, provides sufficient information for
+    describing the metrical situation." In short Meyer prefers the Halle-Keyser apparatus. He does
+    however admit its difficulties and suggests as partial solutions a revised notation system and a
+    reduction from Halle-Keyser's de facto three levels of stress to two by dismissing the notion of
+    neutralization. </notes>
+  </item>
+
+
+
+  <item id="E795">
+   <bib> Miller, D. Gary. "Language Change and Poetic Options." Language 53 (1977): 21- 38. </bib>
+   <notes> Argues that the rules for "options" in poetry (i.e. various metrical styles) are
+    identical to those for changes in language in general--i.e., rule relaxation, rule- reordering,
+    rule generalization, and rule inversion. Distinguishes three types of complexity--linguistic,
+    metrical, and rhythmic--and criticizes both Halle- Keyser and Kiparsky for measuring the wrong
+    type of complexity and failing to define the domains of each type. </notes>
+  </item>
+
+
+
+  <item id="E796">
+   <bib> Mintzer, Paul. "Linguistics and the Art of Criticism." DAI 38 (1978): 6696A (Northwestern). </bib>
+   <notes> Chapter 3 constructs a model for "extending the Halle-Keyser metrical system to rhythmic
+    verse," whatever that is. </notes>
+  </item>
+
+
+
+  <item id="E797">
+   <bib> Napoli, Donna Jo. "A Note on Synalepha and Stress Mexima." Poetics n.s. 4,4(o.s. 16)(1975):
+    401-10. </bib>
+   <notes> Examines the interaction of two Correspondence Rules (Synalepha and the Stress Maximum
+    Constrant), without any final resolution. </notes>
+  </item>
+
+
+
+  <item id="E798">
+   <bib> Neufeldt, Victoria E. "The Metric of English Alliterative Verse: Piers the Plowman and
+    Beowulf." DAI 39 (1978): 2226A (Toronto, 1976). </bib>
+   <notes> Demonstration that Halle and Keyser's generative theory for alliterative verse is
+    seriously inadequate and should be replaced with a model, "based on the hypothesis that the
+    phonological phrase is the basis of the traditional Germanic alliterative half-line," which will
+    more adequately describe Langland's meter. </notes>
+  </item>
+
+
+
+  <item id="E799">
+   <bib> Newton, Robert P. "Trochaic and Iambic." Language and Style 8 (1975): 127-56. </bib>
+   <notes> The author collects a number of apparently trochaic lines with initial iambic
+    substitutions in order to show that they can be proven metrical by the Stress Maximum Principle
+    though not by traditional scansion. [Note however that the examples are nearly all in tetrameter
+    verse, that the percentages for occurrence in pentameter and tetrameter verse vary widely and
+    consistently, and that Newton admits several of the sample poems are in mixed meters.
+    Traditional metrics would say these lines are regular headless iambics.] Initial inversion is
+    four times more prevalent in iambic verse than trochaic, and medial inversions have similar
+    frequencies. Newton criticizes Hascall's approach (E783) and concludes that Structural Metrics
+    by nature will never be able to give a coherent differentiation of "trochaic" and "iambic"
+    lines. Halle and Keyser never will either until their generative rules are revised. Newton's own
+    approach (summarized on pp. 146-52), based on the experiments of Snell, Woodrow, Warner Brown,
+    and the like, specifies differences in rhythmical grouping: trochaic feet are shorter than
+    iambic; the length of stress to slack is 2:1 in iambic but 1:1 in trochaic. An essay very wide
+    in scope, but discomfitingly disorganized. Cf. Hascall (E783), Creek (E18), Stewart (E331), and
+    Atkins (E467). E800 Olsen, Leslie A. "A Description of the Blank Verse Prosodies of John Milton,
+    James Thomson, Edward Young, William Cowper, and William Wordsworth." DAI 35 (1974): 3002A
+    (U.S.C.). The methodology is Halle-Keyser, using a computer program (developed by Dilligan) to
+    examine stress maxima, assonance, alliteration, and elisions. Wordsworth and Milton turn out to
+    be more similar to each other metrically than to the other three, and Wordsworth "nearly
+    re-attains the level established by Milton" in "some quantitative supportable ways." Thomson and
+    Cowper seem to compose verse using "syntactic formulas." Young's blank verse shows a strong
+    influence from the couplet. </notes>
+  </item>
+
+
+
+  <item id="E801">
+   <bib> Rehor, Rosalind J. "This Round Dome: An Analysis of Theme and Style in the Poetry of Robert
+    Lowell." DAI 33 (1972): 1709A (Case Western Reserve). </bib>
+   <notes> Includes a Halle-Keyser analysis of meters and a lexical-syntactic concordance. </notes>
+  </item>
+
+
+
+  <item id="E802">
+   <bib> Roach, Bruce V. "On S. J. Keyser's Rules of Prosody." College English 36 (1974): 217-18. </bib>
+   <notes> Rebukes Keyser for failing both at accuracy and at completeness in his abstract
+    "model-building" and suggests an alternative version of the Abstract Metrical Rules which will
+    solve the problem. And, since Roach believes that all generative theories suffer "problems in
+    bridging the gap between phonemics and syllabics," he offers a Saussurean phonemic rule. Keyser
+    declines to reply. </notes>
+  </item>
+
+
+
+  <item id="E803">
+   <bib> Sapora, Robert W., Jr. A Theory of Middle English Alliterative Meter with Critical
+    Applications. Speculum Anniversary Monographs, no. 1. Cambridge Mass.: Mediaeval Academy of
+    America, 1977. 117 pp. </bib>
+   <notes> Based on his dissertation of the same title, DAI 36 (1976): 7395A (Connecticut). Using
+    the Halle-Keyser framework, Sapora proposes a system of twenty-three levels of metrical
+    complexity for alliterative verse, based on the stressed (and alliterating) syllables but
+    ignoring all unstressed syllables in between as metrically irrelevant. One wonders how anyone
+    could wish to defend such a position, since Sievers, Pope, Cable, and others have shown that
+    even in Old English "stress verse" the weak syllables are metrically significant. </notes>
+  </item>
+
+
+
+  <item id="E804">
+   <bib> Schap, Keith. "A Transformational Study of John Dryden's Metrical Practice." DAI 33 (1973):
+    5692A (Indiana). </bib>
+   <notes> Conjoins Halle-Keyser scansion and Richard Ohmann's notion of deep- and
+    surface-structures vis à vis style in order to analyze the relationship of meter to meaning in
+    MacFlecknoe and The Medal. </notes>
+  </item>
+
+
+
+  <item id="E805">
+   <bib> Schultz, Hartwig. "Engwicklungsmöglichkeiten der generativen Metrik." Linguistische
+    Berichte 37 (1975): 27-35. </bib>
+   <notes> Agrees with Ihwe that generative-metrical rules have only taxonomic value and that what
+    they predict is either tautological or nonexistent. The only new and valuable concept is that of
+    the "filter." "Complexity" is attractive, too, though the counting-method of complexity ranking
+    eliminates any possibility for an explanation of the nature of complexity. A study of the
+    position of more complex lines in a poem would give us more information than the present
+    "leveling" method. Kiparsky's system has gaps and cannot indicate hierarchies of accentu- ation.
+    His alternation rule will not serve even if refined because it pays insufficient attention to
+    secondary stresses in W-positions. The "constrastive" and "emphatic" stresses of Bierwisch also
+    will not do. Schultz argues that the cyclical application of the stress rules in classical
+    generative phonology will suffice. Application to the verse of Stefan George. </notes>
+  </item>
+
+
+  <item id="E806">
+   <bib> Scott, Charles T. "Towards a Formal Poetics: Metrical Patterning in 'The Windhover.'"
+    Language and Style 7 (1974): 91-107. </bib>
+   <notes> A demonstration that although the poem appears to be Old English alliterative verse, "the
+    underlying metrical pattern of the poem is iambic." This is accomplished by redividing the
+    fourteen lines of the poem (into twenty-one) and scanning them via Halle-Keyser 1971 (E777).
+   </notes>
+  </item>
+
+
+
+  <item id="E807">
+   <bib> Sledd, James. "Old English Prosody: A Demurrer." College English 31 (1969): 71- 74. </bib>
+   <notes> Most immediately a response to Keyser's "Old English Prosody" (E789). Sledd methodically
+    demonstrates a "reprehensible irresponsibility" of scholarly method and concludes that the
+    Halle-Keyser theory is an "unrelieved disaster," being "altogether too accomodating." Reply by
+    Keyser, pp. 74-80. Keyser's argument in reponse is that Sledd's demonstration of gross factual
+    errors in scholarship in no way infringes the validity of the theory itself. </notes>
+  </item>
+
+
+
+  <item id="E808">
+   <bib> Standop, Ewald. "Die Metrik auf Abwegen--Eine Kritik der Halle-Keyser Theorie."
+    Linguistische Berichte 19 (1972): 1-19. </bib>
+   <notes> Translated into English as "Metric Theory Gone Astray: A Critique of the Halle-Keyser
+    Theory." Language and Style 8 (1975): 60-77. Would a Temporalist want his sister to marry a
+    Generativist? Standop delivers a stinging criticism of the assumptions, aims and ends of the
+    Halle-Keyser theory, particularly its treatment of lexical stress, but also of its conceptions
+    of "stress maximum," "position," and "complexity." The generative theory is "a fatal step
+    backwards" in metrics. More generally, Halle-Keyser are guilty of both ignoring Rhythm (i.e.
+    hebungen and pauses) altogether and also of an "assumption that the poet is guided principally
+    by the verbal material." Deviations in the number of syllables . . . are felt to be rhythmically
+    more seriously deviant than . . . deviations in stress." The Conclusion ("Do We Need a
+    Generative Theory of Metrics?"), though, is (surprisingly) judicious and open. "The root of
+    Halle-Keyser's failure is not in the generative idea itself but in the hypotheses and
+    assumptions which have gone into their theory." </notes>
+  </item>
+
+
+
+  <item id="E809">
+   <bib> Stillings, Justine T. "A Generative Metrical Analysis of Sir Gawain and the Green Knight."
+    Language and Style 9 (1976): 219-46. </bib>
+   <notes> Citing both Halle-Keyser and Kiparsky as theories inadequate for Gawain, Stillings
+    adjusts the rule categories, arguing that "if an iambic foot contains three syllables, the
+    underlying metrical representation contains three positions." Metrical Base Rules are redefined
+    as Lexical Constraints (Correspondence Rules). </notes>
+  </item>
+
+
+
+  <item id="E810">
+   <bib> Tsur, Reuven. A Perception-Oriented Theory of Metre. Tel Aviv: Porter Israeli Institute for
+    Poetics &amp; Semiotics, Tel Aviv University, 1977. 244 pp. </bib>
+   <notes> Despite the date of publication, most of this theory was worked out from 1969-72; it
+    represents an attempt to embed the basic Halle-Keyser framework within a much wider, more highly
+    formalized psychological (Gestalt) theory of meter which integrates (1) some of the current
+    understanding of human processing of perceptual patterns and (2) the concept of Performance at a
+    fundamental level in the theory, in order to achieve greater refinements of explanatory power,
+    i.e. greater "delicacy" of description, by converting Halle and Keyser's dichotomous metrical
+    determinations (metrical, unmetrical) to a continuum of finer discriminations of metrical
+    complexity. The five fundamental categories of Tsur's theory along with their components are:
+    DIMENSION: conventional--i.e. formal, as in meter linguistc--the phonological rules of stress
+    and syntax performative--the set of conditions in which the elements of the conventional and
+    linguistic dimensions tend to group into, and establish themselves as, perceptual units. Here
+    the metrical set, syntactic set, and other perceptual character- istics of the auditor, the
+    performer's style, and the prosodic givens pertain. CORRESPONDENCE: (essentially the three
+    Halle-Keyser Correspondence Rules) Linguistic stresses in relation to metrical positions may be:
+    confirming, non-confirming, or infirming, the result of which may be compensation, violation, or
+    neutralization of the meter. Grouping may be either backward or forward. UNIT: Beat is the unit
+    of stress, meter, and performance. STRUCTURE: Systematic hierarchical ordering of units. The
+    "foot" serves as the unit of both stress and meter; above it is the line. Normal
+    stress-placement in meter creates a stress-maximum; stress-displacement to the left creates a
+    stress-valley, to the right a stress-grade. STYLE: At the highest level, convergent or
+    divergent. A large number of specific types of metrical variations may be graded on both
+    quantitative and qualitative scales in order to define, describe, and weigh features of style.
+    Chapters treat Metricality, Caesura, Iambic/Trochaic and Ternary meters, Rhythmical Performance,
+    Perception of Poetic Rhythm [perhaps the core of the book], Perceptual Forces on meter, syntax,
+    and sense, Converg- ent/Divergent Patterns, and the Stanza. A long Epilogue appraises the
+    problem of critical estimation of metrical style. The general structure of the entire argument
+    is set forth in a twenty-page prefatory Synopsis. Much more is treated in the text, of course,
+    and in fact the theory goes far beyond the Halle- Keyser framework (Tsur manages to put
+    considerable distance between himself and them in chapter 1). Section 8 on Performance is
+    especially stimulating. </notes>
+  </item>
+
+
+
+  <item id="E811">
+   <bib> Valesio, Paolo. "On Poetics and Metrical Theory." Poetics 2 (1971): 36-70. </bib>
+   <notes> "The theory of generative phonology does not need to modify its distinction of two levels
+    in order to accommodate metrical structures, but . . . accommo- dations are necessary, albeit in
+    a different direction, if the theory has to give a systematic account of metrical structures. .
+    . . The structure of the line is a phonologically mixed one." </notes>
+  </item>
+
+
+
+  <item id="E812">
+   <bib> Wedge, George F. "A Model for Generative Metrics." From Soundstream to Discourse. Ed.
+    Daniel G. Hays and D. M. Lance. Columbia: University of Missouri, 1972. pp. 142-47. </bib>
+   <notes> Generative metrics must establish a definition for the line ("if we are to discover how
+    we intuit that a given line is metrical, we must first discover how we intuit that a line is a
+    line") and also must clarify its notion of "major syntactic boundary." Line-end may be generated
+    from caesura and the metered line therefore built up from syntax. E813 Wilson, Peter. "Reading a
+    Poem Metrically: A Discussion of the Practical Implications of Using the Halle-Keyser System."
+    Language and Style 12 (1979): 146-57. Taking Halle-Keyser as "the most cogent system available,"
+    the author tinkers a bit with the stress assignment rules then discovers via application that
+    the correlation between stress-maximum actualization and complexity-score is actually inverse
+    even when an improved treatment of stress neutralization is included. </notes>
+  </item>
+
+
+
+  <item id="E814">
+   <bib> Wimsatt, W. K. Jr. "The Rule and the Norm: Halle and Keyser on Chaucer's Meter." College
+    English 31 (1970): 774-88; rpt in Literary Style: A Symposium. Ed. Seymour Chatman. New York:
+    Oxford University Press, 1971. pp. 197- 215. </bib>
+   <notes> Discussion follows, pp. 215-20. The response of a distinguished Traditional prosodist to
+    the generative theory. Wimsatt approves of the abstract concept of "position," objects to the
+    negativeness of the definition of "stress maximum," and questions its entire validity by
+    observing that the iambic pentameter has traditionally been defined precisely by its five
+    stress-units. Several invented examples serve as "a challenge to the notion that a sweeping
+    negative rule (plus a merely optional rule about major positive features) will render certain
+    minor positive features irrelevant to a definition of a meter." The Halle-Keyser rules give
+    description of metrical complications in the iambic pentameter line but not explanations how or
+    why these particular complications should exist (and not others). Wimsatt adopts the
+    (Structural) position that the meter alters or adjusts the mid-range stresses in speech. But
+    "rules of language do not include rules of meter. The meter . . . is something that the poet
+    adds to the linguistic givens, without contravening them." Finally, Wimsatt urges the
+    recognition of a difference between the rule (the outer limits of legitimacy) and the norm (the
+    varying, average, inner realization). </notes>
+  </item>
+
+
+
+  <item id="E815">
+   <bib> Youmans, Gilbert. "Test Case for a Metrical Theory: "La Belle Dame Sans Merci." Language
+    and Style 7 (1974): 283-305. </bib>
+   <notes> An argument that Halle and Keyser's optional rules Conditions 1 and 2 are in fact
+    constrained and need amplification. In a discussion of the excessive accomodation of the theory,
+    Youmans insists on the importance of a stress- maximum in position 10--"There is probably no
+    need to restrict the definition of the stress maximum to a single line of verse." The analysis
+    of two versions of the Keats poem allows stylistic comparison, and Youmans proposes "a balance
+    principle" in "our perception of meter" as an addition to the Halle- Keyser system. </notes>
+  </item>
+
+
+
+  <item id="E816">
+   <bib> Zbozny, Frank T. "The Metrical Structure of Chaucer's ABC." DAI 31 (1970): 2359A
+    (Pittsburgh). </bib>
+   <notes> The Halle-Keyser metrical theory is a superior analytical treatment to those of Schipper
+    (A11) and Southworth (K367). The unusual line-initial stresses in this poem seem to "illuminate
+    the abecedarian structure of the poem aurally." See also E67, E89-90, E721, E820-21, E1375,
+    E1386, E1494, I11, J192, K137, K234, L19, L141, L320, L1093, L1129, L1158, L1196, L1203, L1301,
+    L1508-9, L1536, L1687. ii: Magnuson-Ryder </notes>
+  </item>
+
+
+
+  <item id="E817">
+   <bib> Bjorklund, Beth. "Elements of Poetic Rhythm: Stress, Syllabicity, Sound, and Sense."
+    Poetics n.s. 8 (1979): 351-65. </bib>
+   <notes> Synopsis of and addenda to the author's monograph (next entry) on the functions of
+    syllabicity in meter: disyllables are "meter-fixing," whereas monosyllables are "meter-fixed."
+    Since German is a highly polysyllabic language in comparison with English, it lends itself well
+    to ternary meters, whereas English, originally and still heavily monosyllabic, naturally
+    generates binary meters. </notes>
+  </item>
+
+
+
+  <item id="E818">
+   <bib> -----. A Study in Comparative Prosody: English and German Jambic Pentameter. Stuttgarter
+    Arbeiten zur Germanistik, no. 35. Stuttgart: Akademischer Verlag Hans-Dieter Heinz, 1978. 494
+    pp. Based on her dissertation, DAI 36 (1976): 7383A. </bib>
+   <notes> This very substantial treatise examines the similarities and differences in English and
+    German verse by applying the Magnuson-Ryder (E819-21) framework, as well as American Structural
+    and Russian Formalist theories. The author observes the facts that English verse differs from
+    German in that it has dropped unstressed syllables, resulting in the occurrence of contiguous
+    (stressed) lexical stems in the verse, while German on the other hand, preserving its wider
+    inflectional system, has preserved unstressed syllables between lexical stems, which "thus
+    allows for a closer approximation to the metrical scheme." Thus English verse has a higher
+    degree of apparent irregularity or "freedom." And in contrast to these two languages, Russian
+    has "such a highly developed inflectional system and consequently such a high degree of
+    poly-syllabicity that it does not allow for the occurrence of stress on alternate syllables."
+    The general assumption throughout the work is that the possibilities of metrical form "appear to
+    be connected more with the distributional properties of the language itself than with
+    constraints specifically of prosody." Perhaps this will turn out to be one of the axioms of
+    comparative metrics. Too, the whole area of the relation of meter and morphology, explored here
+    by Bjorklund, has been ignored traditionally and deserves further, more systematic
+    investigation. </notes>
+  </item>
+
+
+
+  <item id="E819">
+   <bib> Magnuson, Karl. "Rules and Observations in Prosody: Positional Level and Base." Poetics 12
+    (1974): 143-54. </bib>
+   <notes> A re-view, in an effort to support the Magnusen-Ryder theory's adequacy of
+    generalization. No conclusion. </notes>
+  </item>
+
+
+
+  <item id="E820">
+   <bib> Magnuson, Karl, and Frank G. Ryder. "Second Thoughts on English Prosody." College English
+    33 (1971): 198-216. </bib>
+   <notes> In the second round, the authors conclude that all the various amendments to the original
+    Halle-Keyser theory have "generally weakened" it. The article is a detailed comparison of the
+    two competing generative theories, with long side glances at Jesperson, Wimsatt, and Beaver.
+    Magnuson and Ryder state their own assumptions explicitly on p. 206. It is fair to say that so
+    far their approach has been considered unfruitful by most metrists. </notes>
+  </item>
+
+
+
+  <item id="E821">
+   <bib> -----. "The Study of English Prosody: An Alternative Proposal." College English 31 (1970):
+    789-820. </bib>
+   <notes> The second generative theory advanced. The authors criticize Halle and Keyser for
+    inadequate and imprecise categories and "procedural incongruities," citing work on Shakespearean
+    Sonnets which confounds the theory. They attack the aim of Halle-Keyser prosody (sorting
+    metrical from unmetrical lines) on the grounds that since all lines imperfectly fulfill the
+    abstract pattern, a heirarchy or gradient of metricality is what is needed. Finally they
+    reiterate that the theory accepts too much. The Magnuson-Ryder theory proposes a metrical grid
+    of ten slots, five Even, five Odd; features marked are Word-Onset, Weak, Strong and Pre-Strong.
+    Of these latter, there are sixteen possible combinations. Then a set of Base Rules states the
+    relations between metrical slots. See also: E721, E741-42, E749, E755, E776, E778, E791, E814,
+    E824, L320. iii: Kiparsky </notes>
+  </item>
+
+
+
+  <item id="E822">
+   <bib> Barnes, Mervin, and H. Esau. "English Prosody Reconsidered." Language and Style 11 (1978):
+    212-22. </bib>
+   <notes> A revised version of </notes>
+  </item>
+
+
+  <item id="E823">
+   <bib> -----. "Generative Approaches to English Prosody: Assessment and Outlook." The Fourth LACUS
+    Forum, 1977. Ed. Michel Paradis. Columbia, S. C.: Hornbeam, 1978. pp. 469-83. </bib>
+   <notes> A criticism of Kiparsky's first theory (E827) on both general and specific grounds.
+    Generally, (1) his system finally reduces itself to his "monosyllable constraint," whereby "the
+    metricality of a line of poetry depends solely on whether or not the odd positions--if they are
+    stressed--are filled with monosyllabic words"; (2) a metrical theory based on the line as unit
+    and on the counting of its syllables cannot very well distinguish iambic from trochaic.
+    Specifically, (1) Kiparsky's rules are too narrow to be borne out in the corpus of English
+    verse; (2) they are also too accomodating in other respects, admitting unmetrical lines; (3)
+    they are "not explanatory of English metrical practices but rather give only a superficial
+    description of the syntax"; and (4) his "prosodic rule," by grading out all stresses but
+    primary, ignores metrically relevant secondary stresses. Note too the important recognition made
+    on p. 219. </notes>
+  </item>
+
+
+
+  <item id="E824">
+   <bib> Chisholm, David. "Generative Prosody and English Verse." Poetics n.s. 6 (1977): 111-53. </bib>
+   <notes> At once both a formidable and extended critique of Kiparsky (E827) and also an
+    affirmation and modification of Magnuson-Ryder. Chisholm cites "serious flaws" in Kiparsky's
+    theory, such as unacceptably weak constraints (e.g., an imprecise classification in the
+    Monosyllable Constraint) and the use of four levels of metrical stresses instead of the
+    customary two. But worst is Kiparsky's double-headed "failure to distinguish the three separate
+    domains of music, meter, and language. On the one hand he equates musical rhythm with poetic
+    meter; on the other he confuses meter with language . . . [since] his notation for the
+    underlying metrical pattern consists of integers which designate stress- levels in the language.
+    . . . Above all, the Kiparsky theory fails to specify precisely . . . all the categories with
+    which it operates." In Chisholm's view the inadequacy of both Halle-Keyser and Kiparsky is their
+    failure to postulate "an intermediate level of abstraction," the Prosodic, between the (surface)
+    Linguistic and the (deep) Metrical. He then sets forth his modifications of Maguson-Ryder based
+    on the work in L319-21. </notes>
+  </item>
+
+
+
+  <item id="E825">
+   <bib> Dillon, George L. "Kames and Kiparsky on Syntactic Boundaries." Language and Style 10
+    (1977): 16-22. </bib>
+   <notes> Finds striking similarity in the rules for pauses in syntax and the caesura in
+    verse-lines in the work of Lord Kames (E566) and Kiparsky (E827). The rules state the syntactic
+    "bonding force" between various constituents, or conversely the naturalness of pauses between
+    these constituents. One rule of note is that inversion of syntactic elements will create pauses
+    which were otherwise impermissible. </notes>
+  </item>
+
+
+
+  <item id="E826">
+   <bib> Kiparsky, Paul. "The Rhythmic Structure of English Verse." Linguistic Inquiry 8 (1977):
+    189-247. </bib>
+   <notes> In a major strategic revision of his 1975 theory Kiparsky adapts the very recent work on
+    phonological stress by Liberman (see Liberman and Prince, D83), the central feature of which is
+    that stressing is derived and expressed via tree notation (as in transformational syntax)
+    instead of by numbers. This procedure is adopted because it permits major simplifications in the
+    design of the theory, but more importantly because "superficially identical stress patterns are
+    differentiated in the Liberman notation in a way that point by point corresponds to distinctions
+    in versification." The basic pattern for the iambic pentameter in its most neutral realization
+    is established as STRESS METER /\ /\ /\ /\ /\ W S W S W S W S W S Of hand, of foot, of lip, of
+    eye, of brow /\ /\ /\ /\ /\ W S W S W S W S W S The metrical complexity of the line, or the
+    degree of its metricality, is then a function of the matching of these two trees. Mismatches may
+    be either permissible or impermissible. Kiparsky's sole criterion for impermissible matching-
+    -i.e. the one situation that will render a line unmetrical--is a lexical stress (S) over a
+    metrical slack (W). That is, lexical stresses must always fall on metrical ictuses. Such
+    vertical mismatches are termed labeling types; bracketing types (horizontal mismatches, as it
+    were), e.g. STRESS METER /\ /\ /\ W S W S W S W or summer, winter, autumn /\ /\ /\ W S W S W S W
+    [i.e. trochaic words in an iambic line], are also important determinants of metrical complexity.
+    Inversion or foot-reversal Kiparsky explains handily by showing that "such a labeling mismatch
+    never occurs together with a bracketing mismatch." Other aspects of the theory work out
+    secondary stresses, syllabification and traditional elision, level stress, metrical idiolects,
+    the iambic/trochaic dispute, extrametrical and missing syllables, the ordering of Metrical
+    Rules, and stipulation of three Prosodic Rules. </notes>
+  </item>
+
+
+
+  <item id="E827">
+   <bib> -----. "Stress, Syntax, and Meter." Language 51 (1975): 576-616. </bib>
+   <notes> The first formal statement of the third theory of generative metrics to be proposed so
+    far. Kiparsky criticises Halle and Keyser for failing to exclude non- verse and failing to
+    distinguish a sufficient number of degrees of stress. His view of Magnuson and Ryder is that
+    "their metrical rules are adhoc and do not lead to any explanations," revealing "a failure to
+    draw the right distinctions between phonology and metrics." His own theory, claiming not only
+    descriptive but also explanatory and predictive adequacy, defines meter as "a system of
+    correspondences between musical and linguistic rhythm" (Kiparsky speaks also of "the musical
+    rhythm that underlies verse," but this seems adventitious), admits four degrees of metrical
+    stress (denoted by the numbers 1- 4, strongest to weakest) which correspond to the four degrees
+    of stress in the language (though Kiparsky's actual examples betray this statement and reveal
+    that his metrical levels are effectually binary), and takes account of word and phrase
+    boundaries as well as patterning of stresses, on the argument that meter organizes not only
+    phonological but also morphological and grammatical features as well. The system includes six
+    components: Acual Phonological Representation The line itself. ^ | Prosodic Rules) Specify how
+    the patterns are to ^ be mapped onto linguistic strings | (by defining what counts as a |
+    "syllable," etc.), i.e. how | metrical positions may match | syllables. | Derived Metrical
+    Patterns These "correspond to the ^ natural rhythm of speech." | | (Metrical Rules) ß
+    ---------------- Metrical Tension Index ^ ^ | | | | | | These are two. MR1 states Gauges the
+    difference between that only odd syllables in abstract and derived patterns the iambic
+    pentameter line and orders the constraints are constrained. MR2 into hierarchies so as to states
+    that stresses in rank stylistic variations in weak positions may occur poets and genres. only on
+    monosyllables or ^ after intonation breaks. | ^ | | | Abstract Metrical Patterns | A small
+    inventory. In the revised version of this theory (E826), Kiparsky admits many of its original
+    inadequacies and takes a new, more profitable tack. See also the criticisms by Chisholm (E824)
+    and Barnes and Esau (E822-23). See also: B117, E786, E795, E805, E809, L1464, L1510, L1542.
+   </notes>
+  </item>
+ </chapter>
+</bibliography>

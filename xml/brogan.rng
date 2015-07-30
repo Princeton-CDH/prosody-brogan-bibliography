@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="bibliography">
+      <element name="chapter">
+        <attribute name="title"/>
+        <element name="section">
+          <attribute name="title">
+            <data type="NCName"/>
+          </attribute>
+          <oneOrMore>
+            <element name="div">
+              <attribute name="title"/>
+              <oneOrMore>
+                <element name="item">
+                  <attribute name="id">
+                    <data type="NCName"/>
+                  </attribute>
+                  <oneOrMore>
+                    <choice>
+                      <text/>
+                      <element name="bib">
+                        <text/>
+                      </element>
+                      <element name="notes">
+                        <text/>
+                      </element>
+                    </choice>
+                  </oneOrMore>
+                </element>
+              </oneOrMore>
+            </element>
+          </oneOrMore>
+        </element>
+      </element>
+    </element>
+  </start>
+</grammar>

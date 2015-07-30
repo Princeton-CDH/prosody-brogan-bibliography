@@ -1,0 +1,1815 @@
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+    <chapter title="SINO-TIBETIAN CHINESE">
+        
+<item id="L1538">
+<bib>
+Baxter, Glen W. Index to the Imperial Register of Tz'u Prosody, Chinting Tzu-pu [Edited by Wang I-ching] . . . Prepared with a Bibliographical Note by G. W.
+Baxter. Rev. ed. Harvard Yenching Institute Studies, no. 15. Cambridge,
+Mass.: Harvard University Press, 1956. 61 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1539">
+<bib>
+Bishop, John L. "Prosodic Elements in T'ang Poetry." Indiana Conference on
+Oriental-Western Literary Relations. Ed. Horst Frenz and G. L. Anderson.
+Chapel Hill: University of North Carolina Press, 1955. pp. 49-63.</bib>
+<notes>
+Elementary, nontechnical explanation of the tonal patterns.
+</notes>
+</item>
+
+
+
+<item id="L1540">
+<bib>
+Bodman, Richard W. "Poetics and Prosody in Early Medieval China: A Study
+and Translation of Kukai's Bunkyo Hifuron." DAI 39 (1978): 290A</bib>
+<notes> (Cornell).
+</notes>
+</item>
+
+
+
+<item id="L1541">
+<bib>
+Boyce, C. "Rhythm and Meter of Tsyr in Performance." Diss., Harvard, 1975.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1542">
+<bib>
+Chen, Matthew Y. "Metrical Structure: Evidence from Chinese Poetry."
+Linguistic Inquiry 10 (1979): 371-420.</bib>
+<notes>Finds in the structure of Tang regulated verse support for Kiparsky's metrical-
+tree description of linguistic rhythm.
+</notes>
+</item>
+
+
+
+<item id="L1543">
+<bib>
+Cheng, Chi-hsien. Analyse formelle de l'oeuvre poétique d'un auteur des Tang, Zhang
+Ruozu. Paris: Mouton, 1970.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1544">
+<bib>
+Downer, G. B., and A. C. Graham. "Tone Patterns in Chinese Poetry." Bulletin
+of the School of Oriental and African Studies 26 (1963): 145-48.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1545">
+<bib>
+Dreher, John J., et al. "Power Spectral Densities of Literary Rhythms (Chinese)."
+Computer Studies in the Humanities and Verbal Behavior 2 (1969): 170-91.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1546">
+<bib>
+Fang, Achilles. "Lu Ki's 'Rhymeprose in Literature.'" New Mexico Quarterly 22
+(1952): 269-81.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1547">
+<bib>
+-----. "Rhymeprose on Literature: the Wen-fu of Lu Chi, Translated and
+Annotated." Harvard Journal of Asiatic Studies 14 (1951): 527-66.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1548">
+<bib>
+Frankel, Hans H. "Classical Chinese [Versification]." Wimsatt (A20), pp. 22-37.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1549">
+<bib>
+Harvey, Brent L., and K. S. Y. Kao. "Text-Generative Modelling of Chinese
+Regulated Verse." Poetics 8 (1979): 459-79.</bib>
+<notes>Section 2.3 stipulates the "poetic" constraints required as a part of a full theo-
+retical model of Chinese regulated verse suitable for computer-generation of
+lines.
+</notes>
+</item>
+
+
+
+<item id="L1550">
+<bib>
+Jakobson, Roman. "The Modular Design of Chinese Regulated Verse." Échanges
+et communications: Mélanges offerts à Claude Lévi-Strauss. Ed. Jean Pouillon and P.
+Maranda. 2 vols. The Hague: Mouton, 1970. Vol. 1, pp. 597-605.</bib>
+<notes>Rpt. in his On Verse, Its Masters and Explorers (L1296), pp. 215-23.</notes>
+</item>
+
+
+
+<item id="L1551">
+<bib>
+Juhl, Robert A. "The Literary Dialect of Liang Yuan Di: Rhymes and Finals."
+Journal of Chinese Linguistics 5 (1977): 26-54.</bib>
+<notes>
+
+</notes>
+</item>
+
+
+
+<item id="L1552">
+<bib>
+-----. "The Literary Dialect of Tao Qian." Journal of Chinese Linguistics 4 (1976):
+83–107.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1553">
+<bib>
+-----. "Phonological Evolution of the Chinese Rhymes: Wi to Liang." Journal of
+the American Oriental Society 94 (1974): 408-30.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1554">
+<bib>
+Kukai. Bunkyo hifuron. Ninth-century treatise describing twenty-nine types of parallelism in Chinese
+verse.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1555">
+<bib>
+Liu, Da-bai. [Questions Concerning the Tones of Classical Chinese Poetry.] In
+Zhong-guó Wén-xué Yán-jiu [Studies in Chinese Literature]. Ed. Zhen-dú
+Zhèng. Hong Kong, 1963. pp. 241-300.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1556">
+<bib>
+Liu, James J. Y. "Auditory Effects of Chinese and the Bases of Versification." The
+Art of Chinese Poetry. London: Routledge &amp; Kegan Paul, 1962. pp. 20-38.</bib>
+<notes>
+Chinese is a language having four tones: Level, Rising, Falling, and Entering.
+For metrical purposes the latter three are classed together as Deflected. The
+tones vary in pitch, length, and motion: Level tones are long and constant-
+pitched, while Deflected tones are short, vary in pitch, and move rapidly up or
+down in utterance. All Chinese verse employs end-rhyme, with other optional
+embellishments being alliteration, riming compounds, onomatopoeia, and
+repetition ("reduplication") of words. Every Chinese written character repre-
+sents a monosyllable, and verse lines may consist of either four, five, or seven
+characters. Historically the major metrical modes have been Four-syllable
+Verse (pre-7th century B.C.), Ancient Verse (ca. 200 B.C. to 200 A.D.),
+Regulated Verse (eight-line poems with either five- or seven-syllable lines; ca.
+600–900 A.D.), Lyric Metres (poems written to existing music; 900–1200),
+and Dramatic Metres (similar; 1260–1341).
+</notes>
+</item>
+
+
+
+<item id="L1557">
+<bib>
+Martel, François. "Reconstruction d'un modèle prosodique chinois." Poetics [o.s.
+13] n.s. 4 (1975): 29-45.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1558">
+<bib>
+Mei, Tsu-lin. "Tones and Prosody in Middle Chinese and the Origin of the
+Rising Tone." Harvard Journal of Asiatic Studies 30 (1970): 86–110.</bib>
+    <notes>
+</notes>
+</item>
+
+
+
+<item id="L1559">
+<bib>
+Mei, Tsu-lin and Yu-kung Kao. "Tu Fu's 'Autumn Meditations': An Exercise in
+Linguistic Criticism." Harvard Journal of Asiatic Studies 28 (1968): 44-80.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1560">
+<bib>
+Polivanov, E. D. "On the Metrical Nature of Chinese Versification." In his
+Selected Works: Articles on General Linguistics. Compiled by A. A. Leontev. The
+Hague: Mouton, 1974. pp. 289-91.</bib>
+<notes>"The Chinese system of versification . . . was a metrical system, for it was not
+the melodies of syllables which alternated according to the principle, but the
+categories or types of these melodies."
+</notes>
+</item>
+
+
+
+<item id="L1561">
+<bib>
+Radtke, Kurt W. "Yuan Sanqu: A Study of the Prosody and Structure of
+Xiaoling contained in the Sanqu Anthology Yangchun Baixue Compiled by
+Yang Chaoying." DAI 36 (1976): 6072A (Australian National University).</bib>
+    <notes>
+</notes>
+</item>
+
+
+
+<item id="L1562">
+<bib>
+Stimson, Hugh M. "The Rimes of 'Northward Journey,' by Duh-Fuu (712–
+770)." Journal of the American Oriental Society 93 (1973): 129-35.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1563">
+<bib>
+-----. "The Sound of a Tarng Poem: 'Grieving about Greenslope,' by Duh-Fuu."
+Journal of the American Oriental Society 89 (1969): 59-67.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1564">
+<bib>
+Tai, Jing-nong. Bái-zhong Shi-huà Lèi-bian [A Classification and Compilation of
+Comments on Poetry]. 3 vols. Taipei: Yi-wen Publishers, 1974.</bib>
+    <notes>
+
+</notes>
+</item>
+
+
+
+<item id="L1565">
+<bib>
+Tiee, H. H. Y. "Notes on Some Prosodic Features of Mandarin Chinese."
+American Oriental Society Journal 89 (1969): 622-26.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1566">
+<bib>
+Ting, Pang-hsin. "Píng-zé xin kao" [Even-Oblique Tones Revisited]. Bulletin of
+History and Philology (Academia Sinica) 47 (1975): 1–15.</bib>
+    <notes>
+</notes>
+</item>
+
+
+
+<item id="L1567">
+<bib>
+T'sou, Benjamin K. "Some Aspects of Linguistic Parallelism and Chinese
+Versification." Studies Presented to Professor Roman Jakobson by His Students. Ed.
+Charles E. Gribble. Cambridge, Mass.: Slavica Publishers, 1968. pp. 318-28.</bib>
+<notes>Explicates the metrical patterning of even and deflected tones in Chinese
+Regulated Verse in terms of (1) antithetical parallelism within and direct par-
+allelism between couplets, or (2) inversion and conversion operations.
+</notes>
+</item>
+
+
+
+<item id="L1568">
+<bib>
+Wang, Li. Han-yü Shih-lü-hsüeh [Chinese Versification]. Shang-hai, 1958 (957
+pp.), 1962 (828 pp.); rpt. Hong Kong, 1973.</bib>
+    <notes>
+</notes>
+</item>
+
+
+
+<item id="L1569">
+<bib>
+Woo, N. "Tone Patterns in Chinese Regulated Verse." Quarterly Progress Report,
+MIT Research Laboratory of Electronics 86 (1967): 284-85.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1570">
+<bib>
+Xie, Wu-liang. Shi-xué zhi-nán [Guide to Versification]. Taipei: Zhong-hua
+Publishers, 1967.</bib>
+    <notes>
+</notes>
+</item>
+
+
+
+<item id="L1571">
+<bib>
+Yip, Wai-lim. "Classical Chinese and Modern Anglo-American Poetry:
+Convergence of Languages and Poetry." Comparative Literature Studies 11
+(1974): 21-47.</bib>
+<notes>
+See also: E1506.
+
+</notes>
+</item>
+    </chapter>
+    <chapter title="OTHER ASIATIC">
+
+
+<item id="L1572">
+<bib>
+    Benou, Louis. "Sur la structure du kavya." Journal asiatique 247 (1959): 1–114.</bib>
+    <notes>
+</notes>
+</item>
+
+
+
+<item id="L1573">
+<bib>
+Brooks, Bruce E. "Journey Toward the West: An Asian Prosodic Embassy in the
+Year 1972." Harvard Journal of Asiatic Studies 35 (1975): 221-74.</bib>
+<notes>An omnibus review of Wimsatt (A20).
+</notes>
+</item>
+
+
+
+<item id="L1574">
+<bib>
+Brower, Robert H. "Japanese [Versification]." Wimsatt (A20), pp. 38-51.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1575">
+<bib>
+Cowan, H. K. J. "Het Atjèh'sch metrum Sandja in verband meteen Tjamsch
+gedicht." Bijdragen tot de taal-, land-, en volkenkunde van Nederlandsch-Indië 90
+(1933): 149-55.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1576">
+<bib>
+Draper, John W. Rhyme in the Pacific. Morgantown: West Virginia University,
+1959. 29 pp.</bib>
+<notes>
+Traces "the geography of rhyming in the pre-missionary Polynesian world"
+from its origin in ancient Chinese verse.
+</notes>
+</item>
+
+
+
+<item id="L1577">
+<bib>
+Fischer, Jack L. "Meter in Eastern Carolinian Oral Literature." Journal of American
+Folklore 72 (1959): 47-52.</bib>
+<notes>
+Older myth-poems and dance songs in the Micronesian Caroline Islands show
+quantitative meter, since in that language as in Japanese vowel length is pho-
+nemic. There is also some secondary stress-patterning, the stresses falling on
+the odd syllables in the line. The songs seem to be metered in lines of eight
+morae, one long mora equal to two shorts or two pauses, etc.; lines are usually
+grouped in twos and threes. The modern songs show no such meter.
+</notes>
+</item>
+
+
+
+<item id="L1578">
+<bib>
+Jacob, Judith. "Some Features of Khmer Versification." In Memory of J. R. Firth.
+Ed. C. E. Bazell et al. London: Longmans, 1966. pp. 227-41.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1579">
+<bib>
+Kim, Kong-On. "Sound Symbolism in Korean." Journal of Linguistics 13 (1977):
+67-75.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1580">
+<bib>
+Kobayashi, Manji. "Inritsu to Inritsuho" [Rhythm and Prosody]. Eigo Seinen
+(Tokyo) 119 (1973): 450–51, 531-33.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1581">
+<bib>
+Miner, Earl R. "The Technique of Japanese Poetry." Hudson Review 8 (1955):
+350-66.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1582">
+<bib>
+Moore, Justin H. "Metrical Analysis of the Pali Iti-vuttaka, a Collection of
+Discourses of Buddha." Journal of the American Oriental Society 28 (1907): 317–
+30.</bib>
+    <notes>
+</notes>
+</item>
+
+
+
+<item id="L1583">
+<bib>
+Nooten, Barend A. van. "Redundancy in Mahabharata Verse Composition."
+Journal of the American Oriental Society 89 (1969): 50-58.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1584">
+<bib>
+Parkins, Lily L. A. M. "The Aesthetics of Stress in Olelo and Oli: Notes Toward
+a Theory of Hawaiian Oral Arts." DAI 39 (1978): 1751A (Pennsylvania).</bib>
+    <notes>
+Close analysis of the metrical features of the mele (poetic composition) as
+manifested in the oli (recitative chant).
+</notes>
+</item>
+
+
+
+<item id="L1585">
+<bib>
+Polivanov, E. D. "Apropos 'Sound Gestures' in Japanese." In his Selected Works:
+Articles on General Linguistics. Compiled by A. A. Leontev. The Hague:
+Mouton, 1974. pp. 275-84.</bib>
+<notes>Explores Japanese onomatopoeic words which imitate aural sensations and
+other non-aural impressions--visual, olfactory, tactile, motor, etc.
+</notes>
+</item>
+
+
+
+<item id="L1586">
+<bib>
+    Rao, T. R. Comparative Prosody of the Dravidian Languages. Madras, 1913.</bib>
+    <notes>
+</notes>
+</item>
+
+
+
+<item id="L1587">
+<bib>
+Roeské, M. "Métrique khmere: Bat et kalabat." Anthropos 8 (1913): 673–87,
+1028-43.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1588">
+<bib>
+Sakuma, K. "On Rhythmus of Poetry." Japanese Journal of Psychology n.s. 3
+(1928): 1–12.</bib>
+    <notes>
+</notes>
+</item>
+
+
+
+<item id="L1589">
+<bib>
+Uchida, Michiko. "'Im' to 'Oto' ni tsuite: Eishi Prosody Joron" [Introduction to
+Prosody]. Oberon 15, 2 (1974): 51-65.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1590">
+<bib>
+Vallot, P. G. Essai de prosodie annamite et recueil de poésies inédites. Hanoi, 1901.
+120 pp.</bib>
+<notes>
+
+
+</notes>
+</item>
+    </chapter>
+    <chapter title="AFRO-ASIATIC">
+    <div title="SEMITIC">
+
+<item id="L1591">
+<bib>
+Hölscher, Gustav. "Elemente arabischer, syrischer, und hebräischer Metrik."
+Beihefte zur Zeitschrift für die alttestamentliche Wissenschaft 34 (1920): 93–101.</bib>
+    <notes>
+</notes>
+</item>
+
+
+
+<item id="L1592">
+<bib>
+-----. Syrische Verskunst. Leipziger semitische Studien, n.s. vol. 5. Leipzig, 1932.
+206 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1593">
+<bib>
+Schlottmann, M. "Zur semitischen Epigraphik." Zeitschrift der deutschen
+morgenländischen Geschichte 24 (1870): 403-14.</bib>
+<notes>On the verseform of Semitic inscriptions.
+
+
+</notes>
+</item>
+    </div>
+        <div title="Hebrew">
+
+
+<item id="L1594">
+<bib>
+Albright, William F. "The Earliest Forms of Hebrew Verse." Journal of the
+Palestine Oriental Society 2 (1922): 69-86.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1595">
+<bib>
+apRoberts, Ruth. "Old Testament Poetry: The Translatable Structure." PMLA
+92 (1977): 987–1004.</bib>
+    <notes>
+On the structural parallelism, or "rhyme," of ideas and syntax in Hebrew verse
+translated into prose; see especially the schematic diagram.
+</notes>
+</item>
+
+
+
+<item id="L1596">
+<bib>
+Baroway, Israel. "The Accentual Theory of Hebrew Prosody: A Further Study in
+Renaissance Interpretation of Biblical Form." ELH 17 (1950): 115-35.</bib>
+<notes>Follows L1597–99. The prevalent Renaissance theory that Hebrew verse was
+quantitative was attacked in the seventeenth century by Scaliger, G. J. Vossius,
+and Wither, whose work was based on that of earlier Hebraic scholars, espe-
+cially Tremellius (whose influence can be seen in Sidney), drawing a distinc-
+tion between the Hebrew "metre" and its "rhythm" or "number."
+</notes>
+</item>
+
+
+
+<item id="L1597">
+<bib>
+-----. "The Bible as Poetry in the English Renaissance: An Introduction." JEGP
+32 (1933): 447-80.</bib>
+<notes>Baroway's first study in this field surveys all the material that the later articles
+examine in detail. See especially section 5 (pp. 472–78) on versification.
+</notes>
+</item>
+
+
+
+<item id="L1598">
+<bib>
+-----. "The Hebrew Hexameter: A Study in Renaissance Sources and
+Interpretation." ELH 2 (1935): 66-91.</bib>
+<notes>
+Follows L1597. The (mistaken) Renaissance belief that Hebrew verse was
+quantitative was derived from the Church Fathers (Origen, then Eusebius,
+then Jerome), who took it from the first-century writers Philo and Josephus,
+Jews seeking to legitimize their poetry by giving it an explanation consistent
+with all the highest Classical standards. Thomas Lodge's translation of the
+works of Josephus was the linchpin. With patient sound scholarship, Baroway
+shows that nine books of the Old Testament were believed by the English to be
+in hexameters on the authority of Josephus and Lodge.
+</notes>
+</item>
+
+
+
+<item id="L1599">
+<bib>
+-----. "The Lyre of David: A Further Study in Renaissance Interpretation in
+Biblical Form." ELH 8 (1941): 119-42.</bib>
+<notes>Follows L1597–98. A close study of the Davidis Lyra of Franciscus Gomarus
+[1637], the most authoritative of the Renaissance treatises which interpreted
+Biblical verse as written in quantitative meters. See L1624.
+</notes>
+</item>
+
+
+
+<item id="L1600">
+<bib>
+-----. "Tremellius, Sidney, and Biblical Verse." MLN 49 (1934): 145-49.</bib>
+<notes>Sidney's judgments on the rhythmicity of Biblical verse were based on the
+preface to Tremellius's Latin translation of the Bible. Hebrew commentators as
+early as Philo had distinguished between "rhythm" (or "number") and "meter."
+</notes>
+</item>
+
+
+
+<item id="L1601">
+<bib>
+Begrich, Joachim. "Zur hebräischen Metrik." Theologische Rundschau 4 (1932):
+67-89.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1602">
+<bib>
+Benshalom, Benzion. [The Emergence of the Monosyllabic Rhyme in Hebrew
+Poetry: On C. N. Bialik's Poem "At Sunset."] Ha-Sifrut/Literature 1 (1968):
+161–75 [in Hebrew; English summary on pp. xiii–xiv].
+</notes>
+</item>
+
+
+
+<item id="L1603">
+<bib>
+Bruno, D. Arvid. Die Bücher Genesis-Exodus: Eine rhythmische Untersuchung.
+Stockholm, 1953.
+</notes>
+</item>
+
+
+
+<item id="L1604">
+<bib>
+-----. Die Bücher Joshua, Richter, Ruth: Eine rhythmische Untersuchung. Stockholm,
+
+1955.
+</notes>
+</item>
+
+
+
+<item id="L1605">
+<bib>
+-----. Die Bücher Könige: Eine rhythmische Untersuchung. Stockholm, 1955.
+</notes>
+</item>
+
+
+
+<item id="L1606">
+<bib>
+-----. Die Bücher Samuel: Eine rhythmische Untersuchung. Stockholm, 1955.
+</notes>
+</item>
+
+
+
+<item id="L1607">
+<bib>
+-----. Jeremia: Eine rhythmische Untersuchung. Stockholm, 1954.
+</notes>
+</item>
+
+
+
+<item id="L1608">
+<bib>
+-----. Jesaja: Eine rhythmische und textkritische Untersuchung. Stockholm, 1953.
+</notes>
+</item>
+
+
+
+<item id="L1609">
+<bib>
+-----. Die Psalmen: Eine rhythmische und textkritische Untersuchung. Stockholm,
+1954.
+</notes>
+</item>
+
+
+
+<item id="L1610">
+<bib>
+-----. Der Rhythmus der ältest Dichtung: Eine Untersuchung über die Psalmen 1–63.
+Leipzig, 1930.
+</notes>
+</item>
+
+
+
+<item id="L1611">
+<bib>
+Bullough, Sebastian. "The Question of Metre in Psalm 1." Vetus Testamentum 17
+(1967): 42-49.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1612">
+<bib>
+Buxtorf, Johann. Tractatus Brevis de Prosodia Metrica. Book 2 of his Thesaurus
+Grammaticus Linguae Sanctae. Bale, 1609. pp. 578-611.</bib>
+<notes>A possible source for the accentual theory of Hebrew poetry developed in
+England in the seventeenth century.
+</notes>
+</item>
+
+
+
+<item id="L1613">
+<bib>
+Cobb, William H. A Criticism of Systems of Hebrew Metre. Oxford: Oxford
+University Press, 1905. 216 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1614">
+<bib>
+Dahood, Mitchell. "A New Metrical Pattern in Biblical Poetry." Catholic Biblical
+Quarterly 29 (1967): 574-79.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1615">
+<bib>
+Driver, Samuel R. An Introduction to the Literature of the Old Testament. New
+York: Charles Scribner's Sons, 1891.</bib>
+<notes>
+Many subsequent editions. See the Introduction to the Psalms, ca. p. 361 ff.
+</notes>
+</item>
+
+
+
+<item id="L1616">
+<bib>
+Ewald, Heinrich. Allgemeines über die hebräische Dichtung und über das Psalmenbuch.
+Vol. 1 of Die Dichter des alten Bundes. 3 vols. Göttingen, 1835–39; 2nd ed.
+1866.</bib>
+<notes>
+See Section III, "Die Gliederrung der Dichterrede," on line- and stanza-forms.
+</notes>
+</item>
+
+
+
+<item id="L1617">
+<bib>
+Finkelstein, Louis. "The Hebrew Text of the Bible: A Study of Its Cadence
+Symbols." Symbols and Society. Ed. Lyman Bryson et al. New York: Harper &amp;
+Bros., 1955. pp. 409-26.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1618">
+<bib>
+Fohrer, Georg. "über den Kurzvers." Zeitschrift für die alttestamentliche Wissenschaft
+66 (1954): 199-236.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1619">
+<bib>
+Foote, T. C. "The Metrical Form of the Songs of Degrees." Journal of the
+American Oriental Society 27 (1906): 108-22.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1620">
+<bib>
+Freedman, David N. "Archaic Forms in Early Hebrew Poetry." Zeitschrift für die
+alttestamentliche Wissenschaft 72 (1960): 101-7.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1621">
+<bib>
+Gábor, Ignaz. "Der hebräische Urrhythmus." Beihefte zur Zeitschrift für die
+alttestamentliche Wissenschaft 52 (1929).</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1622">
+<bib>
+Golomb, Harai. [The Problem of Analyzing Rhythm in Metrical Verse and
+Zach's Criticism of Alterman's Prosody.] Ha-Sifrut/Literature 23 (1976): 7–22</bib>
+<notes>
+[in Hebrew; summary in English, pp. ii–iii].
+</notes>
+</item>
+
+
+
+<item id="L1623">
+<bib>
+Golomb, Harai, and M. Perry. [Two Cases of Correlation Between Rhythmical
+
+Pattern and Thematic Structure in Bialik's Poems.] Ha-Sifrut/Literature 2
+(1969): 83–84</bib>
+<notes> [in Hebrew; summary in English, p. 259].
+</notes>
+</item>
+
+
+
+<item id="L1624">
+<bib>
+Gomarus, Franciscus. Davidis Lyra. 1637.</bib>
+<notes> See L1599.
+</notes>
+</item>
+
+
+
+<item id="L1625">
+<bib>
+Gray, George Buchanan. The Forms of Hebrew Poetry. London and New York:
+Hodder and Stoughton, 1915</bib>
+<notes>; rpt. New York: KTAV Publishing House,
+1972.
+A major study of parallelism, rhythm, and meter in Hebrew poetry. The re-
+print edition also has an important Introduction and Bibliography.
+</notes>
+</item>
+
+
+
+<item id="L1626">
+<bib>
+Hakak, Lev. "Modes of Organization in Modern Hebrew Free Verse." DAI 35
+(1975): 6714A (U.C.L.A.).</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1627">
+<bib>
+Herder, Johann Gottfried von. Vom Geist der ebräischen Poesie. 2 vols. Dessau,
+1782; translated by James Marsh as The Spirit of Hebrew Poetry. Burlington, Vt.:
+E. Smith, 1833.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1628">
+<bib>
+Hrushovski, Benjamin. "The Creation of Accentual Iambs in European Poetry
+and Their First Employment in a Yiddish Romance in Italy (1508–09 A.D.)."
+For Max Weinreich on His Seventieth Birthday: Studies in Jewish Language,
+Literature, and Society. The Hague: Mouton, 1964. pp. 108-46.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1629">
+<bib>
+-----. "On Free Rhythms in Modern Yiddish Poetry." The Field of Yiddish. Ed.
+Uriel Weinreich. New York: [Linguistic Circle of New York], 1954. pp. 219–
+66.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1630">
+<bib>
+-----. [The Theory and Practice of Rhythm in the Expressionist Poetry of U. Z.
+Grinberg.] Ha-Sifrut/Literature 1 (1968): 176–205</bib>
+<notes> [in Hebrew; summary in
+English, p. xiv].
+The poet wrote lines as much as eighty syllables long based on a unit of tro-
+chaic feet.
+</notes>
+</item>
+
+
+
+<item id="L1631">
+<bib>
+Kim, James Kap-Dong. "A Study of Some Alliterative and Assonantal Features of
+the Language of Proverbs." DAI 36 (1975): 2790A (Brandeis).</bib>
+<notes>
+On Hebrew wisdom poetry.
+</notes>
+</item>
+
+
+
+<item id="L1632">
+<bib>
+Kosmala, Hans. "Form and Structure in Ancient Hebrew Poetry." Vetus
+Testamentum 14 (1964): 423–45; 16 (1966): 152-80.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1633">
+<bib>
+Kraft, Charles F. "Some Further Observations Concerning the Strophic Structure
+of Hebrew Poetry." In A Stubborn Faith. Ed. E. C. Hobbs. Dallas, 1956. pp.
+62-89.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1634">
+<bib>
+-----. The Strophic Structure of Hebrew Poetry as Illustrated in the First Book of the
+Psalter. Chicago, 1938.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1635">
+<bib>
+Loader, J. A. "Quohelet 3:2–8: A Sonnet in the Old Testament." Zeitschrift für die
+alttestamentliche Wissenschaft 81 (1969): 240-42.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1636">
+<bib>
+Lowth, Robert, Bishop of London. De Sacra Poesi Hebraeorum. Oxford:
+Clarendon Press, 1753. Translated by G. Gregory as Lectures on the Sacred Poetry
+of the Hebrews. 3rd ed. London, 1835.</bib>
+<notes>
+See Part I (Lecture III), "Of the Hebrew Metre," as well as the short conclud-
+ing chapter of the book, "A Brief Confutation of Bishop Hare's System of He-
+brew Metre."
+</notes>
+</item>
+
+
+
+<item id="L1637">
+<bib>
+Lund, Eimar. "Eine metrische Form im AT." Acta Orientalia 17 (1939): 249-303.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1638">
+<bib>
+Maecklenburg, Albert. "Einführung in die Probleme der hebräischen Metrik."
+Weiner Zeitschrift für die Kunde des Morgenlandes 46 (1939): 1–46.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1639">
+<bib>
+Mashiah, Yaakov. "The Terminology of Hebrew Prosody and Rhetoric with
+Special Reference to Arabic Origins." DAI 35 (1975): 6673A (Columbia,
+1972).</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1640">
+<bib>
+Meek, T. J. "Hebrew Poetic Structure as a Translation Guide." Journal of Biblical
+Literature 59 (1940): 1–9.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1641">
+<bib>
+Möller, Hans. "Der Strophenbau der Psalmen." Zeitschrift für die alttestamentliche
+Wissenschaft 50 (1932): 240-56.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1642">
+<bib>
+Monroe, James T., and D. Swiatlo. "Ninety-three Arabic Hargas in Hebrew
+Muwassahs: Their Hispano-Romance Prosody and Thematic Features." Journal
+of the American Oriental Society 97 (1977): 141-63.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1643">
+<bib>
+Montgomery, J. A. "Stanza Formation in Hebrew Poetry." Journal of Biblical
+Literature 64 (1945): 379-84.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1644">
+<bib>
+Moulton, Richard G. "Parallelism: The Basis of Biblical Verse." The Modern
+Reader's Bible. New York: Macmillan, 1895. Rpt. in Discussions of Poetry: Form
+and Structure. Ed. Francis Murphy. Boston: D. C. Heath, 1964. pp. 47-61.</bib>
+<notes>
+Distinguishes three varieties of structure: Stanzaic, Antistrophic, and Strophic.
+</notes>
+</item>
+
+
+
+<item id="L1645">
+<bib>
+Mowinckel, Sigmund. "Marginalien zur hebräischen Metrik." Zeitschrift für die
+alttestamentliche Wissenschaft 68 (1956): 97–123.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1646">
+<bib>
+-----. "Die metrische Aufbau von Jes. 62:1–12 und die neuen sog. Kurzvers."
+Zeitschrift für die alttestamentliche Wissenschaft 65 (1953): 167-87.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1647">
+<bib>
+-----. Psalmenstudien. Oslo, 1921-24.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1648">
+<bib>
+-----. Real and Apparent Tricola in Hebrew Psalm Poetry. Oslo, 1957. 105 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1649">
+<bib>
+-----. "Zum Problem der hebräischen Metrik." Bertholet Festschrift. 1950. pp.
+379-94.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1650">
+<bib>
+-----. "Zur hebräischen Metrik, II." Studia Theologica 7 (1954):54–85, 166.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1651">
+<bib>
+O'Connor, Michael P. "Hebrew Verse Structure." Diss., University of Michigan,
+1978.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1652">
+<bib>
+Pagis, Dan. [Hebrew Metrics in Italy and the Invention of the Hebrew Accentual
+Iamb.] Ha-Sifrut/Literature 4 (1973): 651–712 </bib>
+<notes>[in Hebrew; English summary
+on pp. xxxii–xl].
+</notes>
+</item>
+
+
+
+<item id="L1653">
+<bib>
+Piatti, T. "I carmi alfabetici della bibbia chiave della metrica ebraica?" Biblica 31
+(1950): 281–315, 427-58.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1654">
+<bib>
+-----. "Una nuova interpretazione metrica testuale, esegetica, del cantico di
+Debora." Biblica 27 (1946): 65–106, 161–209, 434.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1655">
+<bib>
+Prijs, L. "Der Ursprung der Reimes im Neuhebräischen." Biblische Zeitschrift n.s.
+7 (1963): 33-42.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1656">
+<bib>
+Rankin, Oliver S. "Alliteration in Hebrew Poetry." Journal of Theological Studies
+31 (1930): 285-91.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1657">
+<bib>
+Robinson, T. H. "Hebrew Poetic Form: The English Tradition." Vetus
+
+Testamentum Supplement 1 (1953): 128-49.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1658">
+<bib>
+-----. "Some Principles of Hebrew Metrics." Zeitschrift für die alttestamentliche
+Wissenschaft 54 (1936): 28-43.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1659">
+<bib>
+Rothstein, J. W. Grundzüge des hebräischen Rhythmus. Leipzig, 1909. 397 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1660">
+<bib>
+Saalschutz, [?]. Von der Form der hebräischen Poesie. Königsberg, 1825.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1661">
+<bib>
+Schlögl, Nivard. "Die biblisch-hebräische Metrik." Zeitschrift der deutschen
+morgenländischen Gesellschaft 62 (1908): 696-707.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1662">
+<bib>
+Segert, Stanislav. "Die Methoden der althebräischen Metrik." Communio Viatorum
+1 (1958): 233-41.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1663">
+<bib>
+-----. "Problems of Hebrew Prosody." Vetus Testamentum Supplement 7 (1960):
+283-91.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1664">
+<bib>
+-----. "Vorarbeiten zur hebräischen Metrik." Archiv Orientalni 21 (1953): 481–
+542; 25 (1957): 190-200.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1665">
+<bib>
+Sievers, Eduard, ed. Metrische Studien I: Studien zur hebräischen Metrik.
+Abhandlungen der philologisch-historischen Klasse der königlich sächsischen
+Gesellschaft der Wissenschaften der Leipzig, vol. 21, no. 1. Leipzig, 1903.
+Rev.: in ZDP 33 (1901): 485-88.</bib>
+<notes>Part 1: Untersuchungen; Part 2: Textproben.
+</notes>
+</item>
+
+
+
+<item id="L1666">
+<bib>
+-----. Metrische Studien II: Die hebräische Genesis. Ibid., vol. 23, nos. 1–3. Leipzig,
+1907.</bib>
+<notes>
+Part 1: Texte; Part 2: Zur Quellenscheidung und Textkritik; Part 3: Metrisch
+bearbitet von E. Sievers und H. Guthe.
+</notes>
+</item>
+
+
+
+<item id="L1667">
+<bib>
+-----. Metrische Studien III: Samuel, metrisch herausgegeben. Ibid., vol. 23, no. 4.
+Leipzig, 1907.</bib>
+<notes>
+Part 1: Text.
+</notes>
+</item>
+
+
+
+<item id="L1668">
+<bib>
+Sievers, Eduard, and Herman Guthe. Amos Metrisch Bearbeitet. Leipzig, 1907.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1669">
+<bib>
+Skehan, Patrick W. "Strophic Structure in the Book of Job." Catholic Biblical
+Quarterly 23 (1961): 125-42.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1670">
+<bib>
+-----. "Strophic Structure in Psalm 72 (71)." Biblica 40 (1959): 302-8.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1671">
+<bib>
+Sprengling, M. "Antonius Rhetor on Versification." American Journal of Semitic
+Languages (Chicago) 32 (1916): 145-216.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1672">
+<bib>
+Vossius, Gerhardt Johann. "De Artis Poeticae Natura, Ac Constitutione Liber"
+[1647]. In his De Rhetorica, De Poetica, De Artium et Scientiarum Natura ac
+Constitutione. Vol. 3 of his Opera in 7 vols. Amsterdam, 1695–1701.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1673">
+<bib>
+Yoder, Perry B. "Biblical Hebrew [Versification]." Wimsatt (A20), pp. 52-65.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1674">
+<bib>
+Young, G. D. "Ugaritic Prosody." Journal of Near Eastern Studies 9 (1950): 124–
+33.</bib>
+<notes>
+See also: E483, E896–97, E1221.
+
+
+</notes>
+</item>
+
+        </div>
+        <div title="Arabic">
+
+<item id="L1675">
+<bib>
+Ali ibn Muhammad, al-Khazraji. La Khazradjyah, traité de métrique arabe, traduit par
+R. Basset. Algiers, 1902. 181 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1676">
+<bib>
+Blachère, R. "Deuxième Contribution à l'histoire de la métrique arabe: Notes sur
+la terminologie primitive." Arabica 6 (1959): 132-51.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1677">
+<bib>
+Bloch, Alfred. "Der kunstlerische Wert der altarabischen Verskunst." Acta
+Orientalia 21 (1950–53): 207-38.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1678">
+<bib>
+-----. Vers und Sprache im Altarabischen: Metrische und syntaktische Untersuchungen.
+Basel, 1946. 160 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1679">
+<bib>
+Brunschvig, R. La Versification arabe classique: Essai d'une méthode nouvelle. [n.c.:
+n.p.,] 1937. 20 pp.</bib>
+<notes> Cited in BMC.
+</notes>
+</item>
+
+
+
+<item id="L1680">
+<bib>
+Clarke, Samuel. Tractatus de Prosodia Arabica. Oxford, 1661.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1681">
+<bib>
+Coupry, H. Traité de la versification arabe. Leipzig, 1875.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1682">
+<bib>
+Ewald, Heinrich. De Metris Carminum Arabicorum Libri duo. . . . Brunsvigae:
+Lucius, 1825. 147 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1683">
+<bib>
+Goldenburg, Yves. "Le Métrique arabe classique et la typologie métrique." Revue
+roumaine de linguistique 21 (1976): 85-98.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1684">
+<bib>
+Greenberg, J. H. "Hausa Verse Prosody." Journal of the American Oriental Society
+69 (1949): 125–35.</bib>
+<notes> Cf. L1700.
+</notes>
+</item>
+
+
+
+<item id="L1685">
+<bib>
+Grunebaum, G. E. von. "On the Origin and Early Development of Arabic
+muzdawij Poetry." Journal of Near Eastern Studies 3 (1944): 9–13.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1686">
+<bib>
+Guyard, Stanislas. Théorie nouvelle de la métrique arabe, précédee de considerations
+générales sur le rythme naturel du langage. Paris: Imprimerie nationale, 1877. 350
+pp.</bib>
+<notes>
+Taken from the Journal asiatique (Paris) 7 (1876): 413–79; 8 (1876): 101–252,
+285–315; 10 (1877): 97–115.
+</notes>
+</item>
+
+
+
+<item id="L1687">
+<bib>
+Halle, Morris. "On the Metrics of Pre-Islamic Arabic Poetry." Quarterly Progress
+Report, MIT Research Laboratory in Electronics 83 (1966): 113-16.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1688">
+<bib>
+Hartmann, Martin. Das arabischen Strophengedichte: Ergänzungshefte zur Zeitschrift
+für Assyriologie. Semitische Studien, vols. 13–14. Weimar, 1897.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1689">
+<bib>
+-----. Metrum und Rhythmus: Die Entstehung der arabischen Versmasse. Giessen,
+1897. 34 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1690">
+<bib>
+Hillmann, Michael C. "Hafez and Poetic Unity Through Verse Rhythm." Journal
+of Near Eastern Studies 31 (1972): 1–10.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1691">
+<bib>
+Jayyusi, Salmakhadra. Trends and Movements in Modern Arabic Poetry. 2 vols.
+Leyden: E. J. Brill, 1977.</bib>
+<notes>
+See Appendices I and II in vol. 2: "Mandur's Theory of Stress" and "Tradi-
+tional Verse Forms"; also chapters 7 and 8.
+</notes>
+</item>
+
+
+
+<item id="L1692">
+<bib>
+Kurylowicz, Jerzy. "Le Mètre quantitatif en Arabe et ailleurs." Mélanges Marcel
+Cohen. Ed. David Cohen. The Hague: Mouton, 1970. pp. 92-98.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1693">
+<bib>
+Maling, Joan M. "The Theory of Classical Arabic Metrics." Diss., M.I.T., 1973.</bib>
+<notes>
+
+</notes>
+</item>
+
+
+
+<item id="L1694">
+<bib>
+Martin, M. l'Abbé. De La Métrique chez les Syriens. Abhandlungen für die Kunde
+des Morgenlandes, vol. 7, no. 2. Leipzig, 1879; rpt. Nendeln, Liechtenstein:
+Kraus Reprint, 1966.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1695">
+<bib>
+Moreh, S[amuel]. Modern Arabic Poetry 1800–1970. Leyden: E. J. Brill, 1976.</bib>
+<notes>
+In three Sections: Strophic Verse, Blank Verse, and Free Verse.
+</notes>
+</item>
+
+
+
+<item id="L1696">
+<bib>
+Muhammad ibn Ibrahim. La Métrique arabe. Paris, 1907. 400 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1697">
+<bib>
+Ranking, G. S. A. Elements of Arabic and Persian Prosody. Bombay, 1885. 123 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1698">
+<bib>
+Weil, Eliakim Gotthold. Grundriss und System der altarabischen Metren. Wiesbaden:
+Harrassowitz, 1958. 134 pp.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1699">
+<bib>
+Zwettler, Michael. The Oral Tradition in Classical Arabic Poetry: Its Character and
+Implication. Columbus, Ohio: Ohio State University Press, 1978. 310 pp.</bib>
+<notes>
+Applies the Parry-Lord oral-formulaic hypothesis to Arabic verse. Excellent
+bibliography.
+
+</notes>
+</item>
+
+</chapter>
+    <chapter title="OTHER AFRICAN">
+
+<item id="L1700">
+<bib>
+Bayero, S. A. "Prosody for Hausa Poetry." Nigeria Magazine 104 (1970): 31-33.</bib>
+<notes>
+Cf. L1684.
+</notes>
+</item>
+
+
+
+<item id="L1701">
+<bib>
+Buning, T. Afrikaanse Versbau. Pretoria, 1939.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1702">
+<bib>
+Ebers, Georg. "Der Klang des Altägyptischen und der Reim." Zeitschrift für
+ägyptische Sprache und Alterthumskunde 15 (1876): 43-48.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1703">
+<bib>
+Fortes, Meyer. "Tallensi Riddles." To Honor Roman Jakobson: Essays on the
+Occasion of his Seventieth Birthday. 3 vols. The Hague: Mouton, 1966. Vol. 1,
+pp. 678-87.</bib>
+<notes>Metrical forms and sound-patterning.
+</notes>
+</item>
+
+
+
+<item id="L1704">
+<bib>
+Gairdner, W. H. T. "The Modern Meter of Egyptian-Arabic Verse." American
+Journal of Semitic Languages (Chicago) 37 (1921): 230-37.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1705">
+<bib>
+Greenberg, Joseph H. "A Survey of African Prosodic Systems." Culture in History.
+Ed. Stanley A. Diamond. New York: Columbia University Press, 1960. pp.
+925-50.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1706">
+<bib>
+-----. "Swahili Prosody." Journal of the American Oriental Society 67 (1947): 24-30.</bib>
+<notes>
+Bibl.
+</notes>
+</item>
+
+
+
+<item id="L1707">
+<bib>
+Olabimtan, Afolabi. "Rhythm in Yoruba Poetry: The Example of Orin-Arungbè."
+Research in African Literatures 8 (1977): 201-18.</bib>
+<notes></notes>
+</item>
+
+
+
+<item id="L1708">
+<bib>
+Peck, H. T. "Onomatopoeia in Some West African Languages." American Journal
+of Philology 7 (1886): 489-95.</bib>
+<notes>Sonal mimesis is central to word-formation in these languages "beyond any-
+thing in any other language yet observed." Many examples.
+
+</notes>
+</item>
+
+</div>
+    </chapter>
+    <chapter title="AMERINDIAN">
+
+<item id="L1709">
+<bib>
+Barnes, Nellie. "American Indian Verse: Characteristics of Style." Bulletin of the
+
+University of Kansas, Humanistic Studies vol. 2, no. 4 (1921): 1–63.</bib>
+<notes>
+See chapters 2, 6, and 7 of Part Two on repetition, "Musical Qualities," and
+onomatopoeia.
+</notes>
+</item>
+
+
+
+<item id="L1710">
+<bib>
+Bursill-Hall, G. L. "The Linguistic Analysis of North American Indian Songs."
+Canadian Journal of Linguistics 10 (1964): 15-36.</bib>
+<notes>
+</notes>
+</item>
+
+
+
+<item id="L1711">
+<bib>
+Halle, Morris. "On a Parallel Between Conventions of Versification and
+Orthography; and on Literacy Among the Cherokee." Language By Ear and By
+Eye. Ed. James F. Kavanagh and I. G. Mattingly. Cambridge: M.I.T. Press,
+1972. pp. 149-54.</bib>
+<notes>Notices a similarity between meter and orthography in that both systems in-
+corporate certain features (rules) of the phonetic material (spoken language)
+while disregarding certain others. This face, he observes, "leads one to inquire
+whether the rules that are being disregarded in the two cases have anything in
+common."
+</notes>
+</item>
+
+
+
+<item id="L1712">
+<bib>
+Hymes, Dell. "Some North Pacific Coast Poems: A Study in Anthropological
+Philology." American Anthropologist 67 (1965): 316-41.</bib>
+<notes>Especially enlightening are the examples of linguistic structure in the original
+Indian poem vs. "literal" and "literary" translations.
+-- 703 --
+    </chapter>
+</bibliography>

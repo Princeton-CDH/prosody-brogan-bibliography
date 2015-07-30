@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+ <chapter title="HISTORIES" n="1">
+
+  <item id="A1">
+   <bib> Alden, R[aymond] M[acdonald]. English Verse: Specimens Illustrating Its Principles and
+    History. New York: Henry Holt, 1903; 2nd ed. 1929; rpt New York: AMS Press, 1970. 441 pp. Rev:
+    in The Nation 77 (1903): 118–20; by Omond in The Academy 76 (1909): 976–77; in Sewanee Review 11
+    (1903): 383–84. </bib>
+   <notes> To the teaching critic, English Verse is probably more useful as a compendium of examples
+    of verseforms than as a history or theory of English versification, even though the book intends
+    to offer both these latter. Chapter One of Part One and Part Three set forth Alden's principles,
+    which are that accent at equal time-intervals is the basis of English meter, that three degrees
+    of accent (pri- mary, secondary, and weak) from three causes (lexical, syntactic, and metrical)
+    are distinguishable, that the metrical pause is allowable, that verse is only analo- gous to
+    music, that English syllables do have rudimentary and entirely relative quantity, that the
+    concept of the metrical foot is worth preserving so long as it is understood as representing
+    "the time-interval between the regularly recur- ring accents of the normal metre," and that in
+    scansion the secondary accent if marked only complicates unduly the traditional notation, so
+    that only the bi- nary levels of stressed and unstressed are to be noted. Summarized on p. 405.
+    As Omond observed, Alden does not pursue the temporal theory of meter as aggressively as most,
+    but his analyses do "depart considerably from mere stresses." Alden's position lies somewhere
+    between the ad hoc impressionism of Saintsbury and the deductive interpretation of Omond; he
+    seems most directly indebted to Schipper (A9) and Mayor (E592). Chapter Two of Part One is
+    reprinted in abridged form as an Appendix to Gross (A23, pp. 235–64). Part Two is a history of
+    forms; Part Three, "The Time-Element in English Verse," reprints the substance of an earlier
+    article in MLN (E272). Part Four collects the views of thirteen poets and critics on "The Place
+    and Function of the Metrical Element in Poetry." See also E270 and E271. </notes>
+  </item>
+
+
+  <item id="A2">
+   <bib> Allen, Gay Wilson. American Prosody. New York: American Book Company, 1935; rpt New York:
+    Octagon Books, 1966, 1978. 328 pp. Based on his dissertation at Wisconsin in 1934. Rev: by
+    Schramm in American Literature 7 (1935): 108–10; in JEGP 34 (1935): 461–62. </bib>
+   <notes> Though now somewhat out of date, this well-positioned book has not yet been superseded.
+    It does not aim to advance "an ideal prosody . . . any original theories . . . or critical
+    estimates," but simply to present a coherent view of the technic of American poetry up to 1900,
+    as seen in both the stylistic develop- ment and the known theoretical views of eleven major
+    American poets: Freneau, Bryant, Poe, Emerson, Whittier, Longfellow, Holmes, Whitman, Lowell,
+    Lanier, and Dickinson. The Introduction has the considerable virtue of distinguishing terms
+    clearly and the lesser vice of allowing too many of them: Allen recognizes four natural
+    speech-stresses (primary, secondary, "weak secondary," and weak), "metrical stresses"
+    (apparently compromise scansions of the natural stressing of the line against the abstract
+    metrical pattern), and four regular metrical feet (the common ones) but up to seven additional
+    ones (tri- brachs, ionics, bacchics, etc.). A short section also discusses the influence of
+    British versification on American, a subject which despite its obvious impor- tance has never
+    yet been thoroughly examined. Allen's study broke the neces- sary new ground, but after a half
+    century of extensive scholarship it should now be possible to reappraise the whole subject of
+    American versification-- both theory and praxis--in a much more systematic and sophisticated
+    way. See also Eaton (E25), Gillis (E35), and Fussel (E34). </notes>
+  </item>
+
+
+  <item id="A3">
+   <bib> Kaluza, Max. Englische Metrik in historischer Entwicklung dargestellt. Normannia:
+    Germanisch-Romanisch Büucherei, vol 1. Berlin: E. Felber, 1909. 384 pp. Translated into English
+    by A. C. Dunstan as: </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="A4">
+   <bib> -----. A Short History of English Versification From the Earliest Times to the Present Day.
+    London: George Allen, 1911. 387 pp. </bib>
+   <notes> The translation, which follows the original closely, is hereafter referred to as Kaluza.
+    During the writing of his book, Kaluza clearly felt the lingering coolness of the long shadow
+    cast by Schipper's monumental work (A9); he is at pains, in the Preface and elsewhere, to
+    justify his own study, claiming that "the mass of detail in Schipper is confusing for the
+    beginner, and his presentation of Old and Middle English prosody needs correction in many
+    important points." In fact, however, Kaluza's own study is considerably more complicated in
+    theory and more scholarly in method than Schipper's, and it is decidedly not a book for
+    beginners. But no justification was needed: Kaluza has not given us a full- scale history of
+    English verse-tech-nique, as did Schipper, but rather a seem- ingly indefatigable study of the
+    various prosodic theories about verse—particu- larly Old and Middle English verse--that had been
+    advanced up to 1900 by the German philologists. Indeed, Kaluza's title is misleading, since
+    fully two-thirds of his book treats English verse before 1500. But for this single purpose--a
+    synoptic, detailed account of the German theories of the Old Germanic and Old English
+    alliterative line--Kaluza is valuable, and in that value superior to any other work yet written.
+    After Kaluza we must go directly to the Germans. Kaluza's principles are accentual: the thesis
+    and arsis (he uses these terms in their modern sense) make up the foot in syllable-counting
+    verse, or the bar (takt, measure) in alliterative stress-verse. Elucidating the course of the
+    theories about Old English verse, he discusses the "four-stress" (to the half-line) theory of
+    Lachmann and his followers and the competing "two-stress" theory of Wackernagel et al., accounts
+    that were eventually superseded by Sievers' "Five Types" system (Sievers himself was of the
+    two-stress school). Kaluza adheres to the doctrines of the older four-stress school, and so a
+    considerable portion of his long first section on Old English is given over to a detailed
+    criticism of the Sievers theory, Kaluza substituting for it instead his own modified version
+    (pp. 60–64) of two Laws, six Types, and ninety "subspecies," but nevertheless la- boring to make
+    the whole system compatible with the authoritative Five Types typology. See Kaluza's monograph
+    (J139) in Part 2, Section 1, below. All the German philologists were pretty well agreed that the
+    oldest Indo- European meter had been well agreed that the oldest Indo-European meter had been x
+    / x / x / x / x / (later to be called the iambic dimeter in classical Greek metrics), a meter
+    which was divided into four bars for purposes of dancing or singing. When he came to the Middle
+    English, French-derived meters of our verse, Kaluza had the candor and good sense to acknowledge
+    there the pres- ence of an entirely new form, with different rules for construction and hence an
+    entirely different texture and structure from that of Old English verse--all merely by the
+    addition of the simple rule of syllable-counting. Appropriately, then, Kaluza views the Middle
+    English alliterative verses as derived not from the Old English form but from a mixed form of
+    the Latin septenary transmitted to the English by the Christian monks. On the Modern period,
+    Kaluza gives only a short synopsis of the nature of the modern meters (in modern English it is
+    easier than it formerly was to dispose the stresses at rhythmically equal periods of time; the
+    poet, then, must create harmony out of the clash of word-stresses and metrical-accents; inver-
+    sion and hovering accent were developed to reduce this difficulty, as well as elision, which
+    will produce a correct metrical value for excess syllables (pp. 266–84), then traces out in
+    cameo the modern development of the various metrical and stanzaic forms, especially blank verse.
+   </notes>
+  </item>
+
+
+  <item id="A5">
+   <bib> Omond, T[homas] S[tewart]. English Metrists: Being a Sketch of English Prosodical Criticism
+    from Elizabethan Times to the Present Day. Oxford: Clarendon Press, 1921; rpt New York: Phaeton
+    Press, 1968. 327 pp. </bib>
+   <notes>Rev: in TLS 1 September 1921, p. 557 (reply by Omond in the Correspon-
+dence for Sept. 15, p. 596); in Notes &amp;amp; Queries series 12, vol. 8 (1921): 519; by
+McKerrow in MLR 17 (1922): 436. Hereafter referred to as Omond.
+Our first historical and bibliographical survey of writings on English metrics.
+This final and definitive edition of Omond's work, published shortly before his
+death, combines and extends his earlier two editions (below) by adding sup-
+plements to the bibliographical lists and Postscript which bring the survey up
+to 1920. These two earlier studies, in turn, followed Omond's original 1903
+monograph on English verse-structure, A Study of Metre (E310) and were in-
+tended as bibliographical appendices, but they gradually assumed larger and
+larger proportions then complete attention as the research broadened and
+deepened (no source-list whatsoever existing at the time). These were:
+   </notes>
+  </item>
+
+
+  <item id="A6">
+   <bib> -----. English Metrists. Tunbridge Wells: R. Pelton, 1903. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="A7">
+   <bib> -----. English Metrists in the Eighteenth and Nineteenth Centuries: Being a Sketch of
+    English Prosodical Criticism During the Last Two Hundred Years. London: Oxford University Press,
+    1907. 268 pp. See his other metrical studies listed below in Chapter Six on Meter, beginning at
+    E305. </bib>
+   <notes> Prior to the present study, English Metrists offered the most succinct, thorough, and
+    accessible history of English metrical theory available. Given the date of Omond's first two
+    editions (A6 and A7), a comparison of his work with Saintsbury (A8) is natural, even though the
+    contrasts between the two could scarcely be greater: Omond is a history of critical theorizing
+    about verse- structure, while Saintsbury is in fact a history of the poets' practice; Omond's
+    assumptions about the (temporal) nature of poetic meter are evident on every page of his
+    criticism, whereas Saintsbury repeatedly evades the explicit and takes refuge in the ambiguous
+    and unexamined; Omond believed that a quan- titative verse could be written in English, whereas
+    Saintsbury rejected the pos- sibility out of hand while paradoxically insisting on the retention
+    of its archaic terminology. For the serious student of English verseform, however, Omond is the
+    indispensable book. English Metrists is not, however, so much a history as a bibliography; the
+    text of the book is actually little more than a discursive, amplified commentary on the
+    bibliographical lists at the end. So the work might more properly be thought of as discursive
+    bibliography (see Chapter Three, Earlier Bibliogra- phies, below). As such, however, its value
+    is in no wise diminished; for the eighteenth and nineteenth centuries especially, Omond's
+    research was meticu- lous. And he regularly allows three to five pages for a discussion of a
+    particu- larly important writer, a practice I have much envied, being unable to follow it here.
+    I have included in the present work every full article or book which Omond cites, but there
+    remain, in English Metrists, many brief notices of passages of verses, remarks, correspondence,
+    and other references which I have not thought worthy of pursuit. Scholars working on future,
+    more specialized studies such as the nineteenth century interest in hexameters will want to re-
+    turn to these, as well as to search out others which Omond himself mentions only in passing. The
+    function of the present book in relation to its predecessor, then, is twofold--extension, and
+    organization. The limitations of Omond's book, in other words, form the greater part of the
+    rationale for this one. To begin with, Omond's meticulous bibliographic searches end not long
+    after the turn of the century (1908 for quantitative verse and, much less rigorously [Omond was
+    ill], 1920 for accentual verse). The great mass of newer work published since that time has
+    wanted collecting and reviewing, and so I have thought to bring Omond up to date. Moreover,
+    though his researches at the British Museum and the Bodleian were prodigious, Omond frequently
+    confesses himself unac- quainted to the same degree with American scholarship, particularly
+    periodical. He has not, for example, searched the nineteenth-century American literary journals
+    for articles on versification as he did the British. But more impor- tantly, Omond's criteria
+    for inclusion now seem unacceptably narrow: he ad- mitted only (1) works on English metrics (2)
+    written in English, constraints which immediately barred him from the whole field of German
+    scholarship on English philology (especially Old English, which Omond had little interest in) in
+    the late nineteenth century, as well as from the important treatises of Schip- per, Kaluza,
+    Verrier, and others on English metrics. My own criterion has been that a work be on English
+    versification (a far wider subject than merely metrics) regardless of its provenience or
+    language of discourse. A truly com- prehensive theory will require a truly comprehensive search
+    for information. Beyond the problem of scope, however, there is the problem of organi- zation,
+    and here Omond's book must be judged to have done little to clear up the immense confusions in
+    English metrical theory. The source lists of English Metrists are divided into two parts, one a
+    list of attempts to write (and legiti- mize) quantitative meters in English, the other a survey
+    of theories about the ordinary accentual-syllabic tradition. This scheme is useful for
+    chronological reference, but not for the immediately essential purpose of keeping separate
+    problems separate. Omond makes no effort in his second list to sort out the competing schools of
+    theorists, a procedure which is immensely important for readers who have little knowledge of the
+    field and no idea of the quandaries which await them. Too, the bibliographical lists are
+    cumbersome visually, for typographical reasons, and though the citation data is exceptionally
+    accurate even for very obscure works, the remarks added thereto are less informative than
+    evaluative. This latter difficulty, though, betokens a broader one, and a candid review of
+    English Metrists would have to weigh heavily the fact that the book is, albeit modestly, a
+    tendentious one. Omond firmly accepts the tem- poral nature of English verse as the foundation
+    of its meter. This principle and others are evident, and they continually shade the chronicler's
+    responses and judgments. One would prefer a list of sources--beyond question, a history of
+    theory--to take a more disinterested stance. Some may believe that such a stance is impossible
+    in this particular field, but I for one think that the signifi- cance and cogency of a work can
+    be reliably assessed without any particularly strong commitment to one theory or another.
+    Certainly one has assumptions, and principles, and I have tried to state mine in the
+    Introduction above. But principles ought not deter one from recognizing quality or determining
+    typol- ogy. Born in Edinburgh, Omond took his M.A. at St. John's College, Ox- ford; thereafter
+    he moved to Tunbridge Wells, a small town in Kent some forty miles southeast of London,
+    employing himself as a barrister until his death in 1923 (March 1). He is not listed in the DNB.
+    For some time, I have been trying to trace his family, library, papers, and a photograph, but so
+    far without much success. His will stipulates that his papers be destroyed. </notes>
+  </item>
+
+
+  <item id="A8">
+   <bib> Saintsbury, George [Edward Bateman]. A History of English Prosody From the Twelfth Century
+    to the Present Day. 3 vols. London: Macmillan, 1906–10; 2nd ed. 1923; rpt New York: Russell
+    &amp;amp; Russell, 1961. Rev: vol. 1 was reviewed by W. P. Ker in the Scottish Historical Review
+    4 (1907): 214–16 and rpt in his Form &amp;amp; Style in Poetry (B115), pp. 316–19. Also noticed
+    in Shakespeare Jahrbuch 45 (1909): 404; 48 (1912): 328. See also E528 and E529. Hereafter
+    referred to as Saintsbury. </bib>
+   <notes> Historically the successor to Guest (E543), the History of English Prosody represents one
+    of the monuments of late Victorian criticism (as Saintsbury himself said of Patmore, the work
+    "simply swarms with crotchety and temer- arious deliverances") and the most extensive effort
+    ever made to trace the po- ets' craft of versifying throughout the entire course of English
+    poetry. The suc- cessor to the History, when it comes, will not be written by a single hand. The
+    second edition is the definitive one, containing eleven Books of historical sur- vey and fifteen
+    Appendices treating specific problems. Since the latter are of more immediate interest for
+    gauging Saintsbury than the former (the historical surveys are likely to be consulted only for
+    specific purposes), I list the Appen- dices herewith, postponing for the moment, however, any
+    discussion of Saintsbury's theories: In vol 1: 1: Equivalence, Substitution, and
+    Foot-Arrangement in English; 2: Common Syllables in English, and Degrees in Quantity; 3: The
+    Nature and Phenomenon of Doggerel; 4: Alliteration and its Varieties; 5: English
+    Feet--1200–1600; 6: English Metres--1200–1600; 7: Pause in English--1200–1600; 8:
+    Rhyme--1200–1600; 9: Vowel Music--1200–1600. In vol.3: 1: What Is a foot?; 2: Is the Basic Foot
+    of English Iamb or Trochee?; 3: Trisyllabic Metres Since 1600; 4: Rhyme, 1600–1900; 5:
+    Alliteration and Vowel Music, 1600–1900; 6: An Omnibus Box [Notes and Addenda]. Upon finishing
+    the History, Saintsbury immediately turned his attention to the composition of a more accessible
+    work, a student's manual of versifica- tion, which was intended to be "not so much an abstract
+    as a parallel with a different purpose." This is his Historical Manual, still a very useful book
+    (in many ways much more so than the History), cited below in the chapter on Metrics (E636);
+    Saintsbury's prosodic assumptions, methods, and pronounce- ments are discussed at that point.
+    Saintsbury lived a very full life (1845–1933); he held the Chair of Rhetoric and English
+    Literature at the University of Edinburgh, and he has been accurately assessed by René Wellek as
+    "by far the most influential aca- demic literary historian and critic of the early twentieth
+    century." Over the course of his career, however, the scope (and variety) of his professional
+    publi- cations is staggering. The last of the great generalists, he eschewed the precise and the
+    explicit, while never hesitating an instant to deliver an ex cathedra judgment. With Saintsbury,
+    evaluation came first, understanding later. He has an irrepressibly exuberant, anecdotal prose
+    style that earned him the censure of his contemporaries (Hopkins called it "vulgar"); it is a
+    great pleasure to read-- in small doses--but admittedly it is often fluff. On the other hand, it
+    is occa- sionally incandescent, too. Saintsbury is of that class of critics censured by Eliot as
+    too creative for really accurate analysis. The History of English Prosody is undeniably a great
+    monolith of wide and informed reading. Yet at the same time it must surely stand as one of the
+    most extravagant irrelevancies in criticism, since the instrument, the method, the theory by
+    which the history is conceived, understood, brought into line, and written up is not simply
+    vague or imprecise but actually non-existent-- indeed, consciously ignored and avoided.
+    Saintsbury was all for Taste, Gusto, Elan (this was what Eliot noticed most); he cared not a
+    straw for Precision, Detail, Method, or Proof. In the view of many, therefore, the judgments,
+    de- scriptions, and conclusions of the History--in effect the whole weight of the work--are
+    entirely vitiated by Saintsbury's perverse and willful refusal to ex- plain, either to himself
+    or to us, the assumptions about the nature of meter and verse-structure by which those
+    conclusions were reached. In versification clar- ity about assumptions is not merely
+    indispensable, it is everything. See MacColl's critique at E371 and see D254. There are essays
+    on Saintsbury's opinions and achievement in PMLA 59 (1944): 243–60; (by Wellek) in English
+    Miscellany 12 (1961): 79–96; and in the University of Edinburgh Journal, vol. 6, no. 1 (1933),
+    pp. 30–72 (with two fine photographs). See also Walter Leuba's George Saintsbury. New York:
+    Twayne, 1967. </notes>
+  </item>
+
+
+  <item id="A9">
+   <bib> Schipper, Jakob. Englische Metrik: in historischer und systematischer Entwicklung
+    dargestellt. 2 Parts in 3 vols. Bonn: Emil Strauss, 1881–88. </bib>
+   <notes> Part I: Altenglische Metrik. 1881. Part II: Neuenglische Metrik: Verslehre. 1888.
+    Neuenglische Metrik: Stophenbau. 1888. Rev: in The Nation 35 (1882): 312; by Wissmann in LGRP 3
+    (1882): cols. 133–39, with reply by Schipper, "Zur Zweihebungstheorie der alliterirenden
+    Halbzeile: Eine Entgegung," in Englische Studien 5 (1882): 488–93; by Eugen Einenkel in Anglia
+    Anzeiger 5 (1882): 30–53--which, along with a paper by Wissmann on Middle English word-stressing
+    in Anglia 5 (1882): 466–500, was answered by Schipper in "Zur altenglischen Wortbetonung,"
+    Anglia Anzeiger 5 (1882): 88–111, with a final salvo by Einenkel, "Erklärung gegen Schipper,"
+    Anglia Anzeiger 6 (1883): 64–66; by Gummere in MLR 4 (1889): cols. 290–94; in The Nation 50
+    (1890): 355–57, with a reply by Schipper to both of these, "English Metres," in MLN 6 (1891):
+    cols. 241–46. Later condensed and pub- lished as: </notes>
+  </item>
+
+
+  <item id="A10">
+   <bib> -----. Grundriss der englischen Metrik. Wiener Beiträge zur englischen Philologie, no. 2.
+    Vienna and Leipzig: W. Braumüller, 1895. 396 pp. Rev: in Anglia Beiblatt 7 (1897): 36–37; by
+    Kaluza in LGRP 17 (1896): cols. 227–31; in Archiv 97 (1896): 406–9; in Englische Studien 23
+    (1897): 295–99. </bib>
+   <notes> Translated into English (apparently by Schipper himself) as </notes>
+  </item>
+
+
+  <item id="A11">
+   <bib> -----. A History of English Versification. Oxford: Clarendon Press, 1910; rpt New York: AMS
+    Press, 1971; rpt Folcroft, Pa.: Folcroft Library Editions, 1973. 390 pp. </bib>
+   <notes> The translation (hereafter referred to as Schipper) is reorganized as follows: Book I:
+    The Line Part I: The Native Metre Part 2: Foreign Metres Division 1: The Foreign Metres in
+    General Division 2: Verse-Forms Common to the Middle and Modern English Periods Division 3:
+    Verse-Forms Occurring in Modern English Poetry Only Book II: The Structure of Stanzas Part 1:
+    [Nature and Structure of the Stanza] Part 2: Stanzas Common to Middle and Modern English, and
+    Others Formed on the Analogy of These Part 3: Modern Stanzas and Metres of Fixed Form
+    Originating Under the Influence of the Renascence, or Introduced Later It has been said that
+    Schipper's table of contents in the English transla- tion is the most thorough, logical, and
+    minute organization of English verse- forms available anywhere; to peruse it is an education in
+    itself. (Some have not thought so, however: Eleanor P. Hammond called it the product of "a mind
+    which must name before it can see and feel.") The translation is heavily reor- ganized in
+    structure but seems much less reworked in content besides the ob- vious trimming of examples,
+    though Schipper does take account of some ar- guments on Old and Middle English metrics
+    published by Luick, Ten Brink, and others after 1881. The absence of an Index in the English
+    edition is a great loss. Each of the five Parts and three Divisions listed above is discussed
+    else- where in the present work, since among the twenty-six chapters of HEV Schipper offers
+    detailed, valuable accounts of Old English meter and the de- velopment of the modern meters in
+    Middle English, as well as useful short re- views of the sonnet form, the Spenserian stanza, the
+    development of blank verse and the couplet, trochaic meters, imitations of classical meters,
+    varieties of rhyme--indeed on virtually every aspect of English versification. Saintsbury's
+    observation that Schipper's monumental work was "one of the foundation stones of a prosodic
+    library" was one of the soundest judgments he ever made in his life. Englische Metrik was not
+    only the first combined his- torical survey and classification of English verseforms made on a
+    truly compre- hensive scale, it was also a study carried out with such theoretical clarity and
+    acumen that subsequent researchers have found very little to quarrel with even after a century.
+    Schipper complained that the German edition sold poorly, and his work had too much of the German
+    drive for order and detail to make it attractive to the English, but I suspect that its sheer
+    presence was an incentive toward the great flood of writing about versification which took place
+    around the turn of the century. The reprint edition will be one of the first acquisitions of the
+    serious student of versification. The bulk of the book (about 70%--this is not obvious from the
+    table of contents) discusses Old and Middle English metrics. The sections which treat modern
+    stanza-forms are mainly catalogues of examples, with a few notable exceptions. This seems an
+    unnatural distribution, and to some extent it simply reflects Schipper's own specialty within
+    English philology, which was Middle English, but it can be justified in part on the grounds that
+    the two principles of modern English meter--syllable-counting and stress-alternation--were first
+    es- tablished in early Middle English, a phenomenon which is only slightly more interesting than
+    its correlate, the disappearance of the Old English meter about the same time. Hence Schipper
+    turns his attention squarely on what is most important. Most of Book I and Parts 1 and 2 of Book
+    II concern pre-1500 forms. On Old English metrics Schipper gives one of the most judicious re-
+    views of the nineteenth-century German scholarship available. He himself ad- heres to the
+    zweihebungstheorie in agreement with Sievers, whose Five Types theory Schipper adopted soon
+    after its appearance. His discussion of Old Eng- lish verse is mainly an exposition of Sievers
+    with examples. On the hypermet- ric lines he accepts the medial-fusion explanation given by
+    Luick and subse- quently endorsed by Sievers. As for the native meter in Middle English,
+    Schipper generally follows Luick (see K223–26, and note K330) in tracing out the loosening form
+    of the alliterative long-line (two-stress hemistichs expand to three; rhyme is added; internal
+    rhyme allows a fracturing of one long-line into a short rhyming couplet) under the pressure of
+    the foreign meters; he seems indeed more interested in the early ME verseforms, as in Layamon,
+    than in the "Alliterative Revival," which had not yet become a bone of contention. Continuity of
+    the alliterative tradition in ME is assumed throughout. The for- eign meters, however, receive a
+    different treatment, being the progenitors of the modern forms. Schipper adopts the traditional
+    (classical) terminology of iambic, trochaic, anapestic, and dactylic feet, even going so far as
+    the obstrep- erous nomenclature for line-ends (brachycatalectic, etc.). He also fails to distin-
+    guish between stress-verse and foot-verse (accentual-syllabic), so that Com- mon Meter, for
+    example, more commonly known as the Fourteener, is de- rived from the seven-foot iambic line in
+    Latin, the Septenary. And he has a few blind spots: the poems of the Gawain-poet, for example,
+    seem scarcely mentioned at all. Yet Schipper is right to identify the foreign sources of mod-
+    ern English versification as double: the influence of Medieval Latin has been se- riously
+    slighted elsewhere. And the traditional account of metrical structure he gives in Chapters 6, 7,
+    and 8 is cogent and useful. Altogether, it is the wide command of English literature and the
+    steadi- ness of judgment that are distinctive in Schipper; he has no bold new theories to
+    display, he borrows much, and his general approach may be fairly described as conservative. But
+    he is remarkably good, not in spite of but in addition to the fact that he was first. I have
+    been unable to trace much biographical informa- tion or (beyond hope) a photograph, but some
+    information will be found in "Zum Gedächtnis Jakob Schipper's," Englische Studien 49 (1915–16):
+    99–112, and the note on his election to the chair of English Philology at Vienna in Englische
+    Studien 39 (1908): 318–19. Chapter Two ----------------- COLLECTIONS OF ESSAYS </notes>
+  </item>
+
+
+  <item id="A12">
+   <bib> Fowler, Roger. The Languages of Literature: Some Linguistic Contributions to Literature.
+    London: Routledge and Kegan Paul, 1971. </bib>
+   <notes> Fifteen essays various in subject-matter but all concerned in one way or an- other with
+    the possibilities for rapprochement between a precise linguistics and the study of literature.
+    For the study of metrics the key essay is "What Is Met- rical Analysis?" (see E534). </notes>
+  </item>
+
+
+  <item id="A13">
+   <bib> Hollander, John. Vision and Resonance: Two Senses of Poetic Form. New York: Oxford
+    University Press, 1975. 306 pp. </bib>
+   <notes> Twelve essays and an Appendix on a very wide range of subjects by a distin- guished poet
+    and critic, most of them previously published, many of them re- turning sooner or later to
+    Hollander's first love, music--the music of, in, or about literature. Some of the finest writing
+    done on versification will be found in this volume. </notes>
+  </item>
+
+
+  <item id="A14">
+   <bib> Fowler, Roger, ed. Essays on Style and Language: Linguistic and Critical Approaches to
+    Literary Style. London: Routledge and Kegan Paul, 1966. </bib>
+   <notes> Rev: in Foundations of Language 11 (1974): 591–94; in Essays in Criticism 16 (1966):
+    457–63. Ten essays by various hands. </notes>
+  </item>
+
+
+  <item id="A15">
+   <bib> Frye, Northrop, ed. Sound and Poetry: English Institute Essays, 1956. New York: Columbia
+    University Press, 1957. </bib>
+   <notes> These seven essays are some of those presented at two conferences on "Music and Poetry"
+    and "Sound and Meaning in Poetry" at the English Institute. The volume contains an Introduction
+    (E353) and six essays. </notes>
+  </item>
+
+
+  <item id="A16">
+   <bib> POETICS, POETYKA, POETIKA: First International Conference on Work-in-Progress Devoted to
+    Problems of Poetics, Warsaw, 1960. Ed. Donald Davie et al. Warsaw: Polish Scientific Publishers,
+    1961. </bib>
+   <notes> Rev: by Chatman in Linguistics, no. 8 (1964), pp. 107–23. Sixty-two papers and abstracts
+    in nine subject areas: Poetics and Linguistics, Versification and Sound-Texture, Problems of
+    Intonation, Poetic Lexicon and Semantics, The Functions of Grammatical Elements in Poetry, The
+    Poetics of Folklore, Applications of Mathematics to Poetics, Historical and Comparative Poetics,
+    and Problems of Interpretation and Evaluation of Poetics. Bibliogra- phy. </notes>
+  </item>
+
+
+  <item id="A17">
+   <bib> POETICS, POETYKA, POETIKA: Third International Conference of Work-in-Progress Devoted to
+    Problems of Poetics, Warsaw 1964. Ed. Roman Jakobson et al. The Hague: Mouton, 1966. </bib>
+   <notes> Eighteen articles on "general metrics and the metrics of Slavonic languages." Reference
+    Bibliography. </notes>
+  </item>
+
+
+  <item id="A18">
+   <bib> Preminger, Alex, ed. Princeton Encyclopedia of Poetry and Poetics. Enlarged edition.
+    Princeton: Princeton University Press, 1974. 992 pp., incl. Supplement.</bib>
+   <notes> Easily the single most valuable reference work available today for any serious reader of
+    poetry. Contains over a thousand articles by distinguished specialists on subjects in four
+    categories: History, Technique of Poetry, Poetics and Criticism, and the Relation of Poetry to
+    Other Fields. Each article includes a short bibliography. The articles most relevant to English
+    versification will be found listed under this item in Appendix D. </notes>
+  </item>
+
+
+  <item id="A19">
+   <bib> Sebeok, Thomas A., ed. Style in Literature. Cambridge, Mass.: M.I.T. Press, 1960. Rev:
+    there is a fine conspectus by F. L. Utley in Style 3 (1969): 95 ff; in Inter- national Journal
+    of American Linguistics 28 (1962): 269–86; in Language 37 (1961): 256–66; in Word 17 (1961):
+    318–44; in Archivum Linguisticum 14 (1962): 77– 83; in Romance Philology 15 (1962): 424–38. </bib>
+   <notes> The proceedings of the Conference on Style held at Indiana University in April 1968, a
+    meeting of minds which reverberated in the scholarly literatures of linguistics, literary
+    criticism, and psychology for more than a decade. </notes>
+  </item>
+
+
+  <item id="A20">
+   <bib> Wimsatt, W. K., Jr., ed. Versification: Major Language Types. Sixteen Essays. New York: New
+    York University Press for MLA, 1970. 252 pp. Rev: by Beaver in Language Sciences 30 (1974):
+    42–43; by Cable in Style 9 (1975): 227–30. </bib>
+   <notes> A valuable collection of recent essays in comparative prosody, surveying Eng- lish (three
+    essays), Classical Chinese, Japanese, Biblical Hebrew, Classical Greek and Latin, Slavic,
+    Uralic, Germanic, Celtic, Italian, Spanish, French, the elements of versification, and the
+    relation of verse to music. Editor's Introduc- tion. </notes>
+  </item>
+
+
+  <item id="A21">
+   <bib> Chatman, Seymour, and Samuel R. Levin, eds. Essays on the Language of Literature. Boston:
+    Houghton Mifflin, 1967. 450 pp. </bib>
+   <notes> Unfortunately now out of print, but nevertheless a very useful anthology of thirty-one
+    essays in five areas: Sound Texture, Metrics, Grammar, Literary Form and Meaning, and Style and
+    Stylistics. </notes>
+  </item>
+
+
+  <item id="A22">
+   <bib> Freeman, Donald C., ed. Linguistics and Literary Style. New York: Holt, Rinehart and
+    Winston, 1970. </bib>
+   <notes> Twenty-three articles in four sections: Linguistic Stylistics: Theory; Linguistic
+    Stylistics: Method; Approaches to Prose Style; and Approaches to Metrics. Valuable editor's
+    Introduction. </notes>
+  </item>
+
+
+  <item id="A23">
+   <bib> Gross, Harvey, ed. The Structure of Verse: Modern Essays on Prosody. Greenwich, Conn.:
+    Fawcett Publications, 1966; 2nd rev. ed. 1978. </bib>
+   <notes> A useful and compact anthology (in paperback) containing an Introduction ("Prosody and
+    Literary Study"), a brief epigraph to each article, Appendices (an excerpt from Alden's English
+    Verse [A1] and a Glossary) and fourteen articles in three sections: Prosody: Purview, History,
+    and Definitions; Theories of Meter; and Three Essays in Criticism. </notes>
+  </item>
+
+
+  <item id="A24">
+   <bib> Hemphill, George, ed. Discussions of Poetry: Rhythm and Sound. Boston: D. C. Heath, 1961,
+    112 pp. </bib>
+   <notes> A collection of eighteen short excerpts from poets and critics (Gascoigne, Jonson,
+    Milton, Marvell, Dryden, Johnson, Jefferson, Blake, Coleridge, Poe, Lanier, Hopkins, Saintsbury,
+    Bridges, Young, Winters, Wellek and Warren, and Shapiro) on the art of verse, followed by a
+    reprinting of the 1956 Kenyon symposium "English Verse and What It Sounds Like" (E714). Brief
+    introduc- tion by the editor. </notes>
+  </item>
+
+
+  <item id="A25">
+   <bib> Perkins, George, ed. American Poetic Theory. New York: Holt, Rinehart and Winston, 1972. </bib>
+   <notes> Extracts from thirty-one essays by major American poets Freneau through Dickinson on the
+    art of versecraft. </notes>
+  </item>
+
+
+  <item id="A26">
+   <bib> Smith, G. Gregory ed. Elizabethan Critical Essays. 2 vols. Oxford: Clarendon Press, 1904;
+    rpt 1937–71. </bib>
+   <notes> The successor to Joseph Haslewood's Ancient Critical Essays upon English Poets and Poesy
+    (2 vols. London, 1811–15) and still the standard edition of the prin- cipal Renaissance
+    treatises on literary criticism and versification. </notes>
+  </item>
+ </chapter>
+ <chapter title="EARLIER BIBLIOGRAPHIES">
+  <item id="A27">
+   <bib> Lafourcade, Françoise. "Contribution à une bibliographie chronologique pour l'étude des
+    théories sur la versification anglaise de 1550 à 1950." In Hommage à Paul Dottin. Caliban
+    (Annales Publiées par la Faculté des Lettres et Sciences Humaines de Toulouse). N.s. 2, fascicle
+    1, no. 3 (Special Issue), 1966. pp. 271–317. </bib>
+   <notes> At 772 entries, this bibliography might otherwise be considered substantial. In fact, it
+    relies very heavily on Omond, repeating his mistakes along with his dis- coveries, and though
+    Lafourcade adds a considerable number of new citations, many of these are only of very minor
+    interest, even to the fanatical prosodist, and some are quite difficult to justify as prosodic
+    at all. Annotations are brief and intermittent. The typesetters seem not to have known English,
+    for in truth "errors like straws upon the surface flow." In general the minutiae of dates,
+    spelling, and pagination are all completely unreliable. </notes>
+  </item>
+
+
+  <item id="A28">
+   <bib> Nager, Rae Ann. "English: II. Bibliographical." Wimsatt (A20), pp. 204–16. </bib>
+   <notes> Contains 126 entries, often annotated briefly, up to 1970. </notes>
+  </item>
+
+
+  <item id="A29">
+   <bib> -----. "A Selective Bibliography of Recent Work on English Prosody." Style 11 (1977):
+    136–70. </bib>
+   <notes> A continuation of her earlier work (above); this article includes 285 annotated entries,
+    1968–76. --- Omond, T. S. English Metrists. See A5. </notes>
+  </item>
+
+
+  <item id="A30">
+   <bib> Shapiro, Karl. A Bibliography of Modern Prosody. Baltimore: Johns Hopkins University Press,
+    1948. 36 pp. </bib>
+   <notes> Contains 71 entries. Shapiro undertook this short bibliography as part of his duties for
+    the Chair of Poetry at the Library of Congress, 1946–47; it is not, therefore, an especially
+    technical or comprehensive reference work. It contains some irrelevancies (such as the first and
+    last entries) but does cite most of the larger (i.e., more visible, not necessarily better)
+    works on versification from about 1880 to 1940. All the entries are annotated discursively, with
+    some ef- fort being made to sort the various approaches into "Temporal," "Stress," or "Mixed."
+    The scholar will not be likely to examine this work more than once. </notes>
+  </item>
+ </chapter>
+</bibliography>

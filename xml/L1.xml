@@ -1,0 +1,2682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+    <chapter title="APPENDIX 1: GENERAL AND COMPARATIVE STUDIES">
+
+        <item id="L1">
+            <bib> Abernathy, Robert. "Mathematical Linguistics and Poetics." Poetics I (A16), pp.
+                563-70.</bib>
+            <notes>A simplified introduction to information theory as applied to verse. </notes>
+        </item>
+
+
+
+        <item id="L2">
+            <bib> -----. "Rhymes, Non-Rhymes, and Antirhyme." To Honor Roman Jakobson: Essays on the
+                Occasion of his Seventieth Birthday. 3 vols. The Hague: Mouton, 1967. Vol. 1, pp.
+                1–14.</bib>
+            <notes> The usual definition of "unrhymed" verse is superficial: in some forms, rhymes
+                at certain positions may simply be unconstrained (optional)--"nonrhyme"--and in
+                other forms they may actually be prohibited--"antirhyme." Rhyme con- straints thus
+                may be either positive or negative and of many degrees of fre- quency and
+                complexity, as we see in the fainter echoes of rhyme in Milton and in Browning's
+                blank-verse dramatic monologues. Our terminology for rhyme is inexact and
+                inconsistent, as can be seen in the case of "identical rhyme," which is neither
+                reflexive (a rhyme) nor nonreflexive but actually ir- reflexive; on this account the
+                sestina must be considered "a special form of anti-rhymed verse." Examples from
+                English and Russian. </notes>
+        </item>
+
+
+
+        <item id="L3">
+            <bib> Alonso, Dámaso. "Versos plurimembros y poemas correlativos." Revista de la
+                Biblioteca, Archivo y Museo del Ayuntamiento de Madrid 13 (1944): 89–191.</bib>
+            <notes> Surveys Spanish, French, Italian, German, Latin, Sanskrit, and Arabic. Cf. L45.
+            </notes>
+        </item>
+
+
+
+        <item id="L4">
+            <bib> "The Antiquity of Rhyme." The Foreign Review and Continental Miscellany 3 (1829):
+                57–73.</bib>
+            <notes> Maps out a genealogy, from the aboriginal Hebrew to modern times. </notes>
+        </item>
+
+
+
+        <item id="L5">
+            <bib> Bailey, Richard W. "Statistics and the Sounds of Poetry." Poetics 1 (1971):
+                16–-37.</bib>
+            <notes> Interested in the application of information theory to poetics, Bailey reviews
+                the work of a number of theorists on Czech versification then analyzes two English
+                poems, discovering that a statistical inventory of phoneme distribution is not a
+                helpful or heuristic procedure for poetry. Testing for the distribution of gaps
+                between repetitions of sounds is similarly unhelpful. In fact, relatively stable
+                cross-linguistic evidence indicates that "a linguistic universal constrains human
+                speech in the deployment of phonemes." </notes>
+        </item>
+
+
+
+        <item id="L6">
+            <bib> Bailweg, Joachim, and A. Schramm. "Sprachliche Abweichung und ihre Role bei der
+                Konstituation poetischer Texte." Sprachsystem und Sprachgebrauch. Ed. Ulrich Engel
+                and Paul Grebe. Part I. Dusseldorf: Schwann, 1974. pp. 9–30.</bib>
+            <notes> On the problem of syntactic deviation. </notes>
+        </item>
+
+
+
+        <item id="L7">
+            <bib> Bann, Stephen, ed. "Introduction." Concrete Poetry: An International Anthology.
+                London: London Magazine Editions, 1967.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L8">
+            <bib> Bartlett, William. The Characteristics of Primitive Poetry. Oxford: Blackwell,
+                1884.</bib>
+            <notes> Section 3, esp. pp. 16–19, touches on meter, assonance, and sonal mimesis in
+                Teutonic, Scandinavian, Greek, and Hebrew poetry. </notes>
+        </item>
+
+
+
+        <item id="L9">
+            <bib> Beare, William. Latin Verse and European Song: A Study in Accent and Rhyme.
+                London: Methuen, 1957; rpt New York: Humanities, 1979. 296 pp.</bib>
+            <notes> Traces the origin and development of accentual rhythm and rhyme from the
+                earliest quantitative verses in Latin (the Saturnian) down through Provencal,
+                Medieval Latin, Old Irish, and Old English, with long side-glancing chapters on the
+                older systems of versification in Sanskrit, Greek, Hebrew, and Persian, as well as
+                on the theoretical concepts of verse, accent, ictus, etc. A very broad study.
+            </notes>
+        </item>
+
+
+
+        <item id="L10">
+            <bib> Becher, Johannes. "Philosophie des Sonetts oder kleine Sonettlehre: Ein Versuch."
+                Sinn und Form 8 (1956): 329-51.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L11">
+            <bib> Beck, Miroslav. "Einige Bemerkungen zur vergleichenden Metrik." In Teorie Verše I
+                (L89), pp. 81-85.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L12">
+            <bib> Bermann, Sandra L. The Sonnet Over Time. 1990?. Based on her diss., "Perspectives
+                on the Sonnet: Poetic Structure in Petrarch, Shakespeare, Baudelaire." DAI 39
+                (1978): 2233A (Columbia).</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L13">
+            <bib> Blackie, John Stuart. "On the Principle of Onomatopoeia in Language." In his Horae
+                Hellenicae. London: Macmillan, 1874. pp. 217-34.</bib>
+            <notes>Defends the broad origins and ordering presence of a general principle of
+                "phonetic imitation" in the Indo-European languages, arguing that a great part of
+                human experience, and hence human language and word-formations, is not "notional" or
+                conceptual at all but rather sensory, imitative, and frequently aural. Good
+                examples. </notes>
+        </item>
+
+
+
+        <item id="L14">
+            <bib> Bladon, R. A. W. "Approaching Onomatopoeia." Archivum Linguisticum n.s. 8 (1977):
+                158-66.</bib>
+            <notes>Along the continuum of expressive sounds produced by humans, from least arbitrary
+                to most, Onomatopoeia is second to the least, exceeded only by Mimicry, a category
+                from which true onomatopoeia is very sharply distin- guished by Bladon in his
+                typology. Analysis of onomatopes in English, Ger- man, French, Turkish, and Japanese
+                shows, inter alia, that languages vary con- siderably in the size of their
+                repetoires for this phenomenon, that the terms are nearly always monosyllables, and
+                that syllabic reduplication is very common. </notes>
+        </item>
+
+
+
+        <item id="L15">
+            <bib> Boultenhouse, Charles. "Poems in the Shape of Things." Art News Annual 28 (1959):
+                64–83, 178.</bib>
+            <notes> A short synopsis-essay and many examples, from Rhodes in 300 B.C. to the
+                present. </notes>
+        </item>
+
+
+
+        <item id="L16">
+            <bib> Brackbill, Yvonne, and K. B. Little. "Factors Determining the Guessing of the
+                Meanings of Foreign Words." Journal of Abnormal and Social Psychology 54 (1957):
+                312-18.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L17">
+            <bib> Braune, W. "Reim und Vers." Sitzungsberichte der Heidelberger Akademie der
+                Wissenschaften, philologisch-historischen Klasse. Heidelberg, 1916.</bib>
+            <notes> Examines the origin, history, and senses of the two terms. </notes>
+        </item>
+
+
+
+        <item id="L18">
+            <bib> Brewster, Paul G. "Some Notes on Verse-capping, Western and Oriental." Revue de
+                littérature comparée 35 (1961): 102-6.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L18">
+            <bib> a Bühler, K. "La onomatopeya y la función representativa del lenguaje." In
+                Psicologia del lenguaje. Buenoe Aires, 1952.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L19">
+            <bib> Burling, Robbins. "The Metrics of Children's Verses: A Cross Linguistic Study."
+                American Anthropologist 68 (1966): 1418-41.</bib>
+            <notes>Finds common characteristics of form (sixteen "beats" in four "lines," with the
+                fourth beat in any line replaceable by a "rest"--i.e., Long Measure, Common Measure,
+                Half Measure, etc.) in children's verses of English, Chinese, Beng- kulu, and other
+                African and Asian languages. A traditional approach, toward a "science of
+                comparative metrics," without any apparent recognition of ballad meters. </notes>
+        </item>
+
+
+
+        <item id="L20">
+            <bib> Byars, William V. Homeric Memory Rhymes and the Principles of Melody in Poetry.
+                South Orange, N.J., 1895. 18 pp.</bib>
+            <notes> A piece of eccentricity: Byars believes that all the classical and "Indo-Aryan"
+                poets composed in a verseform having initial rhymes. </notes>
+        </item>
+
+
+
+        <item id="L21">
+            <bib> Carroll, Carleton W., and W. F. Orr. "On the Generalization of the Sestina." Delta
+                (University of Wisconsin Department of Mathematics) 5,1 (1975): 32-44.</bib>
+            <notes> Noticing that the rhyme shift from the first stanza of a sestina to the second
+                is 1, 2, 3, 4, 5, 6 > 6, 1, 5, 2, 4, 3 (by position; the movement actually is 1, 2,
+                3, 4, 5, 6 > 2, 4, 6, 5, 3, 1), the authors write a formula for "n-ina"'s, where n
+                is any positive integer. Proof of the theorem follows. Bibliography. </notes>
+        </item>
+
+
+
+        <item id="L22">
+            <bib> Censi Mancia, Carlo. Saggio sulla poesia quantitativa antica e moderna; come si
+                possano comporre poesie in lingua moderna secondo il metodo quantitativo degli
+                antichi Greci e Romani. Opera postuma redatta e presentata da Amedeo Bricchi.
+                Matelica (Macerata): Stampato da A. Bricchi, 1955.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L23">
+            <bib> Clark, Robert W. "Some Remarks on Verse Techniques." Poet-Lore 56 (1951): 76–
+                88.</bib>
+            <notes> Examples of English, Teutonic, French, Chinese, and Japanese verse-structure,
+                mainly metrical and sonal. </notes>
+        </item>
+
+
+
+        <item id="L24">
+            <bib> Coetzee, A. J. "Die ritme van die 'vrye vers' 'n tentatiewe benadering."
+                Standpunte 82 (1969): 35-42.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L25">
+            <bib> Dagiri, O. [On Phonetic Symbolism.] In Science of Language. 3 vols. Ed. Y. Endo et
+                al. Tokyo: Nakajima Shoten, 1958. [In Japanese].</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L26">
+            <bib> De Campos, Augusto, H. De Campos, and D. Pignatari. Teoria de poesia concreta:
+                Textos críticos e manifestos 1950–1960. Sao Paulo: Ediçoes Invençao, 1965.</bib>
+            <notes> The introduction, "Theory of Concrete Poetry," is translated by J. M. Tolman in
+                Studies in the Twentieth Century 7 (1971): 39-47. </notes>
+        </item>
+
+
+
+        <item id="L27">
+            <bib> Draper, John W. "The Origin of Rhyme." Revue de littérature comparée 31 (1957):
+                74-85.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L28">
+            <bib> -----. "The Origin of Rhyme: A Supplement." Revue de littérature comparée 39
+                (1965): 452–53.</bib>
+            <notes> (Reverses an important point in the original). "Though rhyme has long been a
+                commonplace, it is native to the vernacular literatures of none of the Western
+                peoples and . . . appears only during, or some time after, their conversion to
+                Christianity." The rhymes of medieval Latin hymns derive from the De Judicio Domini
+                of Tertullian, in Africa ca. 200 A.D. But "rhyme could not have been derived from
+                Germanic, Classical, He- brew or Celtic sources"; to Rome it travelled with Persian
+                mystery cults, and the oldest extant source of rhyme in Persian is in the Avesta
+                (ca. 1550 B.C.). It seems to have come from prehistoric Iran, then, and only later
+                (ca. 1200 B.C.) spread to China, since Chinese versification has included rhyme
+                since about 1000 B.C. This densely informative article is due for a revision in
+                detail and support, I should think, though not in general outline. Cf. L153.
+            </notes>
+        </item>
+
+
+
+        <item id="L29">
+            <bib> Dühr, A. Über Metrik und Rhythmik. Friedland, 1885.</bib>
+            <notes> Traces the development of accent and quantity in both the classical and mod- ern
+                languages. </notes>
+        </item>
+
+
+
+        <item id="L30">
+            <bib> Étiemble, [Rene]. "Dialectique du vers libre et du haiku." Revue de littérature
+                comparée 51 (1977): 212-22.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L31">
+            <bib> Fenollosa, Ernest. The Chinese Written Character as a Medium for Poetry: An Ars
+                Poetica. Ed. Ezra Pound. Washington, D. C.: The Square Dollar Press, n.d.</bib>
+            <notes> Criticized sharply by </notes>
+        </item>
+        <item id="L32">
+            <bib> Achilles Fang, "Fenollosa and Pound," Harvard Journal of Asiatic Studies 20
+                (1957): 213–38</bib>
+            <notes>, and by </notes>
+        </item>
+        <item id="L33">
+            <bib> Étiemble, [Rene]. "Dialectique du vers libre et du haiku." Revue de littérature
+                comparée 51 (1977): 212-22.</bib>
+            <notes/>
+        </item>
+
+        <item id="L34">
+            <bib> James J. Y. Liu, in his The Art of Chinese Poetry. Chicago: University of Chicago
+                Press, 1962.</bib>
+            <notes> See also L. D. Martin's "Pound and Fenollosa: The Problem of Influence,"
+                Critical Quarterly 20 (1978):48–60, and see </notes>
+        </item>
+
+        <item id="L35">
+            <bib>Presley, John. Fenollosa's Theories of Poetic Language and Syntax," Lost Generation
+                Journal 4 (1976): 25-26.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L36">
+            <bib> Flatter, Richard. "The Veil of Beauty: Some Aspects of Verse and Prose in
+                Shakespeare and Goethe." JEGP 50 (1951): 437-50.</bib>
+            <notes>Discusses the relation of emotional intensity to rhythm and its transformation of
+                prose into verse, in order to conclude that "Shakespeare . . . uses verse to express
+                nature; Goethe, to hide it." </notes>
+        </item>
+
+
+
+        <item id="L37">
+            <bib> Foley, John M. "The Ritual Nature of Traditional Oral Poetry: Metrics, Music, and
+                Matter in the Anglo-Saxon, Homeric Greek, and Serbo-Croatian Poetries." DAI 35
+                (1974): 3676A (Massachusetts).</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L38">
+            <bib> Fónagy, Iván. "Communication in Poetry." Word 17 (1961): 194-218.</bib>
+            <notes>Poetic language has a much higher entropy than standard language. The pat- terns
+                of sound show a distinctive and unusual distribution in verse, compared to normal,
+                and the words are much less predictable than are those in everyday prose. Other
+                low-predictability devices such as metaphor or collocation also carry superordinate
+                amounts of information. Seemingly plain repetitions actu- ally open up new
+                possibilities. Sounds, patterns of sound, and rhymes convey information. </notes>
+        </item>
+
+
+
+        <item id="L39">
+            <bib> -----. "Form and Function of Poetic Language." Diogenes 51 (1965): 72–110.</bib>
+            <notes> A wide-ranging survey of metrical, sonal, syntactic, and metaphoric expres-
+                siveness in the poetries of half a dozen languages. </notes>
+        </item>
+
+
+
+        <item id="L40">
+            <bib> -----. "Informationsgehalt von Wort und Laut in der Dichtung." Poetics I (A16),
+                pp. 591-606.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L41">
+            <bib> -----. "Le Langage Poétique: Form et Function." Problèmes du langage. Paris:
+                Gallimard, 1966.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L42">
+            <bib> -----. "Die Redepausen in der Dichtung." Phonetica 5 (1960): 169-203.</bib>
+            <notes>Argues very explicitly that "metrical pauses" exist in verse as "substitutes for
+                speech pauses," and that "the written verse contains information which in other
+                circumstances is only imparted orally." </notes>
+        </item>
+
+
+
+        <item id="L43">
+            <bib> Fowler, Rowena. "Comparative Metrics and Comparative Literature." Comparative
+                Literature 29 (1977): 289-99.</bib>
+            <notes>A review of selected scholarship to suggest some dead-ends in comparative
+                metrical study (diachronic philology, oral poetry, and music and meter) as well as
+                some more useful avenues (generative metrics, studies of single languages,
+                comparisons of meters in different languages, metrical typology, Formalist po-
+                etics, study of a single meter in several languages, and study of different meters
+                in a single language). An unreasonably catholic position at the end belies the
+                opening caveats. </notes>
+        </item>
+
+
+
+        <item id="L44">
+            <bib> Fraser, Robert D. "Verbal Parallelism in Ballad and Medieval Lyric." DAI 33
+                (1973): 6869A (Oregon).</bib>
+            <notes> Compares grammatical parallelism in English ballads with that in Portugese,
+                French, and English lyrics; explicates its twin functions of delay and advance-
+                ment. </notes>
+        </item>
+
+
+
+        <item id="L45">
+            <bib> Fucilla, Joseph G. "A Rhetorical Pattern in Renaissance and Baroque Poetry."
+                Studies in the Renaissance 3 (1956): 23-48.</bib>
+            <notes> Based on the methodology of Alonso (L3). </notes>
+        </item>
+
+
+
+        <item id="L46">
+            <bib> Gayley, Charles Mills, and Fred Newton Scott. An Introduction to the Methods and
+                Materials of Literary Criticism. Boston: Ginn and Company, 1901.</bib>
+            <notes> The final chapter, "The Principles of Versification," directs the student to nu-
+                merous authorities for inquiry into various questions on English versification then
+                appends a bibliography of these sources, with annotations. A "General Note"
+                thereafter adds innumerable source-citations for "Classical Metres" (Greek and
+                Latin) and "Modern Metres" (English, French, German, Spanish and Portuguese,
+                Italian, Russian, Lapp, Finnish, Indian, Hebrew, Egyptian, Chinese, Japanese,
+                Arabian, and Turkish versification systems). </notes>
+        </item>
+
+
+
+        <item id="L47">
+            <bib> Gosse, Edmund. "Assonance." Encyclopaedia Britannica. 11th ed. 29 vols. Cambridge:
+                Cambridge University Press, 1910–11. Vol. 2, pp. 786-87.</bib>
+            <notes>See also s.v. "Alliteration," vol. 1, p. 697, and "Rhyme," vol. 23, pp.
+                274-75.</notes>
+        </item>
+
+
+
+        <item id="L48">
+            <bib> -----. "Verse." Encyclopaedia Britannica. 11th ed. 29 vols. Cambridge: Cambridge
+                University Press, 1910–11. Vol. 27, pp. 1041-47.</bib>
+            <notes>A general survey of versification in the Classical Greek and Latin and Modern
+                Romance and Teutonic languages. There is no heading for "Metre," but there is one
+                for "Rhythm" (in verse and in music), vol. 23, pp. 277-80.</notes>
+        </item>
+
+
+
+        <item id="L49">
+            <bib> Groot, A. Willem, de. Algemene Versleer [General Prosody]. The Hague, 1946. 157
+                pp. There is a long review (with summary) in English by C. F. P. Stutterheim in
+                Lingua 1 (1947): 104-17.</bib>
+            <notes>In De Groot's theory the essential feature of verse is neither meter nor rhyme
+                but correspondence; it is this principle which precedes, establishes, legiti- mizes,
+                and orders all the other elements and relations in verse. Four types of
+                verse-systems are distinguished: syllabic (French), alternating (English, Classical
+                Greek), word (Chinese), and word-group (Hebrew). De Groot's acoustic re- searches
+                convinced him that "rhythm is a distance between two cores of in- tensity of about
+                three-quarters of a second." In the alternating verse, the meter is established both
+                by syllabic constraints and regularity and by the principle of alternation; the
+                metrical markers may be accentual (stress), quantitative (length), or tonic (pitch).
+                A very advanced and important monograph; we could profit from a translation.
+            </notes>
+        </item>
+
+
+
+        <item id="L50">
+            <bib> -----. "The Description of a Poem." Proceedings of the Ninth International
+                Congress of Linguists. Ed. Horace G. Lunt. The Hague: Mouton, 1964. pp.
+                294-301.</bib>
+            <notes>Highly theoretical. Quoting Omond, De Groot asks whether a generally ac- cepted
+                descriptive system (prosody) for poetry will ever be possible, and, by way of
+                affirmative answer, identifies five factors in the structure of a poem:
+                segmentation, dominance, alternation, correspondence, and harmony. A Gestalt ap-
+                proach. </notes>
+        </item>
+
+
+
+        <item id="L51">
+            <bib> -----. "Le Mètre et le rythme du vers." Journal de psychologie 30 (1933): 326–32;
+                rpt in Psychologie du langage. Ed. H. Delacroix et al. Paris: F. Alcan, 1933. pp.
+                326-32.</bib>
+            <notes>The essential law of verse is correspondence between elements, syllable to sylla-
+                ble, verse to verse, strophe to strophe, in series. For rhythm, isochrony is not
+                indispensable but the "period" is; in normal speech the interval between stresses is
+                about 3/4 second, but when speech is intentionally retarded this in- terval remains
+                the same, so that the number of syllables stressed increases, even up to 100%. But
+                if the 3/4 second interval is intentionally lengthened, then the auditor's sense of
+                rhythmicity is lost. For meter, the correspondence lies in the stress-demarked
+                intervals; meter is not an abstraction but a real, psychic movement, a felt motor
+                response, that may also be a physiological movement as well. Meter demonstrates to
+                us the correspondence of the poem's formation process in the unconscious of the poet
+                to the formation of the performer's ar- ticulation of it, in either an
+                acoustico-motor or psycho-motor fashion. The best scansion would be a jointly
+                intuitive and mechanical determination of the intensity levels of each syllable in
+                the line. Examples. Psychological metrics is not much in fashion these days, but one
+                re- calls that such eminences as I. A. Richards, Jespersen, and Sievers took it
+                seri- ously. </notes>
+        </item>
+
+
+
+        <item id="L52">
+            <bib> -----. "La Métrique générale et le rythme." Bulletin de la société linguistique de
+                Paris 30 (1929): 202-32.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L53">
+            <bib> -----. "Phonetics and Its Relation to Aesthetics." Manual of Phonetics. Ed. Louis
+                Kaiser. Amsterdam: North-Holland Publishing Co., 1957. pp. 385-400.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L54">
+            <bib> -----. "Der Rhythmus." Neophilologus 17 (1932): 81–100, 177–97.</bib>
+            <notes> Includes Bibliography. </notes>
+        </item>
+
+
+
+        <item id="L55">
+            <bib> -----. "Zur Grundlegung der allgemeinen Versbaulehre." Archives néerlandaises de
+                phonétique expérimentale 8–9 (1933): 68-81.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L56">
+            <bib> Guillen, Claudio. "Some Observations on Parallel Poetic Forms." Proceedings from
+                the International Comparative Literature Conference . . . July 1971 . . . Taiwan.
+                Ed. Y.-S. Yen. Rpt in Tamkang Review, 2–3 (October 1971–April 1972): 395– 415.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L57">
+            <bib> Hardie, W. R. "What is Metre, and How Should It Be Taught?" Proceedings of the
+                Classical Association of Scotland 11 (1912-1913): 12–30. Discussion follows, pp.
+                30-35.</bib>
+            <notes> A sensible essay which examines English, French, and classical metrics, dis-
+                cussing vexations of terminology and pedagogy. "I want to limit metre. . . . to
+                separate it from music. . . . to make metre a simple, regular scheme or skeleton for
+                spoken verse. . . . It follows that what a musician has to say is at best irrele-
+                vant; irrelevant also what the science of phonetics may discover or what may be
+                revealed by a scientific instrument." </notes>
+        </item>
+
+
+
+        <item id="L58">
+            <bib> Hatzfeld, Helmut A. "The Language of the Poet." SP 43 (1946): 93–120.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L59">
+            <bib> Herdan, Gustav. "The Mathematical Theory of Verse." Zeitschrift für Phonetik,
+                Sprachwissenschaft und Kommunikationsforschung 22 (1969): 225-34.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L60">
+            <bib> Hills, E. C. "Irregular Epic Metres: A Comparative Study of the Metre of the Poem
+                of the Cid and of Certain Anglo-Norman, Franco-Italian, and Venetian Epic Poems." In
+                Homenaje ofrecido a Menéndez Pidal. Madrid, 1925. Vol. 1, pp. 759-77.</bib>
+            <notes>Examines the metrical form and genealogy of these late medieval poems; con-
+                cludes that they show no syllabic regularity. </notes>
+        </item>
+
+
+
+        <item id="L61">
+            <bib> Höweler, Casper. Rhythme in Vers en Muziek. The Hague: Mouton, 1952. 349 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L62">
+            <bib> Holmes, James S. "Forms of Verse Translation and the Translation of Verse Form."
+                The Nature of Translation. Ed. James S. Holmes. The Hague: Mouton, 1970. pp. 91–105;
+                rpt in Babel 15 (1969): 195-201.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L63">
+            <bib> Hrushovski, Benjamin. "On Free Rhythms in Modern Poetry: Preliminary Remarks
+                Toward a Critical Theory of Their Structures and Functions." Sebeok (A19), pp.
+                173-90.</bib>
+            <notes>Despite its self-acknowledged limitations (a full-scale study is promised, which
+                we look forward to), this prolegomenon to rhythmology is an excellent succinct
+                account of the nature of "free rhythms" in French, German, Russian, and English
+                verse. H. asserts directly that "to make a good poem, meter is not enough,"
+                reminding us thereby that "free rhythms" in verse are "often highly organized and
+                are by no means a border area between prose and poetry. There is a
+                misunderstanding--going back to the Greeks--which requires strict num- bers as the
+                only differentia of poetry." </notes>
+        </item>
+
+
+
+        <item id="L64">
+            <bib> Jacquier, H. "Métrique traditionnelle et métrique zéro." Actes du Xe Congres
+                International des Linguistes. Ed. A. Grauer et al. Bucarest: Editions de l'Academie
+                R.S.R., 1970. Vol. 3, pp. 121-25.</bib>
+            <notes>On metered and free ("unmetered") verse. The conclusion applauds the suc- cess of
+                the latter. </notes>
+        </item>
+
+
+
+        <item id="L65">
+            <bib> Jakobson, Roman. "Closing Statement: Linguistics and Poetics." Sebeok (A19), pp.
+                350–77; rpt in Chatman and Levin (A21), pp. 296-322.</bib>
+            <notes>Jakobson's summation speech at the 1958 Conference on Style has become nearly a
+                locus classicus. He defines poetics as the study of the aesthetic nature of verbal
+                messages, and since he takes linguistics to be "the global science of ver- bal
+                structure," poetics therefore lies within the domain of linguistics. In the basic
+                schematization of the language situation: Context
+                Addresser-----------Message-----------Addressee Contact Code which has as its
+                respective functions: Referential Emotive-------------Poetic-------------Conative
+                Phatic Metalingual it is evident that the poetic function occupies the position of
+                highest importance. That is, "the set (Einstellung) toward the MESSAGE as such,
+                focus on the message for its own sake, is the POETIC function of language." (N.B.:
+                "This function, by promoting the palpability of signs, deepens the fundamental di-
+                chotomy of signs and objects.") And Jakobson's formulation of the nature of poetic
+                ordering--"the poetic function projects the principle of equivalence from the axis
+                of selection to the axis of combination"--has become a seminal critical dictum. What
+                it reveals is that the measuring or metering of sequent syllables which is
+                indispensable to verse is based not simply on a principle of repetition but on a
+                more fundamental principle generated by the fact of available lexical alterna- tives
+                for any syntactic slot in a sentence. This principle of identity or equiva- lence,
+                when elevated and directed to controlling the deployment of syllables, creates
+                verse. The nature of verse, in short, is "similarity superimposed on contiguity."
+                Jakobson then turns to an extensive schematic analysis of metrical systems
+                (syllabic, accentual, quantitative, and tonal) and sound-patterning (rhyme,
+                sound-symbolism) in various verseforms of the world, pausing only to map out his
+                other important taxonomy: verse-design (meter, which "underlies the structure of any
+                single line" and is therefore "far from being an abstract theoretical scheme"),
+                verse-instances, delivery-instances (recitations), and delivery- design (the set of
+                unconscious rules a reciter selects for the choices he must make when performing
+                verses). His final appeal for a unification of literary and linguistic procedures in
+                approaching poetry is as eloquently compelling as his assent to John Crowe Ransom's
+                tenet, "poetry is a kind of language." Cf. L49, and for further discussion, see the
+                five following studies among many: </notes>
+        </item>
+
+
+        <item id="L66">
+            <bib> Richards, I. A. "Factors and Functions in Linguistics" and "Powers and Limits of
+                Signs." In his Poetries: Their Media and Ends. Ed. Trevor Eaton. The Hague: Mouton,
+                1974. pp. 1–16, 17-38.</bib>
+            <notes> </notes>
+        </item>
+        <item id="L67">
+            <bib> Bloomfield, Morton W. "Jakobsonian Poetics and Evaluative Criticism." University
+                Review 37 (1971): 165-73.</bib>
+            <notes> </notes>
+        </item>
+        <item id="L68">
+            <bib> Culler, Jonathan. "Jakobson and the Linguistic Analysis of Literary Texts."
+                Language and Style 5 (1971): 53-66.</bib>
+            <notes> A ranging criticism. Analyses of Baudelaire's "Spleen" and Shakespeare's Son-
+                net 129. </notes>
+        </item>
+        <item id="L69">
+            <bib> Erlich, Victor. "Roman Jakobson: Grammar of Poetry and Poetry of Grammar." In
+                Approaches to Poetics. Ed. Seymour Chatman. New York: Columbia University Press,
+                1973. pp. 1–27.</bib>
+            <notes/>
+        </item>
+
+        <item id="L70">
+            <bib> Werth, Paul. "Roman Jakobson's Verbal Analysis of Poetry." Journal of Linguistics
+                12 (1976): 21-73.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L71">
+            <bib> -----. [Poetry of Grammar and Grammar of Poetry.] Poetics I (A16), pp. 397–418 (in
+                Russian); translated into English in Lingua 21 (1968): 597-609.</bib>
+            <notes>An important modern statement on the grammatical aspect of poetry in all world
+                languages: "there is one domanin of verbal activities where 'the classifi- catory
+                rules of the game' acquire their highest significance . . . in verbal art. . . . It
+                is quite evident that grammatical concepts--or . . . 'formal meanings'--find their
+                widest application in poetry as the most formalized manifestation of lan- guage."
+                Innumerable examples. </notes>
+        </item>
+
+
+
+        <item id="L72">
+            <bib> Jernigan, John C. "The Sestina in Provence, Italy, France, and England (1180–
+                1600)." DAI 31 (1971): 6554A (Indiana).</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L73">
+            <bib> Jost, François. "Le Contexte européen du sonnet." Zagadnienia rodzajow literackich
+                13 (1970): 100-20.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L74">
+            <bib> -----. "Modes et modulations d'un genre: Le Sonnet." Proceedings of the 6th
+                Congress of the International Comparative Literature Association. Stuttgart: Erich
+                Bieber, 1975. pp. 65-78.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L75">
+            <bib> Ker, W. P. "Analogies Between English and Spanish Verse." Transactions of the
+                Philological Society, 1899, pp. 113–28; rpt in his Form and Style in Poetry (B115),
+                pp. 293-310.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L76">
+            <bib> Keyes, Charles R. "Further Observations on the Use of Alliteration and Rhyme in
+                Colloquial English and German." PMLA 22 (1907): xiv [Proceedings].</bib>
+            <notes> Abstract. </notes>
+        </item>
+
+
+
+        <item id="L77">
+            <bib> Kloepfer, Rolf. "Vers Libre--Freie Dichtung: Eine poetische Tradition jenseits von
+                Metrik und linguistischer Poetik?" Zeitschrift für Literaturwissenschaft und
+                Linguistik, no. 3 (1971), pp. 81–106.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L78">
+            <bib> Kopfermann, Thomas, ed. Theoretische Positionen zur konkreten Poesie. Tübingen:
+                Niemeyer, 1974.</bib>
+            <notes> A collection of statements and manifestoes. </notes>
+        </item>
+
+
+
+        <item id="L79">
+            <bib> Kurylowicz, Jerzy. "The Linguistic Foundations of Metre." Biuletin polskiego
+                towarzystwa jazykoznawczego 34 (1976): 63-72.</bib>
+            <notes> Positing a four-member typology of verse-systems (the four combinations of the
+                two binary oppositions accentual vs. quantitative and isosyllabic vs. isoic- tic),
+                K. summarizes in this important though not readily accessible article the position
+                he holds in all his other major publications, namely the view that "any metrical
+                system is based on certain metrical conventions; the conventions themselves are
+                rooted in the respective language" though not identical to it. In fact, "metrical
+                rhythms . . . are independent of the phonetic means by which they are implemented"
+                and show a "deviation from the natural rhythm of col- loquial language." Thus,
+                "there is a profound difference between language as a tool of expression of meanings
+                and language as a tool of forming metrical structures. It isn't the same language.
+                Within the sound-system of language we have the metrical one, formed by abstraction,
+                representing rules of metrical equivalences and metrical sandhi formed by
+                modification and generalization of certain linguistic rules. Not linguistic rules
+                but these metrical rules are the proper material serving to build metrical
+                structures" [original italics]. On the paradigmatic ("vertical") plane, meters are
+                comprised of "responsions" or met- rical equivalences; examples are the spondee for
+                the dactyl in the classical hex- ameter and "neutralization," "weakening," and
+                "contrastive meter" [formerly "pyrrhics," "spondees," and "trochees" respectively]
+                for the iambic pentameter. On the syntagmatic ("horizontal") plane, meters are built
+                up by their sandhi, i.e. the changes entailed by contiguous placement of elements;
+                in the stress meters a primary example is stress-reduction in compounds. But all
+                meters show "a deep homomorphism . . . in contraposition to surface differences. . .
+                . entailed by the common tendency to strengthen the cohesion of the verse-line."
+                Indo-European probably had some metrical system for its verse, but whatever that was
+                cannot now be derived from the false analogy of Greek to Vedic. </notes>
+        </item>
+
+
+
+        <item id="L79">
+            <bib> a -----. Metrik und Sprachgeschichte. Wroclaw: Wydaw. polskiej akad. nauk., 1975.
+                254 pp.</bib>
+            <notes> Thirteen essays in comparative metrics--Greek, Latin, Sanskrit, Persian, Old
+                Germanic, Old Irish, Russian, Lithuanian, Semitic, and several modern lan- guages.
+            </notes>
+        </item>
+
+
+
+        <item id="L80">
+            <bib> La Drière, Craig. "The Comparative Method in the Study of Prosody." Comparative
+                Literature: Proceedings of the Second Congress of the International Comparative
+                Literature Association. Ed. W. P. Friedrich. Chapel Hill: University of North
+                Carolina Press, 1959. Vol. 1, pp. 160-75.</bib>
+            <notes>Prosody is taken here as an illustration of the two virtues of comparative liter-
+                ary study--one, that a broader view will provide more sensible answers to problems
+                within a specific national literature, and two, that comparative stud- ies tend to
+                isolate those features which are "most significantly distinctive" of verse forms of
+                all types, i.e., Verse Form itself. These are sanguine recommen- dations, and their
+                utility is obvious even within prosody itself. Consider the problem of the early
+                Greek prosodic terminology taken over by the English, or the foreign verse forms so
+                regularly attempted by English poets. More inter- estingly, perhaps, La Drière
+                insists that prosody is not a mere category of lin- guistics by observing, at some
+                length, that the characteristics of the prosodies of the world do not correlate with
+                those of the generally accepted language families. Even within Indo-European the
+                genetics are not identical. And, of course, we still have no generally accepted
+                description of the prosody of even our own language, English. </notes>
+        </item>
+
+
+
+        <item id="L81">
+            <bib> Laferrière, Daniel. "Automorphic Structures in the Poem's Grammatical Space."
+                Semiotica 10 (1974): 333–50; rpt in his Sign and Subject: Semiotic and Psycho-
+                analytic Investigations into Poetry. Studies in Semiotics, vol. 14. Lisse: Peter de
+                Ridder, 1978. pp. 16-31.</bib>
+            <notes> "The analysis of poetry always presupposes spatialization of the temporal," ei-
+                ther grammatically or semantically, and usually via automorphism, "the trans-
+                formation which carries a figure into another figure that is indiscernible from the
+                first if each of the two figures is considered by itself." Four configurations are
+                possible: sequence PROPER CONGRUENCE ABC > ABC REFLEXIVE CONGRUENCE ABC > CBA
+                polarity PROPER ANTI-CONGRUENCE ABC > -A-B-C REFLEXIVE ANTI-CONGRUENCE ABC > -C-B-A
+                These would in some cases be confusible, but apparently "perception of the sequence
+                takes precedence over perception of the polarity," perhaps on the basis of the
+                psychological principle of economy. The most important auto- morphism in poetry is
+                the metrical pattern, which "pervades the entire poem" and thus "superimposes a
+                system of coordinates upon the grammatical space and thereby serves to 'chart' that
+                space." An immensely provocative essay. </notes>
+        </item>
+
+
+
+        <item id="L82">
+            <bib> Lancelot, Claude. Quatre Traitez de Poësies Latine, Françoise, Italienne, et
+                Espagnole. Paris, 1663. 125 pp.</bib>
+            <notes> Edward Bysshe's source (see E505). </notes>
+        </item>
+
+
+
+        <item id="L83">
+            <bib> Lawton, W[illiam] C[ranston]. "A National Form of Verse the Natural Unit of
+                Thought." Proceedings of the American Philological Association 26 (1895): xxvi–
+                xxvii (Proceedings of the Special Session, 1894).</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L84">
+            <bib> Levickji, V. V. [Sound Symbolism in Linguistics and Psychology.] Filologiceski
+                nauki 17, 4 (1975): 54-61.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L85">
+            <bib> Levý, Jirí. "A Contribution to the Typology of Accentual-Syllabic Versifica-tion."
+                Poetics I (A16), pp. 177–88; rpt in his Paralipomena. Brünn: J. E. Purkyne
+                University, 1971. pp. 9–21.</bib>
+            <notes> A comparison of English and Czech to show "the ways in which the versifica- tion
+                of a nation is dependent on its language." Follows Pike's distinction be- tween
+                "stress-timed" (English) and "syllable-timed" (Czech) languages. Exam- ining
+                Accentual, Syllabic, then Accentual-Syllabic verse-types, Levý derives a typology
+                for the Indo-European languages: Accent Accentual Accentual-Syllabic Syllabic Old
+                English Old Norse Old High German German English Russian Czech Polish Spanish French
+                Syllabism </notes>
+        </item>
+
+
+
+        <item id="L86">
+            <bib> -----. "Generative Poetics." In Sign, Language, Culture. Ed. A. J. Greimas et al.
+                Janua Linguarum, Series Major, no. 1. The Hague: Mouton, 1970. pp. 548-57.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L87">
+            <bib> -----. "The Meanings of Form and the Forms of Meaning." Poetics II (A17), pp.
+                45–60; rpt in his Paralipomena. Brünn: J. E. Purkyne University Philosophical
+                Faculty, 1971. pp. 97–109.</bib>
+            <notes> The essential fact to be recognized about verse is the line--i.e., a "sequence
+                of consecutive segments," a series. The three basic physical principles (or forms of
+                arrangement) of serial ordering are discontinuity, hierarchy, and irregularity,
+                along with their opposites. Since "'meaning,' too, is linear in character," i.e.
+                sequentially revealed, the three physical principles of linear arrangement cor-
+                respond to three semantic ones, namely incoherence, intensity, and unexpect- edness
+                (along with their opposites). These in turn interaffect each other in dy- ads
+                (incoherence &lt;- -&gt; intensity, incoherence &lt;- -&gt; unexpectedness,
+                intensity &lt;- -&gt; unexpectedness), with intensity evidently the dominant
+                semantic prin- ciple. Both congruent systems are further congruent to prosodic
+                features as follows: Pauses Intonation Rhyme Repetition Rhythm Discontinuity
+                Incoherence Hierarchy Intensity Irregularity Unexpectedness All of these jointly
+                comprise the "forms of meaning." Whatever "inherent acoustic meanings" or "a priori
+                semantic values" may be shown to exist in acoustic features themselves, as a
+                "mimesis" or "expressiveness" of pure sound, will occur within the nature
+                (direction, rate, change) of articulation itself, and may be measured on such
+                polar-opposition scales of semantic space as Os- good's semantic-differential test.
+                These comprise the "meanings of form." Thus we come to see that "the relations
+                between the acoustic and semantic levels [in verse] consist not in a one-to-one
+                relation between segments of both levels, but in a parallel morphology of the two
+                systems as wholes," i.e. a systematic homomorphism. Schematically: SEMANTICS OF FORM
+                Qualitative Relations Quantitative Relations Acoustic Sub- system FORM Semantic Sub-
+                system modes and speeds of movement across phones 1. Continuity – Discontinuity 2.
+                Equivalence – Hierarchy 3. Regularity – Irregularity ACOUSTIC QUALITIES FORMS OF
+                LINEAR ARRANGEMENT movement in l. Coherence – Incoherence semantic space 2. Lack of
+                Intensity – Intensity (polar opposition scales) 3. Predictability – Unexpectedness
+                MEANINGS OF FORM FORMS OF MEANING A brilliantly synthetic, seminal essay. </notes>
+        </item>
+
+
+
+        <item id="L88">
+            <bib> -----. "Die Theorie des Verses--ihre mathematischen Aspekte." Mathematik und
+                Dichtung. Ed. Helmut Kreuzer et al. Munich: Nymphenburger Verlagshandlung, 1965. pp.
+                211–31.</bib>
+            <notes> Translated into English as "Mathematical Aspects of the Theory of Verse." In
+                Statistics and Style. Ed. L. Dolezel and R. W. Bailey. New York: American Elsevier
+                Publ. Co., 1969. pp. 95–112. A general theoretical examination of "The Sound
+                Structure of Verse," "Rhyme," "Rhythm," and "Stanza Structures," citing statistics
+                (e.g. on the dif- ficulty and probability of rhymes). There is some concentration on
+                Russian Formalism and Prague Structuralism. </notes>
+        </item>
+
+
+
+        <item id="L89">
+            <bib> Levý, Jirí, ed. Teorie Verše I [Theory of Verse]: Sbornik Brnenské versologické
+                Konference, 1st, 1964. Brno, 1966.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L90">
+            <bib> -----. Teorie Verše II: Sbornik Brnenské versologické Konference, 2nd, 1966. Brno,
+                1968.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L91">
+            <bib> Lotman, Jury M. "On Some Principal Difficulties in the Structural Description of a
+                Text." Linguistics, no. 121 (1974), pp. 57-63.</bib>
+            <notes> On stasis and dynamos. Lotman is inquiring about the ways that "static" de-
+                scriptions of the structure of a text can express its "dynamic" aspects as well. The
+                dynamics may arise from the relations of several static models, for exam- ple. "No
+                static model reflects the structure of a text, but only the structure of one of the
+                constructive principles on the crossing of which the poem lives." The "energy" of a
+                poem may be accurately described, and accurate structural analysis will preclude
+                impressionism. An important study. </notes>
+        </item>
+
+
+
+        <item id="L92">
+            <bib> Lotz, John. "Elements of Versification." Wimsatt (A20), pp. 1–21. Reprint of the
+                work in L94-96.</bib>
+            <notes> A cogent summary of the formal linguistic approach to verse-structure. Begin-
+                ning with definitions of terms and alternative approaches to verse (music and
+                "objective" experimentation), Lotz distinguishes metric performance, metric score,
+                metric line-type, and metric system. Lotz also draws a rigid distinction between the
+                "linguistic constituents" and the "metric superstructure" of verse. Four possible
+                metric systems, which together constitute the complete "metric typol- ogy," are
+                examined--these systems order the features of (1) syllabicity (Hun- garian syllable
+                verse), (2) pitch or tone (Chinese), (3) syllabic duration (Classi- cal Greek), or
+                (4) stress (English). Reprinted (with slightly narrowed focus) as </notes>
+        </item>
+
+
+
+        <item id="L93">
+            <bib> -----. "Metrics." Current Trends in Linguistics, XII: Linguistics and Adjacent
+                Arts and Sciences. Ed. Thomas A. Sebeok. 4 vols. The Hague: Mouton, 1975.</bib>
+            <notes> Part 2, pp. 963-84.</notes>
+        </item>
+
+
+
+        <item id="L94">
+            <bib> -----. "Metric Typology." Sebeok (A19), pp. 135–48.</bib>
+            <notes> See L92 above. </notes>
+        </item>
+
+
+
+        <item id="L95">
+            <bib> -----. "Metrics and Linguistics." Report of the Tenth Annual Round Table Meeting
+                on Linguistics and Language Studies. Monograph Series on Languages and Linguistics,
+                no. 12. Washington, D. C.: Georgetown University Press, 1959. pp. 129–37.</bib>
+            <notes> Two questions follow on p. 138. </notes>
+        </item>
+
+
+
+        <item id="L96">
+            <bib> -----. "Notes on Structural Analysis in Metrics." Helicon 4 (1943): 119-46.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L97">
+            <bib> Maddison, Carl. Apollo and the Nine: A History of the Ode. London: Routledge and
+                Kegan Paul; Baltimore: Johns Hopkins University Press, 1960. 427 pp.</bib>
+            <notes> A synoptic account of the development of the Ode in Rome, Italy, France, and
+                England, paying steady attention throughout to the "intimate relationship between
+                meaning and meter." Should be read entire, but for passages, see the Index s.v.
+                "Ode, Irregular Prosodically," etc., and "Ronsard's Prosody." Ex- tensive
+                Bibliography. </notes>
+        </item>
+
+
+
+        <item id="L98">
+            <bib> Malkiel, Yakov. "From Phonosymbolism to Morphosymbolism." The Fourth LACUS Forum,
+                1977. Ed. Michel Paradis. Columbia, S. C.: Hornbeam, 1978. pp. 469-83.</bib>
+            <notes>Phonosymbolism has long been recognized in linguistics, but it may well be that a
+                correlate concept of morphosymbolism has been obscured under other labels: what
+                Sapir pointed to as reduplication is better seen as a broader process of "iteration"
+                or "elaboration of the root morpheme," and a smooth series of gradations can be
+                discerned between such "form symbolism" and sound sym- bolism; they very often
+                appear together in "certain favorite vowel and conso- nant sequences and certain
+                syllabic configurations." Most enlightening. </notes>
+        </item>
+
+
+
+        <item id="L99">
+            <bib> Marcus, Solomon. Mathematische Poetik. Linguistische Forschungen, no. 13.
+                Bucarest: Editura Academiei; Frankfurt am Main: Athenäum, 1973. 437 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L100">
+            <bib> -----. "On Types of Meters of a Poem and Their Informational Energy." Semiotica 4
+                (1971): 31-36.</bib>
+            <notes> The relative informational energy of a system may be denoted by the sums of the
+                squares of the probabilities of occurrence of each of its elements. In meters the
+                elements are the binary-opposed pairs stressed-unstressed, long-short, etc. Four
+                groups of meters are evident: (1) those having an energy index of 1/2, including
+                iambs and trochees; (2) those of index 5/9, including dactyls and anapests; (3)
+                those of index 5/8, including the paeonics; and (4) those of high- est energy, index
+                1/1, including pyrrhics, spondees, and molossi. This highly abstract treatment
+                presupposes that abstract metrical patterns may produce cer- tain effects regardless
+                of what language or what phonetic features they are ex- pressed in. </notes>
+        </item>
+
+
+
+        <item id="L101">
+            <bib> Martini, Giuseppe. Tecnica poetica e metrica comparata. Torino, 1972.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L102">
+            <bib> Masson, David I. "Poetic Sound-Patterning Reconsidered." Proceedings of the Leeds
+                Philosophical and Literary Society, Literary and Historical Section 16 (1976):
+                61–124.</bib>
+            <notes> Masson's summative monograph aims at an "overall view" of sound-patterning in
+                all of Western poetry. It is not, therefore, a magnum opus or a standard ref-
+                erence--technicalities are cut to a minimum--but rather a kind of Grand Tour of the
+                literatures of eight major cultures conducted by the finest guide imagin- able. Ten
+                types of aural effects and nine types of structures are noted and dis- cussed; of
+                whole poems as sustained incantations, Masson identifies four of the very first rank
+                and perhaps two dozen of the second. Hundreds of the finest aural effects in all of
+                Western poetry are gathered together here. </notes>
+        </item>
+
+
+
+        <item id="L103">
+            <bib> Mayenowa, Maria R. "Quelques differences entre un texte versifié et non-versifié."
+                Poetics I (A16), pp. 369–71.</bib>
+            <notes> [Abstract] </notes>
+        </item>
+
+
+
+        <item id="L104">
+            <bib> Melhem, D. H. "Iván Fónagy and Paul Delbouille: Sonority Structures in Poetic
+                Language." Language and Style 6 (1973): 206-15.</bib>
+            <notes>As a detailed critique of Delbouille's detailed critique of Fónagy's notions of
+                sound symbolism this essay is tedious to read, but the specialist should not
+                overlook the general survey of the field in its introduction. </notes>
+        </item>
+
+
+
+        <item id="L105">
+            <bib> Meyer, Herman. "On the Spirit of Verse." The Disciplines of Criticism. Ed. Peter
+                Demetz et al. New Haven: Yale University Press, 1968. pp. 331-47.</bib>
+            <notes>Despairing of the insularity of versification but convinced of its importance,
+                Meyer asks a fundamental question, "whether specific metric and stanzaic pat- terns
+                possess a fixed expressive character." As avenues to an answer, he traces three
+                types through numerous examples in German poetry: (1) a poet using a stanzaic
+                pattern previously used by another poet differently, or associated with different
+                themes; (2) a verse-form being made the theme of its poem; and (3) a verse-form
+                wrenched from its original environment into another dissimilar, dislocating one.
+            </notes>
+        </item>
+
+
+
+        <item id="L106">
+            <bib> Miles, Cecil. "Whatever Happened to Assonance?" Proceedings of the Pacific
+                Northwest Council on Foreign Languages 26, 1 (1975): 59-64.</bib>
+            <notes> Claims (incorrectly) that very little attention has been paid to a "middle
+                ground" between rhyme and non-rhyme in the history of Western poetry and criticism.
+                Cites examples from France, Spain, and England, the strongest tradi- tion of
+                assonance being Spanish. </notes>
+        </item>
+
+
+
+        <item id="L107">
+            <bib> Miron, Murray S. "A Cross-Linguistic Investigation of Phonetic Symbolism." DA 21
+                (1960): 1263A (Illinois).</bib>
+            <notes> Japanese and English "nonsense combinations composed of systematically sam- pled
+                speech sounds had expressive symbolic values according to their inherent phonetic
+                content and not to any meanings via real-word associates. These af- fective meanings
+                were found to bear consistent lawful relations to the phonetic properties of the
+                sounds." </notes>
+        </item>
+
+
+
+        <item id="L108">
+            <bib> -----. "A Cross-Linguistic Investigation of Phonetic Symbolism." Journal of
+                Abnormal and Social Psychology 62 (1961): 623-30.</bib>
+            <notes>Fifty samples of CVC nonsense syllables were rated on Osgood semantic-
+                differential scales by sixteen English and Japanese subjects. Results suggested a
+                general response to front vowels and consonants as "pleasant" and "weak" and back
+                ones as "unpleasant" and "strong." </notes>
+        </item>
+
+
+
+        <item id="L109">
+            <bib> Mönch, Walter. Das Sonett: Gestalt und Geschichte. Heidelberg, 1955.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L110">
+            <bib> Morgan, Bayard Q. "On Translating Feminine Rhymes." On Romanticism and the Art of
+                Translation. Ed. Gottfried F. Merkel. Princeton: Princeton University Press for the
+                University of Cambridge, 1956. pp. 163-69.</bib>
+            <notes>"To put it succinctly and with not much oversimplification: feminine rhyme is
+                almost compulsory in European tongues, almost obsolescent in English. The reason is
+                to be found writ large in the dictionaries." But the English poet's meager hoard of
+                disyllables can be enlarged by (1) verb + pronoun combina- tions, (2) verb
+                conjugation forms, and (3) Latinate nouns ending in -tion. </notes>
+        </item>
+
+
+
+        <item id="L111">
+            <bib> Müller-Blattau, Joseph. Das Verhältnis von Wort und Ton in der Geschichte der
+                Musik. Stuttgart, 1952.</bib>
+            <notes> Much on metrics. </notes>
+        </item>
+
+
+
+        <item id="L112">
+            <bib> Nist, John. "The Ontology of Style." Linguistics, no. 42 (1968), pp. 44-57.</bib>
+            <notes> See pp. 49–50 for a typology of prosodies in various languages. </notes>
+        </item>
+
+
+
+        <item id="L113">
+            <bib> Noble, Edmund. "A Philosophy of Rhyme." Poet-Lore 7 (1985): 585-600.</bib>
+            <notes>Takes what we should call the Nominalist approach to the principle of rhym-
+                ing--"rhymed words seem to convey a sense of some closer connection be- tween the
+                things for which those words stand than any which is indicated to the cold reason by
+                the mere resemblance of sound" or any which is indicated in plain, referential
+                prose. By extension, then, rhymes suggest "the oneness of all things" in the
+                universe. The availability of inflected forms is also considered. </notes>
+        </item>
+
+
+
+        <item id="L114">
+            <bib> Paris, Jean. "Syntaxe du visible." Études littéraires 6 (1973): 411-33.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L115">
+            <bib> Park, Ben A. "The Quantitative Experiments of the Renaissance and After as a
+                Problem in Comparative Metrics." DA 29 (1968): 905A (Oklahoma).</bib>
+            <notes> Reviews the history of efforts to reproduce the classical quantitative meters in
+                the vernacular languages of Italy, France, Spain, Germany, and England, argu- ing
+                that the Renaissance prosodists did not intend (or attempt) to substitute modern
+                accent for the classical syllabic length; and that practice derives from the reforms
+                of the German poet Opitz and was "unknown in Europe generally until the nineteenth
+                century." Nor did they intend to reproduce a system of longs and shorts in English
+                in the belief that the rules for Latin were universal and applicable to any
+                language. Though Park never explains what they were doing, he accounts for the
+                failure of all their experiments thus: "systems of quantitative versification are
+                dependent on [1] the presence in the language of vocalic quantity in a distinctive
+                role independent of the place of the accent, and [2] an accent fixed with respect to
+                the end of the word by the quantity of the accented and succeeding syllables."
+            </notes>
+        </item>
+
+
+
+        <item id="L116">
+            <bib> Paulussen, Hans. Rhythmik und Technik des sechsfüssigen Jambus [Alexandrine] im
+                Deutschen und Englischen. Diss., Bonn, 1913. 43 pp. Rpt in Bonner Studien zur
+                englischen Philologie, vol. 9. Bonn, 1913. 86 pp.</bib>
+            <notes> A companion-work to Zitelmann (L661). Part 1 establishes the theory of "higher
+                rhythm," which is to say, dipodic meter. The Alexandrine may consist of (1) two
+                "Triplebars," (2) three "Doublebars," or (3) two Doublebars and two "Singlebars."
+                Part 2 analyzes the Alexandrines of Robert Manning, Thomas Blener- hasset, Surrey,
+                Sidney, Shakespeare, Lodowick Bryskett, Drayton, Word- sworth, and Browning.
+            </notes>
+        </item>
+
+
+
+        <item id="L117">
+            <bib> Poggioli, Renato. "Poetics and Metrics." Comparative Literature: Proceedings of
+                the Second Congress of the International Comparative Literature Association. Ed. W.
+                P. Friederich. Chapel Hill: University of North Carolina Press, 1959. Vol. 1, pp.
+                192-204.</bib>
+            <notes>Although the author tells us at the outset he is interested in the relationship
+                of poetics to versification ("poetics" meaning "a set of empirical rules . . . to
+                di- rect . . . literature in the making"), in fact he wishes only to reiterate that
+                modern poetics is more or less entirely unwritten. But along the way we find useful
+                surveys of Classical Greek and Latin and Medieval poetics. </notes>
+        </item>
+
+
+
+        <item id="L118">
+            <bib> Polivanov, E. D. "The General Phonetic Principle of Any Poetic Technique." In his
+                Selected Works: Articles on General Linguistics. Compiled by A. A. Leontev. The
+                Hague: Mouton, 1974. pp. 350-68.</bib>
+            <notes>The feature distinguishing poetry from prose is phonetic organization, of any
+                sort, entirely regardless of meaning. Especially close attention is given to sound
+                patterning here, and the principle of repetition is formally analogized to the
+                principle of symmetry in the visual arts. Systems of metrical and phonetic or-
+                ganization are categorized, concluding with rhyme. </notes>
+        </item>
+
+
+
+        <item id="L119">
+            <bib> Pszczolowska, L. "Le Rôle de la rime dans la structure du vers." Actes du Xe
+                Congres International des Linguistes. Ed. A. Graur et al. Bucarest: Ed. Acad.
+                R.S.R., 1969–70. Vol. 3, pp. 51-55.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L120">
+            <bib> Reichert, Georg. "Literatur und Musik." Reallexikon der deutschen
+                Literaturgeschichte. Ed. Paul Merker and Wolfgang Stammler. 2nd ed. Berlin: Walter
+                de Gruyter, 1965. Vol. 2, pp. 143-63.</bib>
+            <notes>A typology praised highly by Calvin Brown. </notes>
+        </item>
+
+
+
+        <item id="L121">
+            <bib> Revzin, Issak O. "Generative Grammars, Stylistics, and Poetics." Sign, Language,
+                Culture. Ed. A. J. Greimas et al. The Hague: Mouton, 1970. pp. 558-69.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L122">
+            <bib> Riesz, János. Die Sestine: Ihre Stellung in der literarischen Kritik und ihre
+                Geschichte als lyrisches Genus. Munich: Vilhelm Fink, 1971. 328 pp.</bib>
+            <notes> Includes sixteen-page Bibliography. A comprehensive international survey of the
+                sestina from the Middle Ages to the present. </notes>
+        </item>
+
+
+
+        <item id="L123">
+            <bib> Schädlich, Hans-Joachim. "über Phonologie und Poetik." Jahrbuch für internationale
+                Germanistik 1 (1969): 44–60; rpt in Literaturwissenschaft und Linguistik: Ergebnisse
+                und Perspektiven. Ed. Jens Ihwe. Frankfurt on Main: Athenäum, 1972. Vol. 3, pp.
+                42-60.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L124">
+            <bib> Scott, Clive. "The Limits of the Sonnet: Towards a Proper Contemporary Approach."
+                Revue de littérature comparée 50 (1976): 237-50.</bib>
+            <notes>In search of "the rule by which achievement can be measured." The consider- able
+                variations in sonnet form should be considered not deviations from an absolute Form
+                but natural differentiations for evolution and "attempts to pro- duce a special
+                effect." The English reader of sonnets, however, suffers from an extremely
+                provincial perspective on form; from the Continental perspective the sonnet stands
+                "at the centre of a whole complex of European forms," such as the quatorzain or
+                rhymeless sonnet, an important form outside of England. This essay is a very salient
+                corrective to our tunnel vision. </notes>
+        </item>
+
+
+
+        <item id="L125">
+            <bib> Sedgwick, W. B. "The Origin of Rhyme." Revue Benedictine 36 (1924): 330-46.</bib>
+            <notes>Dismissing the theories of Meyer, Norden, and others (proposing Syriac, Ara- bic,
+                and Christian-liturgical-recitative origins for the device of rhyme), S. ar- gues
+                that "the vicissitudes of the history of rhyme can all be explained from
+                corresponding vicissitudes in the history of music." Very wide in scope. </notes>
+        </item>
+
+
+
+        <item id="L126">
+            <bib> Seiberth, Ph. "The Rhythmical Line." JEGP 18 (1919): 242-49.</bib>
+            <notes>The structure of the line in the Homeric and Germanic epics may be attrib- uted
+                to the very limited skills of the human brain at grouping perceptual phe- nomena;
+                the length of the line is constrained by the duration of breath. Rhythm is to be
+                explained via psychology and as a result of music and dance, not as a
+                "self-generated phenomenon of language." </notes>
+        </item>
+
+
+
+        <item id="L127">
+            <bib> Šabršula, Jan. "Intonation, pause, et syntaxe dans le langage poétique versifié."
+                Acta Universitatis Carolinae. Philologica 1 (1972). Phonetica Pragensia III. Praha:
+                University of Karlova, 1972. pp. 239-46.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L128">
+            <bib> -----. "Signe linguistique dans la prose et dans la poésie." Acta Universitatis
+                Carolinae. Philologica 1 (1971). Romanistica Pragensia VII. Praha: University of
+                Karlova, 1971. pp. 119-45.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L129">
+            <bib> Shapiro, Michael. Asymmetry: An Inquiry into the Linguistic Structure of Poetry.
+                Amsterdam: North Holland Publishing Co., 1976. Rev: in PTL 4 (1979): 345-58.</bib>
+            <notes>An attempt to elaborate "a semiotic theory of poetic language" based on the
+                principles of Prague School Structuralism (especially markedness) and the theory of
+                signs of Charles Sanders Peirce. For the prosodist the most useful part is Chapter 4
+                on "Rhyme," which treats primarily Russian verse, though also English. Cf.
+                Laferièrre (L81). </notes>
+        </item>
+
+
+
+        <item id="L130">
+            <bib> -----. "Semiotique de la rime." Poétique 20 (1974): 501-19.</bib>
+            <notes>Now superseded by the previous entry. </notes>
+        </item>
+
+
+
+        <item id="L131">
+            <bib> Singer, Alice. "The Metrical Structure of Macedonian Dance." Ethnomusicology 18
+                (1974): 379-404.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L132">
+            <bib> Slagter, Erik. "Typografie als Typografie: Konkrete en visuele Poezie." Ons
+                Erfdeel (Rekkem) 16 (1973): 104-7.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L133">
+            <bib> Smith, Adam. "Of the Affinity Between Certain English and Italian Verses." Essays
+                on Philosophical Subjects. London: T. Cadell and W. Davies, 1795. pp. 185-94.</bib>
+            <notes>Notes extensive correspondences between the English and the Italian Heroic Verse
+                (iambic couplets, ten-syllabled in the former, eleven- in the latter); these "are
+                not so properly composed of a certain number of syllables, which vary ac- cording to
+                the nature of the rhyme [single or masculine in English, commonly double in
+                Italian], as of a certain number of intervals (of five invariably), each of which is
+                equal in length, or time, to two ordinary distinct syllables. . . . " </notes>
+        </item>
+
+
+
+        <item id="L134">
+            <bib> Solt, Mary Ellen. "Concrete Poetry." Revista de letras 1 (1969): 154–79; rpt in
+                her Concrete Poetry: A World View (L136).</bib>
+            <notes> A twelve-page history of the movement followed by examples. </notes>
+        </item>
+
+
+
+        <item id="L135">
+            <bib> -----. "Typography and the Visual Concrete Poem." Visible Language 6 (1972):
+                109-22.</bib>
+            <notes>One of the elements of concrete poetry hitherto neglected but capable of great
+                expressiveness is selection and deployment of typeface (s). Considerable atten- tion
+                to Un Coup de dés. </notes>
+        </item>
+
+
+
+        <item id="L136">
+            <bib> Solt, Mary Ellen, and Willis Barnstone, eds. Concrete Poetry: A World View.
+                Bloomington: Indiana University Press, 1969.</bib>
+            <notes> Solt's Introduction covers work in twenty-one countries. Includes thirteen
+                "Manifestoes and Statements on Concrete Poetry," with Notes and Bibliogra- phies,
+                163 examples, and word-glosses. </notes>
+        </item>
+
+
+
+        <item id="L137">
+            <bib> Stankiewicz, Edward. "Poetic and Non-Poetic Language in their Interrelation."
+                Poetics I (A16), pp. 11-24.</bib>
+            <notes> Argues that "there is no clear demarcation-line between poetic and non-poetic
+                language. . . . the distinctive feature of poetic language is . . . the message ori-
+                ented towards itself." Verse is the most consistent feature of poetry, and rhyme is
+                the feature most emblematic of its synthesizing powers. </notes>
+        </item>
+
+
+
+        <item id="L138">
+            <bib> -----. "Poetics and Verbal Arts." A Perfusion of Signs: Papers from the First
+                North American Semiotics Colloquium. Ed. Thomas A. Sebeok. Bloomington: Indiana
+                University Press, 1977. pp. 54-76.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L139">
+            <bib> Stephenson, Robert C. "The Chastushka and the Limerick." Southwest Review 47
+                (1962): 166-71.</bib>
+            <notes>Denies that there are "degrees" of formal compliance: one cannot say that one
+                limerick is "more limericky" than another. </notes>
+        </item>
+
+
+
+        <item id="L140">
+            <bib> Strong, Caroline. "History and Relations of the Tail-Rhyme Strophe in Latin,
+                French, and English." PMLA 22 (1907): 371-420.</bib>
+            <notes>Cf. Trounce (K408). </notes>
+        </item>
+
+
+
+        <item id="L141">
+            <bib> Sturtevant, E. H. "On the Frequency of Short Words in Verse." Classical Weekly 15
+                (1921): 73-76.</bib>
+            <notes> Seven tables displaying the frequency of monosyllabic words in poetry vs. prose
+                for English, Greek, and Latin. Total occurrences were tabulated, then unavoidable
+                monosyllables such as prepositions and articles were removed, leaving "significant"
+                occurrences. The Classical languages have few monosylla- bles which are separate
+                morphemes; thus Greek and Latin prose has more "sig- nificant" monosyllables than
+                verse, while English has more in poetry than in prose. In all languages, a
+                colloquial style (such as in letters and familiar essays) is densely monosyllabic.
+            </notes>
+        </item>
+
+
+
+        <item id="L142">
+            <bib> Stutterheim, C. F. P. "Modern Stylistics I, II." Lingua 1 (1951): 410–26; 3
+                (1952): 52-68.</bib>
+            <notes> In the second installment the author develops his theory that objective ele-
+                ments of form in verse are entirely distinct from such elements in perception, so
+                that for example a rhyme repeated beyond a "certain distance" is no longer heard as
+                a rhyme and hence ceases to be a rhyme. Discusses the work of Jacob (E420), the
+                hierarchy of formal elements in verse, and theories of rhythm. It will be seen that
+                this is a theory of the aesthetic experience not the aesthetic object. </notes>
+        </item>
+
+
+
+        <item id="L143">
+            <bib> -----. "Poetry and Prose: Their Interrelations and Transitional Forms." Poetics I
+                (A16), pp. 225-38.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L144">
+            <bib> Swift, Theophilus. "Essay on the Rise and Progress of Rhime." Transactions of the
+                Royal Irish Academy 9 (1803): 3–79.</bib>
+            <notes> Interestingly, Swift argues that "rhyme hath its origin in no exclusive lan-
+                guage"--i.e., that it is a natural phenomenon in every language, "coeval with
+                language, and ancient as speech itself," and therefore "cannot be a borrowed quality
+                in poetry; neither can it be of European invention, or have been first brought by
+                the Barbarians of the north into the more southern provinces." In effect, then, he
+                does not believe in the historical transmission of a convention. Still, he does
+                insist that Hebrew poetry was rhymed, since he believes Hebrew to have been the
+                primal Indo-European "parent-language." Also discussed: Egyptian, Ethiopian,
+                Chinese, Arabic, Persian, Turkish, Scythian, Phonecian, Greek, Latin, Italian,
+                Provençal, French, Spanish, English, German, and Bel- gian. </notes>
+        </item>
+
+
+
+        <item id="L145">
+            <bib> Tanz, Christine. "Sound Symbolism in Words Relating to Proximity and Distance."
+                Language and Speech 14 (1971): 266-73.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L146">
+            <bib> Tarlinskaja, Marina. Metrical Typology of Dol'nik Verse [English and German as
+                Compared to Russian]. Lisse: Peter de Ridder Press, 1975.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L147">
+            <bib> Terry, Patricia. "A Note on English and French Prosody." Modern French Poetry: A
+                Bilingual Anthology. Ed. and tr. Patricia Terry and Serge Gavronsky. New York:
+                Columbia University Press, 1975. pp. 26-27.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L148">
+            <bib> Thomas, Paruvanani T. "Dramatic Form and the Use of Verse in The Tempest and
+                Sakuntalam." DAI 30 (1970): 5005A (New York University).</bib>
+            <notes> Comparison of two major plays in world drama, one Western, one Classical
+                Sanskrit, each near the apex of a major literary tradition, and both employing verse
+                as the appropriate form for the drama. </notes>
+        </item>
+
+
+
+        <item id="L149">
+            <bib> Thompson, Ewa M. "Sound Correlations in Verse." Language Quarterly 8 (1969):
+                39-42.</bib>
+            <notes> In-depth analysis of poems by Mandelstam, Verlaine, and Byron reveals some of
+                the modes of sound "correlation" (conjunction, patterning): besides overt
+                alliterations and more complex patterns, there are sequences of closely-related
+                phonemes, often "concealed" in unstressed syllables; besides the repetition of
+                single sounds, there are patterns of phonemes elaborated which are perceptu- ally
+                whole, as groups; besides replication, there is augmentation, diminution, inversion,
+                or variation of constituents; besides outright sound symbolism, there are the force
+                and associations that a phoneme acquires merely from residing in a key word; and
+                besides the semantic emphasis gained in echoing similar words, there is the more
+                emphatic effect gained in correlating words which are semantically very remote. And
+                the structure of the language will determine which kinds of patterns are easiest and
+                hence most common. </notes>
+        </item>
+
+
+
+        <item id="L150">
+            <bib> Todorov, Tzvetan. "Le Sens des sons." Poétique, no. 11 (1972), pp. 446-62.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L151">
+            <bib> Torbarina, Josip. "On Rendering Shakespeare's Blank Verse into Other Languages."
+                Studia Romanica et Anglica Zagrabiensia 8 (1959): 3–12.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L152">
+            <bib> Tsura, Shigeto, and H. S. Fries. "A Problem in Meaning." Journal of General
+                Psychology 8 (1933): 281-84.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L153">
+            <bib> Turner, Sharon. "An Inquiry Respecting the Early Use of Rhyme." Archaeologia 14
+                (1808): 168–204.</bib>
+            <notes> [Two papers.] Cf. this with Draper's essay over a century later (L27). Turner
+                considers the ancient source of rhyme to be China or India, not Arabia, though he
+                thinks it to have existed indigenously in the early Indo-European languages as well;
+                Otfrid's rhymed Germanic verse (ninth century) is cited as evidence. But he thinks
+                that "the word rhime has come to us from the ancient languages of Europe [?] rather
+                than from the Latin rythmus, and that the Frankish rimen shows to us the rationale
+                of its use." Rhyme is found in Saxon, Spanish, Welsh, and medieval Latin verses. In
+                the second essay Turner discusses at length rhyme in Latin and Greek verse, citing
+                as significant a poem by St. Austin ca. 400 A.D., but Turner fails to distinguish
+                here between rhyme and homoeoteleuton. Cf. Swift (L144). </notes>
+        </item>
+
+
+
+        <item id="L154">
+            <bib> Valéry, Paul. "Poetry and Abstract Thought." In The Art of Poetry. Vol. 7 of The
+                Collected Works of Paul Valéry. Tr. Denise Folliot. Introduction by T. S. Eliot.
+                Bollingen Series, 45. New York: Pantheon Books, 1958. pp. 52-82.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L154">
+            <bib> a Valesio, Paolo. Strutture dell'alliterazione: Grammatica, retorica e folklore
+                verbale. Bologna: Zanichelli, 1968. 436 pp.</bib>
+            <notes> Chapter 2 treats alliteration vis à vis metrical structure. Chapters 7, 8, and 9
+                analyze alliterative patterns in, respectively, The Rime of the Ancient Mariner,
+                Kubla Khan, and Adonais. Valuable bibliography. </notes>
+        </item>
+
+
+
+        <item id="L155">
+            <bib> Vendryes, J. "La Phonologie et la langue poétique." Proceedings of the Second
+                International Congress of Phonetic Sciences. Ed. Daniel Jones and D. B. Fry.
+                Cambridge: Cambridge University Press, 1936. [Abstract] pp. 105-6.</bib>
+            <notes>Good remarks on how versification systems remain after their phonetic con- texts
+                have disappeared. </notes>
+        </item>
+
+
+
+        <item id="L156">
+            <bib> Verheul, K. "Poetry and Syntax." Dutch Contributions to the Sixth International
+                Congress of Slavicists. Ed. A. G. F. Van Holk. The Hague: Mouton, 1968. pp.
+                153-65.</bib>
+            <notes>Examines first the relation of syntax to verse-structure across the lines, then
+                that of syntax to meter within the line. The general issue is "the way in which the
+                linguistic elements in a poem are used and modifed in the aesthetic forms." </notes>
+        </item>
+
+
+
+        <item id="L157">
+            <bib> Weiss, J. H. "The Role of 'Meaningfulness' versus Meaning Dimensions in Guessing
+                the Meaning of Foreign Words." Journal of Abnormal and Social Psychology 66 (1963):
+                541-46.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L158">
+            <bib> Wescott, Roger W. "Linguistic Iconism." Language 47 (1971): 416-28.</bib>
+            <notes> Evidence for linguistic "mimesis" in many living species as well as in human
+                speech (vowel quality, consonants, suprasegmentals, and syntax), sign-language
+                (particularly evident), and writing (iconograms and phonograms). Fascinating.
+            </notes>
+        </item>
+
+
+
+        <item id="L159">
+            <bib> Whitehall, Harold. "Rhyme: Sources and Diffusion." Ibadan 25 (1968): 21-26.</bib>
+            <notes> Recanting the narrow position in his Princeton article (C197), Whitehall
+                sketches out a rich and absorbing history of rhyme in Chinese, Arabic, Pro- vençal,
+                Old Irish, Old Germanic, and English. Expansive yet detailed specula- tions.
+            </notes>
+        </item>
+
+
+
+        <item id="L160">
+            <bib> Wiecker, Rolf. "Konkrete Poesie: Die Zukunft des Aesthetischen." Text &amp;
+                Kontext 2 (1974): 50-98.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L161">
+            <bib> Williams, C. F. Abby. Moved to M.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L162">
+            <bib> Williams, Ralph C. "Metrical Form of the Epic, as Discussed by Sixteenth- Century
+                Critics." MLN 36 (1921): 449-57.</bib>
+            <notes>In Italy and France. </notes>
+        </item>
+
+
+
+        <item id="L163">
+            <bib> Wissemann, Heinz. Untersuchungen zur Onomatopoiie. Part I: Die
+                sprachpsychologischen Versuche. Heidelberg: Carl Winter, 1954. 241 pp.</bib>
+            <notes> Rev: by Koziol in Anglia 74 (1956): 239–40; by Roger Brown in Language 31
+                (1955): 84-91. </notes>
+        </item>
+
+
+
+        <item id="L163">
+            <bib> a Wittoch, Z. "Les onomatopées forment-elles une système dans la langue?" Annali
+                dell'Istituto Orientale di Napoli, Sezione Linguistica 4 (1962): 107-47.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L164">
+            <bib> Wulff, Fredrik. Om Värsbildning. Lund, 1896.</bib>
+            <notes> </notes>
+        </item>
+    </chapter>
+    <chapter title="INDO-EUROPEAN">
+
+
+        <item id="L165">
+            <bib> No. 1 Prolegomena to the History of Italico-Romanic Rhythm. 1908.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L166">
+            <bib> No. 2. Carmen Arvale Seu Martis Verber, or The Tonic Laws of Latin Speech and
+                Rhythm. 1908.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L167">
+            <bib> No. 3. The Sacred Tripudium: The Accentual and Rhythmic Norm of Italico-Romanic
+                Speech and Verse. 1909.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L168">
+            <bib> No. 4. Italico-Keltic Accent and Rhythm and Italico-Keltic Speech Unity.
+                1909.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L169">
+            <bib> No. 5. The Literary Saturnian: The Stichic Norm of Italico-Keltic, Romanic, and
+                Modern Rhythm. Part I: Livius Andronicus. 1910.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L170">
+            <bib> No. 6. The Literary Saturnian: Part II: Naevius and the Later Italic Tradition.
+                1910.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L171">
+            <bib> No. 7. Indoeuropean Rhythm. 1912.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L172">
+            <bib> No. 8. The Origin of Verse. 1915.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L173">
+            <bib> No. 9. The Indoeuropean Superstress and the Evolution of Verse. 1917.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L174">
+            <bib> No. 10. The Old-Latin and Old-Irish Monuments of Verse.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L175">
+            <bib> Guentert, Hermann. Über Reimwortbildungen in Arischen und Altgreichischen.
+                Indogermanische Bibliothek abt. 3, Untersuchungen, vol. 1. Heidelberg: Carl Winter,
+                1914. 258 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L176">
+            <bib> Kurylowicz, Jerzy. "Accent and Quantity as Elements of Rhythm." Poetics II (A17),
+                pp. 163-72.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L177">
+            <bib> -----. "Indo-European Metrical Studies." Poetics I (A16), pp. 87-98.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L178">
+            <bib> -----. "The Quantitative Meter of Indo-European." Indo-European and Indo-
+                Europeans. Ed. George Cardona et al. Philadelphia: University of Pennsylvania Press,
+                1970. pp. 421-29.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L179">
+            <bib> Leumann, Ernst. Neue Metrik. Berlin and Leipzig, 1920. 67 pp.</bib>
+            <notes> Further citations to Leumann's works may be found in Emmerick (L1478). </notes>
+        </item>
+
+
+
+        <item id="L180">
+            <bib> -----. "Die neueren Arbeiten zur indogermanischen Metrik." Zeitschrift für
+                vergleichende Sprachforschung 52, nos. 3/4 (1924): 161–93;</bib>
+            <notes> rpt as an offprint, Göttingen, 1924. </notes>
+        </item>
+
+
+
+        <item id="L181">
+            <bib> -----. "Zur indischen und indogermanischen Metrik." ANTI PON: Festschrift Jacob
+                Wackernagel. Göttingen, 1923. pp. 78–102.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L182">
+            <bib> -----. "Über die einheimischen Sprachen von Ostturkestan im frühen Mittelalter."
+                Zeitschrift der deutschen morgenlandischen Gesellschaft 61 (1907): 648–58; 62</bib>
+            <notes> (1908): 83–110. </notes>
+        </item>
+
+
+
+        <item id="L183">
+            <bib> McNeill, I. "The Metre of the Hittite Epic." Anatolian Studies 13 (1963):
+                237-42.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L183">
+            <bib> a Meid, Wolfgang. Dichter und Dichtkunst in indogermanischer Zeit. Innsbrucker
+                Beiträge zur Sprachwissenschaft, no. 20. Innsbruck, 1978. 25 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L184">
+            <bib> Meillet, A[ntoine]. Les Origines indoeuropéenes des mètres grecs. Paris: Les
+                Presses Universitaires de France, 1923. 79 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L185">
+            <bib> Miller, D. Gary. "Traces of Indo-European Metre in Lydian." Studies Presented to
+                Professor Roman Jakobson by His Students. Ed. Charles E. Gribble. Cambridge, Mass.:
+                Slavica Publishers, 1968. pp. 207-21.</bib>
+            <notes>Confirms Meillet's four criteria for an Indo-European source of a meter: fixed
+                syllable-number, fixed cadence, variation of quantity in the opening clausula, and
+                obligatory caesura. Legal documents were preserved in this meter. </notes>
+        </item>
+
+
+
+        <item id="L186">
+            <bib> Nagy, Gregory. Comparative Studies in Greek and Indic Meter. Harvard Studies in
+                Comparative Literature, no. 33. Cambridge, Mass.: Harvard University Press,
+                1974.</bib>
+            <notes> Rev. by West in Phoenix 28 (1974): 458, which review he later said was "per-
+                haps too sceptical." </notes>
+        </item>
+
+
+
+        <item id="L187">
+            <bib> Schmitt, Rüdiger. Dichtung und Dichtersprache in indogermanischer Zeit. Wiesbaden,
+                1967.</bib>
+            <notes> Chapter 10, "Indogermanische Metrik" (pp. 307–13), reviews the principal
+                theories. </notes>
+        </item>
+
+
+
+        <item id="L188">
+            <bib> -----. Indogermanische Dichtersprache und Namengebung. Innsbrucker Beiträge zur
+                Sprachwissenschaft, no. 10. Innsbruck, 1973.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L188">
+            <bib> a Tischler, Johann. Zur Reduplikation im indogermanischen. Innsbrucker Beiträge
+                zur Sprachwissenschaft, no. 16. Innsbruck, 1976. 30 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L189">
+            <bib> Vigorita, John F. "Indo-European Comparative Metrics." DAI 34 (1974): 7216A
+                (U.C.L.A.).</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L190">
+            <bib> -----. "The Indo-European Origins of the Greek Hexameter and Distich." Zeitschrift
+                für vergleichende Sprachforschung 91 (1977): 288-99.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L191">
+            <bib> -----. "The Indo-European 12-Syllable Line." Zeitschrift für vergleichende
+                Sprachforschung 90 (1976): 37-46.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L192">
+            <bib> Watkins, Calvert. "Indo-European Metrics and Archaic Irish Verse." Celtica 6
+                (1963): 194-249.</bib>
+            <notes>Criticized by K. Itsumi in Classical Quarterly 32 (1982): 59-60. </notes>
+        </item>
+
+
+
+        <item id="L193">
+            <bib> -----. "Indo-European Origins of a Celtic Metre." Poetics I (A16), pp.
+                99–118.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L194">
+            <bib> -----. "Syntax and Metrics in the Dipylon Vase Inscription." Studies in Greek,
+                Italic, and Indo-European Linguistics. Ed. Anna M. Davies and W. Meid. Innsbruck:
+                Institut für Sprachwissenschaft der Universitet Innsbruck, 1976. pp. 431-41.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L195">
+            <bib> West, M. L. "Indo-European Metre." Glotta 51 (1973): 161-87.</bib>
+            <notes>Further support of the hypothesized Indo-European base-meter, which may be
+                inferred if not reconstructed from the oldest surviving verse-texts in Indian,
+                Iranian, Greek, Slavic, Celtic, Italic, Germanic, Hittite, Lydian, and Tocharic.
+                Conclusions: The Indo-Europeans came first, in verse, to "the principle of
+                isosyllabism. Out of all the possible lengths of line, a few emerged as the fa-
+                vorites. The measure was marked off by a pause at the end . . . and more
+                conspicuously by a long-drawn-out antepenultimate or penultimate syllable, with a
+                short syllable before it to set it off, and ux (or sometimes x, but not -x) after
+                it. That was all" [the x denoting an indeterminate quantity between long and short].
+            </notes>
+        </item>
+
+
+
+        <item id="L196">
+            <bib> Westphal, Rudolph. Allgemeine Metrik der indogermanischen und semitischen Völker
+                auf Grundlage der vergleichen Sprachwissenschaft mit einem Excursus "Der griechische
+                Hexameter in der deutschen Nachbildung" von H. Kruse. Berlin, 1892. 514 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L197">
+            <bib> -----. "Zur vergleichenden Metrik der indogermanischen Völker." Zeitschrift für
+                vergleichende Sprachforschung 9 (1860): 437-58.</bib>
+            <notes>See also: M230. CELTIC (IRISH AND WELSH) </notes>
+        </item>
+
+
+
+        <item id="L198">
+            <bib> Arbois de Jubainville, Henry d'. "Des Rapports de la Versification du vieil
+                irlandais avec la versification romane." Romania 8 (1879): 145–54; 9 (1880):
+                177-84.</bib>
+            <notes>A response to Bartsch (L200). Followed by Paris (L244). </notes>
+        </item>
+
+
+
+        <item id="L199">
+            <bib> Atkinson, Robert. On Irish Metric. Dublin, 1884. 32 pp.</bib>
+            <notes> An offprint of his inaugural lecture at Trinity College. </notes>
+        </item>
+
+
+
+        <item id="L200">
+            <bib> Bartsch, K. "Keltische und romanische Metrik." Zeitschrift für romanische
+                Philologie 3 (1879): 359-84.</bib>
+            <notes> Responses by H. d'Arbois de Jubainville and Gaston Paris, "La Versification
+                irlandaise et la versification romane" (L198 and L244). </notes>
+        </item>
+
+
+
+        <item id="L201">
+            <bib> Bell, David. "The Problem of Translation." Introduction to Dafydd ap Gwilym: Fifty
+                Poems. Ed. H. Idris Bell and David Bell. London, 1942. pp. 63–103. See also pp.
+                43-62.</bib>
+            <notes> Includes a discussion of G. M. Hopkins. </notes>
+        </item>
+
+
+
+        <item id="L202">
+            <bib> Bell, H. Idris. "Cynghanedd and the Welsh Metrical Tradition." In Thomas Parry. A
+                History of Welsh Literature. Tr. H. Idris Bell. Oxford: Clarendon Press, 1955. pp.
+                121-26.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L203">
+            <bib> -----. The Nature of Poetry as Conceived by the Welsh Bards. Oxford: Clarendon
+                Press, 1955. 27 pp.</bib>
+            <notes> An offprint of his 1955 Taylorian lecture. Useful background information.
+            </notes>
+        </item>
+
+
+
+        <item id="L204">
+            <bib> Bergin, Osborn. "Irish Metrical Faults." Ériu (Supplement) 17 (1955):
+                259-93.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L205">
+            <bib> -----. "Metrica: (1) Notes on Meyer's Primer of Irish Metrics; (2) The Alleged
+                Riming of Long With Short Syllables." Ériu 8 (1916): 161-69.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L206">
+            <bib> -----. "Metrica: (3) The Alleged Unvoicing of dh-, d-; (4) The Alliteration of th;
+                (5) The Principles of Alliteration." Ériu 9 (1921–23): 77-84.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L207">
+            <bib> Best, R. I. "Metrics." Bibliography of Irish Philology and of Printed Irish
+                Literature. Dublin: Browne and Nolan for the National Library of Ireland, 1913; rpt
+                New York: Johnson Reprints, 1970. pp. 52-54.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L208">
+            <bib> Bowen, Geraint. Mynegai i Cerdd Dafod sef Celfyddyd Barddoniaeth Gymraeg, John
+                Morris-Jones. Aberystwyth, 1947. 23 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L209">
+            <bib> Burca, Sean de. "The Metron in Celtic Verse." Eigse 14 (1971): 131-51.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L210">
+            <bib> Byrne, J. Patrick. "Sound in Modern Irish Poetry." Queen's Quarterly 47 (1940):
+                55-66.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L211">
+            <bib> Carney, James. "Three Old Irish Accentual Poems." Ériu 22 (1971): 23-80.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L212">
+            <bib> Davies, A. Talfan. "William Barnes, Gerard Manley Hopkins, Dylan Thomas: The
+                Influence of Welsh Prosody on Modern English Poetry." Proceedings of the Third
+                Congress of the Comparative Literature Association. The Hague: Mouton, 1962. pp.
+                90–122.</bib>
+            <notes> More on the Welsh than the English. Davies gives probably the fullest account of
+                Welsh verseforms to be found conveniently; he then examines the efforts of the three
+                English poets to adapt them. Very informative. </notes>
+        </item>
+
+
+
+        <item id="L213">
+            <bib> Davies, J[ohn] Glyn. "Metrical Analysis of the BM Text [of an early Welsh Hymn to
+                the Virgin]." Anglia 36 (1912): 121-26.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L214">
+            <bib> -----. Welsh Metrics. London: Constable, 1911.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L215">
+            <bib> Dillon, Myles. "Irish Poetry." In his Early Irish Literature. Chicago: University
+                of Chicago Press, 1943. pp. 149-89.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L216">
+            <bib> Dunn, Charles W. "Celtic Prosody." Princeton (A18), pp. 109-12.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L217">
+            <bib> -----. "Celtic [Versification]." Wimsatt (A20), pp. 136-47.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L218">
+            <bib> Evans, J[ohn] J[ames]. Llawlyfr y Cynganeddion. [Wales: National Eisteddfod
+                Association,] 1939, 1951, 1960. 73 pp.</bib>
+            <notes> A manual of meters. </notes>
+        </item>
+
+
+
+        <item id="L219">
+            <bib> Henry, P. L. "A Celtic-English Prosodic Feature." Zeitschrift für celtische
+                Philologie 29 (1962): 91-99.</bib>
+            <notes> On "circular concatenation." </notes>
+        </item>
+
+
+
+        <item id="L220">
+            <bib> Humphries, Rolfe. Green Armor on Green Ground: Poems in the Twenty-four Official
+                Welsh Meters and Some, in Free Meters, on Welsh Themes. New York: Charles Scribner's
+                Sons, 1956. 72 pp.</bib>
+            <notes> Of interest. Very brief Introduction and Appendices. See L262. </notes>
+        </item>
+
+
+
+        <item id="L221">
+            <bib> Hyde, Douglas. Irish Poetry: An Essay in Irish with Translation in English and a
+                Vocabulary. Dublin, 1902. 152 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L222">
+            <bib> Jackson, K. "Incremental Repetition in the Early Welsh Englyn." Speculum 16
+                (1941): 304-21.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L223">
+            <bib> Jones, R. M. "Mesurau Cerdd Dafod." Bulletin of the Board of Celtic Studies
+                (Cardiff, Wales) 27 (1978): 533-51.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L224">
+            <bib> Jones, T. Gwynn. "Alliteration: Welsh and Scandinavian." Aberystwyth Studies 13
+                (1934): 1–10.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L225">
+            <bib> Knott, Eleanor. An Introduction to Irish Syllabic Poetry of the Period 1200–1600.
+                2nd ed. Dublin: Institute for Advanced Studies, 1957.</bib>
+            <notes> Meters and sonal devices are catalogued and discussed on pp. 1–20. </notes>
+        </item>
+
+
+
+        <item id="L226">
+            <bib> Lehmann, Ruth P. M. and W. P. An Introduction to Old Irish. New York: MLA,
+                1975.</bib>
+            <notes> Sections 91–95, pp. 139–43, touch on versification. Bibliography. </notes>
+        </item>
+
+
+
+        <item id="L227">
+            <bib> Loth, Joseph. La Métrique galloise depuis les plus anciens textes jusqu'à nos
+                jours. 2 vols. in 1. Paris, 1900-2.</bib>
+            <notes>Vol. 1 is criticized severely by Morris-Jones for forty pages and then dismissed
+                as "ludicrous" in L237. </notes>
+        </item>
+
+
+
+        <item id="L228">
+            <bib> MacDonagh, Thomas. "The Irish Mode." Literature in Ireland: Studies Irish and
+                Anglo-Irish. Dublin: Talbot Press, 1916. pp. 64-82.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L228">
+            <bib> a Meid, Wolfgang. Dichter und Dichtkunst im alten Irland. Innsbrucker Beiträge zur
+                Sprachwissenschaft, no. 2. Innsbruck, 1971.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L229">
+            <bib> Melia, Daniel F. "'Empty Figures' in Irish Syllabic Poetry." PQ 56 (1977): 285–
+                300.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L230">
+            <bib> Meyer, Kuno. "On Debide Rhyme." Ériu 7 (1914): 10-12.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L231">
+            <bib> -----. A Primer of Irish Metrics. Dublin: Hodges, Figgis, 1909. 63 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L232">
+            <bib> -----. "Quantitierender Gleichklang in der dritten Strophenzeile irischer
+                Gedichte." Zeitschrift für celtische Philologie 10 (1915): 398-402.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L233">
+            <bib> -----. "The Rules of Assonance in Irish Poetry." Ériu 6 (1912): 103-11.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L234">
+            <bib> -----. "Quantitative Assonance." Ibid., pp. 154-56.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L235">
+            <bib> -----. Über die ältest irische Dichtung. I: Rhythmische Alliterierenden
+                Reimstrophen. II: Rhythmische Alliterierende Reimlose Strophen. In Abhandlungen der
+                königlich Preussischen Akademie der Wissenschaften, philosophisch-historische
+                Klasse, nos. 6 and 10. Berlin, 1913, 1914. 60 and 40 pp.</bib>
+            <notes> Texts, with introductions, notes, and indices. </notes>
+        </item>
+
+
+
+        <item id="L236">
+            <bib> Morris-Jones, Sir John. Cerdd Dafod [Poetic Art]. Oxford: Clarendon Press, 1925;
+                London, 1930. 382 pp.</bib>
+            <notes> A verse manual of five sections on Matter, Language, Form, Cynghanedd, and
+                Measures. The latter two concern sound-patterning and available types of me- ters in
+                Welsh, but the third section on Form treats the necessity and types of meters in
+                language as diverse as Old English, Finnish, Sanskrit, Latin, and He- brew. </notes>
+        </item>
+
+
+
+        <item id="L237">
+            <bib> -----. "Welsh Versification." Zeitschrift für celtische Philologie 4 (1903):
+                106-42.</bib>
+            <notes>A scourging critique of Loth (L227). </notes>
+        </item>
+
+
+
+        <item id="L238">
+            <bib> Murphy, Gerard. Early Irish Metrics. Dublin, 1961.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L239">
+            <bib> Ó Cuív, Brian. "Linguistic Terminology in the Medieval Irish Bardic Tracts."
+                Transactions of the Philological Society, 1965, pp. 141-64.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L240">
+            <bib> -----. "The Phonetic Basis of Classical Modern Irish Rhyme." Ériu 20 (1966): 94–
+                103.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L241">
+            <bib> -----. "Some Developments in Irish Metrics." Éigse 12 (1967–68): 273-90.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L242">
+            <bib> O'Molloy, Francis. "De Prosodia et Carminum generibus." In Grammatica Latino-
+                Hibernica. Rome, 1677. Rpt as an Appendix to Loth (L227).</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L243">
+            <bib> ----. De Prosodia Hibernica: On Irish Prosody. Tr. Tomás O'Flannghaile. Dublin:
+                Gill &amp; Son, 1908. 114 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L244">
+            <bib> Paris, Gaston. "La Versification irlandaise et la versification romane, II."
+                Romania 9 (1880): 184-91.</bib>
+            <notes>A response to Bartsch (L200); follows d'Arbois de Jubainville (L198). </notes>
+        </item>
+
+
+
+        <item id="L245">
+            <bib> Parry, Thomas. A History of Welsh Literature. Tr. H. Idris Bell. Oxford: Clarendon
+                Press, 1955. 534 pp.</bib>
+            <notes> See the appendices and sections passim on versification. </notes>
+        </item>
+
+
+
+        <item id="L246">
+            <bib> -----. "The Welsh Metrical Treatise Attributed to Einion Offeriad." Proceedings of
+                the British Academy 47 (1961): 177-95.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L247">
+            <bib> Parry-Williams, T. H. "The Bardic Tradition." Welsh Review 6 (1947): 249–53;
+                commentary, pp. 265-68.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L248">
+            <bib> -----. "Welsh Poetic Diction." Proceedings of the British Academy 32 (1946):
+                243-76.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L249">
+            <bib> Rhys, John David. Cambrobrytannicae Cymraecaeve Linguae Institutiones. . . .
+                London, 1592. 304 pp.</bib>
+            <notes> Mentioned by both Thomas Gray and Conybeare. </notes>
+        </item>
+
+
+
+        <item id="L250">
+            <bib> Roberts, Griffith. [Welsh Grammar.] Milan, 1567; rpt Carmarthen: W. Spurrell &amp;
+                Son, 1927.</bib>
+            <notes> In Welsh. Part Four treats the Welsh meters. </notes>
+        </item>
+
+
+
+        <item id="L251">
+            <bib> Stern, Ludwig Chr. "über die neuirische Rhythmik." Zeitschrift für celtische
+                Philologie 5 (1905): 283-89.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L252">
+            <bib> Stokes, Whitley. "On the Metre Rinnard and the Calendar of Oengus as Illustrating
+                the Irish Verbal Accent." Révue Celtique 6 (1883–85): 273-97.</bib>
+            <notes>Resp. by Thurneysen. -----. "On Irish Metric." Révue Celtique 6 (1883–85):
+                298-308. Response to an asperitous inaugural lecture of this title by Robert
+                Atkinson. </notes>
+        </item>
+
+
+
+        <item id="L253">
+            <bib> Strachan, J. "An Old-Irish Metrical Rule." Ériu 1 (1904): 191-208.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L254">
+            <bib> Sveinsson, Einar O. "An Old Irish Verse Form Wandering in the North." Proceedings
+                of the Seventh Viking Congress. Ed. Bo Almqvist and David Greene. London: Viking
+                Society, 1976. pp. 141-52.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L255">
+            <bib> Thurneysen, Rudolf. "Le Mètre irlandais Rinnard." Révue Celtique 7 (1886): 87–
+                90.</bib>
+            <notes> Response to Stokes. </notes>
+        </item>
+
+
+
+        <item id="L256">
+            <bib> -----. "Mittelirische Verslehren." In Irische Texte. Ed. Whitley Stokes and E.
+                Windisch. Leipzig, 1891. Vol. 3, pp. 1–182. Commentary on the texts begins on p.
+                107; the catalogue of metrical forms is listed on pp. 138–66 and indexed on pp.
+                171-77.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L257">
+            <bib> -----. "Der Weg vom dactylischen Hexameter zum epischen Zehnsilber der Franzosen."
+                Zeitschrift für romanische Philologie 11 (1887): 306-26.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L258">
+            <bib> -----. "Zu den mittelirischen Verslehren." In Zu irischen Handschriften und
+                Litteraturdenkmalern. Abhandlungen der philologisch-historische Klasse, königliche
+                Gesellschaft [Akademie] der Wissenschaften zu Göttingen, vol. 14, no. 2. Berlin,
+                1912. pp. 59-90.</bib>
+            <notes> Supplement to L256. </notes>
+        </item>
+
+
+
+        <item id="L259">
+            <bib> -----. "Zur irischen Accent- und Verslehre." Révue Celtique 6 (1883–85):
+                309-47.</bib>
+            <notes>Detailed response to and expansion upon Zimmer. </notes>
+        </item>
+
+
+
+        <item id="L260">
+            <bib> -----. "Zur irischen Metrik." Zeitschrift für celtische Philologie 11 (1916):
+                34-38.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L261">
+            <bib> -----. "Zu Verslehre II." Zeitschrift für celtische Philologie 17 (1928):
+                263-76.</bib>
+            <notes/>
+        </item>
+
+
+
+        <item id="L262">
+            <bib> Towner, Annemarie E. "Welsh Bardic Meters and English Poetry." Massachusetts
+                Review 6 (1965): 614-24.</bib>
+            <notes>A discursive review of Humphries (L223) touching also on Thomas and Hop- kins.
+                Tone-color is particularly emphasized. </notes>
+        </item>
+
+
+
+        <item id="L263">
+            <bib> Travis, James. Early Celtic Versecraft: Origin, Development, Diffusion. Ithaca,
+                N.Y.: Cornell University Press, 1973. 166 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L264">
+            <bib> -----. "Intralinear Rhyme and Consonance in Early Celtic and Early Germanic
+                Poetry." Germanic Review 18 (1943): 136-46.</bib>
+            <notes>The elaborate, ornamental sound-patterning of Eddic and Skaldic verse in Ice-
+                land derives from Irish influence, not Welsh. </notes>
+        </item>
+
+
+
+        <item id="L265">
+            <bib> -----. "Parallels in Poetic Device Between the Old French Epic and the Old Welsh
+                Elegy." PMLA 59 (1944): 1–6.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L266">
+            <bib> -----. "The Relations Between Early Celtic and Early Germanic Alliteration."
+                Germanic Review 17 (1942): 99–104.</bib>
+            <notes> "Technically, Old Irish alliteration is an advance over Germanic Stabreim." The
+                Germanic form served only to unite half-lines into long-lines aa (the
+                alliteration-pattern is ax : ax), while the Irish form conjoined half-lines xa ab/bc
+                into longer sequences than the single line (the pattern is cd/de ). ef/fg. </notes>
+        </item>
+
+
+
+        <item id="L267">
+            <bib> Williams, Gwyn. "Appendix A: Welsh Versification." An Introduction to Welsh
+                Poetry. London: Faber and Faber, 1953. pp. 232-47.</bib>
+            <notes>The book is actually a full history of Welsh verse. Note also the final Appendix
+                on Pronunciation. </notes>
+        </item>
+
+
+
+        <item id="L268">
+            <bib> Williams, Trevor. Swyn y glec: llawlyfr ar y gynghanedd ar gyfer plant ysgol.
+                Liverpool, 1966. 64 pp.</bib>
+            <notes> </notes>
+        </item>
+
+
+
+        <item id="L269">
+            <bib> Windisch, Ernst. "Ein mittelirisches Kunstgedicht über die Geburt des königs Aed
+                Sláne. Mit Beiträge zur irischen Metrik." Berichte über die Verhandlungen der
+                königlich sächsischen Gesellschaft der Wissenschaften, philologisch-historische
+                Klasse, zu Leipzig, vol. 36. Leipzig, 1884. pp. 191-243.</bib>
+            <notes>The section on versification begins on p. 221.</notes>
+        </item>
+
+
+
+        <item id="L270">
+            <bib> Zimmer, Heinrich. Keltische Studien II: Über altirische Betonung und Verskunst.
+                Berlin, 1884. 208 pp.</bib>
+            <notes> </notes>
+        </item>
+    </chapter>
+</bibliography>

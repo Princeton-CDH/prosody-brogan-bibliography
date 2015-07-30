@@ -1,0 +1,2364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+ <chapter title="II: GENERAL STUDIES">
+ <section title="">
+  <div>
+  <item id="B1">
+   <bib> Aldington, Richard. "A Note on Poetry in Prose." The Chapbook, no. 22 (1921), pp. 16–24.
+    [Cf. B53, B142.] </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B2">
+   <bib> Allen, Donald, and Warren Tallman, eds. Poetics of the New American Poetry. New York: Grove
+    Press, 1973. </bib>
+   <notes> Slightly fuller than Perkins (A25), this collection includes 64 essays by 27 modern poets
+    (beginning with Whitman) on poetics, poetry, and prosody. </notes>
+  </item>
+
+
+  <item id="B3">
+   <bib> Baird, Alexander. "Phonetics and English Poetry." English 21 (1972): 98–100. </bib>
+   <notes> Elementary linguistic account of the distinctions between (1) rhythm and me- ter, and (2)
+    perfect- and near-rhyme. Scansion of "The Windhover." </notes>
+  </item>
+
+
+  <item id="B4">
+   <bib> Balliet, Conrad A. "The Verse Technique of Matthew Arnold." DA 22 (1962): 2382A (Cornell). </bib>
+   <notes> Examines meter, rhyme, stanzas, syntax, diction, and rhetoric, but not im- agery. Arnold
+    wrote in a great variety of complex verseforms but said he pre- ferred poetry that was simple,
+    plain, and direct. </notes>
+  </item>
+
+
+  <item id="B5">
+   <bib> Barnes, T. R. English Verse: Voice and Movement from Wyatt to Yeats. Cambridge: Cambridge
+    University Press, 1967. 324 pp. </bib>
+   <notes> Rev: in MLN 30 (1969): 133–35. An introduction to English poetry, organized historically,
+    with very long ex- tracts. There is a chapter on Blank Verse. </notes>
+  </item>
+
+
+  <item id="B6">
+   <bib> Barnes, Thomas. "On the Nature and Essential Characters of Poetry as Distinguished from
+    Prose." Memoirs of the Manchester Literary and Philosophical Society, 1 (1785). </bib>
+   <notes> Cited by Omond (A5, p. 300) as separately published and dated 1786, on the basis of an
+    advertisement, but no copy is known to exist. </notes>
+  </item>
+
+
+  <item id="B7">
+   <bib> Bate, Walter Jackson. The Stylistic Development of Keats. New York: MLA, 1945; rpt New
+    York: The Humanities Press, 1958, 1962. 214 pp. </bib>
+   <notes> Rev: in MLN 61 (1946): 475–78; in JEGP 45 (1946): 468–69; in Saturday Re- view of
+    Literature 29 (1946): 30. As prosodic studies of individual poets go, this full chron-ological
+    examination of Keats's remarkably rapid and intense growth in the craftsmanship of verse is,
+    excepting a lamentable repetitiousness of style (the book could have been shorter by a third
+    without a loss), a model of method and accomplishment in the smooth synthesis of (1) detailed
+    and precise description of changes in sound, meter, diction, syntax, and structure, (2) steady
+    retention of the larger biographical and critical framework, and (3) a graceful and engaging
+    style. In short, Bate is precise and informed without allowing either the analysis or the theory
+    (or yet the biography) to become obtrusive. All the major poems re- ceive separate treatment. Of
+    particular note is section 1 of Part 2 on sound- patterning. Cf. Zillman (G149). </notes>
+  </item>
+
+
+  <item id="B8">
+   <bib> Beeching, H[enry] C]harles]. "Expression in Poetry." Two Lectures Introductory to the Study
+    of Poetry. Cambridge: Cambridge University Press, 1901. pp. 29–57. </bib>
+   <notes> A non-technical discussion of the effects of meter, rhyme, and diction in pro- ducing "a
+    heightened mode of expression," poetry. </notes>
+  </item>
+
+
+  <item id="B9">
+   <bib> Belden, Henry M. "Some Technical Elements in Donne's Verse." PMLA 21 (1906): </bib>
+   <notes> xxxi [Proceedings]. Abstract. </notes>
+  </item>
+
+
+  <item id="B10">
+   <bib> Bellinger, Rossiter B. "Prosodical Studies in Some of Tennyson's Later Poetry." Diss., Yale
+    University, 1949. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B11">
+   <bib> Berg, Viola J. Pathways for the Poet: Poetry Forms Explained and Illustrated. Milford, Mi.:
+    Mott Media, 1977. </bib>
+   <notes> A handbook of poetic forms compiled by a writer of popular poetry contain- ing several
+    hundred eccentric and novel forms, some invented by the author, such as "The Yeats,"
+    "Sweetbriar," and the like. She lists 22 metrical feet; did the Greeks have this many? </notes>
+  </item>
+
+
+  <item id="B12">
+   <bib> Beum, Robert. The Poetic Art of William Butler Yeats. New York: Frederick Ungar, 1969. 161
+    pp. </bib>
+   <notes> Perhaps no other contemporary writer working in versification writes more gracefully than
+    Robert Beum; with a minimum of technical apparatus (3 de- grees of stress--primary, secondary,
+    and weak), but a maximum of perception, he examines Yeats's craft of meter, rhyme, and
+    stanza-form in the major poetry after 1910. Pages 51–54 summarize Yeats's metrical development,
+    and the fol- lowing two chapters treat (respectively) his handling of the iambic and trochaic
+    line. There is also a chapter on his habits of composition (5), and one on the verse and prose
+    of the plays (11). </notes>
+  </item>
+
+
+  <item id="B13">
+   <bib> -----. "Some Observations on Spenser's Verse Forms." Neuphilologische Mitteilungen 64
+    (1963): 180–96. </bib>
+   <notes> In quest of "a distinct view of the whole range of Spenser's verse." Three peri- ods may
+    be discerned: (1) the early verse, terminating in the Shepheardes Calen- der, is markedly
+    experimental (the three forms of the mature period do not ap- pear at all) and also markedly
+    alliterative; (2) the mature period finds Spenser confining himself to but three forms--rime
+    royal, ottava rima, and the Faerie Queene stanza of nines (this last form allows at once "an
+    extraordinary smooth- ness and ceremoniousness of motion," a sustained evenness of sonority con-
+    trolled by the rhymes); and (3) late work. The occasional poems with their elaborate
+    versification represent special cases. Cf. B224. </notes>
+  </item>
+
+
+  <item id="B14">
+   <bib> Black, Michael. "Stylistics and Donne's 'The Sunne Rising.'" Language and Literature 2
+    (1974): 55–69. </bib>
+   <notes> Provides separate phonetic, graphetic, phonemic, grammatical, lexical, and se- mantic
+    analyses. </notes>
+  </item>
+
+
+  <item id="B15">
+   <bib> Blissett, William. "Poetic Wave and Poetic Particle." University of Toronto Quarterly 24
+    (1954): 1–7. </bib>
+   <notes> Beyond some theorizing about the ontological status of poetry (a subject more important
+    than any other in versification), based on the antinomies of point and wave in physics, Blissett
+    argues that the movement of a line is more im- portant (and more intuitively evident) than its
+    sound or meanings, and that the "line-criticism" as a critical method has been entirely ignored.
+   </notes>
+  </item>
+
+
+  <item id="B16">
+   <bib> Bogan, Louise. "The Pleasures of Formal Poetry." Quarterly Review of Literature 7 (1953):
+    176–85. </bib>
+   <notes> In the excellent symposium on "Experimental and Formal Verse," Bogan re- plies to the
+    notions that "form binds" and "form is exhausted," tracing out an engaging history of changes in
+    forms and concepts from the Greeks to Eliot, focused particularly on meter and rhyme. See also
+    B230 and E1549. </notes>
+  </item>
+
+
+  <item id="B17">
+   <bib> Boggs, W. Arthur. "A Linguistic Definition of Poetry." Bulletin of the New York Public
+    Library 61 (1962): 97–100. </bib>
+   <notes> Argues that an adequate definition must be framed in terms not of the tech- niques of
+    poetry but of its substance--language. His own definition emphasizes the high order of
+    patterning of language in verse. </notes>
+  </item>
+
+
+  <item id="B18">
+   <bib> Bogholm, N. "On the Spenserian Style." Travaux du cercle linguistique de Copenhague 1
+    (1945): 5–21. </bib>
+   <notes> Especially good on Spenser's practices in rhyming and rhythm (pronunciation, stressing,
+    idiosyncrasies). Spenser was very heavily indebted to "Dan Chaucer," and, to a lesser extent, to
+    Tasso and Ariosto. </notes>
+  </item>
+
+
+  <item id="B19">
+   <bib> Boos, Florence S. "Dante Gabriel Rossetti: Sex, Prosody, and Literary Antecedents." DAI 33
+    (1972): 2922A (Wisconsin). </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B20">
+   <bib> Booth, Stephen. An Essay on Shakespeare's Sonnets. New Haven: Yale University Press, 1969.
+    Based on his dissertation, "The Structures of Shakespeare's Sonnets," at Harvard in 1964. </bib>
+   <notes> Booth's general intent is to show that the sonnet presents, as the paradigm of poetic
+    experience, multiple simultaneous orders, "multicity in unity," or the old concordia discors. To
+    that end, the book explicates the phonetic, metrical, stanzaic-structural, rhetorical,
+    imagistic, and thematic patterns in the Sonnets and so is of direct interest to the prosodist.
+    But see, particularly, Section 2 of Chapter 3 ("Phonetic Structure"), Section 1 of Chapter 4
+    ("Phonetic Unity and Division"), and Notes 3, 5, and 8 in the Appendix (on sound patterns and
+    the work of D. I. Masson). </notes>
+  </item>
+
+
+  <item id="B21">
+   <bib> Bose, Amalendu. "Shakespeare's Word-Music." Studies in Elizabethan Literature: Festschrift
+    to Professor G. C. Bannerjee. Ed. P. S. Sastri. New Delhi: S. Chand, 1972. pp. 57–63. </bib>
+   <notes> He eschews any interest in "mere dexterity in the manipulation of vowels and consonants,
+    sibilants and labials and liquids, spondees and pyrrhics, enjambe- ment and weak-endings as
+    constituting word-music at its highest" and tries to show instead (in seven pages) that
+    "Shakespearean word-music goes deeper. It totally exploits the lexical value of words and
+    further suggests worlds beyond worlds, glimmering vistas of thought and feelings beyond the zone
+    of formu- lated thoughts and feelings, where the rest is silence but apprehension." </notes>
+  </item>
+
+
+  <item id="B22">
+   <bib> Boulton, Marjorie. The Anatomy of Poetry. London: Routledge &amp; Kegan Paul, 1953. </bib>
+   <notes> An introductory handbook and a companion to another on prose. Two chap- ters on Rhythm,
+    three on Phonetic form, and four on "mental Form." Scans by stress and allows only the four
+    commonest meters; emphasizes form throughout. Sensible. </notes>
+  </item>
+
+
+  <item id="B23">
+   <bib> Bourne, George. "Rhythm and Rhyme." Macmillan's Magazine, June 1906, pp. 541– 49. Also in
+    Living Age, November 1906, pp. 200–5. </bib>
+   <notes> An apology for both by the familiar strategy of substituting an alternative word in the
+    line or as the rhyme and observing the difference in effect. </notes>
+  </item>
+
+
+  <item id="B24">
+   <bib> Brink, Bernhard Ten. Geschichte der englischen Litteratur. 2 vols. Berlin: R. Oppenheim,
+    1877–93. Translated as History of English Literature. New York: Henry Holt, 1889–96. </bib>
+   <notes> Passim. Ten Brink's specialty, like Kaluza's, lay in Old and Middle English, so his
+    History is weighted on that end. </notes>
+  </item>
+
+
+  <item id="B25">
+   <bib> Brooks, Benjamin Gilbert. "Coleridge's Poetical Technique." Life and Letters 10 (1934):
+    594–608. </bib>
+   <notes> A study of the poet's technical development, using that adjective in its broadest
+    possible sense; there are occasional remarks on meter, but the principle interest is imagery,
+    diction, and tone. </notes>
+  </item>
+
+
+  <item id="B26">
+   <bib> Brownell, Baker. "Kinaesthetic Verse." Poetry 22 (1923): 36–40. </bib>
+   <notes> On "muscularity": "the primary fact [is] that our experience of words is an im- plicit
+    muscular effort in the throat." </notes>
+  </item>
+
+
+  <item id="B27">
+   <bib> Buell, Robert K. Lectures on the Technique of Verse Writing. Mountain View, Calif.: The
+    Author, 1939. 119 pp. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B28">
+   <bib> Cadbury, William. "The Structure of Feeling in a Poem by Patmore: Meter, Phonology, Form."
+    Victorian Poetry 4 (1966): 237–51. </bib>
+   <notes> A full analysis and interpretation of the poem shows how aspects of form en- hance,
+    enact, and express meanings beyond the lexical-semantic reach of the words. </notes>
+  </item>
+
+
+  <item id="B29">
+   <bib> Callan, Edward. "W. H. Auden: The Farming of a Verse." Southern Review 3 (1967): 341–56. </bib>
+   <notes> Auden's lifelong interest in the technical craft of poetry was based on his early
+    realization of the freedom of constraint--the creative possibilities to be found in the
+    necessities of strict metrical forms. The "dialectic of freedom and neces- sity" (in form and
+    craft) thereafter became a major theme in the poetry, per- haps best exemplified in the elegies
+    to Yeats and Freud. </notes>
+  </item>
+
+
+  <item id="B30">
+   <bib> Chalker, John. "Aspects of Rhythm and Rhyme in Eliot's Early Poems." English 16 (1966):
+    84–88. </bib>
+   <notes> Eliot used metrical variations in his early work: (1) to distinguish characters,
+    dramatically, and (2) to mark changes in emotional mood or atmosphere. Metrical regularity
+    serves as a "counterbalance to the emotional excitement" of the verse, even as Wordsworth
+    believed. To the more attentive ear, Eliot's rhythms enact his homage to the Elizabethan
+    dramatists. His rhymes convey ironic or comic undercutting, implicit judgment, delayed refrain,
+    or "slightly frenetic over-emphasis"; unexpected absence of rhyme expresses a failure of
+    resolution and creates the frustration of anticlimax. Varieties of formal expres- siveness.
+   </notes>
+  </item>
+
+
+  <item id="B31">
+   <bib> Chapin, Elsa, and R. Thomas. A New Approach to Poetry. Chicago: University of Chicago
+    Press, 1929. </bib>
+   <notes> Generally follows the methods of Rickert (B182). Part I treats imagery, rhythm,
+    sound-patterns, and typography; Part 2 is a minianthology of poems. There is a novel scansion
+    marking system in Chapter 2 (as on pp. 26, 28, 36– 37) for those who have graph paper available,
+    but probably such persons will not be much interested in the technique presented here (pp.
+    10–11) of under- lining color imagery in poems with crayons. </notes>
+  </item>
+
+
+  <item id="B32">
+   <bib> Chatman, Seymour, and Samuel R. Levin. "Linguistics and Literature." Current Trends in
+    Linguistics, X. Ed. Thomas A. Sebeok. The Hague: Mouton, 1973. pp. 250–94. </bib>
+   <notes> A long discursive bibliography and review article. Section 2.1.1 on Metrics (pp. 253–59)
+    is especially thorough on Structural Metrics, as one might expect; 2.1.2 on Sound-Structures
+    (pp. 259–64) surveys linguistic work on the mean- ings of sound-patterns; 2.2 on Grammar (pp.
+    264–70) surveys the work on po- etic syntax and language. Long list of References at the end.
+    These short chronologically ordered surveys provide succinct and coherent views of the work done
+    in the 1950s and '60s. </notes>
+  </item>
+
+
+  <item id="B33">
+   <bib> -----. "Linguistics and Poetics." Princeton (A18), pp. 450–57. </bib>
+   <notes> A review of twentieth-century work on the phonology, metrics, diction, syn- tax,
+    performance, and semantics of poetry, mentioning several of the important studies in each area.
+   </notes>
+  </item>
+
+
+  <item id="B34">
+   <bib> Ciardi, John. "On Form As a Language." Saturday Review, 31 October 1964, pp. 16–18. </bib>
+   <notes> On endings, a dictum: "form tends to conclude itself by some increase in for- mality."
+   </notes>
+  </item>
+
+
+  <item id="B35">
+   <bib> -----. "The Silences of Poetry." To the Young Writer. Ed. A. L. Bader. Ann Arbor:
+    University of Michigan Press, 1965. pp. 85–104. </bib>
+   <notes> Since "all the elements of a poem are engaged in a series of countermotions," therefore
+    "a poem is one part against another across a silence." Ciardi proposes a symbol to mark changes
+    in tone (and therefore in the technical elements-- meter and diction) in a poem. </notes>
+  </item>
+
+
+  <item id="B36">
+   <bib> Clark, Arthur Melville. "Poetry And Verse." In his Studies in Literary Modes. Edinburgh:
+    Oliver and Boyd, 1946. pp. 82–104. </bib>
+   <notes> Following a historical review, Clark confronts his essential question: can po- etry be
+    written without meter? He considers metered vs. free verse, and also meter vs. rhythm; citing
+    Bridges, he concludes that meter is essential to poetry. The final ten pages explore the nature
+    of rhythm in the composition of poetry and in its effects on readers. </notes>
+  </item>
+
+
+  <item id="B37">
+   <bib> Clatanoff, Doris A. R. "Poetry and Music: Coleridge, Shelley, and Keats and the Musical
+    Milieu of Their Day." DAI 34 (1973): 2551A (Nebraska). </bib>
+   <notes> There is some minor discussion of meter and sound-patterning as the "musical components
+    of language." </notes>
+  </item>
+
+
+  <item id="B38">
+   <bib> Coleman, Elliott. "Poetry and Prose: The Prose Poem." University of Dayton Review 4 (1967):
+    7–21. </bib>
+   <notes> Shuffles after Croce in refusing to allow any distinction between prose and po- etry to
+    be based on "external elements" such as meter or rhyme. </notes>
+  </item>
+
+
+  <item id="B39">
+   <bib> Conklin, Groff. "James Stephens--Prosodist." English 25 (1936): 433–43. </bib>
+   <notes> Versification is actually not examined directly in this essay on the Irish poet. </notes>
+  </item>
+
+
+  <item id="B40">
+   <bib> Corson, Hiram. A Primer of English Verse: chiefly in its aesthetic and organic character.
+    Boston: Ginn and Company, 1892. 226 pp. </bib>
+   <notes> Rev: by A. H. Tolman in MLN 8 (1893): 245–47 (discusses Milton's meters). We find here a
+    truly Coleridgian thesis: in contrast to the analytical, divisive process of intellect, "when
+    strong feeling is in any way objectified, a unifying process sets in." The Poetic Principle,
+    then, is "some principle of harmony or fusion" or unity, and its agents are the poetic elements.
+    "Rhythm is a succes- sion and involution of unities, that is, unities within unities," the foot
+    within the verse within the stanza. The elements of form are organic unities with the sense. The
+    book takes five main topics: meter and metrical variation (conven- tional accentual basis);
+    Tennyson's use of the Stanza; the Spenserian stanza; the Sonnet; and Blank Verse. </notes>
+  </item>
+
+
+  <item id="B41">
+   <bib> Costello, Sister Mary Cleophas. Between Fixity and Flux: A Study of the Concept of Poetry
+    in the Criticism of T. S. Eliot. Washington D.C.: Catholic University of America Press, 1947. </bib>
+   <notes> An invaluable guide to the development of Eliot's thinking about the catego- ries
+    "verse," "prose," and "poetry." See especially Chapters 2 and 3. The differ- entia between the
+    second and third of these eventually turns out to be one of affective meaning, or intensity, not
+    any formal constraint. </notes>
+  </item>
+
+
+  <item id="B42">
+   <bib> Courthope, W[illiam] J. A History of English Poetry. 6 vols. London and New York:
+    Macmillan, 1895–1910. </bib>
+   <notes> There are no separate chapters on matters of versification except for the chap- ter on
+    Milton, which is mainly devoted to that topic. </notes>
+  </item>
+
+
+  <item id="B43">
+   <bib> Cowl, R. P. The Theory of Poetry in England: Its Development in Doctrines and Ideas from
+    the Sixteenth Century to the Nineteenth Century. London: Macmillan, 1914. </bib>
+   <notes> See "Style and Diction," pp. 187–223, and "Metre and Versification," pp. 224– 62
+    (including "Functions of Metre," "Principles of Versification," and "Rhyme"). A collection of
+    extracts from the principal authorities. </notes>
+  </item>
+
+
+  <item id="B44">
+   <bib> Crannel, Kenneth Charles. "A Prosodic Analysis of Selected Dramatic Narratives of Robert
+    Frost." DAI 31 (1971): 3682A (Northwestern). </bib>
+   <notes> Examines metrical variation, sound-patterning, alliteration, rhyme, use of the dash, and
+    other figures of repetition in eight poems. </notes>
+  </item>
+
+
+  <item id="B45">
+   <bib> Deegan, William J. "A Study of the Poetic Craftsmanship of Thomas Gray as Shown By His
+    English Poems." DA 22 (1962): 4014A (Pittsburgh). </bib>
+   <notes> Examines meter, diction, verseforms, imagery, and figuration. Gray had some interest in
+    imitating Old Icelandic and Celtic verseforms but knew too little of their technic. He worked
+    carefully and seldom achieved spontaneity (he drew from Milton and Dryden often), but his
+    greatest strength lay in his supple me- ters. </notes>
+  </item>
+
+
+  <item id="B46">
+   <bib> Denton, Marilyn. "The Form of Yeats' Lyric Poetry." DA 17 (1957): 3012A (Wisconsin). </bib>
+   <notes> Examination of Yeats's manuscripts reveals that poetic form was much more central to his
+    composition than most critics believe. Denton reviews Yeats's published remarks on prosody and
+    catalogues the poems by metrical/stanzaic form. </notes>
+  </item>
+
+
+  <item id="B47">
+   <bib> Deutsche, Babette. Poetry Handbook: A Dictionary of Terms. New York: Funk &amp; Wagnalls,
+    1957; 4th ed. 1974. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B48">
+   <bib> Diller, Hans Jürgen. "The Function of Verse in Byron's Don Juan. In The Constance Byron
+    Symposium, 1977. Salzburg: Institüt für englische Sprache und Literatur, Salzburg University,
+    1978. pp. 5–20. </bib>
+   <notes> The segmentation of language in verse (i.e., across lines) yields additional con- texts
+    in which words can take on (and have qualified) meanings, producing polysemy. But verseforms may
+    be either semantically expansive (rhymes which are different parts of speech multiply categories
+    and levels of reference) or se- mantically constrictive (both sides of an ambiguity cannot be
+    maintained to- gether). Segmentation in verse foregrounds its units, establishes them as con-
+    ceptual correlates, and exploits their successive realization by the reader. The poem also bends
+    to its ends specifically poetic signals (not available in prose) and poetically intensified
+    signals (available in prose but heightened in verse). </notes>
+  </item>
+
+
+  <item id="B49">
+   <bib> Dobrée, Bonamy. "Prosody, Forms of Verse, and Some Usages." The Concise Encyclopedia of
+    English and American Poets and Poetry. Ed. Stephen Spender and Donald Hall. New York: Hawthorn
+    Books, 1963. pp 247–69. </bib>
+   <notes> A catholic view of the elements of Prosody (counting of syllables and of ac- cents,
+    varieties of meters, adventitious sonal patterning), Structure (lineforms, counterpoint, Sprung
+    Rhythm, free verse, ballad meter), Forms (stanzas), and Usages (genres). Copious examples.
+   </notes>
+  </item>
+
+
+  <item id="B50">
+   <bib> Drechsler, Walther. Der Stil des Macphersonschen Ossian. Diss., Berlin, 1904. </bib>
+   <notes> Brief remarks on rhythm and meter, pp. 34–38, but the preponderance falls on syntax and
+    figuration. </notes>
+  </item>
+
+
+  <item id="B51">
+   <bib> Dukes, Ashley. "Forms of Dramatic Verse." Theatre Arts Monthly 11 (1927): 521–29. </bib>
+   <notes> Verse as the essential medium of drama: a brief survey. </notes>
+  </item>
+
+
+  <item id="B52">
+   <bib> Eliot, T. S. "The Borderline of Prose." The New Statesman 9 (1917): 157–59. </bib>
+   <notes> "After much reflection I conclude that the only absolute distinction to be drawn is that
+    poetry is written in verse, and prose is written in prose: or, in other words, that there is
+    prose rhythm and verse rhythm." </notes>
+  </item>
+
+
+  <item id="B53">
+   <bib> -----. "Prose and Verse." The Chapbook, no. 22 (April 1921), pp. 3–10. Cf. B1,B142. </bib>
+   <notes> "Poetic content must be either the sort of thing that is usually, or the sort of thing
+    that ought to be, expressed in verse," Eliot believes. Either of these alter- natives will cause
+    the "prose-poem" to fade out of existence. Moreover, whereas in form we have "verse" contrasted
+    to "prose," in content, length, in- tensity and such we have no term to set against "poetry."
+    Long prose passages are often in sum effect intense. "I object to the term 'prose-poetry'
+    because it seems to imply a sharp distinction between 'poetry' and 'prose' which I do not admit,
+    and if it does not imply this distinction, the term is meaningless and otiose. . . ." </notes>
+  </item>
+
+
+  <item id="B54">
+   <bib> Ellis, Virginia R. "'Authentic Cadence': The Sacramental Method of Gerard Manley Hopkins."
+    DAI 30 (1969): 2481A (Brandeis). </bib>
+   <notes> Hopkins sought to evoke "certainty" and "mystery" simultaneously in his po- etic texture
+    as the exact correlate to his knowledge of God, an "incomprehen- sible certainty." </notes>
+  </item>
+
+
+  <item id="B55">
+   <bib> Empson, William. "Rhythm and Imagery in English Poetry." British Journal of Aesthetics 2
+    (1962): 36–54. </bib>
+   <notes> See pp. 38–45; provocative (because eccentric) suggestions by a non- theoretical yet very
+    perceptive reader of poetry who is "in favour of rhyme and metre." Empson inquires into the
+    origins of rhyme (he has not read Draper [L27–28]); speculates about tonal accent (pitch) in
+    Chinese, English, and Classical verse; argues (from Tennyson and Housman) that quantity is of-
+    ten important in English verse, especially since most of the major poets were taught Latin at
+    school, so that much of their major verse uses "stress and quan- tity at once"; proposes "jammed
+    stress," where several strong syllables in a line are "rolled together" as one stress in
+    scansion; approves of four degrees of stress; emphasizes the paucity of our theories in the face
+    of the instinctive, acute, unconscious human perception of rhythm; and bemoans the abandon- ment
+    of the traditional stress-metric in vers libre, especially in W. C. Williams. Yet, "if the
+    rhythms of English are loose, rich, and confused, as one can hardly deny, how far is poetry in
+    English likely to gain from strict metres?" </notes>
+  </item>
+
+
+  <item id="B56">
+   <bib> Epstein, E. L. "Hopkins's 'Heaven-Haven': A Linguistic-Critical Description." Essays in
+    Criticism 23 (1973): 137–45. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B57">
+   <bib> Erdman, David. "Byron's Poetic Technique." Diss., Princeton University, 1937. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B58">
+   <bib> Esenwein, J[oseph] Berg, and M. E. Roberts. The Art of Versification. Springfield, Mass.:
+    The Home Correspondence School, 1913; 2nd ed. 1916. </bib>
+   <notes> An introduction which has the virtues of clarity and thoroughness. Its metrical
+    principles are accentual. Second edition adds a chapter on vers libre. </notes>
+  </item>
+
+
+  <item id="B59">
+   <bib> -----. "The Essence of Verse." TLS, 3 June 1926, p. 361 (Leading article). </bib>
+   <notes> The title is unfortunately rather apt: the article erects an immense edifice of
+    generalizations without any close argumentation at all. Exceedingly discursive. </notes>
+  </item>
+
+
+  <item id="B60">
+   <bib> Farr, Thomas A. "Some Observations on the Poetic Function in Sophisticated and Folk Verse."
+    Language and Style 10 (1977): 162–72. </bib>
+   <notes> Applies Levin's theory of coupling (B129) to Shakespeare's Sonnet 138, a folk ballad, and
+    a folk song. Not surprisingly, the sonnet shows the most couplings. </notes>
+  </item>
+
+
+  <item id="B61">
+   <bib> Fenyo, Jane K. "The Sounds of Poetry." DA 28 (1968): 2644A (C.U.N.Y.). </bib>
+   <notes> Constructs a precise, thorough, ordered methodology for describing the sonal patterning
+    in a given poem. The procedure covers three steps: pre-prosodic analysis of six grades of pause
+    and stress and three grades of duration, all the data being plotted on a Basic Chart; prosodic
+    analysis, serially pre-metric then metric, wherein tone-color ("phoneme keys") and pitch-change
+    ("tonality tunes") data are added on a pre-metric Position Chart, followed by reduction of the
+    six grades of stress to the two in the traditional account of meter, plotted as a Metric Score,
+    and notation of the duration, pitch, and loudness features on a DPL Strip; and an optional
+    performance analysis, in which preferred values on the DPL are denoted on a Performance Strip.
+   </notes>
+  </item>
+
+
+  <item id="B62">
+   <bib> Fletcher, John Gould. "Miss Lowell's Discovery: Polyphonic Prose." Poetry 6 (1915): 32–36. </bib>
+   <notes> Laudatory remarks on her Sword-blades and Poppy Seed, poems "printed as prose, or as
+    prose and verse interspersed . . . . leaving the reader to determine the movement of the rhythm
+    and the division into lines." He thinks traditional meters worn threadbare and vers libre barren
+    of orchestral sound-quality. </notes>
+  </item>
+
+
+  <item id="B63">
+   <bib> Flosdorf, James W. "The Poetry of Sir John Suckling: A Study of His Versification,
+    Rhetoric, and Themes." Diss., University of Rochester, 1960. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B64">
+   <bib> Foott, David. "A Technical Reappraisal of T. S. Eliot's 'Love Song of J. Alfred Prufrock.'"
+    Linq: Literature in North Queensland 1 (1972): 30–35. </bib>
+   <notes> A study of critical value judgments of artistic technique could mine some very useful
+    source-material here. One recalls what John Crowe Ransom did to similar pieces. </notes>
+  </item>
+
+
+  <item id="B65">
+   <bib> Ford, S. Gertrude. Lessons in Verse-Craft. London: C. W. Daniel, 1919. 125 pp. </bib>
+   <notes> A beginner's manual. The author has a penchant for French forms. Regrettably the paper
+    the volume is printed on is of rather high quality. </notes>
+  </item>
+
+
+  <item id="B66">
+   <bib> Forrest-Thompson, Veronica. "Levels in Poetic Convention." Journal of European Studies 2
+    (1972): 33–51. </bib>
+   <notes> This is a study, quite convoluted in its articulation, in interpretation theory,
+    therefore poetic semantics. But the subject is form, and the cautious end of ex- amining three
+    broad types of interpretation strategies is that "it is essential to preserve a level of poetic
+    organization that has nothing to do with meaning." See particularly the penultimate and
+    antepenultimate paragraphs. </notes>
+  </item>
+
+
+  <item id="B67">
+   <bib> Fowler, Roger. "Linguistics and the Analysis of Poetry." Fowler (A12), pp. 219–37. </bib>
+   <notes> In support of the position that "formal description not only leads to, but is, a
+    statement of meaning," Fowler gives detailed analyses of grammar, phonology (including meter),
+    and lexis in a Cummings poem. </notes>
+  </item>
+
+
+  <item id="B68">
+   <bib> Franco, June W. "'The Living Skein': A Stylistic Study of Dylan Thomas." DAI 39 (1978):
+    1586A (North Texas State). </bib>
+   <notes> Examines meter, syntax, sound, and diction and concludes that the later poetry is
+    superior to the earlier. </notes>
+  </item>
+
+
+  <item id="B69">
+   <bib> Frank, Armin P. "'A Poem Should . . . Be': Mimetic and Didactic Modes of Poetry." Bulletin
+    of the Dept. of English, University of Calcutta 12 (1976–77): 1– 17. </bib>
+   <notes> After the last word of the title should be added the words: "About Poetry." Frank
+    identifies two types of poems about poetry, one describing an event and the other enacting "an
+    event in language." And the medium for the dance, the mimetic enactment, is of course the body
+    of the poem, its corporeal substance- -its versification. </notes>
+  </item>
+
+
+  <item id="B70">
+   <bib> Friedmann, Thomas. "Marvell's 'Coy Mistress' and Williams' 'Trees': Grammar and Phonology
+    in the Critical Context." Junction 1972 (Brooklyn Coll.), pp. 60– 65. </bib>
+   <notes> Integration of theme, tone, sound, grammar, and lexis. </notes>
+  </item>
+
+
+  <item id="B71">
+   <bib> Friend, Joseph H. "Teaching the 'Grammar of Poetry.'" College English 27 (1966): 361–67. </bib>
+   <notes> "Grammar" is used in its widest possible sense here to mean all the manifold functions of
+    words in poems. Practical suggestions on the pedagogical value of technical analysis. </notes>
+  </item>
+
+
+  <item id="B72">
+   <bib> Frye, Northrop. "Verse and Prose." Princeton (A18), pp. 885–90. </bib>
+   <notes> See also s.v. "Polyphonic Prose" and "Prose Poem." A very cogent redaction of the
+    material in The Well-Tempered Critic (below); Frye distinguishes three basic verbal
+    rhythms--discursive, metrical, and associational. </notes>
+  </item>
+
+
+  <item id="B73">
+   <bib> -----. The Well-Tempered Critic. Bloomington: Indiana University Press, 1963. </bib>
+   <notes> Frye distinguishes three primary verbal rhythms: the rhythm of verse, the rhythm of prose
+    (more complex), and the "associative rhythm"--fragmentary in logic and syntax--of ordinary
+    speech. These three influence each other to produce six other hybrid forms: oratorical or
+    rhetorical prose (prose influenced by verse) and euphuism (more extreme: prose influenced by
+    association); cou- plets and blank verse (verse influenced by prose) and intentional doggerel
+    (more extreme); tribal chants, college cheers, and free verse (associative rhythm influenced by
+    verse); the lyric (verse influenced by the associative rhythm) and its more extreme form, here
+    termed "echolalia"; "free prose" (associative rhythms influenced by prose); and aphoristic or
+    wisdom writing (prose influ- enced by associative rhythms). </notes>
+  </item>
+
+
+  <item id="B74">
+   <bib> Fujimura, Thomas H. "Dryden's Poetics: The Expressive Values of Poetry." JEGP 74 (1975):
+    195–208. </bib>
+   <notes> As a corrective to some recent work on figurative language in Dryden, this author
+    reasserts Dryden's own priorities of poetic expressiveness--prosody and diction. Three aspects
+    of prosody are distinguished: "harmony of numbers," mimetic rhythm, and the connections of meter
+    and thought in syntax. Har- monious sounds were important to Dryden, and his praise of Virgil
+    suggests some attention even to quantity in English verse. He also believed that a rhythm might
+    carry its own weight of meaning, and hence that each poetic genre had its own appropriate
+    prosody. In syntax, Dryden steadily moved away from the couplet form. Diction, however, he
+    thought more important even than prosody. Words were to be selected which were " apt,
+    significant, and sounding," and of these three, sonority of sound was easily the chief: be- yond
+    everything else, Dryden was concerned not with the referential or se- mantic values of his
+    words, but with the aesthetic. </notes>
+  </item>
+
+
+  <item id="B75">
+   <bib> Fuller, Roy. "Ear versus Eye." The New Statesman and Nation n.s. 53 (1957): 474–75. </bib>
+   <notes> Skeptical of public poetry readings. </notes>
+  </item>
+
+
+  <item id="B76">
+   <bib> Garnier, C.-M. "A Metrical Study of the Lyrical Parts in Shelley's Prometheus Unbound."
+    Revue de l'enseignement des langues vivantes, 1937, pp. 97–102, 145–57. </bib>
+   <notes> Examines stanza-forms, meters, and rhymes. </notes>
+  </item>
+
+
+  <item id="B77">
+   <bib> Gatlin, Hallie L., III. "Structure and Technique in the Poetry of Thomas Hardy." DA 29
+    (1968): 1867A (Iowa). </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B78">
+   <bib> Gayley, C. M., and C. C. Young. The Principles and Progress of English Poetry. New York:
+    Macmillan, 1904; 2nd ed. 1916, with first four and last two words of the title transposed. </bib>
+   <notes> The Introduction offers concise expositions of "The Rhythm of Verse: Foot and Metre,"
+    "Tonality in Verse," and "Stanzaic and Structural Forms." </notes>
+  </item>
+
+
+  <item id="B79">
+   <bib> Giodano, Frank, Jr. "Rhythm and Rhyme in 'Self-Dependence.'" English Language Notes 13
+    (1975): 29–35. </bib>
+   <notes> Shifts in meter and alternations of rhyme "create an undercurrent of dishar- mony and
+    turmoil that reinforce the speak-er's confusion; in contrast, the pas- sages concerning Nature
+    show firm regularity and orderly variety of form." "This confrontation of metrical patterns . .
+    . rhythmically reproduces the speaker's effort to measure himself by Nature's standard and to
+    emulate it." Arnold achieves sprezzatura. </notes>
+  </item>
+
+
+  <item id="B80">
+   <bib> Gopnik, Irwin, and Myrna Gopnik. "Toward a Theory of Style: The Law of Maximal Form." Style
+    1 (1967): 197–214. </bib>
+   <notes> The Law postulated identifies "poetic" utterances as those in which "the lin-
+    guistic-poetic devices of the language tend to exhibit the maximal possible or- dering."
+   </notes>
+  </item>
+
+
+  <item id="B81">
+   <bib> Gordon, Ralph. The Technique of Verse. New York: The City College Co-operative Store, 1933.
+    56 pp. </bib>
+   <notes> A student's manual, with sections on "Meter and Rhythm," "Verse Forms," and "Tone Color."
+    He admits only the four simple meters. For its class the book is solid, and a teacher may still
+    find it useful to recommend to beginning students. </notes>
+  </item>
+
+
+  <item id="B82">
+   <bib> Graves, Robert. Contemporary Techniques of Poetry: A Political Analogy. Tunbridge Wells and
+    London: Leonard and Virginia Woolf at the Hogarth Press, 1925. </bib>
+   <notes> Chapters on Diction, Metre, Rhyme, Texture, and Structure. Graves adapts the political
+    analogy of Conservatives versus Liberals to discuss the state of modern poetry. </notes>
+  </item>
+
+
+  <item id="B83">
+   <bib> Gray, Thomas. "Metrum." In The Works of Thomas Gray in Prose and Verse. Ed. Edmund Gosse. 4
+    vols. New York: A. C. Armstrong &amp; Son, 1885. Vol. 1, pp. 323–409. </bib>
+   <notes> Gray's MS notes (written ca. 1760) for his projected History of English Poetry are
+    organized in the Works as six essays, two on meter and stanza, three on the origin and
+    development of rhyme, and one chiefly on Lydgate. These are, re- spectively: (1) "Observations
+    on English Metre," (2) "The Measures of Verse," (3) "Observations on the Pseudo-Rhythmus"
+    [Rhyme], (4) "Some Observations on the Use of Rhyme," (5) "Additional Observations and
+    Conjectures on Rhyme," and (6) "Some Remarks on the Poems of John Lydgate." On metrics Gray
+    tenders his judgment that though the old manuscripts are corrupt, the fault lay with the
+    scribes; the poets show by variance of or- thography that they knew how to make the meter run
+    smooth. Puttenham (E614) is chastised for misunderstanding "Riding Rhyme" and "Rhyme Do- grell,"
+    the former of which Gray takes to be iambic in meter but admitting any other foot in any
+    position and with no regularity in length of line. The second essay classifies fifty-nine meters
+    by line-length, stanza-form, and rhyme-scheme. Rhyme is traced back to the Germanic tribes, with
+    Otfrid noticed, be- sides early examples in Hadrian and St. Augustine, and Gray thinks that the
+    custom spread from the Franks to all the other European nations north and south (he follows
+    Hickes closely on this); he denies the French learned rhyme from the Arabs, but rather proposes
+    Church hymns and Latin verses by the monks as the source of rhyme in Provençal. This latter view
+    is however re- nounced in the fourth essay, where Gray concludes the Saxons in England must have
+    learned rhyme from the Britons across the Channel rather than from the Franks (though the Welsh
+    versification had been very advanced from time immemorial) since we see rhyme copiously after
+    the Conquest. On Lydgate Gray offers extensive notes of literary history; the only prosodic
+    matter is the discussion of the state of the language in Lydgate's day, when the great
+    enlargement of foreign words still preserving their native pro- nunciations allowed a "great
+    facility in rhyming" that was later and is now lost to us. </notes>
+  </item>
+
+
+  <item id="B84">
+   <bib> Grindrod, Charles F. Studies in Rhyme and Rhythm. London: Elkin Mathews, 1905. 135 pp. </bib>
+   <notes> Irrelevant to verse theory: a collection of poems. </notes>
+  </item>
+
+
+  <item id="B85">
+   <bib> Gross, Harvey. "The Aesthetic Function of Prosody." Centennial Review of Arts and Sciences
+    7 (1963): 204–18; revised and rpt as Chapter 1, "Prosody as Rhythmic Cognition," of his Sound
+    and Form in Modern Poetry (E38). </bib>
+   <notes> Gross conceives of prosody as the study of "rhythmic form in poetry," rhythm being
+    "expressive" of "the curve of feeling, the shape and form of an emo- tion," "felt time." So much
+    for critical rigor. The views here are derived (heavily) from Suzanne Langer. </notes>
+  </item>
+
+
+  <item id="B86">
+   <bib> Guérard, Albert. Robert Bridges: A Study of Traditionalism in Poetry. Cambridge, Mass.:
+    Harvard University Press, 1942; rpt New York: Russel &amp; Russel, 1965. </bib>
+   <notes> Chapter six, "Form and Style" (pp. 106–19) discusses meter, speech-rhythms, sound
+    devices, word-order, diction, archaisms, and imagery. Appendix A, "Bridges' Prosody" (pp.
+    269–84) briefly explores the work in four meters: Ac- centual-Syllabic, Accentual, Quantitative,
+    and Syllabic. See also s.v. "Meter" in the Index. See also E86 and E211. </notes>
+  </item>
+
+
+  <item id="B87">
+   <bib> Hamilton, George R. "Verse and Poetry." Essays by Divers Hands (Transactions of the Royal
+    Society of Literature) n.s. 20 (1943): 84–98. </bib>
+   <notes> Along the continuum, "we cannot fix a precise borderline [that] does not im- pair the
+    value of the distinction." The special virtue of verse-structure is to en- hance a
+    "contemplative" mood. </notes>
+  </item>
+
+
+  <item id="B88">
+   <bib> Harnack, H. Andrew. "George Herbert's 'Aaron': The Aesthetics of Shaped Typology." English
+    Language Notes 14 (1976): 25–32. </bib>
+   <notes> "Taken together, these repetitions of metrical lines, rhyme-words [only five words
+    repeated throughout five stanzas], and stanza forms set up a series of vis- ual and auditory
+    reverberations which complement the theme of the poem . . . . Structurally the poem is a formal
+    analogue" to its typological theme. </notes>
+  </item>
+
+
+  <item id="B89">
+   <bib> Hartog, Sir P. J. On the Relation of Poetry to Verse. English Association Pamphlet no. 64.
+    Oxford: Oxford University Press, 1926. 27 pp. </bib>
+   <notes> Traces out three positions which have been taken, historically, on the crucial question,
+    "Why is poetry written in verse?": (1) "poetry" is synonymous with "verse"; (2) poetry is a
+    certain kind of content, regardless of the form of the work, and (3) poetry embraces all those
+    works with a certain kind of content and also written in verse. Lengthy Notes. A very astute and
+    provocative essay. </notes>
+  </item>
+
+
+  <item id="B90">
+   <bib> Havens, Raymond D. "Structure and Prosodic Pattern in Shelley's Lyrics." PMLA 65 (1950):
+    1076–87. </bib>
+   <notes> Sprezzatura--and failings thereof--in the lyric mode. </notes>
+  </item>
+
+
+  <item id="B91">
+   <bib> Heilman, Robert B. "Poetic &amp; Prosaic: Program Notes on Opposite Numbers." Pacific
+    Spectator 5 (1951): 454–63. </bib>
+   <notes> Only of passing interest. </notes>
+  </item>
+
+
+  <item id="B92">
+   <bib> Henson, Clyde E. The Gist of Poetics. New York: Twayne, 1965. 128 pp. </bib>
+   <notes> A discursive introduction; Chapter 2 treats meter, Chapters 3 and 4 stanzas. </notes>
+  </item>
+
+
+  <item id="B93">
+   <bib> Highet, Gilbert. "Rhythm in Poetry" and "Melody in Poetry." A Clerk of Oxenford: Essays on
+    Literature and Life. New York: Oxford University Press, 1954. pp. 125–33, 134–41. </bib>
+   <notes> Good illustrations of effects; elementary. </notes>
+  </item>
+
+
+  <item id="B94">
+   <bib> Hill, Archibald A. "An Analysis of 'The Windhover': An Experiment in Structural Method."
+    PMLA 70 (1955): 968–78; rpt in his Constituent and Pattern in Poetry. Austin: University of
+    Texas Press, 1976. pp. 28–38. </bib>
+   <notes> Response by </notes>
+  </item>
+
+
+
+  <item id="B95">
+   <bib> William Mat-chett, PMLA 72 (1957): 310–11. See also Hill's refocillation in Texas Studies
+    in Literature and Language 7 (1965): 349–59. </bib>
+   <notes> The great virtue of this linguistic explication is that it is completely self- conscious:
+    Hill explains his principles and procedures even as he applies them to the Hopkins poem,
+    justifying them, thereby, both pragmatically and formally. He works his way through the
+    micro-structure of the text, sorting out alternative readings on the basis of the semantic
+    implications of intonational patterns and also the substitution principle of information theory.
+    But is there not an obvious logical circularity in the claim that "the quickest way to
+    demonstrate the meaning [of an ambiguous phrase] is to give it the proper stress and juncture
+    pattern by reading it aloud"? </notes>
+  </item>
+
+
+  <item id="B96">
+   <bib> Hillyer, Robert. First Principles of Verse. Boston: The Writer, 1938; rpt 1957. </bib>
+   <notes> One cannot imagine any justification for reprinting this book. </notes>
+  </item>
+
+
+  <item id="B97">
+   <bib> Hoffsten, Ernest G. "Swinburne's Poetic Theories and Practice." Sewanee Review 13 (1905):
+    54–60. </bib>
+   <notes> Short, random core-samples of meters, stanzas, and sound-effects. </notes>
+  </item>
+
+
+  <item id="B98">
+   <bib> Hollander, John. Introduction to Selected Poems of Ben Jonson. New York: Dell- Laurel,
+    1961; revised and expanded into Chapter 8 of his Vision and Resonance (A13), pp. 165–86. </bib>
+   <notes> Passim. </notes>
+  </item>
+
+
+  <item id="B99">
+   <bib> Holmes, Martin. Shakespeare and Burbage: The Sound of Shakespeare as Devised to Suit the
+    Voice and Talents of His Principal Player. Chichester: Fillimore, 1978. 205 pp. </bib>
+   <notes> Frequent remarks on meter, rhyme, and the melodic line, passim, especially in Chapter 7.
+   </notes>
+  </item>
+
+
+  <item id="B100">
+   <bib> Hope, Alec Dervent. The Structure of Verse and Prose. Sydney: Sydney Teachers' College,
+    1938. </bib>
+   <notes> Pamphlet. </notes>
+  </item>
+
+
+  <item id="B101">
+   <bib> Howell, A. C. "A Note on Ben Jonson's Literary Methods." SP 28 (1931): 710–19. </bib>
+   <notes> With Jonson matter preceded manner: he seems to have written out his poetry first as
+    prose, then worked it into verse. He considered first what he wanted to say, how the idea had
+    been treated by the classical authors, what notes he had at hand in his commonplace book--then
+    turned to his versifying. He also re- lied heavily on short bits of translation. </notes>
+  </item>
+
+
+  <item id="B102">
+   <bib> Hudson, Theodore R. "Technical Aspects of the Poetry of Langston Hughes." Black World 22,
+    11 (1973): 24–45. </bib>
+   <notes> Among many other technical features Hudson notes the crucial influences of the blues,
+    gospel hymns, and folk ballads on the poet's meter. </notes>
+  </item>
+
+
+  <item id="B103">
+   <bib> Hynes, Sam. "Poetry, Poetic, Poem." College English 19 (1958): 263–67. </bib>
+   <notes> Conceptual analysis. Hynes catches Brooks and Warren claiming that poetry denotes simply
+    a relative degree of verbal compression, but that approach ne- glects Form. Definitions based on
+    poetic language or diction are equally unhelp- ful. Solution: poetry is "a collective term for
+    all poems"; a poem is "a discourse in the form of an arrangement of lines" of "more highly
+    organized sound pat- terns." The relative value of poems, then, can be judged by their degree of
+    "symbolic exten- sion. </notes>
+  </item>
+
+
+  <item id="B104">
+   <bib> Ikegami, Yoshihiko. "On Poetical License: Linguistic and Semantic Deviation in Poetry."
+    Anglica (Osaka) 5 (1963): 23–40. </bib>
+   <notes> "License" is defined as "a certain range to a linguistic symbol in which it may be
+    different without the difference becoming meaningful." The licenses in po- etry may occur at the
+    phonological, morphological, syntactic, graphic, or metalinguistic level, those on the
+    phonological level being meter, rhyme, allit- eration, and juncture. </notes>
+  </item>
+
+
+  <item id="B105">
+   <bib> Irwin, John T. "The Crisis of Regular Forms." Sewanee Review 81 (1973): 158–71. </bib>
+   <notes> "Doesn't the organic theory that a unique experience should generate an en- tirely new
+    surface structure have the poetic process backwards?" "A regular form is not a ready-made
+    container into which an emotion is poured." </notes>
+  </item>
+
+
+  <item id="B106">
+   <bib> Isenberg, Arnold. "The Technical Factor in Art." Journal of Philosophy 43 (1946): 5– 19. </bib>
+   <notes> Attacks Croce's thesis that the aesthetic idea precedes (and surpasses in value) its
+    externalization in a medium. For Isenberg the physical medium is an indis- pensable part of the
+    creative process. </notes>
+  </item>
+
+
+  <item id="B107">
+   <bib> Jenkinson, Editha. The Art of Writing Verse: The Malory Introduction to Prosody. London: E.
+    Macdonald, Ltd., 1920. 62 pp. </bib>
+   <notes> A very slight work even for a primer; she explicitly follows R. F. Brewer (E489).
+   </notes>
+  </item>
+
+
+  <item id="B108">
+   <bib> Johnson, Charles F. Forms of English Poetry. New York: American Book Company, 1904. 356 pp. </bib>
+   <notes> A primer organized by forms. His principles: metrical feet are units "which di- vide the
+    time of utterance into equal parts" and which "are marked by the presence of an accented
+    syllable which serves to individualize them." Classical meter, on the other hand, used
+    "quantity, or time occupied in pronouncing the vowel, not accent, [to mark] the pronunciation
+    units." </notes>
+  </item>
+
+
+  <item id="B109">
+   <bib> Johnson, Dr. Samuel. The Lives of the English Poets. 4 vols. London, 1779, 1781; 2 vols.
+    London: Oxford University Press, 1906; reset 1952; rpt 1973. </bib>
+   <notes> For Johnson's estimation of the prosodic skill of his predecessors, see, in vol. 1: pp.
+    38, 48–51 (Life of Cowley); 117, 131–33 (Life of Milton); 293–94, 329–32 (Life of Dryden). In
+    vol. 2: pp. 314–15, 326–27 (Life of Pope), 358 (Life of Thomson). Cowley he censures for
+    irregularity of numbers; Milton is given credit for a second-order performance, his blank verses
+    being weakened by the want of rhyme; Dryden, despite indolence, "tuned the numbers of English
+    po- etry"--"he found it brick, and he left it marble"; Pope's consummate craft can scarcely be
+    surpassed; and Thomson's originality earns a slightly better place for his blank verses.
+    Johnson's disdain of "representative meter" [prosodic mimesis, both by sound and meter] appears
+    at i, 51 and ii, 314; he thinks its legitimate province very small: "verse can imitate only
+    sound and motion." </notes>
+  </item>
+
+
+  <item id="B110">
+   <bib> Johnson, Wendell Stacy. "Some Functions of Poetic Form." JAAC 13 (1955): 496– 506. </bib>
+   <notes> The article opens by questioning the notion of "content vs. form" and even the isolation
+    of the latter: "there is no pure and independent form . . . . while formal relationships can be
+    perceived without reference to the semantic func- tion of language . . . they cannot be
+    determined, nor can they be analyzed, without referring to the meaning of words." For the
+    analysis of poetry, then, "the primary objects which can be related formally are sounds, with
+    their properties of quality and extension," rather than syntax, meter, or rhyme. The formal
+    elements of poetry may serve three purposes: "organizing, intensifying, and complementing or
+    creating of the total communication"; this latter function has three categories, or modes: "the
+    reinforcing of description by evocation of an external sensible effect" (onomatopoeia and
+    "sense-evoking rhythms" belong here); "the reinforcement of idea by structural embodiment" (as,
+    for example, the musical theme of Stevens' "Peter Quince" becomes con- trolling musical
+    structure); and "the creation of sense through contrast between sound and statement," i.e.,
+    tension or irony. The communicative function, then, has three modes, evoking, embodying, and
+    tensioning. Also objectionable are our inept notation systems for marking abstract relations of
+    formal elements, "particularly in the foot system which Saintsbury defended" in metrics. In sum,
+    "poetic form has virtually no value, no interest for the reader, except as it is related to the
+    semantic aspect, as it is understood to function." </notes>
+  </item>
+
+
+  <item id="B111">
+   <bib> Jones, H. S. V. "Language and Versification." A Spenser Handbook. New York: F. S. Crofts,
+    1930. pp. 394–405. </bib>
+   <notes> Very elementary. </notes>
+  </item>
+
+
+  <item id="B112">
+   <bib> Kamel, Rose. "The Making of a Poem: A Stylistic Study of the Pre-war Poetry of Stephen
+    Spender." DAI 32 (1971): 3310A (Temple). </bib>
+   <notes> Traces the development of a more flexible voice in rhythm, syntax, diction, and tone.
+   </notes>
+  </item>
+
+
+  <item id="B113">
+   <bib> Keary, C. F. "Some Thoughts on the Technique of Poetry." Fortnightly Review 86 (1906):
+    811–26. </bib>
+   <notes> With elegance and insight Keary reiterates the centrality of the study of tech- nique in
+    criticism. Here he examines the two aspects of verse which seem most artificial to the layman,
+    lining and rhyme, showing their necessity, func- tions, happy successes. "Verse is in fact
+    neither an accident nor a choice, not a trick nor a translation, but a necessity for certain
+    moods of thought and, therefore, certain modes of speech." The value of this essay has not
+    dimin- ished. </notes>
+  </item>
+
+
+  <item id="B114">
+   <bib> Kebirungi, Emma. "Verse and Poetry." Dhana (Uganda) 6, 1 (1976): 46–49. </bib>
+   <notes> The emphasis here hovers between the view that "poetry" is a certain charac- teristic
+    content, regardless of its mode of presentation, and the view that verse is somehow essential to
+    "poetic" articulation. But "poetry envelops more ele- ments within it than verse. Verse is a
+    technique in poetry . . . . Verse, never- theless, is not all poetry." </notes>
+  </item>
+
+
+  <item id="B115">
+   <bib> Ker, W. P. Form and Style in Poetry. Ed. R. W. Chapman. London: Macmillan, 1928. </bib>
+   <notes> W. P. Ker's Clark and London University Lectures have been important and influential
+    steadily since their publication, and this collection is required read- ing for the prosodist
+    (the attentive reader will notice that Ker is the source for several titles of later books on
+    prosody). Of the Clark Lectures, "Various Meanings of 'Form' in Poetry" is the most relevant; of
+    the London Lectures, numbers 1, 4, and 10 concern Form (especially the last of these: "Relation
+    Between Forms of Verse and Forms of Poetry"); 5, 15, and 16 concern Poetic Diction; 11 and 12
+    treat metrical types and their ancestry; and 13 and 14 ex- plore stanzaic patterns. The
+    Appendices include two essays on Spanish versifi- cation (see L75), a review of Saintsbury (A8),
+    and a brief essay on the Dantean hendecasyllable (L1144). </notes>
+  </item>
+
+
+  <item id="B116">
+   <bib> Kimmey, John L. "Order and Form in Herrick's Hesperides." JEGP 70 (1971): 255–68. </bib>
+   <notes> An argument that poetic form itself is the ordering-principle of Herrick's vol- ume of
+    poems. </notes>
+  </item>
+
+
+  <item id="B117">
+   <bib> Kiparsky, Paul. "The Role of Linguistics in a Theory of Poetry." Daedalus 102 (1973):
+    231–44; rpt in Language as a Human Problem. Ed. E. Haugen and M. Bloomfield. New York: W. W.
+    Norton, 1974. pp. 223–46. </bib>
+   <notes> An important general and non-technical essay presenting the notion that "a good number of
+    what we think of as traditional and arbitrary conventions [in poetry] are anchored in
+    grammatical form, and seem to be, at bottom, a con- sequence of how language itself is
+    structured." The principle underlying poetic form is repetition, and as Kiparsky shows, the same
+    abstract pattern (e.g., abab) may be filled by various linguistic elements so as to produce
+    different surface schemas in the poem: if the elements are phonological, then the schema will be
+    rhyme or alliteration; if stress or quantity, then meter; if syntactically equivalent phrases,
+    then parallelism. A theory is sketched out and some surprising conclu- sions derived, e.g.,
+    "identity of sound is neither a necessary nor a sufficient condition for rhyme and
+    alliteration." Kiparsky examines at close range syntax, meter, and sound. A synoptic, heuristic,
+    immensely provocative essay. </notes>
+  </item>
+
+
+  <item id="B118">
+   <bib> Kivimaa, Kirsti. Aspects of Style in T. S. Eliot's "Murder in the Cathedral". Turku: Turun
+    Yliopisto, 1969. </bib>
+   <notes> Brief remarks on rhythm (stress-verse), rhyme, and alliteration, pp. 78–85, be- sides
+    entire sections on Syntax and Vocabulary. </notes>
+  </item>
+
+
+  <item id="B119">
+   <bib> La Drière, J. Craig. "Poetry and Prose." Dictionary of World Literary Terms. Ed. Joseph T.
+    Shipley. Boston: The Writer, 1970. pp. 242–46. </bib>
+   <notes> This edition "completely revised and enlarged." Earlier editions are entitled Dictionary
+    of World Literature. (New York: The Philosophical Library, 1943; 2nd ed. 1953.) </notes>
+  </item>
+
+
+  <item id="B120">
+   <bib> Lane, Lauriat, Jr. "Finding a Voice: Thoreau's Pentameters." Emerson Society Quarterly 60
+    (1970): 67–72. </bib>
+   <notes> On his stylistic development. </notes>
+  </item>
+
+
+  <item id="B121">
+   <bib> Lea, Kathleen. "The Poetic Powers of Repetition." Proceedings of the British Academy 55
+    (1969): 51–76. </bib>
+   <notes> The question considered: Why is it that sheer repetition per se is sometimes effective,
+    sometimes disastrous in poems? </notes>
+  </item>
+
+
+  <item id="B122">
+   <bib> Leech, Geoffrey N. A Linguistic Guide to English Poetry. London: Longman, 1969. 240 pp. </bib>
+   <notes> Rev: by W. O. Hendricks in Lingua 25 (1971): 165–77; by Roger Fowler in Language and
+    Style 3 (1970): 238–40. A partial successor to Shapiro and Beum (B195), Leech's handbook is the
+    end product of the great surge of linguistic interest in poetry in the Sixties. What Leech has
+    produced is a conventional handbook on the language, sound, me- ter, imagery, and figuration of
+    poetry, yet entirely re-thought and re-written throughout from the standpoint of linguistics and
+    on the basis of the most re- cent research. The result, for students and nonspecialists, is that
+    everything old is refurbished and given fresh finish. Excellent for introductory purposes, but
+    not as a continual reference, and best not read straight through. </notes>
+  </item>
+
+
+  <item id="B123">
+   <bib> -----. "Literary Criticism and Linguistic Description." Dutch Quarterly Review of
+    Anglo-American Letters 7 (1977): 2–22. </bib>
+   <notes> Besides examining the important question of the precise relation of these two
+    enterprises, the essay offers detailed phonemic, metrical, and stylistic analyses of Keats's
+    "Ode to a Nightingale" in comparison with Leavis's critical judgments of the poem. </notes>
+  </item>
+
+
+  <item id="B124">
+   <bib> Leibowitz, Herbert A. "A Stylistic Analysis of Hart Crane's Poetry." DA 30 (1969): 2029A
+    (Columbia). </bib>
+   <notes> Some attention to syntax, meter, and stanza. </notes>
+  </item>
+
+
+  <item id="B125">
+   <bib> Leider, Emily W. "Plainness of Style in King Lear." Shakespeare Quarterly 21 (1970): 45–53. </bib>
+   <notes> Vocabulary, syntax, meter. Lear she finds a stylistic exercise not in plainness but in
+    flexibility and decorum. </notes>
+  </item>
+
+
+  <item id="B126">
+   <bib> Levenston, E. A. "A Scheme for the Inter-Relation of Linguistic Analysis and Poetry
+    Criticism." Linguistics, no. 129 (1974), pp. 29–47. </bib>
+   <notes> Confronting the question of the uses of linguistic method for the criticism of poetry,
+    Levenston offers an answer by setting the three traditional realms of linguistics--phonology,
+    grammar, and semantics--against each other, produc- ing a schema of nine possible approaches to
+    poetry, with extended commen- tary. A very sensible and heuristic anatomy. </notes>
+  </item>
+
+
+  <item id="B127">
+   <bib> Levin, Samuel R. "The Conventions of Poetry." Literary Style: A Symposium. Ed. Seymour
+    Chatman. London: Oxford University Press, 1971. pp. 177–93. Discussion follows, pp. 193–96. </bib>
+   <notes> "A poem is an aesthetic object composed of language." The linguistic elements of the poem
+    convey sense by performing their ordinary cognitive function, but the conventions of the poem
+    (those treated here: meter, rhyme, the line, en- jambement, and caesura) "have no linguistic
+    significance . . . . the function they perform is a purely aesthetic one." This latter function
+    is ultimately cognitive (i.e., information-producing) as well, but the distinction is
+    nonetheless crucial: in verse, the linguistic elements perform two functions at once. Meter, for
+    ex- ample, is "an abstract schema of periodicity" filled by various linguistic con- stituents.
+    ("The rhythm is more than simply a realization of the meter; it is an amalgam of the meter and
+    the particular suprasegmental features required by the sentences of the poem.") The line is
+    conventionally defined sometimes by the meter but usually by the sound devices, or else a pause.
+    When the pause indicates a strain between language (syntax) and convention (the line), it should
+    be considered enjambement [stipulative definition]. By the same logic caesura is not a syntactic
+    pause at mid-line but rather the force that through the green line drives the meter. Rhyme is a
+    pre-cognitive aesthetic (i.e., uni- fying) convention which may or may not interact with
+    meaning-bearing mor- phemes. All these conventions serve to mark the text as poetic and to
+    "deautomatize" its language, preventing habituated perfunctory responses by the reader, forcing
+    him back to the text with sharpened attention. An excep- tionally tough-minded, incisive paper,
+    which revoked some conventionalities [sic] and so stirred a lively discussion, q.v. </notes>
+  </item>
+
+
+  <item id="B128">
+   <bib> -----. "Internal and External Deviation in Poetry." Word 21 (1965): 225–39. </bib>
+   <notes> Deviation might be said to be the primary attribute of poetic form. Two types occur:
+    internal (deviation against the norm established by the poem as a whole) and external (the
+    language itself being the norm). Features used systematically in poetry--e.g., meter, rhyme,
+    typography--become conventions, but internal deviation against them is still possible.
+    Phonological deviation--i.e., an unusual distribution of sounds--is mainly external, as is
+    lexical ("poetic diction"), though other types do occur. The problem in explaining external
+    syntactic de- viation is the discernment of the correct norm, which can only be a generative
+    grammar (Levin repeats the arguments of his earlier essay [F126] in large part). </notes>
+  </item>
+
+
+  <item id="B129">
+   <bib> -----. Linguistic Structures in Poetry. Janua Linguarum, no. 23. The Hague: Mouton, 1962.
+    Pages 51–58 are reprinted in Freeman (A22, pp. 197–205) as "Coupling in a Shakespeare Sonnet." </bib>
+   <notes> Rev: in Language 42 (1966): 639–49; in American Speech 38 (1963): 137–40. Levin's
+    monograph represents the first full-scale application of Jakobson's dic- tum on equivalence as
+    the informing principle of poetic structure (see L65). Levin's theory attempts to account for
+    the "special unity of structure" charac- teristic of poetry by schematizing its use of
+    "equivalent positions as settings for equivalent phonic and/or semantic elements" ("positions"
+    are defined as "those places in the linguistic chain where alternation is possible"). Of
+    equivalences, then, he specifies two types: Type I: Positional a. syntagmatic (syntactic) b.
+    conventional (prosodic) Type II: Natural a. semantic (similar or opposite) b. phonic (echoic).
+    That is, poetry offers two types of seriatim "slots" (syntactic and prosodic) to be filled by
+    the available ("vertical") alternatives in the language. Filling of the correlate syntagmatic
+    positions with equivalent semantic units produces what we normally think of as rhetorical
+    devices such as parallelism and antithesis, and filling with sound produces schemes and
+    sound-patterning. Filling of the prosodic matrix with semantic units that are equivalent
+    produces metrical heightening or emphasis, and filling with sound units the various types of
+    rhyme as discussed by Wimsatt. The crux of Levin's theory is that "poetic" structure is a result
+    of these couplings of Type II to Type I equivalences: possi- bilities are screened then matched
+    and fitted into positions. Is more coupling therefore "more poetic" a priori? Not necessarily.
+    The couplings apparently must be integrated variously with other elements in the poem, and there
+    does seem to be a saturation point (Swinburne comes to mind at once). Levin gives a full-scale
+    specimen analysis of a Shakespearean sonnet. Cf. B60. </notes>
+  </item>
+
+
+  <item id="B130">
+   <bib> Livingston, Richard Alan. "'Making the Whole Most Musicall': A Study of Prosodic Elements
+    and Patterns of Sound in the Poetry of Henry Vaughan." DAI 38 (1978): 5498A (Northwestern). </bib>
+   <notes> Examines metrical technique, stanza- and rhyme-patterns, and sound- patterning. Concludes
+    that Vaughan achieved simplicity, complexity, transpar- ency, unity, and intensity. </notes>
+  </item>
+
+
+  <item id="B131">
+   <bib> Locock, C. D. "Notes on the Technique of Meredith's Poetry." Englische Studien 46
+    (1912–13): 86–97. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B132">
+   <bib> Logan, Conrad T., and C. B. Parks. "Rhythm and Rhyme Tests." English Journal 17 (1928):
+    678–81. </bib>
+   <notes> The shrewd student of verseform may take some interest in this elementary article which
+    gives rhymes (asking us to find the correct one) and rhythms (fifteen lines, each given in a
+    regular and an irregular form). </notes>
+  </item>
+
+
+  <item id="B133">
+   <bib> Logan, Harry M. "Some Applications of Linguistic Theory to Poetry." Humanities Association
+    Bulletin 21 (1970): 40–47. </bib>
+   <notes> Urges a unified critical and linguistic attention to poetry, covering such mat- ters as
+    line-structure, syntax, intonation, metrics. Analyzes Frost's "The Span of Life." </notes>
+  </item>
+
+
+  <item id="B134">
+   <bib> Long, Mason. "Verse Form." In his Poetry and Its Forms. New York: G. P. Putnam's Sons,
+    1938. pp. 34–70. </bib>
+   <notes> Elementary and irrelevant. </notes>
+  </item>
+
+
+  <item id="B135">
+   <bib> Lord, John B. "Syntax and Phonology in Poetic Style." Style 9 (1975): 1–31. </bib>
+   <notes> An examination of syntactic organization, observations on the concept of the line, and
+    distinctive-feature analyses. Poetry, Lord concludes, is "hyper- ordered language." </notes>
+  </item>
+
+
+  <item id="B136">
+   <bib> Lotspeich, C. M. "Poetry, Prose, and Rhythm." PMLA 37 (1922): 293–310. </bib>
+   <notes> The differentia of prose and poetry "rests upon a difference in the nature of two mental
+    processes: in poetry the intellectual content is furnished by the process of direct
+    apprehension, or immediate understanding; in prose it is furnished largely by indirect
+    comprehension, or judgment and reflective thought." The implica- tion: thinking interferes with
+    naturally rhythmic activities. </notes>
+  </item>
+
+
+  <item id="B137">
+   <bib> McFarland, Thomas. "Poetry and the Poem: The Structure of Poetic Content." Literary Theory
+    and Structures: Essays in Honor of W. K. Wimsatt. Ed. Frank Brady et al. New Haven: Yale
+    University Press, 1973. pp. 81–113. </bib>
+   <notes> Superimposed, as it were, on the Western critical distinctions between the terms
+    "poetry," "prose," and "verse" is a long tradition distinguishing "poetry," in the sense of an
+    "unbounded current of feeling," and "poem," as a sharply defined artifact. The former we tend to
+    associate with "content" and the latter with "form," but the author proposes three other terms
+    instead, in order to elucidate some further distinctions--substantia, ens, and essentia.
+   </notes>
+  </item>
+
+
+  <item id="B138">
+   <bib> Mackail, J[ohn] W[illiam]. "The Definition of Poetry." In his Lectures on Poetry. London:
+    Longmans, Green, 1911, 1914. pp. 1–22. </bib>
+   <notes> A lucid review and critique of the kinds and purposes of definitions of poetry. "The
+    essence of poetry technically . . . is not that it is rhythmical. All elevated or impassioned
+    language is that. The essence of poetry technically is that it is patterned language." </notes>
+  </item>
+
+
+  <item id="B139">
+   <bib> -----. "The Study of Poetry." Rice Institute Pamphlets. 2, 1 (1915): 1–52. </bib>
+   <notes> See section 2, "What is Poetry?" In any search for the specific differentia of poetry "it
+    is not enough to say that it is language which possesses design and has decorative value. All
+    beautiful, dignified, and elevated language has that." The crucial feature of poetry is that "in
+    it structure and decoration are insepa- rable." </notes>
+  </item>
+
+
+  <item id="B140">
+   <bib> McLeod, Stuart R. "Problems of Poetry and Dramaturgy in Modern Verse Drama." DA 29 (1968):
+    904A (Florida, 1961). </bib>
+   <notes> Discusses the successes and failures of modern dramatists at finding new verse- forms
+    that could be appropriate for our age as well as rich in sound and im- agery and powerfully
+    persuasive emotionally and intellectually. Lorca is found to be the most successful. </notes>
+  </item>
+
+
+  <item id="B141">
+   <bib> Manierre, William R. "Versification and Imagery in The Fall of Hyperion. Texas Studies in
+    Literature and Language 3 (1961): 264–79. </bib>
+   <notes> Mainly imagery, but some close reading uncovers subtle effects in syntax, stressing, and
+    sound. Esp. pp. 265–66, 277. </notes>
+  </item>
+
+
+  <item id="B142">
+   <bib> Manning, Frederic. "Poetry in Prose." The Chapbook, no. 22 (1921), pp. 10–15. Cf. B1, B53. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B143">
+   <bib> Martin, C. G. "W. B. Yeats: An Unpublished Letter." Notes &amp; Queries 203 (1958): 260–61. </bib>
+   <notes> In response to an admirer's request for a recommen-dation of a book on pros- ody (or
+    verse-making?), Yeats replied briefly that he didn't know of one and couldn't remember having
+    read one. For instruction, he recommends the Elizabethan lyricists. </notes>
+  </item>
+
+
+  <item id="B144">
+   <bib> Martland, Agatha M. "A Study of the Transition in Subject Matter, Imagery, Rhythm, and
+    Rhyme Reflected in the Poetry of W. B. Yeats, 1899–1914." Thesis, New York University, 1955. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B145">
+   <bib> Masson, David. "Prose and Verse: De Quincey." British Quarterly Review, 1854; rpt in his
+    Essays Biographical and Critical, Chiefly on English Poets. London, 1856. pp. 447–75. </bib>
+   <notes> Especially pp. 452–53 and the end: Masson makes a valuable distinction in this essay
+    between the view of verse as an "essential condition" of any one class or degree of thoughts and
+    the view of verse as an optional form for any thought. But he will not allow that thoughts come
+    first, fully formed in the mind, at which point they may or may not be cast into a metered mold;
+    rather, the meaning, "is conditioned beforehand by the form of the expression selected."
+   </notes>
+  </item>
+
+
+  <item id="B146">
+   <bib> Maynard, Theodore. "The Patterns of Poetry." A Preface to Poetry. New York: The Century
+    Co., 1933. pp. 67–176. </bib>
+   <notes> Sections on form, meter, rhyme, stanza, sonnet, and "setforms." </notes>
+  </item>
+
+
+  <item id="B147">
+   <bib> Mégroz, R[udolphe] L. "Technical Developments." Modern English Poetry, 1882– 1932. London:
+    Ivor Nicholson &amp; Watson, 1933. </bib>
+   <notes> Mégroz takes Hopkins and Pound to be the two crucial influences of the pe- riod, so the
+    preponderance of the chapter explicates their theories and prac- tices, but the late pages
+    discuss many minor poets, developments in colloquial diction in poetry, poetic narratives, and
+    the use of verse in the theater. </notes>
+  </item>
+
+
+  <item id="B148">
+   <bib> Messing, Gordon M. "The Linguistic Analysis of Some Contemporary Nonformal Poetry."
+    Language and Style 2 (1969): 323–29. </bib>
+   <notes> The absence of formal patterning in three poems allows the hasty generaliza- tion that
+    modern poetry can only be approached, by the linguist, through se- mantics. </notes>
+  </item>
+
+
+  <item id="B149">
+   <bib> Meyerstein, E. H. W. "Concealed Verse in Pope's Prose." TLS, 17 July 1937, p. 528. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B150">
+   <bib> Miles, Josephine. "Styles in Lyric." Style 5 (1971): 226–30. </bib>
+   <notes> Identifies the lyric with "language musically accompanied, measure marked by musically
+    pitched accents," and with the play of atemporal relations across a temporal sequence. Pitch,
+    stress, timbre give logopoeia, phanopoeia, melopoeia. </notes>
+  </item>
+
+
+  <item id="B151">
+   <bib> Morgan, Kenneth S. "Formal Style in The Faerie Queene." DA 27 (1967): 3846A (Princeton). </bib>
+   <notes> Examines the patterning of rhetorical figures in the poem in correlation with the other
+    formal elements, meter, line, rhyme, and stanza. </notes>
+  </item>
+
+
+  <item id="B152">
+   <bib> Morrison, James M. "Wallace Stevens and the Forms of Lyric Poetry." Diss., Harvard
+    University, 1969. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B153">
+   <bib> Muir, Kenneth. "Verse and Prose." Contemporary Theater. Ed. John R. Brown and Bernard
+    Harris. New York: St. Martin's Press, 1962. pp. 97–115. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B154">
+   <bib> Mulder, William. "Freedom and Form: Robert Frost's Double Discipline." South Atlantic
+    Quarterly 54 (1955): 386–93. </bib>
+   <notes> Some attention to meter, rhyme, and tones. </notes>
+  </item>
+
+
+  <item id="B155">
+   <bib> Murphy, Charles D. "John Davies's Versification of Sidney's Prose." PQ 21 (1942): 410–14. </bib>
+   <notes> Davies undertook a systematic versifying of De Mornay's theological treatise translated
+    by Sidney and Golding, producing verse that is wincingly clumsy. </notes>
+  </item>
+
+
+  <item id="B156">
+   <bib> Nist, John. "Linguistics and the Esthetics of English." Costerus 1 (1972): 183–205. </bib>
+   <notes> In search of a synthetic account of "the esthetic dimension of the English lan- guage,"
+    Nist identifies three major areas: theory, prosody, and phonesthemics. About prosody he
+    identifies four "lies" told to schoolboys, as well as the error of "metrical fundamentalism,"
+    the belief that English prosody is unitary rather than tripartite. Its true parts are Meter,
+    Cadence, and Rhythm. Schematically: Semantic Component -> Abstract Meter -> Content Norm
+    Grammatical Component -> Specific Cadence -> Mapping Function Phonological Component -> Actual
+    Rhythm -> Expressive Value Examples of phonesthemes in Shakespeare, Hopkins, and Tennyson.
+   </notes>
+  </item>
+
+
+  <item id="B157">
+   <bib> Nowottny, Winifred. The Language Poets Use. London: The Athlone Press, 1962; rpt "with
+    corrections," 1965. </bib>
+   <notes> Rev: in JEGP 62 (1963): 784–86; in Review of English Studies n.s. 14 (1963): 432–34; in
+    Archiv 200 (1963): 230–32; in Studia Neophilologica 35 (1963): 303– 5; in English Studies 45
+    (1964): 76–78; in Die Neueren Sprachen n.s. 13 (1964): 54–55; in Linguistics 33 (1967): 125–36.
+    One of the most valuable studies available on the thorny subject of "poetic language." Mrs.
+    Nowottny demonstrates, through a number of exhibits and extended asides, the complex
+    inter-relations of vocabulary, syntax, meter, and sound in poems which in their joint effect and
+    issue create a "language" of "a recognizably higher degree of patterning" than that of our
+    quotidian speech. Alternatively, we may say, she shows the manifold elements and designs of the
+    semantic construct that is a poem. Chapter 2 tackles the chimera Poetic Dic- tion; chapter 5
+    treats the "artificial" forms of meter and stanza (explicating the famous elegy on the death of
+    the Countess of Pembroke); chapter 1 offers a fresh discussion of semantic "mimicry" in
+    onomatopoeia and other sound- effects. </notes>
+  </item>
+
+
+  <item id="B158">
+   <bib> Olson, Elder. "General Prosody: Rhythmik, Metrik, Harmonics." Diss., University of Chicago,
+    1938. </bib>
+   <notes> Apparently also published by the University of Chicago Libraries in a private edition
+    (lithoprint). Olson, later one of the Chicago School critics, wrote his dissertation in search
+    of "principles upon which any verse, if it is to be verse, must found." Those would be the
+    principles of a general prosody, as opposed to those of all the ex- tant treatises in special
+    (i.e., language-specific) prosodies, which Olson believes are mistaken to assume "that a
+    difference of language entails a difference of principle" and "to exhibit conventions rather
+    than forms, and to arrive, not at principles, but at rules." Olson's own principles are that
+    "prosody is not a sci- ence but a part of the analysis of diction in rhetoric and in poetics . .
+    . it is not a matter of rules, nor of notations, nor a history of prosodic conventions, but
+    rather, an enumeration of the modes in which speech-sounds may be com- bined for the
+    embellishment of diction, together with an explanation of such devices in terms of the functions
+    of diction itself." The principle of all verse- structure is "proportionality" (it is "sensibly
+    regular"); the atomic element of general prosody is the syllable, which may be arrayed in
+    regular sequences ac- cording to any of its five characteristics--syntactic position, duration,
+    intensity (accent), pitch, and entity. The most elementary groupings of syllables are termed
+    primary ratios ("feet"), are marked by the presence and absence of em- phasis, and yield
+    primitive rhythms; the next larger groupings, demarcated arbi- trarily and not by emphasis, are
+    termed post-primary ratios and yield post-primary rhythms ("meter"). The "foot" is defined
+    (formally) as a unit consisting of one arsis and one thesis (unemphatic and emphatic members),
+    but these members may be actually constituted (materially) by more than one syllable, creating
+    simple (iambic and trochaic) and compound feet; conversely, a foot containing in an anapestic
+    line is an anapestic foot, not an iambic substitution (the defini- tion is formal not actual). A
+    long Appendix provides sample analyses, such as the following, where t stands for thesis, a for
+    arsis: Red River, Red River . . . . . . . . t a t a t a t a The method for finding out the
+    rhythm is ad hoc: one must know the form in advance, or else find some unequivocal feet as
+    indicators. I know of only one application of Olson's system, that by Reeve (G79). </notes>
+  </item>
+
+
+  <item id="B159">
+   <bib> Omond, T. S. "Is Verse a Trammel?" The Gentleman's Magazine n.s. 14 (1875): 344–54. </bib>
+   <notes> Responding to earlier criticism, Omond denies that verse is any shackle, primitive form,
+    or unnecessary ornament. On the contrary: "under the inspi- ration of high imaginings," man has
+    always "expressed himself in regular peri- ods"; this is a law for all verse known to man. And
+    this law of "rhythmical ex- pression" has nothing to do with lineation or print; the proper
+    distinction, as Shelley said, is not between verse and prose, but simply between "measured and
+    unmeasured language." In short, some sort of metering principle is a sine qua non for verse.
+    Omond can then defend Whitman as a poet, despite his free-verse lines, on the grounds that
+    whenever his thought becomes most passionate and in- tense, "the language instantly assumes a
+    metrical cadence." </notes>
+  </item>
+
+
+  <item id="B160">
+   <bib> Onions, C. T., and Derek A. Day. "Prosody." In Cassell's Encyclopaedia of World Literature.
+    Ed. S. H. Steinberg. 2 vols. New York: Cassell, 1953; rpt in 3 vols. New York: William Morrow,
+    1973. Vol. 1, pp. 466–70. </bib>
+   <notes> A useful introductory essay having international scope and providing an excel- lent short
+    bibliography. </notes>
+  </item>
+
+
+  <item id="B161">
+   <bib> Packard, William. [Editorial Preface.] New York Quarterly. no. 12 (1972), pp. 3–12. </bib>
+   <notes> A mere list of technical terms with definitions. Better: "real art always involves the
+    risk of sacrifice by an extraordinary individual." </notes>
+  </item>
+
+
+  <item id="B162">
+   <bib> Parker, Marion H. Language and Reality: A Course in Contemporary Criticism. London:
+    Frederick Muller, 1949. </bib>
+   <notes> Slight, but see the sections on "Configuration Words," "Rhythm," and "Word Order."
+   </notes>
+  </item>
+
+
+  <item id="B163">
+   <bib> Parsons, Roger L. "Renaissance and Baroque: Multiple Unity and Unified Unity in the
+    Treatment of Verse, Ornament, and Structure." DA 19 (1959): 2958A </bib>
+   <notes> (Wisconsin). Adapts Wülfflin's fourth category, "multiplicity-unity," to describe the
+    contrast between sixteenth- and seventeenth-century verse in terms of syntax, imagery, and
+    stanza construction. In Renaissance verse syntax reinforces the line; in Baroque verse it
+    counterpoises it. Renaissance verse is built up out of co- ordinate wholes; Baroque verse
+    heightens the dominance/subordination of its stanzaic elements. </notes>
+  </item>
+
+
+  <item id="B164">
+   <bib> Peck, James W. "Variation in Milton's Samson Agonistes: A Study of Its Occurrence in
+    Syntax, in Diction, in Phonology, and in Metrics." DAI 31 (1971): 3517A (Alabama). </bib>
+   <notes> Examines 881 variations in these four dimensions in a sample of 306 lines, in search of a
+    variance in their distribution in "climactic" vs. "non-climactic" passages (429 and 452
+    variations, respectively). Results are very tentatively af- firmative. </notes>
+  </item>
+
+
+  <item id="B165">
+   <bib> Perloff, Marjorie G. The Poetic Art of Robert Lowell. Ithaca, N.Y.: Cornell University
+    Press, 1973. </bib>
+   <notes> Mainly explication and interpretation, but Chapter 3, "The 'Life-Blood of a Poem': The
+    Uses of Syntax," enumerates several distinctive syntactic/stylistic features of Lowell's,
+    including dynamic verbs balanced against qualifying ad- jectives or phrases. Note also some
+    sound and stress patterns, pp. 170–75. </notes>
+  </item>
+
+
+  <item id="B166">
+   <bib> Perry, Bliss. A Study of Poetry. Boston: Houghton Mifflin, 1920. 396 pp. </bib>
+   <notes> Chapter IV, "The Poet's Words," is long and now elementary. Chapter V on "Rhythm and
+    Meter" explores the "conflict and compromise" of "timers" and "stressers," the rhythm of prose,
+    concepts of quantity and stress, the analogy with music, and "enjoyment." That this exposition
+    continues to be modestly relevant may be demonstrated by Cable (J42). Chapter VI on "Rhyme,
+    Stanza, and Free Verse" sensibly defines rhyme and stanza as other varieties of rhythm. Part II
+    of the book treats the Lyric. </notes>
+  </item>
+
+
+  <item id="B167">
+   <bib> Perry, Mary Frances. "Linguistics as a Basis for Literary Criticism." DAI 25 (1965): 5921A
+    (Indiana). </bib>
+   <notes> Abstracted in Linguistics, no. 20 (1966), pp. 20–21. Analysis of rhyme, syntax, lexis,
+    and sound-patterns in twelve poems by Snod- grass, Cummings, Masters, Frost, Engle, and Bogan,
+    based on phonemic tran- scription of recordings alongside the texts. Resolution of ambiguity for
+    eluci- dation of interpretation is judged the primary value of linguistic analysis. </notes>
+  </item>
+
+
+  <item id="B168">
+   <bib> Petofi, Janos S. "Some Problems of the Linguistic Analysis of Poetic Works of Art." Actes
+    du Xe congres international des linguistes. Ed. A. Graur et al. Bucarest: Ed. Acad. R.S.R.,
+    1969–70. Vol. 3, pp. 105–6. </bib>
+   <notes> A succinct outline of all the components requisite for a "general theory of po- etics."
+    "Investigating the linguistic structure of a poetic work of art we can speak of a linguistic
+    sign-component (including the syntactic and the semantic subcomponents) and a musical one
+    (including the rhythmic and the euphonic sub- components). Both of them can be composed to build
+    a linear and a hierarchical structure." </notes>
+  </item>
+
+
+  <item id="B169">
+   <bib> Press, John. The Fire and the Fountain. New York: Oxford University Press, 1955. </bib>
+   <notes> Chapter 4, pp. 94–143, discusses music and poetry, rhythm and meter, phras- ing, sound
+    and sense. The tone is discursive, urbane, and engaging, and Press touches on a great many poets
+    without arguing any single thesis. </notes>
+  </item>
+
+
+  <item id="B170">
+   <bib> Priestley, F. E. L. Language and Structure in Tennyson's Poetry. London: Andre Deutsch,
+    1973. </bib>
+   <notes> There are remarks on versification passim; see s.v. "Metrics," "Rhyme," and "Experiments
+    in Stanza Forms" in the Index. </notes>
+  </item>
+
+
+  <item id="B171">
+   <bib> Ramratnam, Malati. "Studies in the Craftsmanship of W. B. Yeats." DAI 34 (1974): 4281A
+    (Brandeis). </bib>
+   <notes> Mainly on diction. </notes>
+  </item>
+
+
+  <item id="B172">
+   <bib> Ransome, Arthur. "Kinetic and Potential Speech." Oxford and Cambridge Review 16 (1911):
+    135–44. </bib>
+   <notes> Taking the analogy from physics, Ransome defines poetry as a mixture of ki- netic and
+    potential speech, purely kinetic (exerted, expressed) speech being prose and purely potential
+    speech being music. </notes>
+  </item>
+
+
+  <item id="B173">
+   <bib> Ranta, Jerrald. "Counting and Formal Analysis." JAAC 29 (1971): 453–66. </bib>
+   <notes> Urges the use of an analysis which takes into consideration the "mathematical"
+    relationships and patterns of poems, on the grounds that such a procedure has been commonplace
+    for traditional (metered) forms of poetry and will therefore inform us about the new
+    (twentieth-century, unmetered) poetry as well, which as yet we do not understand. Sample
+    analyses of poems by Stevens and William Carlos Williams. </notes>
+  </item>
+
+
+  <item id="B174">
+   <bib> Rathe, Armin. "Zum Vers-, Strophe-, und Gedicht-Bau im Werk von W. H. Auden." Diss.,
+    University of Manchester, 1969. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B175">
+   <bib> Raymond, G[eorge] L[ansing]. Poetry as a Representative Art. New York: G. P. Putnam's Sons,
+    1885; 5th rev. ed. 1903. </bib>
+   <notes> Chapters on "elocution" and force, pitch, duration, timbre; meanings of sounds and
+    meanings of words; and the idea of representation. </notes>
+  </item>
+
+
+  <item id="B176">
+   <bib> Redlay. "Essay on Rhyme." Literary Chronicle, no. 114 (21 July 1821), pp. 458–59. </bib>
+   <notes> Divides literary language into three domains, the "rhythmical, metrical, and prosaical."
+    Curiously, he believes the historical order of these modes to be prose, metrical prose, blank
+    verse, and finally rhyme. Of these, rhyme is de- fended as the highest mode of human utterance.
+   </notes>
+  </item>
+
+
+  <item id="B177">
+   <bib> -----. "On Metrical Prose." Literary Chronicle, no. 117 (11 August 1821), pp. 503–4; no.
+    121 (8 September), pp. 565–66. </bib>
+   <notes> In the second and third installments we discover that though rhyme is the acme of
+    utterance, mere mortals can only attain excellence in measured prose. </notes>
+  </item>
+
+
+  <item id="B178">
+   <bib> Rees, Thomas R. The Technique of T. S. Eliot: A Study of the Orchestration of Meaning in
+    Eliot's Poetry. The Hague: Mouton, 1974. Based on his dissertation, "The Orchestration of
+    Meaning in T. S. Eliot's Early Poetry (1910–1922)," DA 27 (1966): 484–85A (Tulane). </bib>
+   <notes> A valuable study of Eliot's technical development over his entire career. Rees analyzes
+    sound patterns, meter, and rhythms, showing how Eliot ground and worked his tools of craft for
+    the sake of meaning. Moreover, we see clearly how Eliot continually expanded his repertoires,
+    adopted new models, and even radically altered his styles and principles throughout his working
+    life, the several major styles having distinctly different prosodic (besides structural,
+    imagistic, or thematic) bases. See also the condensation, </notes>
+  </item>
+
+
+  <item id="B179">
+   <bib> -----. "The Orchestration of Meaning in T. S. Eliot's Four Quartets." JAAC 28 (1969):
+    63–69. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B180">
+   <bib> Reese, Jack E. "Sound and Sense: The Teaching of Prosody." College English 27 (1966):
+    368–73. </bib>
+   <notes> A sensible suggestion that students most successfully learn the facts of prosody- -sound
+    devices and metrical forms--not as rote facts but as expressive devices, which establish or
+    augment the meaning of a poem, displaying the "insepara- bility of form and content." Sample
+    analyses from MacLeish, Tennyson, Housman, and Shakespeare. </notes>
+  </item>
+
+
+  <item id="B181">
+   <bib> Richards, I. A. "Poetic Form." Practical Criticism: A Study in Literary Judgment. New York:
+    Harcourt, Brace, &amp; World, 1929; 2nd ed. 1948. pp. 225–34. </bib>
+   <notes> Here Richards examines and demolishes two assumptions about form in po- etry which
+    appeared in his test protocols. The first is "the notion that regularity is the merit of verse;
+    Richards acknowledges the concept of metrical tension-- "departures from and returns to the
+    pattern"--but dismisses it too as suggesting a distinction between the rhythm/sound of words and
+    their meanings. Any such distinction he adamantly denies. The second assumption, then, is "the
+    notion that poetic rhythm is independent of sense." For any who believe that sound patterns in
+    verse have independent meaning or value, Richards offers his famous "dummy" of stanza XV of
+    Milton's "On the Morning of Christ's Nativity." Throughout, Richards insists on the
+    irrefrangibility of Form and Meaning. </notes>
+  </item>
+
+
+  <item id="B182">
+   <bib> Rickert, Edith. New Methods for the Study of Literature. Chicago: University of Chicago
+    Press, 1927. </bib>
+   <notes> Rev: in TLS, 26 May 1927, p. 370; by Allen Tate in New Republic 50 (1927): 281–82; in
+    JEGP 27 (1928): 133–35; in Review of English Studies 4 (1928): 120–21. Chapter 5 (pp. 147–88)
+    treats Rhythm, chapter 6 (pp. 189–239) Tone Pat- terns, and chapter 7 (pp. 240–59) Visual
+    Devices. In retrospect it is difficult to see why Ms. Rickert should adopt such a defensive tone
+    about her graphic, or schematic, techniques: they seem not so much controversial as trivial. Her
+    sta- tistical analyses, too, seem tepid in comparison with the complex linguistic work of four
+    decades later. See her odd graphs and charts facing p. 180, on pp. 226–27, and 256–57, then
+    consider the judgment of one of her critics: "No kind of statistical study will open the
+    student's mind to the poet's evaluation of human life." These methods were also applied by
+    Chapin and Thomas (B31). </notes>
+  </item>
+
+
+  <item id="B183">
+   <bib> Rickey, Mary Ellen. "Herbert's Technical Development." JEGP 62 (1963): 745–60. </bib>
+   <notes> Since Herbert's entire corpus of English verse spans only six or seven years, about all
+    that can be said of his development concerns the poems added to The Temple from 1629–33, as
+    opposed to those known to have been written before 1629. In the former he increased his use of:
+    (1) figurative titles, (2) multiple- stanza-form poems, (3) more subtle hieroglyphs, (4)
+    contrapuntal structures, (5) longer and more elaborate stanzas, (6) controlled feminine endings,
+    (7) stanza-linking, and (8) carefully modulated variation, while also decreasing his use of the
+    sonnet form. </notes>
+  </item>
+
+
+  <item id="B184">
+   <bib> -----. "Prosody." Utmost Art: Complexity in the Verse of George Herbert. Lexington:
+    University of Kentucky Press, 1966. pp. 133–47. </bib>
+   <notes> Rev: in English 16 (1967): 148–49; in JEGP 66 (1967): 452–55; in Notes &amp; Queries 14
+    (1967): 351–52. Discovers among all the stanzaic and rhyme virtuosity "a stability of tech-
+    nique." </notes>
+  </item>
+
+
+  <item id="B185">
+   <bib> Rieser, Max. Analysis of Poetic Thinking. Tr. Herbert M. Schueller. Detroit: Wayne State
+    University Press, 1969. </bib>
+   <notes> Includes: "Poetic Thinking as a Regressive Phenomenon: The Roots of Rhythm and
+    Sound-Symbolism," pp. 15–29; "The Psychic Function of Rhythm and Rhyme," pp. 30–38;
+    "Onomatopoeia as a Substitute for Things," pp. 71–82; "The Chief Characteristic of Poetic
+    Sentence-Structure: The Rus- tic and the Primitive," pp. 123–35. </notes>
+  </item>
+
+
+  <item id="B186">
+   <bib> Rodgers, David. "The Function of Form in Poetry." Renascence 19 (1967): 151–55, 167. </bib>
+   <notes> Collects quotations from a number of sources for brief, general remarks. </notes>
+  </item>
+
+
+  <item id="B187">
+   <bib> Routh, James E. The Theory of Verse. Atlanta, 1948. 156 pp. </bib>
+   <notes> Apparently privately printed (typescript on wire-laid paper), this volume col- lects
+    three essays previously printed (E323, D253, J258) and expands them into a full theory of
+    verse-structure, ranging from the basis of rhythm in physiology (Scripture's work) to a theory
+    of meter, with additional chapters on line- length, rhyme, stanza, diction, subject, free verse,
+    prose rhythms, etc. Routh's theory is that verse differs from prose in (1) rhythm, (2)
+    vocabulary, and (3) subject-matter. "The essential quality of verse then is the placing of
+    accents at fixed intervals of time." He allows secondary stresses (promoted or suppressed for
+    the meter) and metrical pauses; his scansions distinguish verse-accent (ic- tus), word-accent,
+    and sense- (sentence) accent, and these are all found to co- incide in four cases out of five.
+   </notes>
+  </item>
+
+
+  <item id="B188">
+   <bib> Schiller, Daniel H. "W. B. Yeats: The Evolution of a Prosodic Style." DAI 38 (1977): 2780A
+    (Columbia). </bib>
+   <notes> An argument that Yeats's versification was "far more complex and far less tra- ditional"
+    than has been usually assumed. Furthermore, the conventionally ac- cepted stages of Yeats's
+    development (early-romantic, middle-symbolic, late- naturalistic) are not borne out by
+    examination of his prosodic development, if we keep to the strict chronology of composition;
+    what we find is a steady os- cillation between polarities, a dialectic of fixity and flux, which
+    includes "three phases of radical looseness and ambiguity" very close to free verse. </notes>
+  </item>
+
+
+  <item id="B189">
+   <bib> Schlauch, Margaret. "Linguistic Aspects of Emily Dickinson's Style." Prace filologiczne 18
+    (1963): 201–15. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B190">
+   <bib> Schoeck, Richard J. "Mathematics and the Language of Literary Criticism." JAAC 26 (1968):
+    367–76. </bib>
+   <notes> Reminds us of the long tradition of speaking of the "numbers" of poetry. </notes>
+  </item>
+
+
+  <item id="B191">
+   <bib> Schulze, Fritz W. "Strophe, Vers, und Rime in Edward Taylors Meditations." Literatur und
+    Sprache der Vereinigten Staaten. Ed. Hans Helmcke et al. Heidelberg: Carl Winter, 1969. pp.
+    11–33. </bib>
+   <notes> Taylor was a man of action, force, and power in his verse-making, as were Donne and
+    Herbert; he sought force of expression, as did Shakespeare, and did not shrink from "unliterary"
+    forms. He treated strict form as he did theological typology--as a basis for freedom rather than
+    restraint. His metrical, stanzaic, and rhyme forms reveal in him an animal power, a literary
+    barbarism. </notes>
+  </item>
+
+
+  <item id="B192">
+   <bib> Scott, Fred N. "The Most Fundamental Differentia of Poetry and Prose." PMLA 19 (1904):
+    250–69. </bib>
+   <notes> Not imagination, emotion, insight, or even meter, but this: poetry is expres- sive, prose
+    communicative. </notes>
+  </item>
+
+
+  <item id="B193">
+   <bib> Sedelow, Sally Y., W. A. Sedelow, and T. Ruggles. "Some Parameters for Computational
+    Stylistics: Computer Aids to the Use of Traditional Categories in Stylistic Analysis." Literary
+    Data Processing Conference. Ed. Jess B. Bessinger, Jr., et al. New York: MLA, 1964. pp. 211–29. </bib>
+   <notes> The section "Rhythm, Texture, and Form" on pp. 215–20 describes a pro- gram for isolating
+    single characteristics which are patterned in a text while ex- cluding all others. </notes>
+  </item>
+
+
+  <item id="B194">
+   <bib> Shapiro, Karl. "Prosody as the Meaning." Poetry 73 (1949): 336–51. </bib>
+   <notes> Beginning with the conviction that criticism is "a variety of experience which has
+    nothing in common with the art experience, and indeed may be its oppo- site," Shapiro sets out
+    to show that the rhythmic organization or prosody of a poem is its "meaning." He analyzes a bit
+    of Cummings and offers six conclu- sions: (1) "poetry is not language, but language sui generis
+    which can be under- stood, paraphrased, or translated only as poetry"; (2) "a linguistic sense
+    is car- ried over to a poem from prose and plays a minor part in the workings of the poem"; (3)
+    "the poet thinks as poet not as thinker"; (4) "the translation of a poem is a near
+    impossibility"; (5) "paraphrase is a total impossibility"; and (6) "rhythm is perhaps closer or
+    as close to 'meaning' in poetry as linguistic sense." Would anyone mistake this for formalist
+    criticism? </notes>
+  </item>
+
+
+  <item id="B195">
+   <bib> Shapiro, Karl, and Robert Beum. A Prosody Handbook. New York: Harper &amp; Row, 1965. 214
+    pp. </bib>
+   <notes> Rev: in Michigan Quarterly Review 6 (1967): 136. A reviewer will be met with patient
+    forbearance when he announces that a book, which he publicly owns first fired his passion for a
+    subject he made his career, is an excellent book, an inimitable book, durable, and chock-full of
+    in- sights, good sense, taste and discrimination, wide reading . . . . et cetera. Such a
+    response will make it all the harder for him to be heard, and hence for the merits of a very
+    solid book to be known. So too will the price of the book, which in this case is unreasonable,
+    and prohibits wider undergraduate use of the best handbook of verseforms in print. </notes>
+  </item>
+
+
+  <item id="B196">
+   <bib> Shelley, Percy Bysshe. A Defence of Poetry [1821]. In Essays, Letters from Abroad,
+    Translations and Fragments. Ed. Mary Shelley. London, 1840; rpt in Shelley's Critical Prose. Ed.
+    Bruce R. McElderry, Jr. Lincoln, Nebraska: University of Nebraska Press, 1967. </bib>
+   <notes> Paragraphs 5–8 of Part I give us some glimpses of Shelley's views on sound and meter, as
+    well as his constant reminder that "the popular division into prose and verse is inadmissible in
+    accurate philosophy." On sound and sense he is not entirely clear ("sounds as well as thought
+    have relation both between each other and towards that which they represent, and a perception of
+    the order of those relations has always been found connected with a perception of the or- der of
+    those relations of thoughts") or novel. On meter he is more of both: "poetry in a more
+    restricted sense expresses those arrangements of language, and especially metrical language,
+    which are created by that imperial faculty, whose throne is curtained within the invisible
+    nature of man [the imagination]. And this springs from the nature itself of language . . . ."
+   </notes>
+  </item>
+
+
+  <item id="B197">
+   <bib> Shephard, Esther. "An Inquiry into Whitman's Method of Turning Prose into Poetry." MLQ 14
+    (1953): 43–59. </bib>
+   <notes> The method has interesting implications; Pope used it as well. </notes>
+  </item>
+
+
+  <item id="B198">
+   <bib> Siegel, Eli. "Impediment in Poetry." University of Kansas City Review 20 (1954): 253–57. </bib>
+   <notes> "How freedom and obstruction meet in lines of poetry is one of the richest technical
+    questions in the art . . . . When impediment in poetry is not care- fully, wholly, boldly, even
+    willingly seen, there can be no successfully artistic dealing with it . . . . The more it is
+    poetry, the more the triumph and the im- pediment merge." </notes>
+  </item>
+
+
+  <item id="B199">
+   <bib> Simonetti, Francis A. "A Study of the Poetic Technique of Theodore Roethke: The Lost Son
+    and Other Poems." DAI 33 (1972): 765A (Ball State). </bib>
+   <notes> Chapter 4 discusses general matters of versification. </notes>
+  </item>
+
+
+  <item id="B200">
+   <bib> Sinclair, J. M. "When Is a Poem Like a Sunset?" Review of English Literature 6 (1965):
+    76–91. </bib>
+   <notes> "When it is composed in an oral tradition." Recognizing oral transmission of poetry as
+    radically different from transmission of written texts, Sinclair devises an ingenious informal
+    experiment in transmission and then analyzes the results. He postulates three general categories
+    or types of changes in transmission: "analogy, the influence of the immediate language
+    environment; revision, the influence of the modern speaker's habits of language; and
+    approximation, the in- fluence of his inexact memory for detail." Intriguing. See also TLS, 3
+    June 1965, p. 455, and 10 June, p. 475. </notes>
+  </item>
+
+
+  <item id="B201">
+   <bib> Sitwell, Edith. "Notes on Shakespeare." A Poet's Notebook. London: Macmillan, 1944. pp.
+    104–47. </bib>
+   <notes> A plentitude of examples showing rhythmic and sound patterns in the verse which produce
+    an immense variety of effects. Notice also the collection of quotations (Chapter 3), "Notes on
+    Technical Matters," pp. 18–31. </notes>
+  </item>
+
+
+  <item id="B202">
+   <bib> Smith, Barbara Herrnstein. Poetic Closure: A Study of How Poems End. Chicago: University of
+    Chicago Press, 1968. </bib>
+   <notes> The second chapter of this brilliant study treats closure and the formal struc- ture of
+    sonnets, strict stanzaic forms, couplets, blank verse, and free verse. In contrast to what we
+    might otherwise have expected, Smith shows that no for- mal structure per se entails closure:
+    "there is no formal principle which in itself can prevent a poem from continuing indefinitely."
+    Structural repetition, stan- zaic forms, meter, and rhyme may produce effects which can be
+    exploited by the poet to achieve closure, but they do not themselves necessitate it. Sonnet
+    structure will round off one sonnet but does not prohibit a series of sonnets, for example. The
+    couplet at the end of the Shakespearean Sonnet enhances closure by the strategy of "terminal
+    modification," but if the thematic structure is weak no formal structure can be successful
+    alone. In couplet verse the cou- plet has the status of a single formal unit and is therefore
+    equivalent to all the other devices of systematic repetition; in itself its closural resources
+    are very limited. Blank verse achieves closure best by abandoning blank verse, as at the end of
+    the scenes in Shakespeare. Free verse, perhaps surprisingly, offers re- sources fully comparable
+    to those in the other modes. In general, as the con- straints of formal structure weaken,
+    thematic material must take on a greater burden in effecting closure. </notes>
+  </item>
+
+
+  <item id="B203">
+   <bib> Smith, Chard Powers. Patterns and Variation in Poetry. New York: Charles Scribner's Sons,
+    1932. </bib>
+   <notes> Rev: By Croll in MLN 49 (1934): 54–55; in TLS, 9 February 1933, p. 81 (leading article);
+    in Poetry 42 (1933): 54–56. Very unjustly neglected, probably because of a very effusive style,
+    but well worth an afternoon's inquiry. The great virtue of the book is that underneath
+    considerable talk of "organic rhythms," "rhythm and imagination the two es- sentials," and the
+    like, Smith fixes on the abstract notion of pattern as the crux of verse-structure. He
+    recognizes the antinomian relation of repetition and variation, and he makes a strong effort to
+    systematize all the various prosodic elements as varieties of a single complex poetic pattern.
+    The treatment of me- ter is especially good: Smith recognizes the tension between "prose stress"
+    and "metrical accent" [ictus] very clearly and derives therefrom five varieties of verse in
+    English: (1) verse in which accent and stress virtually coincide, (2) verse where stresses fall
+    evenly on certain of the accents, (3) faint distortion of the meter by the stress, (4)
+    independent stress pattern, and (5) independent prose movement. </notes>
+  </item>
+
+
+  <item id="B204">
+   <bib> Smith, I. Gregory. "Laws of Poetry." Contemporary Review 114 (1918): 312–16. </bib>
+   <notes> Rambles from its subject, which is the rules and law underlying phenomena. </notes>
+  </item>
+
+
+  <item id="B205">
+   <bib> Sobel, Emilie. "Rhythm, Sound, and Imagery in the Poetry of Gerard Manley Hopkins." In
+    Between Reality and Fantasy: Transitional Objects and Phenomena. Ed. Simon A. Grolnick and L.
+    Barkin. New York: Aronson, 1978. pp. 425–45. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B206">
+   <bib> Spingarn, Lawrence P. "Poetry and Prose: Verse as a Literary Catalyst." Queen's Quarterly
+    66 (1959): 441–48. </bib>
+   <notes> Suggests, by opening a great chest of instances, examples, and literary lore, that
+    "poetry" and "prose" are by no means polar opposites but in fact interpermeate each other often.
+   </notes>
+  </item>
+
+
+  <item id="B207">
+   <bib> Steger, Cecelia H. "Phonological Patterning and Syntactic Structure in the Literary
+    Criticism for Fifteen Poems by Emily Dickinson." Diss., New York University, 1977. </bib>
+   <notes> Whether or not this thesis indirectly or directly illuminates these patterns in the poems
+    themselves I do not know. Is there more patterning in the criticism than in the poetry? </notes>
+  </item>
+
+
+  <item id="B208">
+   <bib> Stevenson, Robert Louis. "On Style in Literature: Its Technical Elements." Contemporary
+    Review 47 (1885): 548–61; rpt in his Essays in the Art of Writing. London: Chatto &amp; Windus,
+    1905, 1917. </bib>
+   <notes> Emphasizes that "the motive and end of any art whatever is to make a pat- tern." Pattern,
+    web, is the desideratum for all art. Hence, "all that we have a right to ask of any prosody is,
+    that it shall lay down a pattern for the writer." Result: "added difficulty, added beauty."
+    Stevenson has a keen perception of the counterpoint of rhythm on meter, the great virtue of
+    variety, and the sub- tle but important sound of the language. The elements of style:
+    word-choice, pattern, rhythmic variety in phrasing, and melodious sound-patterns. </notes>
+  </item>
+
+
+  <item id="B209">
+   <bib> Sutherland, James. The Medium of Poetry. London: The Hogarth Press, 1934. 168 pp. Rev: in
+    MLR 30 (1935): 95–96. </bib>
+   <notes> These discursive observations on the poet's handling of his matter and modes employ the
+    term "medium" in a relatively broad sense. But see chapters 4 and 6 on form. </notes>
+  </item>
+
+
+  <item id="B210">
+   <bib> Swart, J[acobus]. "Sackville's Poetic Technique." Thomas Sackville: A Study in
+    Sixteenth-Century Poetry. Groningen: J. B. Wolters, 1949. pp. 99–120. </bib>
+   <notes> The sixth chapter treats irregularities in meter, use of monosyllables and disyl- lables,
+    rabbate, grammar, and archaisms. </notes>
+  </item>
+
+
+  <item id="B211">
+   <bib> Thorpe, Clarence D. "Some Notes on the Differentiae of Prose and Poetry, with Special
+    Reference to the Theory of Coleridge." Papers of the Michigan Academy of Sciences, Arts, and
+    Letters 14 (1930): 567–600. </bib>
+   <notes> Most directly a very long inquiry into Coleridge's notion that the fundamental
+    differentia of poetry and prose is not external form but internal mental state, i.e., passion.
+    But the essay ranges into the fields of the twentieth century as well in search of specimens.
+    Meter is discussed on pp. 580–83. </notes>
+  </item>
+
+
+  <item id="B212">
+   <bib> Tillotson, Geoffrey. "Pope and the Common Reader." Sewanee Review 66 (1958): 44–78. </bib>
+   <notes> Traces Pope's efforts (and achievements) at writing that sort of verse which speaks from
+    the very center of common English usage--the easy, familiar use of the mother tongue that is
+    instinct in us all. Pope's efforts lay mainly in dic- tion (varying registers to suit the
+    subject), syntax (naturalness of word-order), meter (which allowed both conciseness and
+    complexity), and rhyme (allowing latitude within the rule). For his craft Pope's especial skills
+    were inventiveness and imagination. A long essay both for and about the general reader. </notes>
+  </item>
+
+
+  <item id="B213">
+   <bib> Trisolini, Anthony G. "An Analysis of the Structure of Hart Crane's The Bridge." DA 20
+    (1959): 2441A (Northwestern). </bib>
+   <notes> "Structure" here includes sound-stratum, on which level a miming or mirror- ing of theme
+    can be perceived: the verse is relatively smooth when the pro- tagonist is in a balanced state
+    of mind but rougher when he is disturbed. </notes>
+  </item>
+
+
+  <item id="B214">
+   <bib> Turco, Lewis. Poetry: An Introduction Through Writing. Reston, Virginia: Reston Publishing
+    Co., 1973. </bib>
+   <notes> The title is deceptive: the book is actually a typology of Prosodies (at least nine, by
+    my count), Schemes, Tropes and Figures, and Genres. Examples, ex- ercises, Bibliography, and
+    Index. </notes>
+  </item>
+
+
+  <item id="B215">
+   <bib> Untermeyer, Louis. The Forms of Poetry: A Pocket Dictionary of Verse. 2nd ed. New York:
+    Harcourt, Brace &amp; World, 1926. 173 pp. </bib>
+   <notes> A well-known handbook, arranged alphabetically. </notes>
+  </item>
+
+
+  <item id="B216">
+   <bib> V., A. W. "Voice and Verse." Notes &amp; Queries 184 (1943): 344. </bib>
+   <notes> In search of a distinctive prosodic voice for every poet. There is an additional note at
+    185 (1943): 20–21, and a response by "Psychologist" at 185 (1943): 28, who tries to make the
+    original suggestion look ludicrous, ludicrously. </notes>
+  </item>
+
+
+  <item id="B217">
+   <bib> Van Doorn, Willem. "Mainly about the Prose-Poem." English Studies 3 (1921): </bib>
+   <notes> 129–37. </notes>
+  </item>
+
+
+  <item id="B218">
+   <bib> Viereck, Peter. "Strict Form in Poetry: Would Jacob Wrestle With a Flabby Angel?" Critical
+    Inquiry 5 (1978): 203–22. </bib>
+   <notes> Wired prose by a practicing poet on the palimpsest of the "non-word language of rhythm"
+    underneath the verbal/syntactic/semantic layer of language. Heav- ily emphasized also are the
+    biological and psychological correlates of rhythm: "rhythm and probably also rhyme are not
+    luxury but . . . our very anatomy." Proposes "crisscross rhyme"--the sound ending one line and
+    beginning the next or another close by. </notes>
+  </item>
+
+
+  <item id="B219">
+   <bib> Vogel, Joseph F. Dante Gabriel Rossetti's Versecraft. University of Florida Monographs,
+    Humanities, no. 34. Gainesville: University of Florida Press, 1971. Based on his dissertation,
+    "Studies of Form and Meaning in the Poetry of D. G. Rossetti," at Florida in 1965. </bib>
+   <notes> Rev: in South Atlantic Bulletin 37 (1972): 74–76; in Victorian Studies 16 (1972): 235–37;
+    in English Language Notes 10 (1972): 60–61. A patient, non-tendentious study of Rossetti's
+    handling of metrical, stanzaic, and sonal structures, with a separate chapter on "The Blessed
+    Damozel." Ros- setti was prosodically conservative, both in theory and practice, and Vogel
+    sketches out a case that Rossetti's versecraft was, if not more virtuoso than Swinburne's, at
+    least more subtly diverse. </notes>
+  </item>
+
+
+  <item id="B220">
+   <bib> Von Hallberg, Robert. Charles Olson: The Scholar's Art. Cambridge, Mass.: Harvard
+    University Press, 1978. Based on his dissertation at Stanford University in 1975. </bib>
+   <notes> Passim. Chapter 5 (pp. 170–204) offers the most sustained treatment of pro- sodic
+    matters, especially Olson's stylistic development, but notice also the sec- tion on "Process
+    Poems: Prosody and Syntax" in Chapter 2 (pp. 65–73) and the one on "Discursive Form" (pp.
+    141–50) in Chapter 4. </notes>
+  </item>
+
+
+  <item id="B221">
+   <bib> Waaub, Jean-Marie. "A Few Notes on Poetic Technique." Revue des langues vivantes 27 (1961):
+    83–116. </bib>
+   <notes> These very extensive "notes" on metrical technique are careful, methodical, and thorough:
+    from a set of disputed scansions the author derives most of the principles of modern metrics,
+    such as the distinction between meter and rhythm, the Relative Stress Principle (not all the
+    stresses in a line are equally stressed, nor are the unstressed equally unstressed--what counts
+    is relative con- tiguous values), a double-tiered scansion system (two degrees of metrical
+    ictus, five degrees of rhythmical stress), varieties of pauses ("rests," "breaks," "links"), the
+    effects of word-length on tempo in the line, degrees of enjambment, sonal texturing, and the
+    effects of such texturing (quantity, density, pattern) on tempo also. All of this exemplified in
+    essentially only one Henry Treece poem. </notes>
+  </item>
+
+
+  <item id="B222">
+   <bib> Wain, John. "On the Breaking of Forms." Encounter 45 (1975): 49–56. </bib>
+   <notes> Remarks on the uses and dangers of form in poetry, especially "mimetic" form. </notes>
+  </item>
+
+
+  <item id="B223">
+   <bib> Wharton, Thomas. The History of English Poetry from the Close of the Eleventh to the
+    Commencement of the Eighteenth Century. 3 vols. London: J. Dodsley, 1774–81. </bib>
+   <notes> Section 25 offers some valuable information on metrical treatises written by the
+    graduates of Oxford in the early fifteenth century, vis à vis the term poeta laureatus.
+    Otherwise there are useful and interesting remarks on versification scattered abroad, passim.
+   </notes>
+  </item>
+
+
+  <item id="B224">
+   <bib> Watkins, W. B. C. "The Kingdom of Our Language." Hudson Review 2 (1949): 343–76. </bib>
+   <notes> A thoroughgoing defense of Spenser's technical craft, with an extended com- parison to
+    Shakespeare. Cf. B13. </notes>
+  </item>
+
+
+  <item id="B225">
+   <bib> Wellek, René, and Austin Warren. "Euphony, Rhythm, and Metre." Theory of Literature. New
+    York: Harcourt, Brace &amp; World, 1949; 3rd rev. ed. 1963. pp. 158–73; rpt in Gross (A23), pp.
+    21–41. </bib>
+   <notes> This chapter amply contributes to the lucidity of the whole. Wellek distin- guishes at
+    once between performance and pattern (metrics can be based on the latter), (pure) sound and
+    meaning ("there is no 'musical' verse without some general conception of its meaning"), and
+    inherent vs. relational features of sound (the former form the substance of euphonics, the
+    latter of rhythmics and met- rics). Rhyme is anatomized to show the variety of possible
+    approaches, and mi- metic (onomatopoeic) sound--discussed at some length--is divided into three
+    related problems: "actual imitation of physical sounds," "elaborate sound- painting," and "sound
+    symbolism." Theories of rhythm may be classed into those that require some notion of periodicity
+    au fond and those broader ones which do not. Worse, "the very foundations and main criteria of
+    metrics are still uncertain, and there is an astonishing amount of loose thinking and con- fused
+    or shifting terminology even in standard treatises." The types of metrical analysis are the
+    graphic (longs and shorts; simply inapplicable), the musical (merely records a performance), and
+    the acoustic (objective laboratory analysis of sound; ignores meaning and subjective
+    perception). Insisting that meaning is indispensable to metrical theory, Wellek approves of the
+    statistical methods and radical assumptions of the Russian Formalists: "The fundamental unity of
+    rhythm is, then, not the foot but the whole line . . . . Verse is conceived as an elaborate
+    contrapuntal pattern between the superimposed metre and the ordi- nary rhythm of speech."
+    Altogether, the emphasis in this account falls on the primacy of meaning in versification
+    theory. </notes>
+  </item>
+
+
+  <item id="B226">
+   <bib> Welsh, Andrew. "Melos and Opsis." DAI 31 (1970): 2407A (Pittsburgh). 271 pp. </bib>
+   <notes> Elaborating Northrop Frye's distinction between these two fundamental modes, the aural
+    and the visual imaginations, Welsh inquires into their primitive origins, finding there eight
+    roots of lyric: riddle, emblem, image, vortex, ideo- gram, charm, chant, and rhythm. It is this
+    last (Chapter 9) which interests us: Welsh discusses stress rhythms in Skelton and Wyatt. See
+    also the discussion of rhyme on pp. 226–32, and of stress-rhythms in Beowulf and later, pp.
+    232–49. B227 In Welsh's subsequent book based on this dissertation, Roots of Lyric (Prince- ton:
+    Princeton University Press, 1978), the chapter on Rhythm (pp. 190–242) is completely revamped,
+    the section on Skelton being expanded, augmented by a following discussion of Wyatt's meter, and
+    prefaced by a long commen- tary on the development of the pentameter line, for which material
+    Welsh draws heavily upon Thompson (E91). </notes>
+  </item>
+
+
+  <item id="B228">
+   <bib> Werner, W. L. "Poe's Theories and Practice in Poetic Technique." American Literature 2
+    (1930): 157–65. </bib>
+   <notes> Poe was diligent about sound-patterns, careless about his rhymes, inordinately
+    conservative in meter, modern and sensible about diction and syntax, and ir- regular about
+    stanza-form. Werner concludes that Poe had a good ear for sound and rhythm but lacked the
+    requisite discipline (or skill?) to confine himself to strict forms. Critique by Allen (G2).
+   </notes>
+  </item>
+
+
+  <item id="B229">
+   <bib> Whitehall, Harold. "From Linguistics to Poetry." Frye (A15), pp. 134–46. </bib>
+   <notes> Brief illustration of the valuable--if not indispensable--assistance linguistics can lend
+    to poetic criticism of Sound Patterns (e.g., the C-V-C description of syl- lables), Rhyme
+    (vis-à-vis the Great Vowel Shift), Metrics (isochronic, iso- accentual, isosyllabic, and
+    isosyntactic systems), and Syntax. </notes>
+  </item>
+
+
+  <item id="B230">
+   <bib> Wilbur, Richard. "The Bottles Become New, Too." Quarterly Review of Literature 7 (1953):
+    186–89. </bib>
+   <notes> In the fascinating symposium on "Experimental and Formal Verse." Wilbur produces a
+    brilliant defense of the uses and virtues of Form. "No poetry," he thinks, "can have any
+    strength unless it continually bashes itself against the re- ality of things." No "poems made
+    out of poetry." And how can the abstract, gesturing form reproduce the reality? How can it be
+    that "paradoxically it is respect for reality which makes a necessity of form"? How can the
+    poet's com- bat with form enhance his expression? By difficulty. "In each art the difficulty of
+    the form is a substitute for the difficulty of direct apprehension and expression of the
+    object." A sort of distraction, then, or subtler flank attack. Take rhyme, for example: "the
+    presence of potential rhymes sets the imagination working," providing unexpected possibilities
+    and directions to pursue. Or in meter: surely the poet using meters and stanzas to get at the
+    Real will prefer the "for- midably meaningless" to the "alien." By such means does the poet find
+    his freedoms in restraint. Cf. B16 and E1549. </notes>
+  </item>
+
+
+  <item id="B231">
+   <bib> Williams, Juanita S. Prosody as Ritual; an Experiment. Nashville, Tenn., 1962; Lexington:
+    University of Kentucky Press, 1963. 124 pp. </bib>
+   <notes> Not a critical study but original poetry submitted as her Master's Thesis at Vanderbilt.
+   </notes>
+  </item>
+
+
+  <item id="B232">
+   <bib> Willige, Eckhart. "Formal Devices in Robert Frost's Short Poems." Georgia Review 15 (1961):
+    324–30. </bib>
+   <notes> Elementary analysis of meter, rhyme-patterns, and syntax. </notes>
+  </item>
+
+
+  <item id="B233">
+   <bib> Wimsatt, W. K., Jr. "In Search of Verbal Mimesis (Supplement to 'Laokoön: An Oracle
+    Reconsulted')." Yale French Studies 52 (1975): 229–48; rpt in his Day of the Leopards. New
+    Haven: Yale University Press, 1976. pp. 57–73. </bib>
+   <notes> A seminal essay: Wimsatt here confronts directly the nature of the verbal me- dium itself
+    in its effort to mime (express, represent) reality, as opposed to its other function--to refer
+    to the external world. Distinguishing between the gra- phemic and phonetic forms of language,
+    Wimsatt collects eight types of verbal iconicity, together with luminous examples. The schema
+    deployed here is pro- vocative, and more than worthy of book-length treatment. The issue raised
+    is very likely the most crucial one in all of poetics. </notes>
+  </item>
+
+
+  <item id="B234">
+   <bib> -----. "Verbal Style: Logical and Counterlogical." PMLA 65 (1950): 5–20; rpt in his The
+    Verbal Icon: Studies in the Meaning of Poetry. Lexington: University of Kentucky Press, 1954;
+    rpt London: Methuen, 1970. pp. 201–17. </bib>
+   <notes> Taking his cue from Fowler's Modern English Usage, Wimsatt notes the figures of speech
+    available in prose and their concomitant faults if overused. In poetry, the "figures" are meter,
+    rhyme, alliteration, etc., and even though we do not have good terms for the faults of taking
+    them to excess, still they are, Wimsatt argues, distinctly meaningful verbal signs, signs which
+    construct a matrix of meaning that is "counterlogical." </notes>
+  </item>
+
+
+  <item id="B235">
+   <bib> Winter, D. "Verse and Prose." JEGP 5 (1903–5): 271–86. </bib>
+   <notes> The common (hence confused) usage of the terms "Poetry" and "Prose" fails to distinguish
+    between essences and media; in regard to the former, the proper antithesis is Poetry vs.
+    Non-poetry, while for the latter the terms should be Verse vs. Prose. Can the formal devices of
+    Verse produce effects not obtainable in Prose? No. They can produce other effects, but not
+    necessarily better ones. Most of the world's masterpieces are writ in verse simply on account of
+    con- vention (tradition). Indeed, prose is the more difficult medium because the rules in
+    versifying are aids to composition. Prose allows greater freedom, naturalness, and individuation
+    of rhythms. And "nearly all versification is to some extent a process of fitting thoughts to a
+    form of expression, instead of fitting the expression in every detail to the thought." A
+    wonderfully refreshing, sober, sensible piece of heresy. </notes>
+  </item>
+
+
+  <item id="B236">
+   <bib> Wion, Philip K. "The Poetic Styles of Edmund Spenser." DA 29 (1968): 919A (Yale). </bib>
+   <notes> Includes a chapter on diction and one on meter and syntax. </notes>
+  </item>
+
+
+  <item id="B237">
+   <bib> Witkiewicz, S. I. "The Theory of Pure Form in Poetry." Polish Perspectives 20 (1977):
+    38–40. </bib>
+   <notes> Ravings. </notes>
+  </item>
+
+
+  <item id="B238">
+   <bib> "Words Connected with the Technique of Poetry." Word Study 6, 1 (1930): 1–2. Etymologies of
+    poetry, meter, rhythm, etc. </bib>
+   <notes> </notes>
+  </item>
+
+
+  <item id="B239">
+   <bib> Youngblood, Sarah Helen. "W. B. Yeats: The Mature Style." DA 19 (1959): 1764A (Oklahoma). </bib>
+   <notes> Chapters on diction, imagery, versification, syntax, and structure. </notes>
+  </item>
+
+
+  <item id="B240">
+   <bib> Zillman, Lawrence John. The Elements of English Verse: A Manual and Workbook for Students
+    of Poetry and Verse Writing. New York: Macmillan, 1935. 148 pp. </bib>
+   <notes> A general handbook, the most interesting feature of which is a schematic analysis-sheet
+    for noting technical features of poems. Allows three degrees of stress ("accented,
+    half-accented, unaccented") and six metrical feet--the com- mon four as well as spondaic and
+    pyrrhic for variation. Chapter 5 on "Rhyth- mical Effects" is good on metrical treatment of
+    syllables. </notes>
+  </item>
+  </div>
+ </section>
+ </chapter>
+</bibliography>

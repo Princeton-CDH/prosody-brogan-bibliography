@@ -1,0 +1,556 @@
+<?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<bibliography>
+    <chapter title="APPENDIX D: LIST OF WORKS CONSULTED">
+
+        <div title="I: English"/>
+
+        <item id="O1">
+            <bib> Alston, R. C. "Prosody." A Bibliography of the English Language from the Invention
+                of Printing to the Year 1800.</bib>
+            <notes> A Corrected Reprint of Vols. I–X. Ilkey: Janus Press, 1974. Vol. VI, pp. 88–92.
+            </notes>
+        </item>
+
+        <item id="O2">
+            <bib> Attridge, Derek. Well-Weighed Syllables. London: Cambridge University Press, 1974.
+                (E112)</bib>
+            <notes> </notes>
+        </item>
+
+        <item id="O3">
+            <bib> Bailey, James. Toward a Statistical Analysis of English Verse. Lisse (The
+                Netherlands): Peter de Ridder Press, 1965. (E469)</bib>
+            <notes> </notes>
+        </item>
+
+        <item id="O4">
+            <bib> Bailey, Richard W., and Dolores M. Burton. English Stylistics: A Bibliography.
+                Cambridge, Mass.: M.I.T. Press, 1965.</bib>
+            <notes> Citation data in this work is frequently erroneous; annotations are intermittent
+                but occasionally very long. </notes>
+        </item>
+
+        <item id="O5">
+            <bib> Baird, Lorrayne Y. "Style Including Versification and Puns." A Bibliography of
+                Chaucer, 1964–1973. Boston: G. K. Hall, 1977. pp. 58–61.</bib>
+            <notes> </notes>
+        </item>
+
+        <item id="O6">
+            <bib> Bjorklund, Beth. A Study in Comparative Prosody: English and German Jambic
+                Pentameter. Stuttgart: Akademischer Verlag Hans-Dieter Heinz, 1978. (E818)</bib>
+            <notes> A useful bibliography containing 444 entries on English and German prosody
+                (especially the latter, historically), with some lesser interest in Russian.
+            </notes>
+        </item>
+
+        <item id="O7">
+            <bib> Bliss, A. J. "Prosody and Prose Rhythm." The New Cambridge Bibliography of English
+                Literature. Ed. George Watson. Cambridge: Cambridge University Press, 1974. cols.
+                33–52.</bib>
+            <notes> Unfortunately, the NCBEL reprinted CBEL citations without verification, and
+                consequently the citation data in NCBEL is often unreliable. Nor is there any
+                distinction between trivial and important entries in this very long list of brief
+                titles. But the abridged, one-volume edition of the NCBEL recently an- nounced for
+                publication should improve in the reliability of its citation data, based on
+                corrections supplied by this writer. </notes>
+        </item>
+
+        <item id="O8">
+            <bib> British Museum Subject Catalog of Modern Books Acquired. London, 1881–1960
+                (excepting 1951–55).</bib>
+            <notes> S.v. "Poetry: Prosody." </notes>
+        </item>
+
+        <item id="O9">
+            <bib> Chandler, Albert R., and E. N. Barnhart. "Experiments on Affective Reactions and
+                Form." A Bibliography of Psychological and Experimental Aesthetics, 1864–1937.
+                Berkeley: University of California Press, 1938. pp. 83–90.</bib>
+            <notes> </notes>
+        </item>
+
+        <item id="1O">
+            <bib> Comprehensive Dissertation Index. Ann Arbor: Xerox University Microfilms. Volumes
+                for 1861–1978.</bib>
+            <notes> Subject headings searched: Aesthetic(s), Alliteration, Assonance, Ballad Metre,
+                Blank Verse, Couplet, Foot, Form, Free Verse, Iambic, Line, Lyric, Meter, Metre,
+                Metrical, Ode, Poem, Poetic, Poetics, Poetry, Prosody, Rhyme-Rime, Rhythm, Sonnet,
+                Sound, Stanza, Structure, Style, Stylistics, Syntax, Verse, Versification. </notes>
+        </item>
+
+        <item id="11">
+            <bib> Ebisch, Walther, and Levin L. Schucking. "Shakespeare's Language, Vocabulary,
+                Prosody, and Style." A Shakespeare Bibliography. Oxford: Clarendon Press, 1931. pp.
+                79– 94.</bib>
+            <notes> Also in Supplement for the Years 1930–1935 to A Shakespeare Bibliography.
+                Oxford: Clarendon Press, 1937. pp. 29–31. </notes>
+        </item>
+
+        <item id="12">
+            <bib> Fry, Donald K. "Beowulf" and "The Fight at Finnsburh": A Bibliography.
+                Charlottesville: The University Press of Virginia, 1969.</bib>
+            <notes> S.v. "Meter" (188 entries) and "Diction" (128 entries) in the Subject-Index.
+            </notes>
+        </item>
+
+        <item id="13">
+            <bib> Gabel, Gernot U., and G. R. Gabel. Dissertations in English and American
+                Literature: Theses Accepted by Austrian, French, and Swiss Universities,
+                1875–1970.</bib>
+            <notes> Hamburg: the author, 1977. 198 pp. </notes>
+        </item>
+
+        <item id="14">
+            <bib> Griffith, Dudley D. "Style Including Versification" and "Language." Bibliography
+                of Chaucer 1908–1953. Seattle: University of Washington Press, 1955. pp.
+                116–42.</bib>
+            <notes> </notes>
+        </item>
+
+        <item id="15">
+            <bib> Hammond, Eleanor C. "Linguistics and Versification." Chaucer: A Bibliographical
+                Manual. New York: The Macmillan Company, 1908;</bib>
+            <notes> rpt. New York: Peter Smith, 1933. pp. 464–509. (K149) </notes>
+        </item>
+
+        <item id="16">
+            <bib> Huckabay, Calvin. "Style and Versification." John Milton: An Annotated
+                Bibliography 1929– 1968. Pittsburgh: Duquesne University Press, 1960;</bib>
+            <notes> rpt. 1969. pp. 327–39. </notes>
+        </item>
+
+         <item id="17">
+            <bib> International Index to Periodicals. New York: H. W. Wilson Company, 1907–65.</bib>
+            <notes> After 1965 the series title changes to Social Sciences and Humanities Index
+                until 1974; after 1974 the title is Humanities Index, as the previously composite
+                in- dex is divided into two annual volumes. Valuable as a resource because it cov-
+                ers, especially in the earlier years, a considerable number of both scholarly and
+                popular journals that the MLA did not include. Relevant subject headings vary from
+                decade to decade, but the most productive are: Alliteration, English
+                Language--Rhythm, English Language--Rime, English Language--Versification, English
+                Language--Old English, English Language--Middle English, Poetics, Rime, Shakespeare,
+                William-- Versification, Versification. </notes>
+        </item>
+
+         <item id="18">
+            <bib> Jochum, K. P. S. W. B. Yeats: A Classified Bibliography of Criticism. Urbana,
+                Ill.: University of Illinois Press, 1978.</bib>
+            <notes> S.v. "Prosody," "Rhyme," and "Rhythm" in the Index. </notes>
+        </item>
+
+         <item id="19">
+            <bib> Kluewer, Jeffrey D. "An Annotated Check List of Writings on Linguistics and
+                Literature in the Sixties." Bulletin of the New York Public Library 76 (1972):
+                36–91.</bib>
+            <notes> Given the restrictions of scope evident in its title, this checklist is the most
+                thorough resource of its kind I have seen. Arranged alphabetically are 288 en-
+                tries, nearly all of them annotated generously, followed by eleven Indexes: Bib-
+                liographies, Collections, Theories of Language, Linguistics and Literary Criti-
+                cism, Linguistic Schools, Prosody, Psycholinguistics, Qualitative Studies, Style and
+                Stylistics, Syntax and Grammar, and Non-Prosodic Analysis of Literary Periods and
+                Authors and Works. Index VI on Prosody (pp. 82–85) contains subsections indexing
+                Meter and Rhythm, Phonology--Sound Texture, Sound and Meaning,
+                Suprasegmentals--Performance, and Prosodic Analyses (by author and poem). The
+                cross-referencing system used here is awkward, but the superabundance of indexes is
+                more than compensatory. </notes>
+        </item>
+
+         <item id="20">
+            <bib> Kökeritz, Helge. Shakespeare's Pronunciation. New Haven: Yale University Press,
+                1953. (C17)</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="21">
+            <bib> Lafourcade, Françoise. "Contribution à une bibliographie chronologique pour
+                l'étude des théories sur la versification anglaise de 1550 à 1950." In Hommage à
+                Paul Dottin. Caliban (Annales Publiées par la Faculté des Lettres et Sciences
+                Humaines de Toulouse). N.s. 2, fascicle 1, no. 3 (Special Issue), 1966. pp. 271–317.
+                (A27)</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="22">
+            <bib> Library of Congress Catalogs. Books: Subjects. Washington, D.C.: Library of
+                Congress, 1955 (for 1950–54)--.</bib>
+            <notes> Title varies. See the following principal headings for English: Alliteration,
+                Blank Verse, Chaucer, Geoffrey--Versification, English Language-- Versification,
+                Free Verse, Shakespeare, William--Versification, Versification. </notes>
+        </item>
+
+         <item id="23">
+            <bib> McNamee, Lawrence F. Dissertations in English and American Literature: Theses
+                Accepted in English, American and German Universities 1865–1964. New York: R. R.
+                Bowker, 1968.</bib>
+            <notes> Also -----. Supplement One 1964–1968. New York, 1969, and -----. Supplement Two
+                1969–1973. New York, 1974. </notes>
+        </item>
+
+         <item id="24">
+            <bib> Malof, Joseph. A Manual of English Meters. Bloomington: Indiana University Press,
+                1970. (E581)</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="25">
+            <bib> Martin, Willard E., Jr. "Language" and "Metrics." A Chaucer Bibliography
+                1925–1933. Durham: Duke University Press, 1935. pp. 33–37.</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="26">
+            <bib> Milic, Lewis T. Style and Stylistics: An Annotated Bibliography. New York: The
+                Free Press, 1967.</bib>
+            <notes> Uses a system of descriptors rather than prose annotations to indicate content.
+            </notes>
+        </item>
+
+         <item id="27">
+            <bib> Modern Humanities Research Association. Annual Bibliography of English Language
+                and Literature. London: Modern Humanities Research Association, 1920–-.</bib>
+            <notes> I have searched the volumes for 1920 through 1975, entire. See the annual
+                section on "Metre"; beginning in 1971, the section on "Language, Literature, and the
+                Computer"; and beginning in 1973, the section on "Stylistics." </notes>
+        </item>
+
+         <item id="28">
+            <bib> Modern Language Association of America. International Bibliography. New York:
+                Modern Language Association, 1920--.</bib>
+            <notes> I have searched the volumes for 1920 through 1968, and the General, English,
+                American, and Linguistics sections of volumes I and III for 1969 through 1978,
+                entire. Unlike the MHRA bibliography, the Postmodern MLA has no section for the
+                traditional subject of Versification, so the student of form must find his sources
+                by the traditional method--reading from cover to cover. Vol- ume III on Linguistics
+                contains a section on "Stylistics," and also a section on "Prosody
+                (Suprasegmentals)." From the title of this latter section, one would expect it to
+                treat aspects of speech (Pitch, Timing, Juncture)--which it does-- but it also
+                includes articles on meter and versification, using "Prosody" in the old sense of
+                the term, wherein versification was a subcategory of Grammar. But by preserving the
+                old conception the MLA preserves the old confusions; it is difficult to imagine a
+                rational justification for this organization. As of January 1979, however, the MLA
+                Bibliographies for 1976–1977 are available for computer searching on a data base in
+                the Lockheed system; a scan for all the variants of the keywords Prosody, Meter, and
+                Versification should net most items of interest. Note also that there is a published
+                Index to vols. 1–50 of PMLA, wherein see s.v. "Metre," "Rhythm," "Rime," and
+                "Versification" (these are not restricted to English). </notes>
+        </item>
+
+         <item id="29">
+            <bib> Mummendey, Richard. "Prosody." Language and Literature of the Anglo-Saxon Nations
+                as Presented in German Doctoral Dissertations 1885–1950: A Bibliography.
+                Charlottesville: Bibliographical Society of the University of Virginia, 1954. pp.
+                36–38.</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="30">
+            <bib> Mustanoja, Tauono F. "Chaucer's Prosody." Companion to Chaucer Studies. Ed. Beryl
+                Rowland. New York: Oxford University Press, 1968. pp. 58–84. (K266)</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="31">
+            <bib> Nager, Rae Ann. "English: II. Bibliographical." Versification: Major Language
+                Types. Ed. K. W. Wimsatt, Jr. New York: New York University Press for MLA, 1972. pp.
+                204–16. (A28)</bib>
+            <notes> Brief annotations for 126 well-known sources. -----. "A Selective Annotated
+                Bibliography of Recent Work on English Prosody." Style 11 (1977): 136–70. (A29)
+            </notes>
+        </item>
+
+         <item id="32">
+            <bib> Omond, T. S. English Metrists. Oxford: Clarendon Press, 1921; rpt. New York:
+                Phaeton Press, 1968. (A5)</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="33">
+            <bib> Preminger, Alex, ed. The Princeton Encyclopedia of Poetry and Poetics. Enlarged
+                ed. Princeton: Princeton University Press, 1974. (A18)</bib>
+            <notes> For the study of English versification the relevant articles (all of which con-
+                clude with a bibliography) are the following: Accent, Alliteration, Alliterative
+                Meter, Analysis, Assonance, Ballad Meter, Blank Verse, Cadence, Caesura, Christabel
+                Meter, Classical Meters in Modern Verse, Conceptions of Poetics, Couplet, English
+                Poetry, English Prosody, Explication, Form, Free Verse, Generative Metrics, Heroic
+                Couplet, Hexameter, Linguistics and Poetics, Lyric Meter, Metrical Variation, Music
+                and Poetry, Ode, Phenomenology, Poetic Diction, Poetry Reading, Poly- phonic Prose,
+                Prose Poem, Prose Rhythm, Prosodic Notation, Prosody, Rhyme, Rules, Scansion,
+                Sonnet, Sound in Poetry, Structure, Style, Stylistics, Texture, Theories of Poetry,
+                Tone-Color, Verse and Prose. </notes>
+        </item>
+
+         <item id="34">
+            <bib> Roberts, Thomas J. "Literary-Linguistics: A Bibliography, 1946–1961." Texas
+                Studies in Literature and Language 4 (1962): 625–29.</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="35">
+            <bib> Roth, Sister Mary Augustine, ed. Coventry Patmore's "Essay on English Metrical
+                Law": A Critical Edition with a Commentary. Washington, D.C.: Catholic University of
+                America Press, 1961. (E385)</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="36">
+            <bib> Schramm, Wilbur L. "Objective Studies of Verse: A Bibliography." Approaches to a
+                Science of English Verse. University of Iowa Studies, Series on Aims and Progress of
+                Research, no. 46. Iowa City: The University, 1935. pp. 76–82. (E428)</bib>
+            <notes> Generous annotations on the major works up to 1935 which apply the meth- ods of
+                Acoustics (Phonetics) to English versification. </notes>
+        </item>
+
+         <item id="37">
+            <bib> Sebeok, Thomas A., ed. Style in Language. Cambridge, Mass.: M.I.T. Press, 1960.
+                (A19)</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="38">
+            <bib> Severs, J. Burke, ed., and continued by Albert E. Hartung. A Manual of Writings in
+                Middle English 1050–1500. 5 vols. New Haven: Archon/Shoe String for the Connecticut
+                Academy of Arts and Sciences, 1967–75.</bib>
+            <notes> The successor to Wells. There is usually a subsection on Versification listed
+                un- der each poem entry in the Bibliography in each volume, but as the section heads
+                are extremely difficult to distinguish typographically I cannot recom- mend using
+                these volumes extensively. </notes>
+        </item>
+
+         <item id="39">
+            <bib> Shapiro, Karl. A Bibliography of Modern Prosody. Baltimore: Johns Hopkins
+                University Press, 1948. (A30)</bib>
+            <notes> Long, discursive annotations, but relatively few entries. </notes>
+        </item>
+
+         <item id="40">
+            <bib> Shapiro, Karl, and Robert Beum. A Prosody Handbook. New York: Harper and Row,
+                1965. (B195)</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="41">
+            <bib> Sipe, Dorothy L. Shakespeare's Metrics. New Haven: Yale University Press, 1968.
+                (E1304)</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="42">
+            <bib> Smith, Gordon Ross. "The Art of Shakespeare: Language, Vocabulary, Prosody, and
+                Style." A Classified Shakespeare Bibliography. University Park, Pa.: Pennsylvania
+                State University Press, 1963. pp. 217–76 (A5124–A5615).</bib>
+            <notes> Especially pp. 229– 31. </notes>
+        </item>
+
+         <item id="43">
+            <bib> Stevens, David H. "Metrics." Reference Guide to Milton from 1800 to the Present
+                Day. Chicago: University of Chicago Press, 1930. pp. 275–78.</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="44">
+            <bib> Tarlinskaja, Marina. English Verse: Theory and History. The Hague: Mouton, 1976.
+                (E673)</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="45">
+            <bib> Tempest, N. R. "Prosody and Prose Rhythm." The Cambridge Bibliography of English
+                Literature. Ed. F. W. Bateson. Cambridge: Cambridge University Press, 1940. Vol. 1,
+                pp. 13–24.</bib>
+            <notes> CBEL citation data is frequently inaccurate. </notes>
+        </item>
+
+         <item id="46">
+            <bib> Thompson, John. The Founding of English Metre. London: Routledge and Kegan Paul,
+                1961. (E91)</bib>
+            <notes> </notes>
+        </item>
+
+
+        <div title="II: Other Languages"/>
+
+
+
+
+         <item id="47">
+            <bib> L'Année philologique: Bibliographie critique et analytique de l'antiquité
+                gréco-latine. Vols. 1–. Paris: Sociétés d'Édition "Les Belles Lettres," 1927 (for
+                1924–26)--.</bib>
+            <notes> The annual bibliography for Classical Studies: see s.v. "Métrique, Rythmique,
+                Prosodie." </notes>
+        </item>
+
+         <item id="48">
+            <bib> Best, R. I. "Metrics." Bibliography of Irish Philology and of Printed Irish
+                Literature. Dublin: Browne and Nolan for the National Library of Ireland, 1913; rpt.
+                New York: Johnson, 1970. pp. 52–54. (L207)</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="49">
+            <bib> Bibliographie de la littérature française du Moyen Âge à nos jours. Ed. René
+                Rancoeur. Vol. 1--. Paris, 1966–-.</bib>
+            <notes> S.v. "Généralités: Versification" and s.v. "Versification" in the Subject Index.
+            </notes>
+        </item>
+
+         <item id="50">
+            <bib> Bibliographie der französischen Literaturwissenschaft. Ed. Otto Klapp. Vol. 1–.
+                Frankfurt on Main, 1960 (for 1956–58)--.</bib>
+            <notes> S.v. "Généralités: Poésie." </notes>
+        </item>
+
+         <item id="51">
+            <bib> Bibliographie Unselbständiger Literatur-Linguistik. Ed. Elke Suchan. Vol. 1–.
+                Frankfurt on Main: Klosterman, 1976–.</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="52">
+            <bib> Carballo, Picazo, Alfredo. Métrica española. Madrid, 1956. 161 pp. (L1025)</bib>
+            <notes> The most recent and comprehensive bibliography for Spanish. </notes>
+        </item>
+
+         <item id="53">
+            <bib> Clarke, Dorothy C. Une Bibliografia de versificación española. University of
+                California Publications in Modern Philology, vol. 20, no. 2. Berkeley, 1937. pp.
+                57–126.</bib>
+            <notes> (L1030) </notes>
+        </item>
+
+         <item id="54">
+            <bib> Gayley, Charles Mills, and Fred Newton Scott. An Introduction to the Methods and
+                Materials of Literary Criticism. Boston: Ginn and Company, 1901.</bib>
+            <notes> (L46) The "General Note" on pp. 487–518 lists innumerable sources for the study
+                of comparative versification, including Greek, Latin, English, French, German,
+                Italian, Spanish and Portuguese, Russian, Lapp, Finnish, Indian, Hebrew, Egyptian,
+                Chinese, Japanese, Arabian, and Turkish. </notes>
+        </item>
+
+         <item id="55">
+            <bib> Gindin, S[ergei] I. Struktura stixotvornoi rechi: sistematicheskii ukazatel'
+                literatury po obšchemu i russkomu stixovedeniju, izdannoi v SSSR na russkom jazyke,
+                1958–1973. Institut russkogo jazyka AN SSSR, Problemnaja gruppa po eksperimental'noi
+                i prikladnoi lingvistike, Predvaritel'nye publikatsii, Vypusk 94. Moscow, 1976. 140
+                pp.</bib>
+            <notes> (This is the "preliminary version"; citations for 1974 and Indexes are included
+                in the "final version," namely) Issledovanija po teorii stixa. Otdel'nyi ottisk.
+                Akademija Nauk SSSR, Institut russkoi literatury (Puškinskii dom). Leningrad:
+                Otdelenie, 1978. pp. 152–221. (L1271a) </notes>
+        </item>
+
+         <item id="56">
+            <bib> Hatzfeld, Helmut A. A Critical Bibliography of the New Stylistics (1900–1952)
+                Applied to the Romance Literatures. University of North Carolina Studies in
+                Comparative Literature, no. 5. Chapel Hill: University of North Carolina,
+                1953.</bib>
+            <notes> (L847) See pp. 136–42, 169–75, 230–32. </notes>
+        </item>
+
+         <item id="57">
+            <bib> Hollander, Lee M. "General Commentaries on Skaldic Verse: Metrics, Style, Origins,
+                Etc." A Bibliography of Skaldic Studies. Copenhagen: Ejnar Munksgaard, 1958. pp.
+                27–55.</bib>
+            <notes> (L693) </notes>
+        </item>
+
+         <item id="58">
+            <bib> Jahresbericht über die Erscheinungen auf dem Gebiete der germanischen Philologie.
+                Vols. 1–42; n.s. vols. 1–19. Berlin and Leipzig: [German Philological Society],
+                1879–1939.</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="59">
+            <bib> Jahresberichte für neuere deutsche Litteraturgeschichte. Vols. 1–26. Stuttgart and
+                Berlin, 1890– 1919.</bib>
+            <notes> S.v. "Metrik." Continued as: </notes>
+        </item>
+
+         <item id="60">
+            <bib> Jahresbericht über die wissenschaftlichen Erscheinungen auf dem Gebiete der
+                neueren deutschen Literatur. N.s. vols. 1–19. Berlin and Leipzig, 1921–31.</bib>
+            <notes> Publication suspended 1936–48. S.v. "Metrik." </notes>
+        </item>
+
+         <item id="61">
+            <bib> Kayser, Wolfgang. Das sprachliche Kunstwerk: Eine Einführung in die
+                Litteraturwissenschaft. Bern: A. Francke, 1948; 15th ed. 1971. pp. 391–418.</bib>
+            <notes> (L425) The relevant sections of the bibliography are for chapters 3 and 8.
+            </notes>
+        </item>
+
+         <item id="62">
+            <bib> Lambrino, Scarlat. Bibliographie de l'antiquité classique, 1896–1914. Paris:
+                Sociétés d'Édition "Les Belles Lettres," 1951.</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="63">
+            <bib> Lily, Ian K., and B. P. Scherr. "Russian Verse Theory Since 1960: A Commentary and
+                Bibliography." International Journal of Slavic Linguistics and Poetics, no. 22
+                (1976), pp. 75–116.</bib>
+            <notes> (L1327) </notes>
+        </item>
+
+         <item id="64">
+            <bib> Linguistic Bibliography/Bibliographie Linguistique. Published by the Permanent
+                International Committee of Linguists Under the Auspices of the International Council
+                for Philosophy and Humanistic Studies. Utrecht-Antwerp: Spectrum, 1937–1974</bib>
+            <notes> (latest available). See Section 8 on "Prosody, Metre, Versification," beginning
+                with the 1962 volume, and, less usefully, the section on "Stylistics," which has
+                been included from the beginning of the series. </notes>
+        </item>
+
+         <item id="65">
+            <bib> Marouzeau, Jules. Dix Années de bibliographie classique: Bibliographie critique et
+                analytique de l'antiquité gréco-latine par la periode 1914–1934. Paris: Sociétés
+                d'Édition "Les Belles Lettres," 1927–28</bib>
+            <notes>; rpt. New York: B. Franklin, 1969. </notes>
+        </item>
+
+         <item id="66">
+            <bib> POETICS, POETYKA, POETIKA: First International Conference on Work-in-Progress
+                Devouted to Problems of Poetics, Warsaw, 1960. Ed. Donald Davie et al. Warsaw:
+                Polish Scientific Publishers, 1961.</bib>
+            <notes> (A16) </notes>
+        </item>
+
+         <item id="67">
+            <bib> POETICS, POETYKA, POETIKA: Third International Conference on Work-in-Progress
+                Devoted to Problems of Poetics, Warsaw, 1964. Ed. Roman Jakobson et al. The Hague:
+                Mouton, 1966.</bib>
+            <notes> (A17) </notes>
+        </item>
+
+         <item id="68">
+            <bib> Smith, G. S. "A Bibliography of Soviet Publications on Russian Versification Since
+                1958." Russian Literature Triquarterly 6 (1973): 679–702.</bib>
+            <notes> (L1375) </notes>
+        </item>
+
+         <item id="69">
+            <bib> Thieme, Hugo P. Essai sur l'histoire du vers francais. Paris: Libraire ancienne
+                Honoré Champion, 1916. 432 pp.</bib>
+            <notes> (L972) </notes>
+        </item>
+
+         <item id="70">
+            <bib> Wagner, Kurt. "Phonetik, Rhythmik, Metrik." Germanische Philologie: Ergebnisse und
+                Aufgaben: Festschrift für Otto Behagel. Ed. Alfred Goetze, Wilhelm Horn, and
+                Friedrich Maurer. Heidelberg: Carl Winter, 1934. pp. 3–18. </bib>
+            <notes>(L636) Also Kuhn's following essay (L445). </notes>
+        </item>
+
+         <item id="71">
+            <bib> Wimsatt, W. K., Jr., ed. Versification: Major Language Types. New York: New York
+                University Press for MLA, 1970.</bib>
+            <notes> </notes>
+        </item>
+
+         <item id="72">
+            <bib> ÿhirmunskij, Viktor. Introduction to Metrics. The Hague: Mouton, 1966.</bib>
+            <notes> (L1443) </notes>
+        </item>
+    </chapter>
+</bibliography>

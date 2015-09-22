@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    exclude-result-prefixes="xs"
+    version="2.0">
+    <xsl:output method="text" encoding="UTF-8"/> 
+    <xsl:template match="/">
+        <div>
+            <xsl:apply-templates />
+        </div>
+    </xsl:template>
+    <xsl:template match="item">
+        <xsl:value-of select="@id"/>|<xsl:value-of select="bib"/>|<xsl:value-of select="notes"/>
+        
+    </xsl:template> 
+    
+</xsl:stylesheet>

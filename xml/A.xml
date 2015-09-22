@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="brogan.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <bibliography>
- <chapter title="HISTORIES" n="1">
-
+ <chapter title="HISTORIES">
   <item id="A1">
    <bib>Alden, R[aymond] M[acdonald]. English Verse: Specimens Illustrating Its Principles and
     History. New York: Henry Holt, 1903; 2nd ed. 1929; rpt New York: AMS Press, 1970. 441 pp. Rev:
@@ -505,6 +504,9 @@ deepened (no source-list whatsoever existing at the time). These were:
     (2 vols. London, 1811–15) and still the standard edition of the prin- cipal Renaissance
     treatises on literary criticism and versification. </notes>
   </item>
+  
+  
+  
  </chapter>
  <chapter title="EARLIER BIBLIOGRAPHIES">
   <item id="A27">

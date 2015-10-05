@@ -5,7 +5,7 @@
     <xsl:template match="tei:teiHeader"></xsl:template> 
     
     <xsl:template match="//tei:bibl">
-        <xsl:value-of select="@xml:id"/>|<xsl:value-of select="normalize-space(tei:bibl)"/>|<xsl:value-of select="normalize-space(tei:note)"/>
+        <xsl:value-of select="@xml:id"/>|<xsl:value-of select="normalize-space(tei:author)"/>|<xsl:value-of select="normalize-space(tei:bibl)"/>|<xsl:value-of select="normalize-space(tei:note)"/>
     </xsl:template> 
     
 </xsl:stylesheet>

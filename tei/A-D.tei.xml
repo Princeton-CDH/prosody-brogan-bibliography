@@ -606,7 +606,7 @@
                   modern poets (beginning with Whitman) on poetics, poetry, and prosody. </note>
             </bibl>
             <bibl xml:id="B3">
-               <bibl> Baird, Alexander.</bibl>
+               <author> Baird, Alexander.</author>
                <bibl>"Phonetics and English Poetry." English 21 (1972): 98–100. </bibl>
                <note> Elementary linguistic account of the distinctions between (1) rhythm and me-
                   ter, and (2) perfect- and near-rhyme. Scansion of "The Windhover." </note>
@@ -2183,15 +2183,16 @@
                   and meanings of words; and the idea of representation. </note>
             </bibl>
             <bibl xml:id="B176">
-               <author>Redlay. "Essay on Rhyme." Literary Chronicle, no.</author>
-               <bibl>114 (21 July 1821), pp. 458–59. </bibl>
+               <author>Redlay</author>
+               <bibl>"Essay on Rhyme." Literary Chronicle, no. 114 (21 July 1821), pp. 458–59. </bibl>
                <note> Divides literary language into three domains, the "rhythmical, metrical, and
                   prosaical." Curiously, he believes the historical order of these modes to be
                   prose, metrical prose, blank verse, and finally rhyme. Of these, rhyme is de-
                   fended as the highest mode of human utterance. </note>
             </bibl>
             <bibl xml:id="B177">
-               <bibl>Redlay. "On Metrical Prose." Literary Chronicle, no. 117 (11 August 1821), pp.
+               <author>Redlay</author>
+               <bibl>"On Metrical Prose." Literary Chronicle, no. 117 (11 August 1821), pp.
                   503–4; no. 121 (8 September), pp. 565–66. </bibl>
                <note> In the second and third installments we discover that though rhyme is the acme
                   of utterance, mere mortals can only attain excellence in measured prose. </note>

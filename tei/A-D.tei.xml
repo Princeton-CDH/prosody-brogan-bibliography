@@ -22,10 +22,10 @@
          <listBibl xml:id="A">
             <bibl xml:id="A1">
                <author> Alden, R[aymond] M[acdonald].</author>
-               <bibl>English Verse: Specimens Illustrating Its
-                  Principles and History. New York: Henry Holt, 1903; 2nd ed. 1929; rpt New York:
-                  AMS Press, 1970. 441 pp. Rev: in The Nation 77 (1903): 118–20; by Omond in The
-                  Academy 76 (1909): 976–77; in Sewanee Review 11 (1903): 383–84. </bibl>
+               <bibl>English Verse: Specimens Illustrating Its Principles and History. New York:
+                  Henry Holt, 1903; 2nd ed. 1929; rpt New York: AMS Press, 1970. 441 pp. Rev: in The
+                  Nation 77 (1903): 118–20; by Omond in The Academy 76 (1909): 976–77; in Sewanee
+                  Review 11 (1903): 383–84. </bibl>
                <note> To the teaching critic, English Verse is probably more useful as a compendium
                   of examples of verseforms than as a history or theory of English versification,
                   even though the book intends to offer both these latter. Chapter One of Part One
@@ -77,15 +77,15 @@
             </bibl>
             <bibl xml:id="A3">
                <author>Kaluza, Max.</author>
-                    <bibl>Englische Metrik in historischer Entwicklung dargestellt.
-                  Normannia: Germanisch-Romanisch Büucherei, vol 1. Berlin: E. Felber, 1909. 384 pp.
-                  Translated into English by A. C. Dunstan as: </bibl>
+               <bibl>Englische Metrik in historischer Entwicklung dargestellt. Normannia:
+                  Germanisch-Romanisch Büucherei, vol 1. Berlin: E. Felber, 1909. 384 pp. Translated
+                  into English by A. C. Dunstan as: </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="A4">
                <author>Kaluza, Max.</author>
-                    <bibl>A Short History of English Versification From the Earliest Times
-                  to the Present Day. London: George Allen, 1911. 387 pp. </bibl>
+               <bibl>A Short History of English Versification From the Earliest Times to the Present
+                  Day. London: George Allen, 1911. 387 pp. </bibl>
                <note> The translation, which follows the original closely, is hereafter referred to
                   as Kaluza. During the writing of his book, Kaluza clearly felt the lingering
                   coolness of the long shadow cast by Schipper's monumental work (A9); he is at
@@ -138,9 +138,9 @@
             </bibl>
             <bibl xml:id="A5">
                <author>Omond, T[homas] S[tewart].</author>
-                    <bibl>English Metrists: Being a Sketch of English
-                  Prosodical Criticism from Elizabethan Times to the Present Day. Oxford: Clarendon
-                  Press, 1921; rpt New York: Phaeton Press, 1968. 327 pp. </bibl>
+               <bibl>English Metrists: Being a Sketch of English Prosodical Criticism from
+                  Elizabethan Times to the Present Day. Oxford: Clarendon Press, 1921; rpt New York:
+                  Phaeton Press, 1968. 327 pp. </bibl>
                <note>Rev: in TLS 1 September 1921, p. 557 (reply by Omond in the Correspon- dence
                   for Sept. 15, p. 596); in Notes &amp;amp; Queries series 12, vol. 8 (1921): 519;
                   by McKerrow in MLR 17 (1922): 436. Hereafter referred to as Omond. Our first
@@ -161,10 +161,10 @@
             </bibl>
             <bibl xml:id="A7">
                <author>Omond, T[homas] S[tewart].</author>
-                    <bibl>English Metrists in the Eighteenth and Nineteenth
-                  Centuries: Being a Sketch of English Prosodical Criticism During the Last Two
-                  Hundred Years. London: Oxford University Press, 1907. 268 pp. See his other
-                  metrical studies listed below in Chapter Six on Meter, beginning at E305. </bibl>
+               <bibl>English Metrists in the Eighteenth and Nineteenth Centuries: Being a Sketch of
+                  English Prosodical Criticism During the Last Two Hundred Years. London: Oxford
+                  University Press, 1907. 268 pp. See his other metrical studies listed below in
+                  Chapter Six on Meter, beginning at E305. </bibl>
                <note> Prior to the present study, English Metrists offered the most succinct,
                   thorough, and accessible history of English metrical theory available. Given the
                   date of Omond's first two editions (A6 and A7), a comparison of his work with
@@ -308,8 +308,8 @@
             </bibl>
             <bibl xml:id="A9">
                <author>Schipper, Jakob.</author>
-                    <bibl>Englische Metrik: in historischer und systematischer
-                  Entwicklung dargestellt. 2 Parts in 3 vols. Bonn: Emil Strauss, 1881–88. </bibl>
+               <bibl>Englische Metrik: in historischer und systematischer Entwicklung dargestellt. 2
+                  Parts in 3 vols. Bonn: Emil Strauss, 1881–88. </bibl>
                <note> Part I: Altenglische Metrik. 1881. Part II: Neuenglische Metrik: Verslehre.
                   1888. Neuenglische Metrik: Stophenbau. 1888. Rev: in The Nation 35 (1882): 312; by
                   Wissmann in LGRP 3 (1882): cols. 133–39, with reply by Schipper, "Zur
@@ -325,17 +325,16 @@
             </bibl>
             <bibl xml:id="A10">
                <author>Schipper, Jakob.</author>
-                    <bibl>Grundriss der englischen Metrik. Wiener Beiträge zur
-                  englischen Philologie, no. 2. Vienna and Leipzig: W. Braumüller, 1895. 396 pp.
-                  Rev: in Anglia Beiblatt 7 (1897): 36–37; by Kaluza in LGRP 17 (1896): cols.
-                  227–31; in Archiv 97 (1896): 406–9; in Englische Studien 23 (1897): 295–99. </bibl>
+               <bibl>Grundriss der englischen Metrik. Wiener Beiträge zur englischen Philologie, no.
+                  2. Vienna and Leipzig: W. Braumüller, 1895. 396 pp. Rev: in Anglia Beiblatt 7
+                  (1897): 36–37; by Kaluza in LGRP 17 (1896): cols. 227–31; in Archiv 97 (1896):
+                  406–9; in Englische Studien 23 (1897): 295–99. </bibl>
                <note> Translated into English (apparently by Schipper himself) as </note>
             </bibl>
             <bibl xml:id="A11">
                <author>Schipper, Jakob.</author>
-                    <bibl>A History of English Versification. Oxford: Clarendon Press,
-                  1910; rpt New York: AMS Press, 1971; rpt Folcroft, Pa.: Folcroft Library Editions,
-                  1973. 390 pp. </bibl>
+               <bibl>A History of English Versification. Oxford: Clarendon Press, 1910; rpt New
+                  York: AMS Press, 1971; rpt Folcroft, Pa.: Folcroft Library Editions, 1973. 390 pp. </bibl>
                <note> The translation (hereafter referred to as Schipper) is reorganized as follows:
                   Book I: The Line Part I: The Native Metre Part 2: Foreign Metres Division 1: The
                   Foreign Metres in General Division 2: Verse-Forms Common to the Middle and Modern
@@ -418,8 +417,8 @@
             </bibl>
             <bibl xml:id="A12">
                <author>Fowler, Roger.</author>
-                    <bibl>The Languages of Literature: Some Linguistic Contributions to
-                  Literature. London: Routledge and Kegan Paul, 1971. </bibl>
+               <bibl>The Languages of Literature: Some Linguistic Contributions to Literature.
+                  London: Routledge and Kegan Paul, 1971. </bibl>
                <note> Fifteen essays various in subject-matter but all concerned in one way or an-
                   other with the possibilities for rapprochement between a precise linguistics and
                   the study of literature. For the study of metrics the key essay is "What Is Met-
@@ -427,8 +426,8 @@
             </bibl>
             <bibl xml:id="A13">
                <author>Hollander, John.</author>
-                    <bibl>Vision and Resonance: Two Senses of Poetic Form. New York:
-                  Oxford University Press, 1975. 306 pp. </bibl>
+               <bibl>Vision and Resonance: Two Senses of Poetic Form. New York: Oxford University
+                  Press, 1975. 306 pp. </bibl>
                <note> Twelve essays and an Appendix on a very wide range of subjects by a distin-
                   guished poet and critic, most of them previously published, many of them re-
                   turning sooner or later to Hollander's first love, music--the music of, in, or
@@ -437,15 +436,15 @@
             </bibl>
             <bibl xml:id="A14">
                <author>Fowler, Roger, ed.</author>
-                    <bibl>Essays on Style and Language: Linguistic and Critical
-                  Approaches to Literary Style. London: Routledge and Kegan Paul, 1966. </bibl>
+               <bibl>Essays on Style and Language: Linguistic and Critical Approaches to Literary
+                  Style. London: Routledge and Kegan Paul, 1966. </bibl>
                <note> Rev: in Foundations of Language 11 (1974): 591–94; in Essays in Criticism 16
                   (1966): 457–63. Ten essays by various hands. </note>
             </bibl>
             <bibl xml:id="A15">
                <author>Frye, Northrop, ed.</author>
-                    <bibl>Sound and Poetry: English Institute Essays, 1956. New
-                  York: Columbia University Press, 1957. </bibl>
+               <bibl>Sound and Poetry: English Institute Essays, 1956. New York: Columbia University
+                  Press, 1957. </bibl>
                <note> These seven essays are some of those presented at two conferences on "Music
                   and Poetry" and "Sound and Meaning in Poetry" at the English Institute. The volume
                   contains an Introduction (E353) and six essays. </note>
@@ -470,9 +469,8 @@
             </bibl>
             <bibl xml:id="A18">
                <author>Preminger, Alex, ed.</author>
-                    <bibl>Princeton Encyclopedia of Poetry and Poetics. Enlarged
-                  edition. Princeton: Princeton University Press, 1974. 992 pp., incl.
-                  Supplement.</bibl>
+               <bibl>Princeton Encyclopedia of Poetry and Poetics. Enlarged edition. Princeton:
+                  Princeton University Press, 1974. 992 pp., incl. Supplement.</bibl>
                <note> Easily the single most valuable reference work available today for any serious
                   reader of poetry. Contains over a thousand articles by distinguished specialists
                   on subjects in four categories: History, Technique of Poetry, Poetics and
@@ -482,20 +480,20 @@
             </bibl>
             <bibl xml:id="A19">
                <author>Sebeok, Thomas A., ed.</author>
-                    <bibl>Style in Literature. Cambridge, Mass.: M.I.T. Press,
-                  1960. Rev: there is a fine conspectus by F. L. Utley in Style 3 (1969): 95 ff; in
-                  Inter- national Journal of American Linguistics 28 (1962): 269–86; in Language 37
-                  (1961): 256–66; in Word 17 (1961): 318–44; in Archivum Linguisticum 14 (1962): 77–
-                  83; in Romance Philology 15 (1962): 424–38. </bibl>
+               <bibl>Style in Literature. Cambridge, Mass.: M.I.T. Press, 1960. Rev: there is a fine
+                  conspectus by F. L. Utley in Style 3 (1969): 95 ff; in Inter- national Journal of
+                  American Linguistics 28 (1962): 269–86; in Language 37 (1961): 256–66; in Word 17
+                  (1961): 318–44; in Archivum Linguisticum 14 (1962): 77– 83; in Romance Philology
+                  15 (1962): 424–38. </bibl>
                <note> The proceedings of the Conference on Style held at Indiana University in April
                   1968, a meeting of minds which reverberated in the scholarly literatures of
                   linguistics, literary criticism, and psychology for more than a decade. </note>
             </bibl>
             <bibl xml:id="A20">
                <author> Wimsatt, W. K., Jr., ed.</author>
-               <bibl>Versification: Major Language Types. Sixteen Essays.
-                  New York: New York University Press for MLA, 1970. 252 pp. Rev: by Beaver in
-                  Language Sciences 30 (1974): 42–43; by Cable in Style 9 (1975): 227–30. </bibl>
+               <bibl>Versification: Major Language Types. Sixteen Essays. New York: New York
+                  University Press for MLA, 1970. 252 pp. Rev: by Beaver in Language Sciences 30
+                  (1974): 42–43; by Cable in Style 9 (1975): 227–30. </bibl>
                <note> A valuable collection of recent essays in comparative prosody, surveying Eng-
                   lish (three essays), Classical Chinese, Japanese, Biblical Hebrew, Classical Greek
                   and Latin, Slavic, Uralic, Germanic, Celtic, Italian, Spanish, French, the
@@ -511,8 +509,7 @@
             </bibl>
             <bibl xml:id="A22">
                <author>Freeman, Donald C., ed.</author>
-                    <bibl>Linguistics and Literary Style. New York: Holt,
-                  Rinehart and Winston, 1970. </bibl>
+               <bibl>Linguistics and Literary Style. New York: Holt, Rinehart and Winston, 1970. </bibl>
                <note> Twenty-three articles in four sections: Linguistic Stylistics: Theory;
                   Linguistic Stylistics: Method; Approaches to Prose Style; and Approaches to
                   Metrics. Valuable editor's Introduction. </note>
@@ -529,8 +526,7 @@
             </bibl>
             <bibl xml:id="A24">
                <author>Hemphill, George, ed.</author>
-                    <bibl>Discussions of Poetry: Rhythm and Sound. Boston: D. C.
-                  Heath, 1961, 112 pp. </bibl>
+               <bibl>Discussions of Poetry: Rhythm and Sound. Boston: D. C. Heath, 1961, 112 pp. </bibl>
                <note> A collection of eighteen short excerpts from poets and critics (Gascoigne,
                   Jonson, Milton, Marvell, Dryden, Johnson, Jefferson, Blake, Coleridge, Poe,
                   Lanier, Hopkins, Saintsbury, Bridges, Young, Winters, Wellek and Warren, and
@@ -546,8 +542,8 @@
             </bibl>
             <bibl xml:id="A26">
                <author> Smith, G. Gregory ed.</author>
-               <bibl>Elizabethan Critical Essays. 2 vols. Oxford: Clarendon
-                  Press, 1904; rpt 1937–71. </bibl>
+               <bibl>Elizabethan Critical Essays. 2 vols. Oxford: Clarendon Press, 1904; rpt
+                  1937–71. </bibl>
                <note> The successor to Joseph Haslewood's Ancient Critical Essays upon English Poets
                   and Poesy (2 vols. London, 1811–15) and still the standard edition of the prin-
                   cipal Renaissance treatises on literary criticism and versification. </note>
@@ -674,8 +670,8 @@
             </bibl>
             <bibl xml:id="B11">
                <author>Berg, Viola J.</author>
-                    <bibl>Pathways for the Poet: Poetry Forms Explained and Illustrated.
-                  Milford, Mi.: Mott Media, 1977. </bibl>
+               <bibl>Pathways for the Poet: Poetry Forms Explained and Illustrated. Milford, Mi.:
+                  Mott Media, 1977. </bibl>
                <note> A handbook of poetic forms compiled by a writer of popular poetry contain- ing
                   several hundred eccentric and novel forms, some invented by the author, such as
                   "The Yeats," "Sweetbriar," and the like. She lists 22 metrical feet; did the
@@ -683,8 +679,8 @@
             </bibl>
             <bibl xml:id="B12">
                <author>Beum, Robert.</author>
-                    <bibl>The Poetic Art of William Butler Yeats. New York: Frederick
-                  Ungar, 1969. 161 pp. </bibl>
+               <bibl>The Poetic Art of William Butler Yeats. New York: Frederick Ungar, 1969. 161
+                  pp. </bibl>
                <note> Perhaps no other contemporary writer working in versification writes more
                   gracefully than Robert Beum; with a minimum of technical apparatus (3 de- grees of
                   stress--primary, secondary, and weak), but a maximum of perception, he examines
@@ -758,9 +754,9 @@
             </bibl>
             <bibl xml:id="B20">
                <author>Booth, Stephen.</author>
-                    <bibl>An Essay on Shakespeare's Sonnets. New Haven: Yale University
-                  Press, 1969. Based on his dissertation, "The Structures of Shakespeare's Sonnets,"
-                  at Harvard in 1964. </bibl>
+               <bibl>An Essay on Shakespeare's Sonnets. New Haven: Yale University Press, 1969.
+                  Based on his dissertation, "The Structures of Shakespeare's Sonnets," at Harvard
+                  in 1964. </bibl>
                <note> Booth's general intent is to show that the sonnet presents, as the paradigm of
                   poetic experience, multiple simultaneous orders, "multicity in unity," or the old
                   concordia discors. To that end, the book explicates the phonetic, metrical,
@@ -784,8 +780,7 @@
             </bibl>
             <bibl xml:id="B22">
                <author>Boulton, Marjorie.</author>
-                    <bibl>The Anatomy of Poetry. London: Routledge &amp; Kegan Paul,
-                  1953. </bibl>
+               <bibl>The Anatomy of Poetry. London: Routledge &amp; Kegan Paul, 1953. </bibl>
                <note> An introductory handbook and a companion to another on prose. Two chap- ters
                   on Rhythm, three on Phonetic form, and four on "mental Form." Scans by stress and
                   allows only the four commonest meters; emphasizes form throughout. Sensible.
@@ -800,9 +795,8 @@
             </bibl>
             <bibl xml:id="B24">
                <author>Brink, Bernhard Ten.</author>
-                    <bibl>Geschichte der englischen Litteratur. 2 vols. Berlin: R.
-                  Oppenheim, 1877–93. Translated as History of English Literature. New York: Henry
-                  Holt, 1889–96. </bibl>
+               <bibl>Geschichte der englischen Litteratur. 2 vols. Berlin: R. Oppenheim, 1877–93.
+                  Translated as History of English Literature. New York: Henry Holt, 1889–96. </bibl>
                <note> Passim. Ten Brink's specialty, like Kaluza's, lay in Old and Middle English,
                   so his History is weighted on that end. </note>
             </bibl>
@@ -821,8 +815,8 @@
             </bibl>
             <bibl xml:id="B27">
                <author>Buell, Robert K.</author>
-                    <bibl>Lectures on the Technique of Verse Writing. Mountain View,
-                  Calif.: The Author, 1939. 119 pp. </bibl>
+               <bibl>Lectures on the Technique of Verse Writing. Mountain View, Calif.: The Author,
+                  1939. 119 pp. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="B28">
@@ -930,8 +924,8 @@
             </bibl>
             <bibl xml:id="B40">
                <author>Corson, Hiram.</author>
-                    <bibl>A Primer of English Verse: chiefly in its aesthetic and organic
-                  character. Boston: Ginn and Company, 1892. 226 pp. </bibl>
+               <bibl>A Primer of English Verse: chiefly in its aesthetic and organic character.
+                  Boston: Ginn and Company, 1892. 226 pp. </bibl>
                <note> Rev: by A. H. Tolman in MLN 8 (1893): 245–47 (discusses Milton's meters). We
                   find here a truly Coleridgian thesis: in contrast to the analytical, divisive
                   process of intellect, "when strong feeling is in any way objectified, a unifying
@@ -945,9 +939,8 @@
             </bibl>
             <bibl xml:id="B41">
                <author>Costello, Sister Mary Cleophas.</author>
-                    <bibl>Between Fixity and Flux: A Study of the
-                  Concept of Poetry in the Criticism of T. S. Eliot. Washington D.C.: Catholic
-                  University of America Press, 1947. </bibl>
+               <bibl>Between Fixity and Flux: A Study of the Concept of Poetry in the Criticism of
+                  T. S. Eliot. Washington D.C.: Catholic University of America Press, 1947. </bibl>
                <note> An invaluable guide to the development of Eliot's thinking about the catego-
                   ries "verse," "prose," and "poetry." See especially Chapters 2 and 3. The differ-
                   entia between the second and third of these eventually turns out to be one of
@@ -994,8 +987,8 @@
             </bibl>
             <bibl xml:id="B47">
                <author>Deutsche, Babette.</author>
-                    <bibl>Poetry Handbook: A Dictionary of Terms. New York: Funk
-                  &amp; Wagnalls, 1957; 4th ed. 1974. </bibl>
+               <bibl>Poetry Handbook: A Dictionary of Terms. New York: Funk &amp; Wagnalls, 1957;
+                  4th ed. 1974. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="B48">
@@ -1026,7 +1019,7 @@
             </bibl>
             <bibl xml:id="B50">
                <author>Drechsler, Walther.</author>
-                    <bibl>Der Stil des Macphersonschen Ossian. Diss., Berlin, 1904. </bibl>
+               <bibl>Der Stil des Macphersonschen Ossian. Diss., Berlin, 1904. </bibl>
                <note> Brief remarks on rhythm and meter, pp. 34–38, but the preponderance falls on
                   syntax and figuration. </note>
             </bibl>
@@ -1154,7 +1147,7 @@
             </bibl>
             <bibl xml:id="B65">
                <author>Ford, S.</author>
-                    <bibl>Gertrude. Lessons in Verse-Craft. London: C. W. Daniel, 1919. 125 pp. </bibl>
+               <bibl>Gertrude. Lessons in Verse-Craft. London: C. W. Daniel, 1919. 125 pp. </bibl>
                <note> A beginner's manual. The author has a penchant for French forms. Regrettably
                   the paper the volume is printed on is of rather high quality. </note>
             </bibl>
@@ -1213,8 +1206,7 @@
             </bibl>
             <bibl xml:id="B73">
                <author>Frye, Northrop.</author>
-                    <bibl>The Well-Tempered Critic. Bloomington: Indiana University
-                  Press, 1963. </bibl>
+               <bibl>The Well-Tempered Critic. Bloomington: Indiana University Press, 1963. </bibl>
                <note> Frye distinguishes three primary verbal rhythms: the rhythm of verse, the
                   rhythm of prose (more complex), and the "associative rhythm"--fragmentary in logic
                   and syntax--of ordinary speech. These three influence each other to produce six
@@ -1288,8 +1280,8 @@
             </bibl>
             <bibl xml:id="B81">
                <author>Gordon, Ralph.</author>
-                    <bibl>The Technique of Verse. New York: The City College Co-operative
-                  Store, 1933. 56 pp. </bibl>
+               <bibl>The Technique of Verse. New York: The City College Co-operative Store, 1933. 56
+                  pp. </bibl>
                <note> A student's manual, with sections on "Meter and Rhythm," "Verse Forms," and
                   "Tone Color." He admits only the four simple meters. For its class the book is
                   solid, and a teacher may still find it useful to recommend to beginning students.
@@ -1297,8 +1289,8 @@
             </bibl>
             <bibl xml:id="B82">
                <author>Graves, Robert.</author>
-                    <bibl>Contemporary Techniques of Poetry: A Political Analogy.
-                  Tunbridge Wells and London: Leonard and Virginia Woolf at the Hogarth Press, 1925. </bibl>
+               <bibl>Contemporary Techniques of Poetry: A Political Analogy. Tunbridge Wells and
+                  London: Leonard and Virginia Woolf at the Hogarth Press, 1925. </bibl>
                <note> Chapters on Diction, Metre, Rhyme, Texture, and Structure. Graves adapts the
                   political analogy of Conservatives versus Liberals to discuss the state of modern
                   poetry. </note>
@@ -1337,8 +1329,7 @@
             </bibl>
             <bibl xml:id="B84">
                <author>Grindrod, Charles F.</author>
-                    <bibl>Studies in Rhyme and Rhythm. London: Elkin Mathews, 1905.
-                  135 pp. </bibl>
+               <bibl>Studies in Rhyme and Rhythm. London: Elkin Mathews, 1905. 135 pp. </bibl>
                <note> Irrelevant to verse theory: a collection of poems. </note>
             </bibl>
             <bibl xml:id="B85">
@@ -1353,9 +1344,8 @@
             </bibl>
             <bibl xml:id="B86">
                <author>Guérard, Albert.</author>
-                    <bibl>Robert Bridges: A Study of Traditionalism in Poetry.
-                  Cambridge, Mass.: Harvard University Press, 1942; rpt New York: Russel &amp;
-                  Russel, 1965. </bibl>
+               <bibl>Robert Bridges: A Study of Traditionalism in Poetry. Cambridge, Mass.: Harvard
+                  University Press, 1942; rpt New York: Russel &amp; Russel, 1965. </bibl>
                <note> Chapter six, "Form and Style" (pp. 106–19) discusses meter, speech-rhythms,
                   sound devices, word-order, diction, archaisms, and imagery. Appendix A, "Bridges'
                   Prosody" (pp. 269–84) briefly explores the work in four meters: Ac-
@@ -1381,8 +1371,8 @@
             </bibl>
             <bibl xml:id="B89">
                <author>Hartog, Sir P.</author>
-                    <bibl>J. On the Relation of Poetry to Verse. English Association
-                  Pamphlet no. 64. Oxford: Oxford University Press, 1926. 27 pp. </bibl>
+               <bibl>J. On the Relation of Poetry to Verse. English Association Pamphlet no. 64.
+                  Oxford: Oxford University Press, 1926. 27 pp. </bibl>
                <note> Traces out three positions which have been taken, historically, on the crucial
                   question, "Why is poetry written in verse?": (1) "poetry" is synonymous with
                   "verse"; (2) poetry is a certain kind of content, regardless of the form of the
@@ -1421,8 +1411,8 @@
             </bibl>
             <bibl xml:id="B95">
                <author> William Mat-chett</author>
-               <bibl>PMLA 72 (1957): 310–11. See also Hill's refocillation in
-                  Texas Studies in Literature and Language 7 (1965): 349–59. </bibl>
+               <bibl>PMLA 72 (1957): 310–11. See also Hill's refocillation in Texas Studies in
+                  Literature and Language 7 (1965): 349–59. </bibl>
                <note> The great virtue of this linguistic explication is that it is completely self-
                   conscious: Hill explains his principles and procedures even as he applies them to
                   the Hopkins poem, justifying them, thereby, both pragmatically and formally. He
@@ -1435,8 +1425,7 @@
             </bibl>
             <bibl xml:id="B96">
                <author>Hillyer, Robert.</author>
-                    <bibl>First Principles of Verse. Boston: The Writer, 1938; rpt
-                  1957. </bibl>
+               <bibl>First Principles of Verse. Boston: The Writer, 1938; rpt 1957. </bibl>
                <note> One cannot imagine any justification for reprinting this book. </note>
             </bibl>
             <bibl xml:id="B97">
@@ -1446,16 +1435,14 @@
             </bibl>
             <bibl xml:id="B98">
                <author>Hollander, John.</author>
-                    <bibl>Introduction to Selected Poems of Ben Jonson. New York: Dell-
-                  Laurel, 1961; revised and expanded into Chapter 8 of his Vision and Resonance
-                  (A13), pp. 165–86. </bibl>
+               <bibl>Introduction to Selected Poems of Ben Jonson. New York: Dell- Laurel, 1961;
+                  revised and expanded into Chapter 8 of his Vision and Resonance (A13), pp. 165–86. </bibl>
                <note> Passim. </note>
             </bibl>
             <bibl xml:id="B99">
                <author>Holmes, Martin.</author>
-                    <bibl>Shakespeare and Burbage: The Sound of Shakespeare as Devised
-                  to Suit the Voice and Talents of His Principal Player. Chichester: Fillimore,
-                  1978. 205 pp. </bibl>
+               <bibl>Shakespeare and Burbage: The Sound of Shakespeare as Devised to Suit the Voice
+                  and Talents of His Principal Player. Chichester: Fillimore, 1978. 205 pp. </bibl>
                <note> Frequent remarks on meter, rhyme, and the melodic line, passim, especially in
                   Chapter 7. </note>
             </bibl>
@@ -1517,15 +1504,14 @@
             </bibl>
             <bibl xml:id="B107">
                <author>Jenkinson, Editha.</author>
-                    <bibl>The Art of Writing Verse: The Malory Introduction to
-                  Prosody. London: E. Macdonald, Ltd., 1920. 62 pp. </bibl>
+               <bibl>The Art of Writing Verse: The Malory Introduction to Prosody. London: E.
+                  Macdonald, Ltd., 1920. 62 pp. </bibl>
                <note> A very slight work even for a primer; she explicitly follows R. F. Brewer
                   (E489). </note>
             </bibl>
             <bibl xml:id="B108">
                <author>Johnson, Charles F.</author>
-                    <bibl>Forms of English Poetry. New York: American Book Company,
-                  1904. 356 pp. </bibl>
+               <bibl>Forms of English Poetry. New York: American Book Company, 1904. 356 pp. </bibl>
                <note> A primer organized by forms. His principles: metrical feet are units "which
                   di- vide the time of utterance into equal parts" and which "are marked by the
                   presence of an accented syllable which serves to individualize them." Classical
@@ -1648,8 +1634,8 @@
             </bibl>
             <bibl xml:id="B118">
                <author>Kivimaa, Kirsti.</author>
-                    <bibl>Aspects of Style in T. S. Eliot's "Murder in the Cathedral".
-                  Turku: Turun Yliopisto, 1969. </bibl>
+               <bibl>Aspects of Style in T. S. Eliot's "Murder in the Cathedral". Turku: Turun
+                  Yliopisto, 1969. </bibl>
                <note> Brief remarks on rhythm (stress-verse), rhyme, and alliteration, pp. 78–85,
                   be- sides entire sections on Syntax and Vocabulary. </note>
             </bibl>
@@ -1761,9 +1747,9 @@
             </bibl>
             <bibl xml:id="B129">
                <author>Levin, Samuel R.</author>
-                    <bibl>Linguistic Structures in Poetry. Janua Linguarum, no. 23. The
-                  Hague: Mouton, 1962. Pages 51–58 are reprinted in Freeman (A22, pp. 197–205) as
-                  "Coupling in a Shakespeare Sonnet." </bibl>
+               <bibl>Linguistic Structures in Poetry. Janua Linguarum, no. 23. The Hague: Mouton,
+                  1962. Pages 51–58 are reprinted in Freeman (A22, pp. 197–205) as "Coupling in a
+                  Shakespeare Sonnet." </bibl>
                <note> Rev: in Language 42 (1966): 639–49; in American Speech 38 (1963): 137–40.
                   Levin's monograph represents the first full-scale application of Jakobson's dic-
                   tum on equivalence as the informing principle of poetic structure (see L65).
@@ -1999,8 +1985,8 @@
             </bibl>
             <bibl xml:id="B157">
                <author>Nowottny, Winifred.</author>
-                    <bibl>The Language Poets Use. London: The Athlone Press, 1962;
-                  rpt "with corrections," 1965. </bibl>
+               <bibl>The Language Poets Use. London: The Athlone Press, 1962; rpt "with
+                  corrections," 1965. </bibl>
                <note> Rev: in JEGP 62 (1963): 784–86; in Review of English Studies n.s. 14 (1963):
                   432–34; in Archiv 200 (1963): 230–32; in Studia Neophilologica 35 (1963): 303– 5;
                   in English Studies 45 (1964): 76–78; in Die Neueren Sprachen n.s. 13 (1964):
@@ -2076,15 +2062,14 @@
             </bibl>
             <bibl xml:id="B161">
                <author>Packard, William.</author>
-                    <bibl>[Editorial Preface.] New York Quarterly. no. 12 (1972), pp.
-                  3–12. </bibl>
+               <bibl>[Editorial Preface.] New York Quarterly. no. 12 (1972), pp. 3–12. </bibl>
                <note> A mere list of technical terms with definitions. Better: "real art always
                   involves the risk of sacrifice by an extraordinary individual." </note>
             </bibl>
             <bibl xml:id="B162">
                <author>Parker, Marion H.</author>
-                    <bibl>Language and Reality: A Course in Contemporary Criticism.
-                  London: Frederick Muller, 1949. </bibl>
+               <bibl>Language and Reality: A Course in Contemporary Criticism. London: Frederick
+                  Muller, 1949. </bibl>
                <note> Slight, but see the sections on "Configuration Words," "Rhythm," and "Word
                   Order." </note>
             </bibl>
@@ -2118,7 +2103,7 @@
             </bibl>
             <bibl xml:id="B166">
                <author>Perry, Bliss.</author>
-                    <bibl>A Study of Poetry. Boston: Houghton Mifflin, 1920. 396 pp. </bibl>
+               <bibl>A Study of Poetry. Boston: Houghton Mifflin, 1920. 396 pp. </bibl>
                <note> Chapter IV, "The Poet's Words," is long and now elementary. Chapter V on
                   "Rhythm and Meter" explores the "conflict and compromise" of "timers" and
                   "stressers," the rhythm of prose, concepts of quantity and stress, the analogy
@@ -2151,8 +2136,7 @@
             </bibl>
             <bibl xml:id="B169">
                <author>Press, John.</author>
-                    <bibl>The Fire and the Fountain. New York: Oxford University Press,
-                  1955. </bibl>
+               <bibl>The Fire and the Fountain. New York: Oxford University Press, 1955. </bibl>
                <note> Chapter 4, pp. 94–143, discusses music and poetry, rhythm and meter, phras-
                   ing, sound and sense. The tone is discursive, urbane, and engaging, and Press
                   touches on a great many poets without arguing any single thesis. </note>
@@ -2193,15 +2177,14 @@
             </bibl>
             <bibl xml:id="B175">
                <author>Raymond, G[eorge] L[ansing].</author>
-                    <bibl>Poetry as a Representative Art. New York: G. P.
-                  Putnam's Sons, 1885; 5th rev. ed. 1903. </bibl>
+               <bibl>Poetry as a Representative Art. New York: G. P. Putnam's Sons, 1885; 5th rev.
+                  ed. 1903. </bibl>
                <note> Chapters on "elocution" and force, pitch, duration, timbre; meanings of sounds
                   and meanings of words; and the idea of representation. </note>
             </bibl>
             <bibl xml:id="B176">
                <author>Redlay. "Essay on Rhyme." Literary Chronicle, no.</author>
-                    <bibl>114 (21 July 1821), pp.
-                  458–59. </bibl>
+               <bibl>114 (21 July 1821), pp. 458–59. </bibl>
                <note> Divides literary language into three domains, the "rhythmical, metrical, and
                   prosaical." Curiously, he believes the historical order of these modes to be
                   prose, metrical prose, blank verse, and finally rhyme. Of these, rhyme is de-
@@ -2259,8 +2242,8 @@
             </bibl>
             <bibl xml:id="B182">
                <author>Rickert, Edith.</author>
-                    <bibl>New Methods for the Study of Literature. Chicago: University
-                  of Chicago Press, 1927. </bibl>
+               <bibl>New Methods for the Study of Literature. Chicago: University of Chicago Press,
+                  1927. </bibl>
                <note> Rev: in TLS, 26 May 1927, p. 370; by Allen Tate in New Republic 50 (1927):
                   281–82; in JEGP 27 (1928): 133–35; in Review of English Studies 4 (1928): 120–21.
                   Chapter 5 (pp. 147–88) treats Rhythm, chapter 6 (pp. 189–239) Tone Pat- terns, and
@@ -2295,8 +2278,8 @@
             </bibl>
             <bibl xml:id="B185">
                <author>Rieser, Max.</author>
-                    <bibl>Analysis of Poetic Thinking. Tr. Herbert M. Schueller. Detroit:
-                  Wayne State University Press, 1969. </bibl>
+               <bibl>Analysis of Poetic Thinking. Tr. Herbert M. Schueller. Detroit: Wayne State
+                  University Press, 1969. </bibl>
                <note> Includes: "Poetic Thinking as a Regressive Phenomenon: The Roots of Rhythm and
                   Sound-Symbolism," pp. 15–29; "The Psychic Function of Rhythm and Rhyme," pp.
                   30–38; "Onomatopoeia as a Substitute for Things," pp. 71–82; "The Chief
@@ -2462,8 +2445,8 @@
             </bibl>
             <bibl xml:id="B202">
                <author>Smith, Barbara Herrnstein.</author>
-                    <bibl>Poetic Closure: A Study of How Poems End. Chicago:
-                  University of Chicago Press, 1968. </bibl>
+               <bibl>Poetic Closure: A Study of How Poems End. Chicago: University of Chicago Press,
+                  1968. </bibl>
                <note> The second chapter of this brilliant study treats closure and the formal
                   struc- ture of sonnets, strict stanzaic forms, couplets, blank verse, and free
                   verse. In contrast to what we might otherwise have expected, Smith shows that no
@@ -2485,8 +2468,7 @@
             </bibl>
             <bibl xml:id="B203">
                <author>Smith, Chard Powers.</author>
-                    <bibl>Patterns and Variation in Poetry. New York: Charles
-                  Scribner's Sons, 1932. </bibl>
+               <bibl>Patterns and Variation in Poetry. New York: Charles Scribner's Sons, 1932. </bibl>
                <note> Rev: By Croll in MLN 49 (1934): 54–55; in TLS, 9 February 1933, p. 81 (leading
                   article); in Poetry 42 (1933): 54–56. Very unjustly neglected, probably because of
                   a very effusive style, but well worth an afternoon's inquiry. The great virtue of
@@ -2546,8 +2528,8 @@
             </bibl>
             <bibl xml:id="B209">
                <author>Sutherland, James.</author>
-                    <bibl>The Medium of Poetry. London: The Hogarth Press, 1934. 168
-                  pp. Rev: in MLR 30 (1935): 95–96. </bibl>
+               <bibl>The Medium of Poetry. London: The Hogarth Press, 1934. 168 pp. Rev: in MLR 30
+                  (1935): 95–96. </bibl>
                <note> These discursive observations on the poet's handling of his matter and modes
                   employ the term "medium" in a relatively broad sense. But see chapters 4 and 6 on
                   form. </note>
@@ -2590,16 +2572,16 @@
             </bibl>
             <bibl xml:id="B214">
                <author>Turco, Lewis.</author>
-                    <bibl>Poetry: An Introduction Through Writing. Reston, Virginia:
-                  Reston Publishing Co., 1973. </bibl>
+               <bibl>Poetry: An Introduction Through Writing. Reston, Virginia: Reston Publishing
+                  Co., 1973. </bibl>
                <note> The title is deceptive: the book is actually a typology of Prosodies (at least
                   nine, by my count), Schemes, Tropes and Figures, and Genres. Examples, ex-
                   ercises, Bibliography, and Index. </note>
             </bibl>
             <bibl xml:id="B215">
                <author>Untermeyer, Louis.</author>
-                    <bibl>The Forms of Poetry: A Pocket Dictionary of Verse. 2nd ed.
-                  New York: Harcourt, Brace &amp; World, 1926. 173 pp. </bibl>
+               <bibl>The Forms of Poetry: A Pocket Dictionary of Verse. 2nd ed. New York: Harcourt,
+                  Brace &amp; World, 1926. 173 pp. </bibl>
                <note> A well-known handbook, arranged alphabetically. </note>
             </bibl>
             <bibl xml:id="B216">
@@ -2628,10 +2610,10 @@
             </bibl>
             <bibl xml:id="B219">
                <author>Vogel, Joseph F.</author>
-                    <bibl>Dante Gabriel Rossetti's Versecraft. University of Florida
-                  Monographs, Humanities, no. 34. Gainesville: University of Florida Press, 1971.
-                  Based on his dissertation, "Studies of Form and Meaning in the Poetry of D. G.
-                  Rossetti," at Florida in 1965. </bibl>
+               <bibl>Dante Gabriel Rossetti's Versecraft. University of Florida Monographs,
+                  Humanities, no. 34. Gainesville: University of Florida Press, 1971. Based on his
+                  dissertation, "Studies of Form and Meaning in the Poetry of D. G. Rossetti," at
+                  Florida in 1965. </bibl>
                <note> Rev: in South Atlantic Bulletin 37 (1972): 74–76; in Victorian Studies 16
                   (1972): 235–37; in English Language Notes 10 (1972): 60–61. A patient,
                   non-tendentious study of Rossetti's handling of metrical, stanzaic, and sonal
@@ -2642,9 +2624,8 @@
             </bibl>
             <bibl xml:id="B220">
                <author>Von Hallberg, Robert.</author>
-                    <bibl>Charles Olson: The Scholar's Art. Cambridge, Mass.:
-                  Harvard University Press, 1978. Based on his dissertation at Stanford University
-                  in 1975. </bibl>
+               <bibl>Charles Olson: The Scholar's Art. Cambridge, Mass.: Harvard University Press,
+                  1978. Based on his dissertation at Stanford University in 1975. </bibl>
                <note> Passim. Chapter 5 (pp. 170–204) offers the most sustained treatment of pro-
                   sodic matters, especially Olson's stylistic development, but notice also the sec-
                   tion on "Process Poems: Prosody and Syntax" in Chapter 2 (pp. 65–73) and the one
@@ -2674,9 +2655,8 @@
             </bibl>
             <bibl xml:id="B223">
                <author>Wharton, Thomas.</author>
-                    <bibl>The History of English Poetry from the Close of the Eleventh
-                  to the Commencement of the Eighteenth Century. 3 vols. London: J. Dodsley,
-                  1774–81. </bibl>
+               <bibl>The History of English Poetry from the Close of the Eleventh to the
+                  Commencement of the Eighteenth Century. 3 vols. London: J. Dodsley, 1774–81. </bibl>
                <note> Section 25 offers some valuable information on metrical treatises written by
                   the graduates of Oxford in the early fifteenth century, vis à vis the term poeta
                   laureatus. Otherwise there are useful and interesting remarks on versification
@@ -2770,8 +2750,8 @@
             </bibl>
             <bibl xml:id="B231">
                <author>Williams, Juanita S.</author>
-                    <bibl>Prosody as Ritual; an Experiment. Nashville, Tenn., 1962;
-                  Lexington: University of Kentucky Press, 1963. 124 pp. </bibl>
+               <bibl>Prosody as Ritual; an Experiment. Nashville, Tenn., 1962; Lexington: University
+                  of Kentucky Press, 1963. 124 pp. </bibl>
                <note> Not a critical study but original poetry submitted as her Master's Thesis at
                   Vanderbilt. </note>
             </bibl>
@@ -2857,8 +2837,7 @@
 
             <bibl xml:id="C1">
                <author>Bartling, Gustav.</author>
-                    <bibl>Rhymes of English Poets of the XIXth Century. Diss.,
-                  Rostock, 1874. 26 pp. </bibl>
+               <bibl>Rhymes of English Poets of the XIXth Century. Diss., Rostock, 1874. 26 pp. </bibl>
                <note>So far as I know an untapped cask of examples of rhymes which earlier English
                   poets thought acceptable but which seem unnatural to us now, after changes in
                   pronunciation. </note>
@@ -2871,15 +2850,15 @@
             </bibl>
             <bibl xml:id="C3">
                <author>Cercignani, Fausto.</author>
-                    <bibl>Shakespeare's Works and Elizabethan Pronunciation. London:
-                  Oxford University Press, 1980. 448 pp. </bibl>
+               <bibl>Shakespeare's Works and Elizabethan Pronunciation. London: Oxford University
+                  Press, 1980. 448 pp. </bibl>
                <note>Treats not only pronunciation and spelling but also meter, rhyme, and puns.
                </note>
             </bibl>
             <bibl xml:id="C4">
                <author>Davies, Constance.</author>
-                    <bibl>English Pronunciation from the Fifteenth to the Eighteenth
-                  Century. London: J. M. Dent, 1934. </bibl>
+               <bibl>English Pronunciation from the Fifteenth to the Eighteenth Century. London: J.
+                  M. Dent, 1934. </bibl>
                <note> Rev.: in Review of English Studies 12 (1936): 372-74; in TLS, 23 May 1935, p.
                   330. </note>
             </bibl>
@@ -2891,8 +2870,8 @@
             </bibl>
             <bibl xml:id="C6">
                <author>Dierberger, Joseph.</author>
-                    <bibl>John Drydens Reime: Ein Beitrag zur Geschichte der
-                  englischen Tonvokale. Diss., Freiburg, 1895. 115 pp. </bibl>
+               <bibl>John Drydens Reime: Ein Beitrag zur Geschichte der englischen Tonvokale. Diss.,
+                  Freiburg, 1895. 115 pp. </bibl>
                <note/>
             </bibl>
             <bibl xml:id="C7">
@@ -2918,25 +2897,25 @@
             </bibl>
             <bibl xml:id="C9">
                <author>Ellis, Alexander J.</author>
-                    <bibl>On Early English Pronunciation, with Special Reference to
-                  Shakespeare and Chaucer. 5 vols. Early English Text Society, Extra Series, nos. 2,
-                  7, 14, 23, and 55. London: Trüubner, 1869-89. Published jointly by the EETS, the
-                  Chaucer Society, and the Philological Society. </bibl>
+               <bibl>On Early English Pronunciation, with Special Reference to Shakespeare and
+                  Chaucer. 5 vols. Early English Text Society, Extra Series, nos. 2, 7, 14, 23, and
+                  55. London: Trüubner, 1869-89. Published jointly by the EETS, the Chaucer Society,
+                  and the Philological Society. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="C10">
                <author>Gabrielson, Arvid.</author>
-                    <bibl>Edward Bysshe's Dictionary of Rhymes as a Source of
-                  Information on Early Modern English Pronunciation. Uppsala and Stockholm: Almqvist
-                  &amp; Wiksells, 1930; 87 pp. </bibl>
+               <bibl>Edward Bysshe's Dictionary of Rhymes as a Source of Information on Early Modern
+                  English Pronunciation. Uppsala and Stockholm: Almqvist &amp; Wiksells, 1930; 87
+                  pp. </bibl>
                <note>Rev: in Archiv 160 (1931): 262-63; in MLR 27 (1932): 99-101; in English Studies
                   16 (1934): 226-28. </note>
             </bibl>
             <bibl xml:id="C11">
                <author>Gabrielson, Arvid.</author>
-                    <bibl>Rime as a Criterion of the Pronunciation of Spencer, Pope,
-                  Byron, and Swinburne; a Contribution to the History of the Present English
-                  Stressed Vowels. Uppsala: Almqvist &amp; Wiksells, 1909. 211 pp. </bibl>
+               <bibl>Rime as a Criterion of the Pronunciation of Spencer, Pope, Byron, and
+                  Swinburne; a Contribution to the History of the Present English Stressed Vowels.
+                  Uppsala: Almqvist &amp; Wiksells, 1909. 211 pp. </bibl>
                <note/>
             </bibl>
             <bibl xml:id="C12">
@@ -2947,8 +2926,8 @@
             </bibl>
             <bibl xml:id="C13">
                <author>Hanley, Miles L.</author>
-                    <bibl>Index to Rimes in American and English Poetry, 1500-1900.
-                  Madison, Wis.: Microcard Foundation, 1959. </bibl>
+               <bibl>Index to Rimes in American and English Poetry, 1500-1900. Madison, Wis.:
+                  Microcard Foundation, 1959. </bibl>
                <note> The set of microcards simply reproduces a card-file (over 100,000 cards) of
                   rimes drawn from a large number of miscellanies and anthologies; no analysis or
                   synthesis. The work was unfinished at the author's death. </note>
@@ -2960,20 +2939,19 @@
             </bibl>
             <bibl xml:id="C15">
                <author>Jones, Daniel.</author>
-                    <bibl>The Pronunciation of English. Cambridge: Cambridge University
-                  Press, 1909; 2nd ed. 1924; 4th ed. revised and enlarged, 1956. </bibl>
+               <bibl>The Pronunciation of English. Cambridge: Cambridge University Press, 1909; 2nd
+                  ed. 1924; 4th ed. revised and enlarged, 1956. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="C16">
                <author>Kökeritz, Helge.</author>
-                    <bibl>Mather Flint on Early Eighteenth-Century En-glish
-                  Pronunciation. Uppsala: Almqvist &amp; Wiksells, 1944. 189 pp. </bibl>
+               <bibl>Mather Flint on Early Eighteenth-Century En-glish Pronunciation. Uppsala:
+                  Almqvist &amp; Wiksells, 1944. 189 pp. </bibl>
                <note/>
             </bibl>
             <bibl xml:id="C17">
                <author>Kökeritz, Helge.</author>
-                    <bibl>Shakespeare's Pronunciation. New Haven: Yale University
-                  Press, 1953. </bibl>
+               <bibl>Shakespeare's Pronunciation. New Haven: Yale University Press, 1953. </bibl>
                <note> Rev: in Shakespeare Quarterly 5 (1933): 413-15; by Hallet Smith in Yale Review
                   43 (1953): 121-25; in College English 16 (1954-55): 198-99; in MLR 49 (1954):
                   367-68; by A. A. Hill in Language 29 (1953): 549-61; by H. Whitehall in Kenyon
@@ -2996,10 +2974,10 @@
             </bibl>
             <bibl xml:id="C20">
                <author>Moore, Samuel.</author>
-                    <bibl>Historical Outlines of English Sounds and Inflections. Revised
-                  by Albert H. Marckwardt. Ann Arbor: G Wahr, 1951, 1960. (Originally published as
-                  Historical Outlines of English Phonology and Middle English Grammar. Ann Arbor: G.
-                  Wahr, 1919, 1925.) </bibl>
+               <bibl>Historical Outlines of English Sounds and Inflections. Revised by Albert H.
+                  Marckwardt. Ann Arbor: G Wahr, 1951, 1960. (Originally published as Historical
+                  Outlines of English Phonology and Middle English Grammar. Ann Arbor: G. Wahr,
+                  1919, 1925.) </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="C21">
@@ -3010,10 +2988,10 @@
             </bibl>
             <bibl xml:id="C22">
                <author>Söderholm, Torbjörn.</author>
-                    <bibl>The End-Rhymes of Marvell, Cowley, Cra-shaw, Lovelace,
-                  and Vaughn: A Study of Their Reflection of the Pronunciation of Stressed Vowels
-                  and Diphthongs in the Mid-Seventeenth Century. Abo, Finland: Abo Akademi, 1970.
-                  Rev. in Language 50 (1974): 742-48; in English Studies 56 (1975): 513-18. </bibl>
+               <bibl>The End-Rhymes of Marvell, Cowley, Cra-shaw, Lovelace, and Vaughn: A Study of
+                  Their Reflection of the Pronunciation of Stressed Vowels and Diphthongs in the
+                  Mid-Seventeenth Century. Abo, Finland: Abo Akademi, 1970. Rev. in Language 50
+                  (1974): 742-48; in English Studies 56 (1975): 513-18. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="C23">
@@ -3024,8 +3002,8 @@
             </bibl>
             <bibl xml:id="C24">
                <author>Sweet, Henry.</author>
-                    <bibl>A History of English Sounds: from the Earliest Period. London:
-                  Trübner, 1874; 2nd ed. Oxford: Clarendon Press, 1888. </bibl>
+               <bibl>A History of English Sounds: from the Earliest Period. London: Trübner, 1874;
+                  2nd ed. Oxford: Clarendon Press, 1888. </bibl>
                <note> Rpt from the Transactions of the Philological Society, 1873-74, pp. 461-623.
                   See also an abstract of his paper on </note>
             </bibl>
@@ -3047,18 +3025,18 @@
             </bibl>
             <bibl xml:id="C27">
                <author>Viétor, Wilhelm.</author>
-                    <bibl>Shakespeare's Pronunciation. 2 vols. Vol. 1: A Shakespeare
-                  Phonology, with a Rime-Index to the poems as a pronouncing vocabulary. Vol. 2: A
-                  Shakespeare Reader in the old spelling and with a phonetic transcription. Marburg:
-                  Elwert, 1906; rpt (vol. 1 only) New York: F. Ungar, 1963. </bibl>
+               <bibl>Shakespeare's Pronunciation. 2 vols. Vol. 1: A Shakespeare Phonology, with a
+                  Rime-Index to the poems as a pronouncing vocabulary. Vol. 2: A Shakespeare Reader
+                  in the old spelling and with a phonetic transcription. Marburg: Elwert, 1906; rpt
+                  (vol. 1 only) New York: F. Ungar, 1963. </bibl>
                <note> Rev: in MLR 2 (1907): 74-77; in Shakespeare Jahrbuch 43 (1907): 263-69.
                </note>
             </bibl>
             <bibl xml:id="C28">
                <author>Wijk, Axel.</author>
-                    <bibl>Rules of Pronunciation for the English Language: An Account of the
-                  Relationship Between English Spelling and Pronunciation. London: Oxford University
-                  Press, 1966. 160 pp. </bibl>
+               <bibl>Rules of Pronunciation for the English Language: An Account of the Relationship
+                  Between English Spelling and Pronunciation. London: Oxford University Press, 1966.
+                  160 pp. </bibl>
                <note/>
             </bibl>
             <bibl xml:id="C29">
@@ -3073,14 +3051,14 @@
             </bibl>
             <bibl xml:id="C31">
                <author>Zachrisson, Robert E.</author>
-                    <bibl>English Pronunciation at Shakespeare's Time as Taught by
-                  William Bullokar. Uppsala and Leipzig: Almqvist &amp; Wiksells, 1927. </bibl>
+               <bibl>English Pronunciation at Shakespeare's Time as Taught by William Bullokar.
+                  Uppsala and Leipzig: Almqvist &amp; Wiksells, 1927. </bibl>
                <note> Rev: in English Studies 18 (1936): 39-43. </note>
             </bibl>
             <bibl xml:id="C32">
                <author>Zachrisson, Robert E.</author>
-                    <bibl>Pronunciation of English Vowels 1400-1700. Göteborg,
-                  1913; rpt New York: AMS Press, 1971. 232 pp. </bibl>
+               <bibl>Pronunciation of English Vowels 1400-1700. Göteborg, 1913; rpt New York: AMS
+                  Press, 1971. 232 pp. </bibl>
                <note>See also: C205, C214, C321, K8-9, K49, K77, K126, K141, K155, K201, K256, K385,
                   K401. </note>
             </bibl>
@@ -3120,8 +3098,7 @@
             </bibl>
             <bibl xml:id="C35">
                <author>Berry, Francis.</author>
-                    <bibl>Poetry and the Physical Voice. New York: Oxford University
-                  Press, 1962. </bibl>
+               <bibl>Poetry and the Physical Voice. New York: Oxford University Press, 1962. </bibl>
                <note> Rev: in TLS, 16 February, 1962, p. 104; in Critical Quarterly 4 (1962):
                   265-67; in Quarterly Journal of Speech 50 (1964): 92. From his earlier study of
                   poetic Grammar, Berry extends his horizons to the wider significance of the
@@ -3462,8 +3439,8 @@
             </bibl>
             <bibl xml:id="C72">
                <author>Locock, C[harles] D[elatry].</author>
-                    <bibl>Notes on the Technique of English Poetry London:
-                  H. &amp; W. Brown, 1938. 32 pp. </bibl>
+               <bibl>Notes on the Technique of English Poetry London: H. &amp; W. Brown, 1938. 32
+                  pp. </bibl>
                <note>Pamphlet. A compressed statement of some inductive "rules" for the melody of
                   verse, specifically in the endings of blank verse lines and in various sequences
                   of vowel sounds (beyond question some sequences are more sonorous than others). He
@@ -3732,8 +3709,8 @@
             </bibl>
             <bibl xml:id="C99">
                <author>Schlauch, Margaret.</author>
-                    <bibl>Modern English and American Poetry: Techniques and
-                  Ideologies. London: C. A. Watts, 1956. 200 pp. </bibl>
+               <bibl>Modern English and American Poetry: Techniques and Ideologies. London: C. A.
+                  Watts, 1956. 200 pp. </bibl>
                <note>Part Two, p. 129-75, contains a chapter each on Sound and Rhythm, provid- ing
                   elementary notes on sonal and metrical analysis of verse. The treatment of meter
                   is mundane enough to escape our attention and also eccentric (she al- lows the
@@ -3818,8 +3795,8 @@
             </bibl>
             <bibl xml:id="C108">
                <author>Yoshida, Minoru.</author>
-                    <bibl>Style in the Sound of English Poetry. Tokyo: Tokyo Gakuen
-                  Women's Junior College, 1971. </bibl>
+               <bibl>Style in the Sound of English Poetry. Tokyo: Tokyo Gakuen Women's Junior
+                  College, 1971. </bibl>
                <note> Revised by Robert M. Ogden, this typescript essay examines the "styles" (i.e.
                   types, patterns) of sound in verse, but unfortunately no typology or organiza-
                   tional scheme whatsoever is given, so the author simply cites a great many ex-
@@ -3886,22 +3863,22 @@
             </bibl>
             <bibl xml:id="C117">
                <author>Schwarz, Mia.</author>
-                    <bibl>Alliteration im englischen kulterleben neuerer Zeit. Diss.,
-                  Greifswald, 1921. 79 pp. </bibl>
+               <bibl>Alliteration im englischen kulterleben neuerer Zeit. Diss., Greifswald, 1921.
+                  79 pp. </bibl>
                <note>Rev: in Englische Studien 59 (1925): 103-4. Cf. Spies (C121). </note>
             </bibl>
             <bibl xml:id="C118">
                <author>Seitz, Karl.</author>
-                    <bibl>Zur Alliteration in Neuenglischen. Itzehoe: G. J. Pfingsten, 1883
-                  (Part 1), 1884 (Part 2). 36 pp. </bibl>
+               <bibl>Zur Alliteration in Neuenglischen. Itzehoe: G. J. Pfingsten, 1883 (Part 1),
+                  1884 (Part 2). 36 pp. </bibl>
                <note>A seemingly endless collection of examples from both literature and proverbs,
                   alphabetically arranged. C119 Rev: by E. Regel in Englische Studien 8 (1885):
                   389-93. </note>
             </bibl>
             <bibl xml:id="C120">
                <author>Seitz, Karl.</author>
-                    <bibl>Die Alliteration im Neuenglischen vor und bei Shakespeare. Marne:
-                  Altmüller, [1875]. </bibl>
+               <bibl>Die Alliteration im Neuenglischen vor und bei Shakespeare. Marne: Altmüller,
+                  [1875]. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="C121">
@@ -3918,8 +3895,8 @@
             </bibl>
             <bibl xml:id="C122">
                <author>Thun, Nils.</author>
-                    <bibl>Reduplicative Words in English: A Study of Formations of the Types
-                  "Tick-tick," "Hurly-burly," and "Shilly-shally." Uppsala, 1963. </bibl>
+               <bibl>Reduplicative Words in English: A Study of Formations of the Types "Tick-tick,"
+                  "Hurly-burly," and "Shilly-shally." Uppsala, 1963. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="C123">
@@ -3938,19 +3915,18 @@
             </bibl>
             <bibl xml:id="C125">
                <author>Willert, Hans.</author>
-                    <bibl>Alliterierende Bindungen in der neuenglischen Bibelübersetzung.
-                  Berlin, 1897. </bibl>
+               <bibl>Alliterierende Bindungen in der neuenglischen Bibelübersetzung. Berlin, 1897. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="C126">
                <author>Willert, Hans.</author>
-                    <bibl>Die alliterierenden Formeln der englischen Sprache. Halle: Max
-                  Niemeyer, 1911. 609 pp. See addenda at C116. </bibl>
+               <bibl>Die alliterierenden Formeln der englischen Sprache. Halle: Max Niemeyer, 1911.
+                  609 pp. See addenda at C116. </bibl>
                <note> IN POETRY </note>
             </bibl>
             <bibl xml:id="C127">
                <author>Adams, Percy G.</author>
-                    <bibl>Graces of Harmony: Alliteration, Assonance, and Consonance in
+               <bibl>Graces of Harmony: Alliteration, Assonance, and Consonance in
                   Eighteenth-Century British Poetry. Athens: University of Georgia Press, 1976. Rev:
                   in TLS, 10 February 1978; in Style 12 (1978): 68-70; in Arizona Quarterly 34
                   (1978): 181-83; in South Atlantic Bulletin 18 (1978): 87-88; in The Scriblerian 10
@@ -4114,8 +4090,7 @@
             </bibl>
             <bibl xml:id="C145">
                <author>Koziol, Herbert.</author>
-                    <bibl>Elemente englischer Sprachkunst. Vienna: Wilhelm Braumüller,
-                  1976. 174 pp. </bibl>
+               <bibl>Elemente englischer Sprachkunst. Vienna: Wilhelm Braumüller, 1976. 174 pp. </bibl>
                <note>A compendium of examples of verbal figuration and ornament, mainly allit-
                   eration and other varieties of echoing, in alliterative and rhymed verse and
                   prose. </note>
@@ -4162,8 +4137,8 @@
             </bibl>
             <bibl xml:id="C151">
                <author>Opitz, George.</author>
-                    <bibl>Die Stabreimenden Wortbindungen in den Dichtungen Walter
-                  Scott's. Diss., Breslau, 1893. 69 pp. </bibl>
+               <bibl>Die Stabreimenden Wortbindungen in den Dichtungen Walter Scott's. Diss.,
+                  Breslau, 1893. 69 pp. </bibl>
                <note/>
             </bibl>
             <bibl xml:id="C152">
@@ -4247,7 +4222,7 @@
             </bibl>
             <bibl xml:id="C159">
                <author>Siemt, O.</author>
-                    <bibl>Der Stabreim bei Henry Wadsworth Longfellow. Liegnitz, 1897. 43 pp. </bibl>
+               <bibl>Der Stabreim bei Henry Wadsworth Longfellow. Liegnitz, 1897. 43 pp. </bibl>
                <note>Rev: in Englische Studien 27 (1900): 148. </note>
             </bibl>
             <bibl xml:id="C160">
@@ -4305,7 +4280,7 @@
             </bibl>
             <bibl xml:id="C164">
                <author>Steffen, Paul.</author>
-                    <bibl>Die Alliteration bei Tennyson. Diss;, Kiel, 1905. 83 pp. </bibl>
+               <bibl>Die Alliteration bei Tennyson. Diss;, Kiel, 1905. 83 pp. </bibl>
                <note> Bibliography. Tennyson's alliterations are sorted into categories of abstract
                   metrical and structural patterns. Except for a brief introduction, this is the
                   typical German "lists-of-types-and-instances" dissertation. </note>
@@ -4355,7 +4330,7 @@
             </bibl>
             <bibl xml:id="C170">
                <author>Zeuner, [?].</author>
-                    <bibl>Die Alliteration bei neuenglischen Dichtern. Diss., Halle, 1880. </bibl>
+               <bibl>Die Alliteration bei neuenglischen Dichtern. Diss., Halle, 1880. </bibl>
                <note/>
             </bibl>
 
@@ -4408,8 +4383,7 @@
             </bibl>
             <bibl xml:id="C177">
                <author>Müller, Max.</author>
-                    <bibl>Die Reim- und Ablautkomposita des Englischen. Diss., Strassburg,
-                  1909. 105 pp. </bibl>
+               <bibl>Die Reim- und Ablautkomposita des Englischen. Diss., Strassburg, 1909. 105 pp. </bibl>
                <note>A list of examples of two particular types of formulaic phrases often formed
                   idiomatically in English: (1) rhyme-formation, i.e. C1 V1 C1 + C2 V1 C1, e.g.
                   "hodge-podge," and (2) ablaut-formation, which is C1 V1 C1 + C1 V2 C1, e.g.
@@ -4685,9 +4659,9 @@
             </bibl>
             <bibl xml:id="C210">
                <author>Fehse, Klaus-Dieter.</author>
-                    <bibl>Die Reimtechnik im Elisabethanischen Vers-drama. Salzburg
-                  Studies in English Literature, Elizabethan Studies, vol. 12, no. 3. Salzburg:
-                  Institute für engslische Sprache und Literature, Universität Salzburg, 1973. </bibl>
+               <bibl>Die Reimtechnik im Elisabethanischen Vers-drama. Salzburg Studies in English
+                  Literature, Elizabethan Studies, vol. 12, no. 3. Salzburg: Institute für
+                  engslische Sprache und Literature, Universität Salzburg, 1973. </bibl>
                <note> Based on his dissertation at Saarbrücken in 1969, "Der Reim und seine Funktion
                   im englischen Drama vor 1600." </note>
             </bibl>
@@ -4749,8 +4723,8 @@
             </bibl>
             <bibl xml:id="C218">
                <author>Haid, Karl.</author>
-                    <bibl>Der Spaltreim in der englischen Literatur des XIX. Jahrhundrets.
-                  Diss., Heidelberg, 1912. 137 pp. </bibl>
+               <bibl>Der Spaltreim in der englischen Literatur des XIX. Jahrhundrets. Diss.,
+                  Heidelberg, 1912. 137 pp. </bibl>
                <note>[This must mean "split" rhyme, since he instances both mosaic (two monosyl-
                   lables with a disyll.) and double rhyme, i.e. bound me/sound me. At Chicago,
                   PE1076 or so] </note>
@@ -4887,8 +4861,7 @@
             </bibl>
             <bibl xml:id="C233">
                <author>Körtge, Woldemar.</author>
-                    <bibl>Über die Reimtechnik bei Robert Burns. Diss., Göttingen,
-                  1922. </bibl>
+               <bibl>Über die Reimtechnik bei Robert Burns. Diss., Göttingen, 1922. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="C234">
@@ -4907,8 +4880,8 @@
             </bibl>
             <bibl xml:id="C236">
                <author>Krumm, Hermann.</author>
-                    <bibl>Die Verwendung des Reims in dem Blankvers des englischen
-                  Dramas zur Zeit Shakespeare's, 1561-1616. Leipzig, 1889. </bibl>
+               <bibl>Die Verwendung des Reims in dem Blankvers des englischen Dramas zur Zeit
+                  Shakespeare's, 1561-1616. Leipzig, 1889. </bibl>
                <note> Part 1: "Der Reim in dem fünfüssigen Jambus des vor-Shake-speareschen Dramas."
                </note>
             </bibl>
@@ -4938,9 +4911,9 @@
             </bibl>
             <bibl xml:id="C240">
                <author>Lanz, Henry.</author>
-                    <bibl>The Physical Basis of Rime: An Essay on the Aesthetics of Sound.
-                  Stanford: Stanford University Press, 1931; rpt Westport, Conn.: Greenwood Press,
-                  1968; 365 pp. </bibl>
+               <bibl>The Physical Basis of Rime: An Essay on the Aesthetics of Sound. Stanford:
+                  Stanford University Press, 1931; rpt Westport, Conn.: Greenwood Press, 1968; 365
+                  pp. </bibl>
                <note>Rev: in TLS, 14 May 1931, p. 384; by Baum in South Atlantic Quarterly 30
                   (1931): 327-29; in Review of English Studies 8 (1932): 357-59; in Philosophical
                   Review 42 (1933): 636-38. This hefty volume was originally conceived as an inquiry
@@ -5032,8 +5005,8 @@
             </bibl>
             <bibl xml:id="C250">
                <author>Marsh, George P.</author>
-                    <bibl>Lectures on the English Language, First Series. New York:
-                  Charles Scribner's Sons, 1859; 4th ed. rev. and enlarged, 1863. pp. 499-570. </bibl>
+               <bibl>Lectures on the English Language, First Series. New York: Charles Scribner's
+                  Sons, 1859; 4th ed. rev. and enlarged, 1863. pp. 499-570. </bibl>
                <note> In Lectures 23, 24, and 25, Marsh makes the case in full for the old view that
                   English, being a positional rather than an inflectional language, suffers a pau-
                   city of rhyme words. Taking, then, a very broad purview, he urges a return to the
@@ -5196,8 +5169,8 @@
             </bibl>
             <bibl xml:id="C265">
                <author>Oras, Ants.</author>
-                    <bibl>"Milton's Early Rhyme Schemes and the Structure of Lycidas." MP 52
-                  (1954): 12-22. </bibl>
+               <bibl>"Milton's Early Rhyme Schemes and the Structure of Lycidas." MP 52 (1954):
+                  12-22. </bibl>
                <note> Seeking to revise the older view of Miltonic rhyming as desultory and vestig-
                   ial, Oras documents a "calculated complexity" of rhyme architechtonics in Ly-
                   cidas; the poem varies its verse paragraphs, subpatterns of rhyme, strategies of
@@ -5266,7 +5239,7 @@
                   well as of sound. </note>
             </bibl>
             <bibl xml:id="C273">
-               <author></author>
+               <author/>
                <bibl>"Rhyme nor Reason." Notes &amp; Queries, series 3, vol. 10 (1866): 67, 116-17,
                   236. </bibl>
                <note> Suggested etymologies. Cf. Rankin (E74). </note>
@@ -5306,8 +5279,8 @@
             </bibl>
             <bibl xml:id="C278">
                <author>Rickey, Mary Ellen.</author>
-                    <bibl>Rhyme and Meaning in Richard Crashaw. Lexington:
-                  University of Kentucky Press, 1961; rpt New York: Haskell House, 1973. 99 pp. </bibl>
+               <bibl>Rhyme and Meaning in Richard Crashaw. Lexington: University of Kentucky Press,
+                  1961; rpt New York: Haskell House, 1973. 99 pp. </bibl>
                <note>Based on her dissertation, "A Study of the Rhymes of the Metaphysical Poets,
                   with Particular Reference to Richard Crashaw." DA 15 (1955): 1621A (Florida
                   State). Rev: in New Mexico Quarterly 31 (1962): 267-68; in Review of English
@@ -5516,9 +5489,9 @@
             </bibl>
             <bibl xml:id="C303">
                <author>Stryjewski, Kurt.</author>
-                    <bibl>Reimform und Reimfunktion: Untersuchungen zum Problem des
-                  reinen und unreinen Reims in der englischen Dichtung des 20 Jahrhunderts. Breslau:
-                  Priebatsch, 1940. 112 pp. </bibl>
+               <bibl>Reimform und Reimfunktion: Untersuchungen zum Problem des reinen und unreinen
+                  Reims in der englischen Dichtung des 20 Jahrhunderts. Breslau: Priebatsch, 1940.
+                  112 pp. </bibl>
                <note>Rev: in Archiv 182 (1943): 57-59. Far more sophisticated than the usual
                   treatment: the author (a student of Wilhelm Horn) examines the ways in which the
                   language plays with sound through rhymes, via their Klangkorper, construing
@@ -5592,9 +5565,9 @@
             </bibl>
             <bibl xml:id="C312">
                <author>Weisker, Ernst.</author>
-                    <bibl>Über Zweck und Einrichtung, Reime und Accentangabe, Worschatz
-                  und Quelle des ersten frühneuenglischen Reimlexicons (Manipulus Vocabulorum,
-                  1570). Diss., Göttingen, 1902. 32 pp. </bibl>
+               <bibl>Über Zweck und Einrichtung, Reime und Accentangabe, Worschatz und Quelle des
+                  ersten frühneuenglischen Reimlexicons (Manipulus Vocabulorum, 1570). Diss.,
+                  Göttingen, 1902. 32 pp. </bibl>
                <note>A study of Levins (C242). </note>
             </bibl>
             <bibl xml:id="C313">
@@ -5611,8 +5584,8 @@
             </bibl>
             <bibl xml:id="C313a">
                <author>Wesling, David.</author>
-                    <bibl>The Chances of Rhyme: Device and Modernity. Berkeley:
-                  University of California Press, 1980. 170 pp. </bibl>
+               <bibl>The Chances of Rhyme: Device and Modernity. Berkeley: University of California
+                  Press, 1980. 170 pp. </bibl>
                <note/>
             </bibl>
             <bibl xml:id="C314">
@@ -5693,9 +5666,8 @@
             </bibl>
             <bibl xml:id="C321">
                <author>Wyld, Henry C.</author>
-                    <bibl>Studies in English Rhymes from Surrey to Pope: A Chapter in the
-                  History of English. London: John Murray, 1923; rpt New York: Russell &amp;
-                  Russell, 1965. </bibl>
+               <bibl>Studies in English Rhymes from Surrey to Pope: A Chapter in the History of
+                  English. London: John Murray, 1923; rpt New York: Russell &amp; Russell, 1965. </bibl>
                <note> Rev: in JEGP 23 (1924): 456-58. An indispensable historical study of rhyming
                   practice and accuracy in English verse. Wyld set himself the mammoth task of
                   identifying those historical changes in pronunciation and spelling wich obscure
@@ -5709,9 +5681,9 @@
             </bibl>
             <bibl xml:id="C322">
                <author>Zschech, Fritz.</author>
-                    <bibl>Die Kritik des Reims in England. Berliner Beiträge zur
-                  germanischen und romanischen Philologie, 50, germanische Abteilung, no. 37.
-                  Berlin: Emil Ebering, 1917. 166 pp. </bibl>
+               <bibl>Die Kritik des Reims in England. Berliner Beiträge zur germanischen und
+                  romanischen Philologie, 50, germanische Abteilung, no. 37. Berlin: Emil Ebering,
+                  1917. 166 pp. </bibl>
                <note>Collects and summarizes the views of 47 major and minor English critics, from
                   Ascham down to the end of the eighteenth century, on rhyme in English verse,
                   unfortunately without untangling the knotted-up skein of usages that the term has
@@ -6080,8 +6052,8 @@
             </bibl>
             <bibl xml:id="C363">
                <author>Whorf, Benjamin Lee.</author>
-                    <bibl>Language, Thought, and Reality. Ed. John B. Carroll.
-                  Cambridge, Mass.: M.I.T. Press, 1956. </bibl>
+               <bibl>Language, Thought, and Reality. Ed. John B. Carroll. Cambridge, Mass.: M.I.T.
+                  Press, 1956. </bibl>
                <note> On two short pages (267-68) Whorf makes three deft points: humans "seem to
                   associate the experiences of bright, cold, sharp, hard, high, light (in weight),
                   quick, high-pitched, narrow. . . with each other, and conversely . . . dark, warm,
@@ -6204,8 +6176,8 @@
             </bibl>
             <bibl xml:id="C375">
                <author>Hrushovski, Benjamin.</author>
-                    <bibl>[Do Sounds Have Meaning? The Problem of Expressiveness
-                  of Sound-Patterns in Poetry.] Ha-Sifrut/Literature 1 (1968): 410- 20. </bibl>
+               <bibl>[Do Sounds Have Meaning? The Problem of Expressiveness of Sound-Patterns in
+                  Poetry.] Ha-Sifrut/Literature 1 (1968): 410- 20. </bibl>
                <note> (In Hebrew; English summmary on p. 444). Identifies four types of
                   sound-meaning relationships: onomatopoeia (the sound of the word denotes its
                   meaning), expressive sounds (an abstraction from the sound of the words is
@@ -6244,9 +6216,9 @@
             </bibl>
             <bibl xml:id="C379">
                <author>Macdermott, Mary M.</author>
-                    <bibl>Vowel Sounds in Poetry: Their Music and Tone-Color. Psyche
-                  Monographs, no. 13. London: Kegan Paul, 1940; rpt Folcroft Pa.: Folcroft Library
-                  Editions, 1973. 148 pp. </bibl>
+               <bibl>Vowel Sounds in Poetry: Their Music and Tone-Color. Psyche Monographs, no. 13.
+                  London: Kegan Paul, 1940; rpt Folcroft Pa.: Folcroft Library Editions, 1973. 148
+                  pp. </bibl>
                <note>Rev: in MLR 38 (1943): 387-89. Highly technical phonetic analysis of vowels in
                   some 250 passages of verse us- ing the difference between points of articulation
                   (front, mid, or back) to test for association with various connotations. The
@@ -6322,10 +6294,9 @@
             </bibl>
             <bibl xml:id="C385">
                <author>Pope, Alexander.</author>
-                    <bibl>An Essay on Criticism [1711]. In The Twickenham Edition of
-                  the Poems of Alexander Pope. Ed. John Butt. 6 vols. New Haven: Yale University
-                  Press, 1939-67. Vol. 1, Pastoral Poetry and An Essay on Criticism. Ed. E. Audra
-                  and A. Williams. </bibl>
+               <bibl>An Essay on Criticism [1711]. In The Twickenham Edition of the Poems of
+                  Alexander Pope. Ed. John Butt. 6 vols. New Haven: Yale University Press, 1939-67.
+                  Vol. 1, Pastoral Poetry and An Essay on Criticism. Ed. E. Audra and A. Williams. </bibl>
                <note> The spectacular mimetic effects in 11. 337-83 of the Essay (pp. 276-84 here),
                   though now a locus classicus, are still not entirely understood, despite studies
                   by Mace (C380) and Lotspeich (C378), and the Twickenham text provides copi- ous
@@ -6420,8 +6391,8 @@
             </bibl>
             <bibl xml:id="C394">
                <author>Ullmann, Stephen.</author>
-                    <bibl>Language and Style: Collected Papers. Oxford: Basil
-                  Blackwell, and New York: Barnes &amp; Noble, 1964. </bibl>
+               <bibl>Language and Style: Collected Papers. Oxford: Basil Blackwell, and New York:
+                  Barnes &amp; Noble, 1964. </bibl>
                <note>Esp. pp. 67-71, but see s.v. "onomatopoeia," "rhyme," and "rhythm" in the
                   Index. </note>
             </bibl>
@@ -6447,20 +6418,20 @@
             </bibl>
             <bibl xml:id="D2">
                <author>Crystal, David.</author>
-                    <bibl>The English Tone of Voice: Essays in Intonation, Prosody, and
-                  Paralanguage. London: Edward Arnold, 1975. </bibl>
+               <bibl>The English Tone of Voice: Essays in Intonation, Prosody, and Paralanguage.
+                  London: Edward Arnold, 1975. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D3">
                <author>Crystal, David.</author>
-                    <bibl>Prosodic Systems and Intonation in English. Cambridge:
-                  Cambridge University Press, 1969. </bibl>
+               <bibl>Prosodic Systems and Intonation in English. Cambridge: Cambridge University
+                  Press, 1969. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D4">
                <author>Crystal, David, and Randolph Quirk.</author>
-                    <bibl>Systems of Prosodic and Paralinguistic
-                  Features in English. The Hague: Mouton, 1965. 94 pp. </bibl>
+               <bibl>Systems of Prosodic and Paralinguistic Features in English. The Hague: Mouton,
+                  1965. 94 pp. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D5">
@@ -6490,15 +6461,13 @@
             </bibl>
             <bibl xml:id="D9">
                <author>Jones, Daniel.</author>
-                    <bibl>An Outline of English Phonetics. 9th ed. Cambridge: W. Heffer
-                  &amp; Sons, 1972. </bibl>
+               <bibl>An Outline of English Phonetics. 9th ed. Cambridge: W. Heffer &amp; Sons, 1972. </bibl>
                <note> </note>
             </bibl>
 
             <bibl xml:id="D10">
                <author>Joos, Martin.</author>
-                    <bibl>Acoustic Phonetics. Baltimore: Linguistic Society of America,
-                  1948. </bibl>
+               <bibl>Acoustic Phonetics. Baltimore: Linguistic Society of America, 1948. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D11">
@@ -6516,8 +6485,7 @@
             </bibl>
             <bibl xml:id="D13">
                <author>Ladefoged, Peter.</author>
-                    <bibl>Three Areas of Experimental Phonetics. London: Oxford
-                  University Press, 1967. </bibl>
+               <bibl>Three Areas of Experimental Phonetics. London: Oxford University Press, 1967. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D14">
@@ -6528,7 +6496,7 @@
             </bibl>
             <bibl xml:id="D15">
                <author>Lehiste, Ilse.</author>
-                    <bibl>Suprasegmentals. Cambridge, Mass.: M.I.T. Press, 1970. </bibl>
+               <bibl>Suprasegmentals. Cambridge, Mass.: M.I.T. Press, 1970. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D16">
@@ -6547,8 +6515,7 @@
             </bibl>
             <bibl xml:id="D18">
                <author>Lieberman, Philip.</author>
-                    <bibl>Intonation, Perception, and Language. Cambridge, Mass.:
-                  M.I.T. Press, 1967. </bibl>
+               <bibl>Intonation, Perception, and Language. Cambridge, Mass.: M.I.T. Press, 1967. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D19">
@@ -6738,8 +6705,8 @@
             </bibl>
             <bibl xml:id="D44b">
                <author>Bolinger, Dwight.</author>
-                    <bibl>Forms of English: Accent, Morpheme, Order. Cambridge, MA:
-                  Harvard University Press, 1965.</bibl>
+               <bibl>Forms of English: Accent, Morpheme, Order. Cambridge, MA: Harvard University
+                  Press, 1965.</bibl>
                <note/>
             </bibl>
             <bibl xml:id="D45">
@@ -6764,8 +6731,8 @@
             </bibl>
             <bibl xml:id="D49">
                <author>Chiba, T.</author>
-                    <bibl>A Study of Accent: Research into its Nature and Scope in the Light
-                  of Experimental Phonetics. Tokyo: Fuzanbo, 1935. 123 pp. </bibl>
+               <bibl>A Study of Accent: Research into its Nature and Scope in the Light of
+                  Experimental Phonetics. Tokyo: Fuzanbo, 1935. 123 pp. </bibl>
                <note> Rev: in Quarterly Journal of Speech 23 (1937): 313–18. </note>
             </bibl>
             <bibl xml:id="D50">
@@ -6788,9 +6755,9 @@
             </bibl>
             <bibl xml:id="D53">
                <author>Danielsson, Bror.</author>
-                    <bibl>Studies in the Accentuation of Polysyllabic Latin, Greek,
-                  and Romance Loan- Words in English. Stockholm Studies in English, no. 3.
-                  Stockholm: Almqvist &amp; Wiksell, 1948; Oxford: Basil Blackwell, 1948. 664 pp. </bibl>
+               <bibl>Studies in the Accentuation of Polysyllabic Latin, Greek, and Romance Loan-
+                  Words in English. Stockholm Studies in English, no. 3. Stockholm: Almqvist &amp;
+                  Wiksell, 1948; Oxford: Basil Blackwell, 1948. 664 pp. </bibl>
                <note> Rev: in JEGP 50 (1951): 537–38; in Anglia 70 (1951): 123–26; in Language 28
                   (1952): 140–41; in MLN 67 (1952): 266–67; in MLR 45 (1950): 360–62. </note>
             </bibl>
@@ -6938,8 +6905,8 @@
             </bibl>
             <bibl xml:id="D76">
                <author>Kingdon, Roger.</author>
-                    <bibl>The Groundwork of English Stress . London: Longmans, 1958.
-                  Rev: in Études Anglaises 13 (1960): 467–69. </bibl>
+               <bibl>The Groundwork of English Stress . London: Longmans, 1958. Rev: in Études
+                  Anglaises 13 (1960): 467–69. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D77">
@@ -6977,8 +6944,8 @@
             </bibl>
             <bibl xml:id="D82">
                <author>Lehto, Leena.</author>
-                    <bibl>English Stress and Its Modification by Intonation: An Analytic
-                  and Synthetic Study of Acoustic Parameters. Helsinki, 1969. </bibl>
+               <bibl>English Stress and Its Modification by Intonation: An Analytic and Synthetic
+                  Study of Acoustic Parameters. Helsinki, 1969. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D83">
@@ -7041,13 +7008,13 @@
             </bibl>
             <bibl xml:id="D90">
                <author>Lee, Gregory.</author>
-                    <bibl>"A Brief Note on Stress on Prepositions in English." Georgetown
-                  University Working Papers on Language and Linguistics 6 (1975): 75–78.</bibl>
+               <bibl>"A Brief Note on Stress on Prepositions in English." Georgetown University
+                  Working Papers on Language and Linguistics 6 (1975): 75–78.</bibl>
                <note>Also in the same journal: </note>
             </bibl>
             <bibl xml:id="D91">
                <author>Lee, Gregory.</author>
-                    <bibl>"Prepositions and Stress in English." 8 (1975): 46–52. </bibl>
+               <bibl>"Prepositions and Stress in English." 8 (1975): 46–52. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D92">
@@ -7165,8 +7132,8 @@
 
             <bibl xml:id="D111">
                <author> John Whyte</author>
-               <bibl>"The Order of Monosyllables and Disyllables in Alliteration" (MLN
-                  30 [1915]: 175–76) </bibl>
+               <bibl>"The Order of Monosyllables and Disyllables in Alliteration" (MLN 30 [1915]:
+                  175–76) </bibl>
                <note> finds that 84% of the alliterative formulae in Willert (C126) place the
                   monosyllable first. </note>
             </bibl>
@@ -7224,8 +7191,8 @@
             </bibl>
             <bibl xml:id="D121">
                <author>Vanderslice, Ralph.</author>
-                    <bibl>The Prosodic Component: Lacuna in Transformational Theory.
-                  Santa Monica, California: Rand Corporation, 1968; 57 pp. </bibl>
+               <bibl>The Prosodic Component: Lacuna in Transformational Theory. Santa Monica,
+                  California: Rand Corporation, 1968; 57 pp. </bibl>
                <note> Complaining that the Chomsky-Halle generative phonology (D1) both ignores
                   intonation and oversimplifies stress, Vanderslice offers an alternative,
                   simplified model with four binary features: Accent, Emphasis, Cadence, and
@@ -7234,7 +7201,7 @@
             </bibl>
             <bibl xml:id="D122">
                <author>Vanvik, Arne.</author>
-                    <bibl>On Stress in Present-Day English. Oslo, 1961. </bibl>
+               <bibl>On Stress in Present-Day English. Oslo, 1961. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D123">
@@ -7246,8 +7213,7 @@
             </bibl>
             <bibl xml:id="D124">
                <author>Western, August.</author>
-                    <bibl>On Sentence-Rhythm and Word-Order in Modern English.
-                  Christiana, 1908. 51 pp. </bibl>
+               <bibl>On Sentence-Rhythm and Word-Order in Modern English. Christiana, 1908. 51 pp. </bibl>
                <note> PITCH </note>
             </bibl>
             <bibl xml:id="D125">
@@ -7267,7 +7233,7 @@
             </bibl>
             <bibl xml:id="D128">
                <author>Bolinger, Dwight L.</author>
-                    <bibl>Intonation: Selected Readings. London: Penguin, 1972. </bibl>
+               <bibl>Intonation: Selected Readings. London: Penguin, 1972. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D129">
@@ -7520,15 +7486,15 @@
             </bibl>
             <bibl xml:id="D171">
                <author>Shen, Yao, and G.</author>
-                    <bibl>G. Peterson. Isochronism in English. Studies in Linguistics
-                  Occasional Papers, no. 9. Buffalo: University of Buffalo Department of
-                  Anthropology and Linguistics, 1962. See also E417. </bibl>
+               <bibl>G. Peterson. Isochronism in English. Studies in Linguistics Occasional Papers,
+                  no. 9. Buffalo: University of Buffalo Department of Anthropology and Linguistics,
+                  1962. See also E417. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D172">
                <author>Stene, Aasta.</author>
-                    <bibl>Hiatus in English: Problems of Catenation and Juncture.
-                  Anglistica, vol. 3. Copenhagen: Rosenkilde and Bagger, 1954. 102 pp. </bibl>
+               <bibl>Hiatus in English: Problems of Catenation and Juncture. Anglistica, vol. 3.
+                  Copenhagen: Rosenkilde and Bagger, 1954. 102 pp. </bibl>
                <note> Rev: in Anglia 73 (1955): 257–68; in MLN 70 (1955): 458–59; in Études
                   Anglaises 9 (1956): 147; in Lingua 9 (1960): 110–12. </note>
             </bibl>
@@ -7755,9 +7721,9 @@
             </bibl>
             <bibl xml:id="D199">
                <author>Woodrow, Herbert.</author>
-                    <bibl>A Quantitative Study of Rhythm: The Effect of Variations in
-                  Intensity, Rate, and Duration. Archives of Psychology, vol. 2, no. 14. New York:
-                  The Science Press, 1909. 66 pp. </bibl>
+               <bibl>A Quantitative Study of Rhythm: The Effect of Variations in Intensity, Rate,
+                  and Duration. Archives of Psychology, vol. 2, no. 14. New York: The Science Press,
+                  1909. 66 pp. </bibl>
                <note> Experimental work showing that a trochiac rhythm can be changed to an iambic
                   one "by increasing the interval immediately following the louder sound or by
                   decreasing the interval immediately preceding it." When the intervals between
@@ -7798,8 +7764,8 @@
             </bibl>
             <bibl xml:id="D203">
                <author>Brantner, Gunther.</author>
-                    <bibl>Prosaakzent und metrisches Schema in englischen Kompositen.
-                  Diss., Graz, 1939. 43 pp. </bibl>
+               <bibl>Prosaakzent und metrisches Schema in englischen Kompositen. Diss., Graz, 1939.
+                  43 pp. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D204">
@@ -7816,14 +7782,14 @@
             </bibl>
             <bibl xml:id="D206">
                <author>Clark, Albert C.</author>
-                    <bibl>Prose Rhythm in English. Oxford: Clarendon Press, 1913; rpt
-                  Folcroft, Pa.: Folcroft Library Editions, 1974. 19 pp. </bibl>
+               <bibl>Prose Rhythm in English. Oxford: Clarendon Press, 1913; rpt Folcroft, Pa.:
+                  Folcroft Library Editions, 1974. 19 pp. </bibl>
                <note> A small tract reprinting one lecture. See also D226. </note>
             </bibl>
             <bibl xml:id="D207">
                <author>Classé, André.</author>
-                    <bibl>The Rhythm of English Prose. Oxford: Basil Blackwell, 1939; rpt
-                  Norwood, Pa.: Norwood Editions, 1975. 138 pp. </bibl>
+               <bibl>The Rhythm of English Prose. Oxford: Basil Blackwell, 1939; rpt Norwood, Pa.:
+                  Norwood Editions, 1975. 138 pp. </bibl>
                <note> Rev: in MLR 35 (1938): 272; in Review of English Studies 16 (1940): 489–91.
                   Includes Bibliography; based on Acoustics. </note>
             </bibl>
@@ -7839,9 +7805,9 @@
             </bibl>
             <bibl xml:id="D210">
                <author>Cooper, Lane.</author>
-                    <bibl>Certain Rhythms in the English Bible, with Illustrations from
-                  Psalms, Ecclesiastes, and the Lord's Prayer. Ithaca, N.Y.: Cornell University
-                  Press, 1952. 16 pp. </bibl>
+               <bibl>Certain Rhythms in the English Bible, with Illustrations from Psalms,
+                  Ecclesiastes, and the Lord's Prayer. Ithaca, N.Y.: Cornell University Press, 1952.
+                  16 pp. </bibl>
                <note> A tract. Anapests and dactyls in the Authorized Version. </note>
             </bibl>
             <bibl xml:id="D211">
@@ -7949,9 +7915,9 @@
             </bibl>
             <bibl xml:id="D229">
                <author>Griffith, Helen.</author>
-                    <bibl>Time Patterns in Prose: A Study in Prose Rhythm Based on
-                  Voice Records. Psychological Monographs, vol. 39, no 3. Princeton: Psychological
-                  Review Company, 1929. 82 pp. </bibl>
+               <bibl>Time Patterns in Prose: A Study in Prose Rhythm Based on Voice Records.
+                  Psychological Monographs, vol. 39, no 3. Princeton: Psychological Review Company,
+                  1929. 82 pp. </bibl>
                <note> D230 Hale, Edward E., Jr. "Poetic Rhythms in Prose." The Atlantic Monthly 78
                   (1896): 227–32. </note>
             </bibl>
@@ -8001,9 +7967,9 @@
             </bibl>
             <bibl xml:id="D238">
                <author>Lipsky, Abram.</author>
-                    <bibl>Rhythm as a Distinguishing Characteristic of Prose Style.
-                  Columbia University Contributions in Philosophy and Psychology, vol. 15, no. 4.
-                  New York: The Science Press, 1907. 44 pp. </bibl>
+               <bibl>Rhythm as a Distinguishing Characteristic of Prose Style. Columbia University
+                  Contributions in Philosophy and Psychology, vol. 15, no. 4. New York: The Science
+                  Press, 1907. 44 pp. </bibl>
                <note> </note>
             </bibl>
             <bibl xml:id="D239">
@@ -8075,7 +8041,7 @@
                </note>
             </bibl>
             <bibl xml:id="D249">
-               <author></author>
+               <author/>
                <bibl>"Prose Rhythm." TLS, 13 September 1957, p. 547. </bibl>
                <note> A retrospective on the merits of Saintsbury (D254), fifty years after. </note>
             </bibl>
@@ -8103,8 +8069,8 @@
             </bibl>
             <bibl xml:id="D254">
                <author>Saintsbury, George.</author>
-                    <bibl>A History of English Prose Rhythm. London: Macmillan,
-                  1912, 1922; rpt Bloomington: Indiana University Press, 1965. 482 pp. </bibl>
+               <bibl>A History of English Prose Rhythm. London: Macmillan, 1912, 1922; rpt
+                  Bloomington: Indiana University Press, 1965. 482 pp. </bibl>
                <note> Rev: in The Spectator 109 (1912): 453–54; in Dublin Review 154 (1914):
                   297–313. The second edition adds a prefatory "Note on Quantity and Some Other
                   Things." Three Appendices: (1) "Stave-Prose Poetry--Ossian, Blake, Whitman, etc.";
@@ -8119,8 +8085,8 @@
             </bibl>
             <bibl xml:id="D256">
                <author>Savage, Olive M.</author>
-                    <bibl>Rhythm in Prose Illustrated from Authors of the Nineteenth
-                  Century. London: University College, 1917. 54 pp. </bibl>
+               <bibl>Rhythm in Prose Illustrated from Authors of the Nineteenth Century. London:
+                  University College, 1917. 54 pp. </bibl>
                <note> A pamphlet; follows Saintsbury (D254). </note>
             </bibl>
             <bibl xml:id="D257">
@@ -8130,16 +8096,16 @@
             </bibl>
             <bibl xml:id="D258">
                <author>Scott, John H.</author>
-                    <bibl>Rhythmic Prose. University of Iowa Humanistic Studies, First
-                  Series, vol. 3, no. 1. Iowa City: The University, 1925 </bibl>
+               <bibl>Rhythmic Prose. University of Iowa Humanistic Studies, First Series, vol. 3,
+                  no. 1. Iowa City: The University, 1925 </bibl>
                <note>; rpt Folcroft, Pa.: Folcroft Library Editions, 1970; rpt Norwood, Pa.: Norwood
                   Editions, 1975. 192 pp. See also his Rhythmic Verse (D331). Offers his own
                   rhythmon theory. </note>
             </bibl>
             <bibl xml:id="D259">
                <author>Scott, John H.</author>
-                    <bibl>and Zilpha E. Chandler. Phrasal Patterns in English Prose. New
-                  York: Ronald Press, 1932. 372 pp. </bibl>
+               <bibl>and Zilpha E. Chandler. Phrasal Patterns in English Prose. New York: Ronald
+                  Press, 1932. 372 pp. </bibl>
                <note> A composition handbook for teaching writers to construct sentences by the
                   rhythms of phrases. </note>
             </bibl>
@@ -8194,7 +8160,7 @@
                   children's rhymes and songs. </note>
             </bibl>
             <bibl xml:id="D267">
-               <author></author>
+               <author/>
                <bibl>Agenda: Special Issue on Rhythm 10, 4–11, 1 (1972–73): 3–67. </bibl>
                <note> See also the articles by Hill (D232) and Srawley (N126). The entire issue
                   consists of an editorial, a questionnaire, twenty-two replies by modern poets,
@@ -8213,7 +8179,7 @@
                   problems unsolved is a list of real problems. </note>
             </bibl>
             <bibl xml:id="D268">
-               <author></author>
+               <author/>
                <bibl>Agenda: Supplement: On Rhythm from America 11, 2–3 (1973): 37–66. </bibl>
                <note> Questionnaire replies from Cameron, Davie, Eberhart, Hall, Hine, Lowell,
                   Middleton, Oppen, Snodgrass, Stafford, and Zukofsky. Middleton's is the most
@@ -8258,9 +8224,9 @@
             </bibl>
             <bibl xml:id="D273">
                <author>Dougherty, Adelyn.</author>
-                    <bibl>A Study of Rhythmic Structure in the Verse of William
-                  Butler Yeats. The Hague: Mouton, 1973. 135 pp. Based on her dissertation of the
-                  same title, DA 27 (1967): 3057A (Catholic University of America). </bibl>
+               <bibl>A Study of Rhythmic Structure in the Verse of William Butler Yeats. The Hague:
+                  Mouton, 1973. 135 pp. Based on her dissertation of the same title, DA 27 (1967):
+                  3057A (Catholic University of America). </bibl>
                <note> That no full-scale study of the versification of the greatest poet of this
                   century has yet been undertaken is a humiliation to our profession. Dougherty has
                   given us a pilot study for such a work here: adopting the metrical system of La
@@ -8418,9 +8384,9 @@
             </bibl>
             <bibl xml:id="D294">
                <author>Faure, Georges.</author>
-                    <bibl>Les Élements du rythme poétique en anglaise moderne: Esquisse
-                  d'une nouvelle analyse et essai d'application au "Prometheus Unbound" de P. B.
-                  Shelley . The Hague: Mouton: 1970. 336 pp. </bibl>
+               <bibl>Les Élements du rythme poétique en anglaise moderne: Esquisse d'une nouvelle
+                  analyse et essai d'application au "Prometheus Unbound" de P. B. Shelley . The
+                  Hague: Mouton: 1970. 336 pp. </bibl>
                <note> Rev: by Beaver in Language 49 (1973): 188–90; in JAAC 30 (1972): 399–400.
                   Faure's long Introduction takes account of nearly every conspicuous metrical work
                   of this century up to about 1960. His own theory though is not in the mainstream:
@@ -8453,7 +8419,7 @@
             </bibl>
             <bibl xml:id="D297">
                <author>Fogerty, Elsie.</author>
-                    <bibl>Rhythm. London: George Allen &amp; Unwin, 1937. 245 pp. </bibl>
+               <bibl>Rhythm. London: George Allen &amp; Unwin, 1937. 245 pp. </bibl>
                <note>See chapter 8, "Rhythm in Poetry," which is based on chapter 5, "Rhythm in
                   Speech." </note>
             </bibl>
@@ -8498,8 +8464,8 @@
             </bibl>
             <bibl xml:id="D303">
                <author>Gordon, Ralph.</author>
-                    <bibl>Verse and Prose Technique: A Study in Rhythm and Tone-Color.
-                  New York: City College Store, 1938. 144 pp. </bibl>
+               <bibl>Verse and Prose Technique: A Study in Rhythm and Tone-Color. New York: City
+                  College Store, 1938. 144 pp. </bibl>
                <note> The material of his Technique of Verse (B81) is reworked here, but the
                   emphasis turns from meter to rhythm, Gordon devising a system of bars and slashes
                   to denote degrees of syntactic breaks between phrases, clauses, etc., both in
@@ -8727,7 +8693,7 @@
                <note> </note>
             </bibl>
             <bibl xml:id="D327">
-               <author></author>
+               <author/>
                <bibl>Rhythm in Poetry (Filmstrip). New York: MacGraw-Hill, 1958. </bibl>
                <note> </note>
             </bibl>
@@ -8762,9 +8728,8 @@
             </bibl>
             <bibl xml:id="D331">
                <author>Scott, John Hubert.</author>
-                    <bibl>Rhythmic Verse. University of Iowa Humanistic Studies,
-                  vol. 3, no. 2. Iowa City: The University, 1925; rpt Norwood, Pa.: Norwood
-                  Editions, 1975; </bibl>
+               <bibl>Rhythmic Verse. University of Iowa Humanistic Studies, vol. 3, no. 2. Iowa
+                  City: The University, 1925; rpt Norwood, Pa.: Norwood Editions, 1975; </bibl>
                <note> rpt Folcroft, Pa.: Folcroft Library Editions, 1970. 216 pp. See also his
                   Rhythmic Prose, no. 1 in the same series (D258). Underneath what I see as a
                   wholesale confusion of both concepts and terms in this book (not to speak of the
@@ -8808,9 +8773,8 @@
             </bibl>
             <bibl xml:id="D333">
                <author>Snyder, Edward D.</author>
-                    <bibl>Hypnotic Poetry, A Study of Trance-Inducing Technique in
-                  Certain Poems and Its Literary Significance. Philadelphia: University of
-                  Pennsylvania Press, 1930. </bibl>
+               <bibl>Hypnotic Poetry, A Study of Trance-Inducing Technique in Certain Poems and Its
+                  Literary Significance. Philadelphia: University of Pennsylvania Press, 1930. </bibl>
                <note> A theory that certain poems are "actually and literally hypnotic," because
                   their metered stresses fall at the regular half-second intervals which
                   psychiatrists use to induce hypnosis. Includes a chapter on Free Verse. </note>
